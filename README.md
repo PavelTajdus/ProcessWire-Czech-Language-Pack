@@ -1,6 +1,6 @@
-# Český jazykový balíček pro ProcessWire
+# Český jazykový balíček pro ProcessWire (English follows)
 
-Český překlad souborů pro ProcessWire verze 2.7.
+Český překlad souborů pro ProcessWire verze 2.4.
 
 
 ## Jak instalovat balíček s češtinou
@@ -50,7 +50,7 @@ Největší dík patří autorovi této češtiny za jeho skvělou práci. [Rade
 
 # Czech Language Pack for ProcessWire
 
-Czech (cs-CZ) translation files for ProcessWire 2.7.
+Czech (cs-CZ) translation files for ProcessWire 2.4.
 
 ## How to Install a Language Pack
 

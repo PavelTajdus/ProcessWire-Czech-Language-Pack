@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeURL.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeurl-module",
+    "translations": {
+        "0ac82d10c1ddd050079962481c40f54f": {
+            "text": "Pole, kter\u00e9 uchov\u00e1v\u00e1 URL adresy"
+        },
+        "ae91f58b191e424e0eaf9022fd5407e9": {
+            "text": "Zaji\u0161\u0165uje, aby nebyly rozbit\u00e9 URL adresy p\u0159i p\u0159esunu str\u00e1nek z podadres\u00e1\u0159e do root (nejb\u011b\u017en\u011bj\u0161\u00ed p\u0159\u00edklad)."
+        },
+        "ab86e8efb5aa46bdab329fa44f7125fc": {
+            "text": "Povolit relativn\u00ed\/lok\u00e1n\u00ed URL adresy bez \"http:\/\/\" na za\u010d\u00e1tku?"
+        },
+        "d1280d091f34a15c77f4145110d7f94d": {
+            "text": "Lok\u00e1ln\u00ed\/relativn\u00ed URL adresy jsou ty bez sch\u00e9matu a dom\u00e9ny."
+        },
+        "c4c54678f0d612f89caacaab99768f81": {
+            "text": "P\u0159ed\u0159adit cestu ke ko\u0159enu str\u00e1nek do lok\u00e1ln\u00edch\/relatvn\u00edch URL adres?"
+        },
+        "b38bb5008cd8427aae4e9a8612183a6f": {
+            "text": "Form\u00e1tova\u010d textu \"HTML Entity Encoder\" je doporu\u010den\u00fd pro pole typu URL."
+        },
+        "e6b391a8d2c4d45902a23a8b6585703d": {
+            "text": "URL adresa"
+        },
+        "9d6ce819c098e5c4a7b3464cadbd028a": {
+            "text": "Tato volba automaticky p\u0159ed\u0159ad\u00ed cestu ke ko\u0159eni tohoto webu v\u0161em URL adres\u00e1m, kter\u00e9 za\u010d\u00ednaj\u00ed lom\u00edtkem, nap\u0159\u00edklad \/some\/path\/. To je u\u017eite\u010dn\u00e9, pokud v\u00e1\u0161 web b\u011b\u017e\u00ed z podadres\u00e1\u0159e, proto\u017ee nebudete muset zahrnout tento podadres\u00e1\u0159 v URL adres\u00e1ch, kter\u00e9 zad\u00e1te do tohoto pole. Pokud budete p\u0159esouvat sv\u00e9 str\u00e1nky do ko\u0159enov\u00e9ho adres\u00e1\u0159e dom\u00e9ny (nebo jin\u00e9ho podadres\u00e1\u0159e), nebudete muset \u0159e\u0161it rozbit\u00e9 URL. Pokud je tato mo\u017enost povolena, v\u017edy zad\u00e1vejte URL adresy, jako kdyby str\u00e1nky b\u011b\u017eely z ko\u0159enov\u00e9ho adres\u00e1\u0159e dom\u00e9ny, bez ohledu na to, zda b\u011b\u017e\u00ed z podadres\u00e1\u0159e, nebo ne.  To samoz\u0159ejm\u011b plat\u00ed pouze tehdy, pokud jste zvolili \"ANO\" co\u017e povol\u00ed m\u00edstn\u00ed\/relativn\u00ed URL adresy v poli v\u00fd\u0161e. Pro v\u00fdvoj\u00e1\u0159e m\u016f\u017ee b\u00fdt tak\u00e9 d\u016fle\u017eit\u00e9, \u017ee tato mo\u017enost plat\u00ed pouze tehdy, kdy\u017e je outputFormatting str\u00e1nky zapnut (on)."
+        }
+    }
+}

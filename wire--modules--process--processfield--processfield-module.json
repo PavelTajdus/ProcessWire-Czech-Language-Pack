@@ -1,0 +1,258 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessField.module",
+    "textdomain": "wire--modules--process--processfield--processfield-module",
+    "translations": {
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Ulo\u017eit"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Zobrazit v\u0161e"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filtry"
+        },
+        "89872ab3eb9af52f34b4dd82077758fc": {
+            "text": "Filtrovat podle \u0161ablony"
+        },
+        "363746a770985e537565b276b37c438e": {
+            "text": "Zobrazuji pole ze \u0161ablony: %s"
+        },
+        "a81c2112e97c64099ff86d5b97cb13c6": {
+            "text": "Pole podle \u0161ablony"
+        },
+        "d9a45316e3230df36980cf6ab8983485": {
+            "text": "Filtrovat podle typu pole"
+        },
+        "ad4e206408c1c59bfb8a057ba7857446": {
+            "text": "Kontext"
+        },
+        "c64f8a38fc13441f6cc860a4cbae887a": {
+            "text": "Smazat pole"
+        },
+        "5efc010f527cdfeaa2ef63b1c6898fb5": {
+            "text": "Jak\u00e1koliv kombinace ASCII p\u00edsmen  [a-z], \u010d\u00edslic [0-9] a podtr\u017e\u00edtek (\u017e\u00e1dn\u00e9 mezery nebo poml\u010dky)."
+        },
+        "0b99d251c68ee30c7f38cefe42d5fbdc": {
+            "text": "Informace o pou\u017eit\u00ed pole"
+        },
+        "90a7d24b2f57968c1090adc8eb1cedff": {
+            "text": "Toto pole pou\u017e\u00edvaj\u00ed n\u00e1sleduj\u00edc\u00ed \u0161ablony:"
+        },
+        "da15cd97dba363b29a8a06c76d4c4c7d": {
+            "text": "Moment\u00e1ln\u011b toto pole nepou\u017e\u00edv\u00e1 \u017e\u00e1dn\u00e1 \u0161ablona."
+        },
+        "983f66857047c1e6fc8878e54c5c9939": {
+            "text": "Duplikovat\/klonovat toto pole?"
+        },
+        "89e1299f98120a24c999cdffa860d2cb": {
+            "text": "Smazan\u00e9 pole"
+        },
+        "584afda122df1e41e3a533afdc1b3f6e": {
+            "text": "P\u0159id\u00e1no pole"
+        },
+        "d4a2d56009360cb3a587f17538631ce9": {
+            "text": "P\u0159id\u00e1no pole"
+        },
+        "2f449cde553921e24ebc7b252209b1dc": {
+            "text": "Klonov\u00e1no pole"
+        },
+        "f2b83b9c6e7b4b10852e2920effd3433": {
+            "text": "Chyba p\u0159i vytv\u00e1\u0159en\u00ed klonu tohoto pole"
+        },
+        "e49f1e280534321564ea8d40be20e4d0": {
+            "text": "Zm\u011bnit typ pole: %s"
+        },
+        "a3d843d337eabebe3e81df9bfef414ea": {
+            "text": "Zm\u011bnit typ pole z \"%1$s\" na \"%2$s\""
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Pole"
+        },
+        "d665a1b10e02b9de8f4115d5b7078976": {
+            "text": "P\u0159idat nov\u00e9 pole"
+        },
+        "0b6c421579ca54de1ee2d79df5df6f05": {
+            "text": "N\u00e1zev"
+        },
+        "516a15631804c8878a63ecc155a067fa": {
+            "text": "Typ"
+        },
+        "b342aa8cb5e92300b8b0bda3eaf8076d": {
+            "text": "\u0160ablony"
+        },
+        "f1cb39a9250fe6002851375559d8bd85": {
+            "text": "glob\u00e1ln\u00ed"
+        },
+        "f44c0dcd3537024ab1be348dffe383de": {
+            "text": "syst\u00e9mov\u00e9"
+        },
+        "46c5d71a7ab758f0ce5b9124cd8c53a4": {
+            "text": "trval\u00e9 (permanent)"
+        },
+        "dcd217d86ebc19480f6602a1835f440d": {
+            "text": "Upravit pole: %s"
+        },
+        "f98b1dd6f292ac2dfa3f8b0f9a8df9b0": {
+            "text": "Pridat nov\u00e9 pole"
+        },
+        "cba80ebc9ff6059cddbf49c3f46172a6": {
+            "text": "\u017d\u00e1dn\u00fd (v\u00fdchoz\u00ed)"
+        },
+        "1f2b73286f18ea71c594652199e86dff": {
+            "text": "Zru\u0161it"
+        },
+        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
+            "text": "Vymazat"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Z\u00e1klady"
+        },
+        "0071819b4ba5f6d112dbf1eab7cbe2ae": {
+            "text": "Typ"
+        },
+        "9ea1f3769ad9c72e3ebf7de539b53aa1": {
+            "text": "Popis"
+        },
+        "1b5681f696c34da0c10d98c5666f22ca": {
+            "text": "Informace"
+        },
+        "450424710b0286d62947973d7263eb21": {
+            "text": "\u0160ablona"
+        },
+        "3be3efa6643b5a3f2af79ace0a5145c4": {
+            "text": "Pokro\u010dil\u00e9"
+        },
+        "cca90d2e0854b62dc0c77ad0e1679be4": {
+            "text": "Zobrazit pole typu: %s"
+        },
+        "288fc0452049b753c8a75464d299ffe3": {
+            "text": "Va\u0161emu filtru nevyhovuj\u00ed \u017e\u00e1dn\u00e1 pole"
+        },
+        "8bcb61f8472471a1619f7bd55e2c9ad2": {
+            "text": "Toto pole se nepou\u017e\u00edv\u00e1 a je bezpe\u010dn\u00e9 ho smazat."
+        },
+        "1fa78a97c113bed4e867ec21d9ca918f": {
+            "text": "Toto pole nelze smazat proto\u017ee ho pou\u017e\u00edv\u00e1 jedna nebo v\u00edce \u0161ablon."
+        },
+        "e7ec3883e42efde03a4932115fb807eb": {
+            "text": "Nastaven\u00ed p\u0159i pou\u017eit\u00ed \u0161ablony: %s"
+        },
+        "7d09843a01448bd5ac4ad4bcfb2c388e": {
+            "text": "N\u00e1zev pole je vy\u017eadov\u00e1n"
+        },
+        "a9c97bb1362d6960df5b6489b9454678": {
+            "text": "Typ pole je vy\u017eadov\u00e1n"
+        },
+        "4b2bcb0478b24201a7d60fed561d1b42": {
+            "text": "\u00daprava jednotliv\u00fdch pol\u00ed obsahuj\u00edch data str\u00e1nky"
+        },
+        "83cfa166d441c1b47108e5d6b3f21cbe": {
+            "text": "Popisek"
+        },
+        "7facb165145d489aeaa6743a6f9f1f55": {
+            "text": "Popisek"
+        },
+        "380f82872d1eb16c53b69ce4cfb45c9f": {
+            "text": "Zobrazit vestav\u011bn\u00e1 pole?"
+        },
+        "ee2d3754b6e7f57898d9d8670f78ae71": {
+            "text": "Pokro\u010dil\u00e9 mo\u017enosti"
+        },
+        "cc84c47ce264c6a27bd49ff004d4c555": {
+            "text": "Potvrzen\u00ed zm\u011bny typu pole"
+        },
+        "c2fd10d6fa7d3e1e8bd7c83de24c4d95": {
+            "text": "Zm\u011bna typu pole p\u0159eru\u0161ena"
+        },
+        "b3dd3da27d2927b5c36e28d771388c7d": {
+            "text": "Zm\u011bn\u011bn typ pole"
+        },
+        "588f35f32f53430bfc4199ef15c424db": {
+            "text": "Zobrazit mo\u017enosti filtrov\u00e1n\u00ed v seznamu pol\u00ed?"
+        },
+        "bcb2ce4355834a060bef50afb9127603": {
+            "text": "V\u011bstav\u011bn\u00e9"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "\u0160t\u00edtky"
+        },
+        "7f511c25eccff9ce7127eecfb136f443": {
+            "text": "Ka\u017ed\u00fd \u0161t\u00edtek mus\u00ed b\u00fdt jedno slovo (poml\u010dky jsou povoleny)."
+        },
+        "410267bd4e3c99784bab90c5e64b5209": {
+            "text": "Vybr\u00e1n\u00ed \u0161ablony omez\u00ed  seznam zobrazen\u00fdch pol\u00ed na pole pou\u017eit\u00e1 ve vybran\u00e9 \u0161ablon\u011b. Filtrov\u00e1n\u00ed podle \u0161ablony zobrazuje i syst\u00e9mov\u00e9 \u0161abony, kter\u00e9 jsou ozna\u010deny pomoc\u00ed (*)."
+        },
+        "db2b4f5915e2053955edfec38776a17f": {
+            "text": "Vybr\u00e1n\u00ed typu pole omez\u00ed seznam zobrazen\u00fdch pol\u00ed na zvolen\u00fd typ pole. Filtrov\u00e1n\u00ed podle typu pole zobrazuje i vestav\u011bn\u00e1 pole."
+        },
+        "1535d0228ba3626bad19ec55142ffcc6": {
+            "text": "Zobrazuj\u00ed se v\u0161echna pole v\u010detn\u011b vestav\u011bn\u00fdch."
+        },
+        "4cca2a863deef0fc4de9115b9164537b": {
+            "text": "Neo\u0161t\u00edtkovan\u00e1"
+        },
+        "2a7b956033d031e555889f8ddd52754f": {
+            "text": "Za\u0161krtnut\u00ed pol\u00ed\u010dka zobraz\u00ed i vestav\u011bn\u00e1 pole. Pat\u0159\u00ed mezi n\u011b syst\u00e9mov\u00e1 a trval\u00e1. Syst\u00e9mov\u00e1 pole jsou vy\u017eadov\u00e1na syst\u00e9mem a nelze je p\u0159ejmenovat nebo smazat. Trval\u00e1 pole intern\u011b vyu\u017e\u00edv\u00e1 ProcessWire a nelze je odebrat ze \u0161ablony."
+        },
+        "219befd28b6f70d6d0a52f13c6b93772": {
+            "text": "Popisek, kter\u00fd se zobraz\u00ed nad vstupn\u00edm polem. Pokud nevypln\u00edte, pou\u017eije se n\u00e1zev pole."
+        },
+        "d421f74dd8c605a337e57a6224f23478": {
+            "text": "Dodate\u010dn\u00e9 informace popisuj\u00edc\u00ed toto pole a\/nebo instrukce jak zadat obsah."
+        },
+        "4ac3deb7dc60a1b4770ad126c84171f7": {
+            "text": "* Ozna\u010duje \u017ee pole p\u0159et\u011b\u017euje v\u00fdchoz\u00ed hodnotu. Nastaven\u00ed, kter\u00e1 zad\u00e1te na t\u00e9to obrazovce se aktivuj\u00ed pouze p\u0159i pou\u017eit\u00ed s \u0161ablonou \u200b\u200b\"% s\"."
+        },
+        "c073843a55498e809c4dd95be0721831": {
+            "text": "Za\u0161krtnut\u00edm pol\u00ed\u010dka n\u00ed\u017ee se vytvo\u0159\u00ed kopie\/klon tohoto pole. Kopie bude vytvo\u0159ena po stisku tla\u010d\u00edtka Ulo\u017eit."
+        },
+        "bfacb0dba61ee131e07daaacead869c5": {
+            "text": "Z\u00e1kladn\u00ed nastaven\u00ed pole"
+        },
+        "3df354a032179f36ea493c3df6643ce1": {
+            "text": "Pokud chcete vizu\u00e1ln\u011b seskupit toto pole s ostatn\u00edma v seznamu pol\u00ed, vlo\u017ete jednoslovn\u00fd \u0161t\u00edtek (tag). Pou\u017eijte stejn\u00fd \u0161t\u00edtek na jin\u00e1 pole, kter\u00e1 chcete seskupit. V\u00edce \u0161t\u00edtk\u016f odd\u011blujte mezerou. Pou\u017eit\u00ed \u0161t\u00edtk\u016f m\u016f\u017ee b\u00fdt u\u017eite\u010dn\u00e9, pokud v\u00e1\u0161 web obsahuje velk\u00fd po\u010det pol\u00ed."
+        },
+        "78bd709db99c927f3a59a1983f18c237": {
+            "text": "Pro automatick\u00e9 zabalen\u00ed \u0161t\u00edtku v seznamu pol\u00ed mu p\u0159ed\u0159a\u010fte poml\u010dku. Nap\u0159\u00edklad: -ahoj"
+        },
+        "c2311f219b7dc0a845a537a7a26fa8b3": {
+            "text": "Pokud jste si jisti, \u017ee chcete zm\u011bnit typ pole, za\u0161krtn\u011bte pol\u00ed\u010dko n\u00ed\u017ee a ode\u0161lete tento formul\u00e1\u0159."
+        },
+        "7d04592612713885f95f51cca38d5708": {
+            "text": "Vezm\u011bte na v\u011bdom\u00ed, \u017ee zm\u011bna typu pole zm\u011bn\u00ed i sch\u00e9ma datab\u00e1ze. Pokud nen\u00ed nov\u00fd typ pole kompatibiln\u00ed s p\u016fvodn\u00edm nebo pokud obsahuje podstatn\u011b odli\u0161n\u00e9 sch\u00e9ma je mo\u017en\u00e9, \u017ee dojde ke ztr\u00e1t\u011b dat. Doporu\u010dujeme z\u00e1lohovat datab\u00e1zi p\u0159ed dokon\u010den\u00edm procesu zm\u011bny typu pole."
+        },
+        "ab2e4f95a7971ee8077df62efa20d437": {
+            "text": "Po vybr\u00e1n\u00ed typu pole a ulo\u017een\u00ed se m\u016f\u017eou zobrazit dodate\u010dn\u00e1 nastaven\u00ed, kter\u00e1 jsou specifick\u00e1 pro ka\u017ed\u00fd vybran\u00fd typ."
+        },
+        "7cdb55d0d84a64ee84c14621892d8e10": {
+            "text": "Po ulo\u017een\u00ed pole se vr\u00e1tit do seznamu pol\u00ed?"
+        },
+        "503eff76a9f0b3c0c78997aa4370e2f0": {
+            "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed z\u016fstenete po ulo\u017een\u00ed v editoru pol\u00ed. Pokud se chcete m\u00edsto toho vr\u00e1tit do seznamu pol\u00ed, za\u0161krtn\u011bte toto pol\u00ed\u010dko."
+        },
+        "887c58e4743e8c789e4ebea161c6fdfe": {
+            "text": "Tato volba p\u0159id\u00e1 dva select boxy na za\u010d\u00e1tek seznamu pol\u00ed, co\u017e umo\u017en\u00ed filtrovat zobrazen\u00e1 pole podle \u0161ablony nebo typu."
+        },
+        "e846a7b9b780397947329058d6856fe4": {
+            "text": "Upravit pole v kontextu"
+        },
+        "b1100a1a039c319674c740cdc6382e92": {
+            "text": "povinn\u00e9 (required)"
+        },
+        "06dacbad9c7587cdace10537b20b43ca": {
+            "text": "zobrazit pokud..."
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Ikona"
+        },
+        "9cc4ac29ded1988ae44a553a7ecd4ffc": {
+            "text": "Chcete-li p\u0159i\u0159adit poli ikonu, zadejte zde jej\u00ed [n\u00e1zev](http:\/\/fortawesome.github.io\/Font-Awesome\/icons\/)."
+        },
+        "41fb8fe20e74e99ab359cecc48be97d5": {
+            "text": "P\u0159\u00edklad: beer"
+        },
+        "678cad4866392ed0961cbce7d6ff550d": {
+            "text": "automaticky na\u010dteno (autojoin)"
+        }
+    }
+}

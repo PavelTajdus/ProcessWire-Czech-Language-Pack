@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterEntities.module",
+    "textdomain": "wire--modules--textformatter--textformatterentities-module",
+    "translations": {
+        "895d280780a54e8c5561dea1f6a4b34d": {
+            "text": "Kod\u00e9r HTML entit (htmlspecialchars)"
+        },
+        "f34604edab8aa5bdc9e452d3e4693952": {
+            "text": "Pou\u017eije znakov\u00e9 entity pro ampersand (&), uvozovky (dvojit\u00e9 i jednoduch\u00e9) a znam\u00e9nka men\u0161\u00ed\/v\u011bt\u0161\u00ed pomoc\u00ed funkce htmlspecialchars(str, ENT_QUOTES). Je doporu\u010deno pou\u017e\u00edt tento modul na v\u0161echny textov\u00e9 (text, textarea) pole s v\u00fdjimkou t\u011bch, kter\u00e9 pou\u017e\u00edvaj\u00ed rich text editor (TinyMCE, CKEdit) nebo zna\u010dkovac\u00ed jazyk (markup) jako nap\u0159\u00edklad Markdown."
+        }
+    }
+}

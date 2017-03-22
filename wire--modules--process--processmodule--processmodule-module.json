@@ -1,0 +1,291 @@
+{
+    "file": "wire\/modules\/Process\/ProcessModule\/ProcessModule.module",
+    "textdomain": "wire--modules--process--processmodule--processmodule-module",
+    "translations": {
+        "addec426932e71323700afa1911f8f1c": {
+            "text": "v\u00edce"
+        },
+        "b14c50cfbdf80ffa1e494282c306a467": {
+            "text": "Nainstalov\u00e1n modul"
+        },
+        "b9c21fa0192c783c8c3d3c48cd251f6c": {
+            "text": "Nalezen nov\u00fd modul"
+        },
+        "56f298ec43e271496dd37302c5f2d023": {
+            "text": "Nov\u00e9 moduly nenalezeny"
+        },
+        "1f698ebf835d58ef66a38c20e1496fa2": {
+            "text": "(Zak\u00e1z\u00e1no)"
+        },
+        "c19eca215de858fb52f1067064dc4bba": {
+            "text": "Modul nen\u00ed mo\u017en\u00e9 odinstalovat"
+        },
+        "c6ac99bad720428d69928c160e87c55e": {
+            "text": "Tento modul neobsahuje \u017e\u00e1dn\u00e1 konfigura\u010dn\u00ed pole"
+        },
+        "aadb23a524b84262538be0a416d5868f": {
+            "text": "Odinstalov\u00e1n modul"
+        },
+        "9b60baa546e5c978341fd2907b1d5dc9": {
+            "text": "Ulo\u017een modul"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "Moduly"
+        },
+        "70d2b9e888cc1816db79833873ff3a93": {
+            "text": "Modul"
+        },
+        "27a35aaa9bc34010a2a8b5f6e72bc59c": {
+            "text": "Verze"
+        },
+        "397433048c1c0bf93e5c0b270e178cb5": {
+            "text": "Souhrn"
+        },
+        "ab216fc1fc240e6ae4a8d9e632b75177": {
+            "text": "Vy\u017eaduje"
+        },
+        "6d1e927236b37ef520bf1e0c06162c61": {
+            "text": "Odinstalovat"
+        },
+        "1ac54e3228009efa1fcf80b8709e1288": {
+            "text": "N\u00e1zev"
+        },
+        "6499bebe581347fb21854f07912f1f65": {
+            "text": "T\u0159\u00edda"
+        },
+        "289aa00733ebcfd0bae827af29d01356": {
+            "text": "Verze"
+        },
+        "f09023872796deae6f1373d8a9d31a1e": {
+            "text": "Autor"
+        },
+        "633ce9b9b1a0e5b2f37bcc433eda6073": {
+            "text": "Shrnut\u00ed"
+        },
+        "3ffe0dd3025d49ed76beaaf53f4889ac": {
+            "text": "V\u00edce informac\u00ed"
+        },
+        "da50401ad6d0a7e3ec13844538e10864": {
+            "text": "Informace o modulu"
+        },
+        "4ca1ee2e55f304b56891e55fc0ff7844": {
+            "text": "Nebyl zad\u00e1n modul"
+        },
+        "7c4ba7a5c907fd803087ccd0da925c45": {
+            "text": "Nejd\u0159\u00edve mus\u00ed b\u00fdt odinstalov\u00e1ny jin\u00e9 moduly"
+        },
+        "d79883f0aa4bbfa29cfade81d86f4914": {
+            "text": "Tak\u00e9 nainstaluje"
+        },
+        "7dadd48b9d04ac2c725c773fb9b845e6": {
+            "text": "Instalovat"
+        },
+        "a954570dccb58d6a3edeb19736234655": {
+            "text": "Vy\u017eaduje"
+        },
+        "4d9ea4616e8b425d256a718c7686ed2b": {
+            "text": "Po\u017eadovan\u00e1 opr\u00e1vn\u011bn\u00ed"
+        },
+        "e45037779e7b459b4ea29944f1b2ef5c": {
+            "text": "Odinstalovat tento modul? Pokud nen\u00ed pou\u017e\u00edvan\u00fd jin\u00fdm modulem, m\u016f\u017eete smazat jeho soubory ze serveru."
+        },
+        "b7e2c8a0dd9e5f4ac8848dc0ff32ba0f": {
+            "text": "Zobrazit, upravit, nainstalovat nebo odinstalovat moduly."
+        },
+        "4d90ec9a7117ef7ad9c02a90860d7122": {
+            "text": "Pro odinstalov\u00e1n\u00ed modulu na n\u011bj klikn\u011bte, v editaci za\u0161krtn\u011bte pol\u00ed\u010dko 'Odinstalovat' a nakonec potvr\u010fte tla\u010d\u00edtkem 'Odeslat'. Po odinstalaci je bezpe\u010dn\u00e9 vymazat soubory modulu z adres\u00e1\u0159e \/site\/modules\/. Pokud se modul zobrazuje v seznamu i po smaz\u00e1n\u00ed klikn\u011bte na tla\u010d\u00edtko 'Kontrola nov\u00fdch modul\u016f'."
+        },
+        "a0ab914bff40f68598d99e99d39d859c": {
+            "text": "Tato akce odinstaluje i dal\u0161\u00ed moduly."
+        },
+        "c3beb2f9b875c79f76cf703ad3659d68": {
+            "text": "Vy\u017eadov\u00e1no"
+        },
+        "cc3acbc843dd28f892ae2c9c1211b4cb": {
+            "text": "Zkontrolovat nov\u00e9 moduly"
+        },
+        "9c67d775a708bbc2a042f878e78cfe2c": {
+            "text": "\/site\/modules\/ - Moduly specifick\u00e9 pro va\u0161e str\u00e1nky"
+        },
+        "a7d6475ec8993b7224d6facc8cb0ead6": {
+            "text": "P\u0159idan\u00e9"
+        },
+        "83168e6cb289d732cc78427b51f93153": {
+            "text": "Z\u00e1kladn\u00ed"
+        },
+        "401aeb1b99895a172d78edfa183114e7": {
+            "text": "\/wire\/modules\/ - Moduly, kter\u00e9 jsou sou\u010d\u00e1st\u00ed j\u00e1dra ProcessWire"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Nov\u00e9 (instalovat)"
+        },
+        "0900a3f6adfa931e0130c02c436e7e7f": {
+            "text": "N\u00e1zev t\u0159\u00eddy modulu (Class Name)"
+        },
+        "3b0798392299a74418470d3f13b5eec2": {
+            "text": "P\u0159ehled dostupn\u00fdch modul\u016f je na adrese modules.processwire.com"
+        },
+        "5975f55a2bcd254c58d9fe16d7a21417": {
+            "text": "Pokud jste ru\u010dn\u011b p\u0159idali nov\u00e9 moduly do adres\u00e1\u0159e \/site\/modules\/, pro jejich nalezen\u00ed klikn\u011bte na toto tla\u010d\u00edtko."
+        },
+        "ccb108ad977122d69f8bbc7758997ff2": {
+            "text": "Ujistete se, \u017ee je pro PHP adres\u00e1\u0159 \/site\/assets\/cache\/ zapisovateln\u00fd."
+        },
+        "cfe1ee62b0efc597562d0b78c5196d47": {
+            "text": "Ujistete se, \u017ee je pro PHP adres\u00e1\u0159 \/site\/modules\/ zapisovateln\u00fd."
+        },
+        "34484ec9b680d2670f6c0d0a6ea5cb5a": {
+            "text": "Je vy\u017eadov\u00e1na t\u0159\u00edda ZipArchive. Zd\u00e1 se \u017ee ji va\u0161e PHP neobsahuje."
+        },
+        "8395847485c9a34007295da6a4f9d4cf": {
+            "text": "Chyba p\u0159i na\u010d\u00edt\u00e1n\u00ed dat z URL webov\u00e9 slu\u017eby"
+        },
+        "575b3e4cd1c9acd455a58fc72f01ad44": {
+            "text": "Chyba dek\u00f3dov\u00e1n\u00ed JSON z webov\u00e9 slu\u017eby"
+        },
+        "8d68afb831b95c0dc23e1457385a983c": {
+            "text": "Chyba nahl\u00e1\u0161ena webovou slu\u017ebou:"
+        },
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "St\u00e1hnout"
+        },
+        "418cab01f270b56053a218c414840ec9": {
+            "text": "St\u00e1hnout a aktualizovat"
+        },
+        "8de5f3b8fe691cf6304176b9a5ed54da": {
+            "text": "M\u016f\u017eete proch\u00e1zet adres\u00e1\u0159 modul\u016f a vyhledat, kter\u00fd chcete st\u00e1hnout a nainstalovat. Zadejte nebo vlo\u017ete n\u00e1zev t\u0159\u00eddy (\"class name\") modulu, kter\u00fd chcete nainstalovat."
+        },
+        "2b0c95ea68acdfcd4e4d995f89bf3b92": {
+            "text": "Modul nem\u00e1 uvedenu kompatibilitu s touto verz\u00ed ProcessWire. To neznamen\u00e1 \u017ee nebude fungovat, ale mo\u017en\u00e1 bude pot\u0159eba zkontrolovat modul autorem."
+        },
+        "5259630c836d951d40cd2771922dfb5e": {
+            "text": "Nainstalovan\u00e1 verze je aktu\u00e1ln\u00ed"
+        },
+        "356025c686f0f84759d1762a071903ad": {
+            "text": "Je k dispozici nov\u00e1 verze tohoto modulu!"
+        },
+        "18206c5add24b8898426959c811b779b": {
+            "text": "V\u00edce informac\u00ed"
+        },
+        "eac35422501988079c78c4da694468ff": {
+            "text": "Str\u00e1nky projektu"
+        },
+        "49ec9b5c06ace9e448b8c7901304c036": {
+            "text": "Str\u00e1nky podpory"
+        },
+        "baa2c21bbd137636014e8f357698761e": {
+            "text": "P\u0159ed pokra\u010dov\u00e1n\u00edm se ujist\u011bte, \u017ee d\u016fv\u011b\u0159ujete zdroji souboru ZIP!"
+        },
+        "2d30ce478ce5e77c288d80f804617331": {
+            "text": "Tento modul nem\u00e1 uvedenu URL adresu ke sta\u017een\u00ed a mus\u00ed b\u00fdt nainstalov\u00e1n ru\u010dn\u011b."
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Zru\u0161it"
+        },
+        "013ba726c842150ec33822c5a6fc6196": {
+            "text": "Stahov\u00e1n\u00ed zru\u0161eno"
+        },
+        "99c204fe00415e2086d5a54dc4f9f388": {
+            "text": "C\u00edlov\u00fd adres\u00e1\u0159 ji\u017e existuje a nen\u00ed zapisovateln\u00fd:"
+        },
+        "6d661071b2efa16ffc2a724ba033bb2f": {
+            "text": "Sta\u017een\u00fd soubor ZIP:"
+        },
+        "2a3cd9a18eaf3b274b4fa40068fff003": {
+            "text": "Soubory \u00fasp\u011b\u0161n\u011b zkop\u00edrov\u00e1ny do nov\u00e9ho adres\u00e1\u0159e:"
+        },
+        "5a3527463defe3c1e1ab721c4942f331": {
+            "text": "Nen\u00ed mo\u017en\u00e9 vytvo\u0159it adres\u00e1\u0159:"
+        },
+        "6d1a22fe4861f1572d6d7f526e05ccf5": {
+            "text": "Nelze odstranit do\u010dasn\u011b sta\u017een\u00e9 soubory:"
+        },
+        "fe0b9036f4efed3a5dc0ce583b1ed5c1": {
+            "text": "Vypad\u00e1 to na probl\u00e9m p\u0159i stahov\u00e1n\u00ed nebo zaps\u00e1n\u00ed modulu."
+        },
+        "321a272463ceb9661e0951f1e3b639d5": {
+            "text": "Sta\u017een\u00fd:"
+        },
+        "206fdb3626f498af4b830cbf6c2efc0a": {
+            "text": "%s je p\u0159ipraven k instalaci"
+        },
+        "5edb0eb1006e6be6d4cd5609357b4bb3": {
+            "text": "Nainstalovat"
+        },
+        "bfaf55307f89bbad2f781f3ea25fae91": {
+            "text": "Zanechat nenainstalovan\u00e9"
+        },
+        "bb8985c9a93d30135e0a662d77228e87": {
+            "text": "Aktualizov\u00e1n:"
+        },
+        "5bee92e129673eefc19da149e2b58f15": {
+            "text": "%s byl vpo\u0159\u00e1dku zaktualizov\u00e1n."
+        },
+        "292287e744d21b09f577b3228ef5ce77": {
+            "text": "Pokra\u010dovat do nastaven\u00ed modulu"
+        },
+        "9c098768612f6e24d58eae6fb38ae756": {
+            "text": "zkontrolovat aktualizace"
+        },
+        "16cc8e66dedb68f1f49e919c348e3de5": {
+            "text": "Je\u0161t\u011b ne"
+        },
+        "874966d700b2e2cca2577a2eac1d28f0": {
+            "text": "T\u0159\u00edda (Class)"
+        },
+        "f660f5f5478044f06b7c4ff7faf94e22": {
+            "text": "Verze"
+        },
+        "64e220482c5957a4bc72eb93fa23c97d": {
+            "text": "Instalovan\u00fd?"
+        },
+        "adface9f151f3625734957af4cc90bdc": {
+            "text": "Auto\u0159i"
+        },
+        "e5f2ca40c235fae5ac687e306de83787": {
+            "text": "Shrnut\u00ed"
+        },
+        "e6b6277ba8181bbd1527a9862aac46ec": {
+            "text": "Stav vyd\u00e1n\u00ed"
+        },
+        "8cdfd203b4ed8d5355ee6f7e2819f1f7": {
+            "text": "Kompatibilita"
+        },
+        "6e3ecdf50e3929756d31a4f4a80179da": {
+            "text": "Odkazy"
+        },
+        "48b843a3e9c0825de5170cc33048043f": {
+            "text": "Soubor ZIP"
+        },
+        "89f479678076a540904291ac97e7b29c": {
+            "text": "Upozorn\u011bn\u00ed"
+        },
+        "db91f2b6a497a7f2f78f5ef53cc47fab": {
+            "text": "Soubor"
+        },
+        "c83047e52e84102cde2e46c99f5f2fa5": {
+            "text": "St\u00e1hnout a nainstalovat"
+        },
+        "ea90a0c1864c51f82f862a6850c13951": {
+            "text": "Smazan\u00e9 soubory modulu"
+        },
+        "0d17be96c4c0a8f101dcaa0ce9c5ee7d": {
+            "text": "Smazat %s?"
+        },
+        "abc3baafc079141ff12cc709fd46f471": {
+            "text": "Smazat"
+        },
+        "5ef031b334adbb931cf113da0bd6dcea": {
+            "text": "Nastaven\u00ed"
+        },
+        "ea6cee49cbd5313f532c8f213e820e63": {
+            "text": "URL adresa webov\u00e9 slu\u017eby modul\u016f"
+        },
+        "b815574829ed2efce1faef571bc8b22e": {
+            "text": "API kl\u00ed\u010d webov\u00e9 slu\u017eby modul\u016f"
+        },
+        "def68ae90aac3e065c37457bc36d22f8": {
+            "text": "N\u00e1zev t\u0159\u00eddy modulu (ModuleClassName)"
+        }
+    }
+}

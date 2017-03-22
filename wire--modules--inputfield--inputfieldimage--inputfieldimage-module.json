@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "Velikost obr\u00e1zku upravena, aby odpov\u00eddala maxim\u00e1ln\u00edm povolen\u00fdm rozm\u011br\u016fm"
+        },
+        "95dde9286ff11d93e5f5ce0c832b9f2c": {
+            "text": "Zobrazit n\u00e1hled v editoru str\u00e1nky?"
+        },
+        "183cf71ab1252b747070605a2aa370c2": {
+            "text": "N\u00e1hledy zab\u00edraj\u00ed m\u00e9n\u011b m\u00edsta zjednodu\u0161uj\u00ed t\u0159\u00edd\u011bn\u00ed. Pokud nen\u00ed tato volba povolena, bude se v editoru str\u00e1nky zobrazovat pln\u00e1 velikost obr\u00e1zku."
+        },
+        "7f0785e56befa113ce8fca2316a12a2e": {
+            "text": "Maxim\u00e1ln\u00ed rozm\u011bry obr\u00e1zku"
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Maxim\u00e1ln\u00ed \u0161\u00ed\u0159ka nahran\u00fdch obr\u00e1zk\u016f"
+        },
+        "21a08974171e7c2affbea041f9311318": {
+            "text": "Vlo\u017eit po\u010det pixel\u016f nebo nechat pr\u00e1zdn\u00e9 pro neomezen\u00ed maxima."
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Maxim\u00e1ln\u00ed v\u00fd\u0161ka nahran\u00fdch obr\u00e1zk\u016f"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Obr\u00e1zky (Images)"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Jeden nebo v\u00edce nahran\u00fdch obr\u00e1z\u016f"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Voliteln\u011b zadejte maxim\u00e1ln\u00ed \u0161\u00ed\u0159ku a\/nebo v\u00fd\u0161ku obr\u00e1zk\u016f. Pokud je zad\u00e1no, bude automaticky upravena velikost nahr\u00e1van\u00fdch obr\u00e1zk\u016f, pokud p\u0159ekro\u010d\u00ed maxim\u00e1ln\u00e1 nastavenou v\u00fd\u0161ku nebo \u0161\u00ed\u0159ku. Zm\u011bna velikosti je prov\u00e1d\u011bna p\u0159i procesu nahr\u00e1v\u00e1n\u00ed a nem\u00e1 vliv na ji\u017e nahran\u00e9 nebo p\u0159es API p\u0159idan\u00e9 obr\u00e1zky."
+        },
+        "597c4d1113db01e43b62cd8a7112cf88": {
+            "text": "V\u00fdchoz\u00ed zobrazen\u00ed"
+        },
+        "530f488f7a9800411efc6926ab189708": {
+            "text": "\u0158\u00e1dky (Rows)"
+        },
+        "5174d1309f275ba6f275db3af9eb3e18": {
+            "text": "M\u0159\u00ed\u017eka (Grid)"
+        },
+        "b3da2ccb426643b265971f8085617aa0": {
+            "text": "Pohled lze v poli s obr\u00e1zky p\u0159ep\u00ednat pomoc\u00ed ikony m\u0159\u00ed\u017eka\/\u0159\u00e1dky. Toto nastaven\u00ed ur\u010duje, kter\u00e9 zobrazen\u00ed bude v\u00fdchoz\u00ed. \u0158\u00e1dkov\u00e9 zobrazen\u00ed je doporu\u010den\u00e9."
+        }
+    }
+}

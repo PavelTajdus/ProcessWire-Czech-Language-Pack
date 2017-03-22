@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Mo\u017enosti"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Zadejte volby, kter\u00e9 maj\u00ed b\u00fdt vybr\u00e1ny, jednu na \u0159\u00e1dek."
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Pokud chceme aby seznam za\u010d\u00ednal pr\u00e1zdnou volbou, zad\u00e1me rovn\u00edtko \"=\" jako prvn\u00ed mo\u017enost."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Nastavit polo\u017eku jako vybranou m\u016f\u017eeme p\u0159ed\u0159azen\u00edm znam\u00e9nka plus. Nap\u0159\u00edklad:+MojeVolba"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Chcete-li vytvo\u0159it skupinu voleb (optgroup), pou\u017eijte odsazen\u00ed voleb ve skupin\u011b 3 nebo v\u00edce mezerami."
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Pro zachov\u00e1n\u00ed odd\u011blen\u00e9 hodnoty a popisku je odd\u011blte rovn\u00edtkem. P\u0159\u00edklad: hodnota=Moje volba"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "V\u00fdb\u011br (Select)"
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "Vybr\u00e1n\u00ed jedn\u00e9 hodnoty z rolovac\u00edho v\u00fdb\u011bru (select pulldown)"
+        },
+        "6b66a61fa66288a9a7ad6474d2e686ec": {
+            "text": "V\u00fdchoz\u00ed hodnota"
+        },
+        "c37baf4e64db68f6887058399a37ad60": {
+            "text": "Chcete-li m\u00edt p\u0159edem vybran\u00e9 hodnotu(y), zadejte hodnotu (jedna na \u0159\u00e1dek) n\u00ed\u017ee. Pro v\u00fdb\u011br str\u00e1nek zadejte ID str\u00e1nky."
+        },
+        "d48cd2cb0f5c1d209800b28e019eb574": {
+            "text": "Tato v\u00fdchoz\u00ed hodnota(y) je dostupn\u00e1, proto\u017ee jste za\u0161krtli \"required\" box v\u00fd\u0161e."
+        }
+    }
+}

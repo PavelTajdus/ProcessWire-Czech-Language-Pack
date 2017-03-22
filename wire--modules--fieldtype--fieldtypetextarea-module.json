@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextarea.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextarea-module",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Typ vstupn\u00edho pole"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Typ pole, kter\u00fd bude pou\u017eit pro sb\u011br vstupn\u00edch dat (Textarea je v\u00fdchoz\u00ed). V\u0161imn\u011bte si, \u017ee pokud se provede zm\u011bna a ode\u0161le formul\u00e1\u0159, konfigura\u010dn\u00ed volby v z\u00e1lo\u017ece \"Vstup\" se mohou zm\u011bnit."
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Typ obsahu"
+        },
+        "88183b946cc5f0e8c96b2e66e1c74a7e": {
+            "text": "nezn\u00e1m\u00fd"
+        },
+        "1991cfd60d0287cfb130420da34fcbef": {
+            "text": "Volba Zna\u010dky\/HTML je doporu\u010den\u00e1 pro pole pou\u017e\u00edvaj\u00edc\u00ed rich text editor (TinyMCE, CKEditor ...) nebo pole obsahuj\u00edc\u00ed HTML. Tato volba poskytuje dal\u0161\u00ed filtrov\u00e1n\u00ed za b\u011bhu pro zaji\u0161t\u011bn\u00ed lep\u0161\u00ed kvality."
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "Zna\u010dky\/HTML"
+        }
+    }
+}

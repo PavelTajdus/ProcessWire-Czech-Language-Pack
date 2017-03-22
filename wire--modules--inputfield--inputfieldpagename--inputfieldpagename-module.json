@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageName\/InputfieldPageName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagename--inputfieldpagename-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "N\u00e1zev"
+        },
+        "152cfcb2150e04c8533d86e9d7642b11": {
+            "text": "Jak\u00e1koliv kombinace p\u00edsmen (a-z), \u010d\u00edslic (0-9) a podtr\u017e\u00edtek (\u017e\u00e1dn\u00e9 mezery)."
+        },
+        "f48a4577939e2ab65867848e6b439a81": {
+            "text": "Nahrazov\u00e1n\u00ed znak\u016f"
+        },
+        "9bc6bf958fcb86296c17a2b2db2a00a6": {
+            "text": "Ka\u017ed\u00e1 hodnota pro nahrazen\u00ed mus\u00ed m\u00edt jeden nebo v\u00edce z n\u00e1sleduj\u00edc\u00edch znak\u016f: a-z, 0-9, poml\u010dka, podtr\u017e\u00edtko nebo te\u010dka."
+        },
+        "9d250aded0473671ec3f113407f9809c": {
+            "text": "Zadejte znaky pro nahrazen\u00ed p\u0159i zad\u00e1v\u00e1n\u00ed znak\u016f do pole n\u00e1zvu str\u00e1nky (page name field). Zadejte jednu n\u00e1hradu na \u0159\u00e1dek ve form\u00e1tu kl\u00ed\u010d=hodnota. Ve smyslu, na ka\u017ed\u00fd nov\u00fd \u0159\u00e1dek, zadejte znak(y), kter\u00fd chcete nahradit n\u00e1sledovan\u00fd znam\u00e9nka rovn\u00e1 se \"=\" a ascii znak(y), kter\u00e9 chcete nahradit."
+        }
+    }
+}

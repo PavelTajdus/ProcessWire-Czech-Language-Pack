@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldAsmSelect\/InputfieldAsmSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldasmselect--inputfieldasmselect-module",
+    "translations": {
+        "74c0ecf830d7e594ea8491c932418590": {
+            "text": "Progresivn\u00ed roz\u0161\u00ed\u0159en\u00ed pro v\u00edcen\u00e1sobn\u00fd v\u00fdb\u011br"
+        },
+        "0c4cf3dd938578951cefc0c5503f4939": {
+            "text": "Roz\u0161\u00ed\u0159en\u00fd v\u00edcen\u00e1sobn\u00fd v\u00fdb\u011br (asmSelect)"
+        }
+    }
+}

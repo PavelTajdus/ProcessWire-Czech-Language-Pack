@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearch.module",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearch-module",
+    "translations": {
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Nebylo zad\u00e1no vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "52b9d143876d2754dd01be52587b1de8": {
+            "text": "Typ vyhled\u00e1v\u00e1n\u00ed:"
+        },
+        "75ecaaafd1f677d07360709be6528768": {
+            "text": "Hledat:"
+        },
+        "9e230fa5487a0172264f31c0a1b08b61": {
+            "text": "Omezit na \u0161ablonu:"
+        },
+        "6f9d01a14011f05fffe48559583fc609": {
+            "text": "\u0158adit podle:"
+        },
+        "fa4e2f0cea3ceef82c840df64fecb9e4": {
+            "text": "Opa\u010dn\u00e9 \u0159azen\u00ed?"
+        },
+        "b4805a9af05d82889758dda70003cfc6": {
+            "text": "Mo\u017enosti vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "29e9d8e295b1d5b3002d2d3d5baa4c37": {
+            "text": "Kl\u00e1vesov\u00e9 zkratky"
+        },
+        "4ecb0055aa1e66535afeaf6093585618": {
+            "text": "Vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "d27c07f4c0dd15e39cedd91c19cb279f": {
+            "text": "Hledat"
+        },
+        "4b315bff8c7b70281de8ffffbd150708": {
+            "text": "Hledat"
+        },
+        "1da914fe3f639d8b3d977a006d2b0c69": {
+            "text": "Nalezena %1$d str\u00e1nka s pou\u017eit\u00edm selektoru: %2$s"
+        },
+        "dc87414810d43e27f63b89feabadc943": {
+            "text": "Nalezeno %1$d str\u00e1nek s pou\u017eit\u00edm selektoru: %2$s"
+        },
+        "f802f85dd1eb6a1b3fb0591c682807e9": {
+            "text": "Hledat v poli(pol\u00edch):"
+        },
+        "1e9c565e43a1f652a2718003bbad887e": {
+            "text": "Zobrazit pole:"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Pokro\u010dil\u00e9"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "upravit"
+        },
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "Rovno"
+        },
+        "3255c386f4276b5c66f12d216ec71906": {
+            "text": "Nen\u00ed rovno"
+        },
+        "05824b7be006782aaefd1fdb97c71e06": {
+            "text": "V\u011bt\u0161\u00ed ne\u017e"
+        },
+        "798fe01fcb2754a295b6937ed885a69a": {
+            "text": "V\u011bt\u0161\u00ed nebo rovno"
+        },
+        "ad647e4ae904c7ed54ee93040d8298c7": {
+            "text": "Men\u0161\u00ed ne\u017e"
+        },
+        "28d1141142e2cbb29e657b69a044ddf4": {
+            "text": "Men\u0161\u00ed nebo rovno"
+        },
+        "45fc43a01c15bc63159695441dfacd63": {
+            "text": "Obsahuje v\u011btu nebo \u010d\u00e1st slova"
+        },
+        "e44edbd140708c448e991cde9d8dc0b2": {
+            "text": "Obsahuje slovo\/v\u011btu a pou\u017e\u00edv\u00e1 LIKE"
+        },
+        "593e63d42f95f6ad96cf700f80c2fe2c": {
+            "text": "Obsahuje v\u0161echny slova"
+        },
+        "c488b358fae501da3848f9faeb83dd35": {
+            "text": "Pole"
+        },
+        "736f3e2669c68c02be0fb19d1e70622f": {
+            "text": "\u0160ablony"
+        },
+        "c26ba1dd54d52630a0aedf779e5926af": {
+            "text": "Moduly"
+        },
+        "8aa55d906b86496efeb66b0eae7d75ce": {
+            "text": "Str\u00e1nky"
+        },
+        "d60c090c3c99aaae5f57da3eb85fe008": {
+            "text": "V\u00fdchoz\u00ed pole pro vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "bfe2201d3b973b0d8c3c5b0ea08e1736": {
+            "text": "Zadejte n\u00e1zev jednoho nebo v\u00edce textov\u00fdch pol\u00ed, kter\u00e1 chcete prohled\u00e1vat. Ka\u017ed\u00e9 pole odd\u011blte mezerou."
+        },
+        "6278e5dbbd21048091f612f55185257e": {
+            "text": "Pole pro vyhled\u00e1v\u00e1n\u00ed v re\u017eimu \"admin search (ajax) mode\""
+        },
+        "2d29cf36f3ebbd5bab570d70070e5102": {
+            "text": "V\u00fdchoz\u00ed n\u00e1zvy pol\u00ed pro zobrazen\u00ed ve v\u00fdsledc\u00edch vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "6cfd6f09104bdac467bb40624aae4e9c": {
+            "text": "P\u0159i zad\u00e1v\u00e1n\u00ed v\u00edce pol\u00ed se ka\u017ed\u00e9 odd\u011bluje mezerou."
+        },
+        "51e1d489ac4198969f8daf52b7cdfaf6": {
+            "text": "V\u00fdchoz\u00ed oper\u00e1tor vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "cc10d38a176ad7cde1228d2e22f1122b": {
+            "text": "Doporu\u010dujeme omezit toto nastaven\u00ed na 1 nebo 2 pole, proto\u017ee jsou v\u00fdsledky pln\u011bny do \"live autocomplete field\". V\u011bt\u0161inou sta\u010d\u00ed hledat pouze v poli n\u00e1zev (title)."
+        }
+    }
+}

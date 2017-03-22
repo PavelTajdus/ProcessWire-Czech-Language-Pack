@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/FieldtypeComments.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
+    "translations": {
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Koment\u00e1\u0159e (Comments)"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Zak\u00e1z\u00e1no"
+        },
+        "11b3f4cb51868835eff93632baf73f0b": {
+            "text": "Moderov\u00e1n\u00ed koment\u00e1\u0159\u016f"
+        },
+        "2e5d62a652e3bfee772867720b3b000e": {
+            "text": "Ozn\u00e1men\u00ed na e-mail"
+        },
+        "0c6e8a761530efc7ecfe773a5b5a6f7e": {
+            "text": "\u017d\u00e1dn\u00e9 - koment\u00e1\u0159e jsou zve\u0159ej\u011bny okam\u017eit\u011b"
+        },
+        "4f214f3246f03a94773427de4f2e7699": {
+            "text": "V\u0161e  - v\u0161echny koment\u00e1\u0159e mus\u00ed b\u00fdt schv\u00e1leny u\u017eivatelem s  pr\u00e1vy pro \u00fapravu str\u00e1nky"
+        },
+        "9bf3d3d959883d38b84f1990340bff84": {
+            "text": "\u0158adit od nejnov\u011bj\u0161\u00edch po nejstar\u0161\u00ed?"
+        },
+        "b7f00c1afdf69f32c12c300c02ac1da7": {
+            "text": "P\u0159esm\u011brovat po odesl\u00e1n\u00ed formul\u00e1\u0159e?"
+        },
+        "bf31492fe5d4821b483bc7cb8cfe07a3": {
+            "text": "Po\u010det dn\u016f za kter\u00e9 bude spam smaz\u00e1n"
+        },
+        "017e8b29849843b6daa2501aad99f7c1": {
+            "text": "\u010cek\u00e1 na schv\u00e1len\u00ed"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Schv\u00e1len"
+        },
+        "19af9433f96a08338dbcf1ea82186f7c": {
+            "text": "SPAM - bude automaticky smaz\u00e1n za %d dny"
+        },
+        "cba07fe99979c9f01d9c61a39aae3045": {
+            "text": "Pou\u017e\u00edvat ve formul\u00e1\u0159i pole pro zad\u00e1v\u00e1n\u00ed adresy str\u00e1nek."
+        },
+        "bb28b3686215b773129c8259cf0e6525": {
+            "text": "Pokud je vybr\u00e1no, bude formul\u00e1\u0159 pro odes\u00edl\u00e1n\u00ed koment\u00e1\u0159\u016f obsahovat nav\u00edc pole pro zad\u00e1v\u00e1n\u00ed URL adresy str\u00e1nek odes\u00edlatele."
+        },
+        "0ad4c8b2b43eb0c8cfa21dd7571401b5": {
+            "text": "Poslat e-mail p\u0159i p\u0159ijmut\u00ed spamu?"
+        },
+        "a4949d12f429ca4af2feb4e30c1e84e4": {
+            "text": "Pou\u017e\u00edvat Gravatar?"
+        },
+        "694c233e3c1cf5b97224bd5fcbebb340": {
+            "text": "Pou\u017e\u00edvat slu\u017ebu Akismet pro filtrov\u00e1n\u00ed spamu?"
+        },
+        "d3a76eec189143c6945282d37bd81bb5": {
+            "text": "Nov\u00e9 - Pouze koment\u00e1\u0159e od u\u017eivatel\u016f bez d\u0159\u00edve schv\u00e1len\u00fdch koment\u00e1\u0159\u016f vy\u017eaduj\u00ed schv\u00e1len\u00ed"
+        },
+        "f1f5c03105f32ee4f4eb3004e2fb49be": {
+            "text": "E-mail adresy pro odesl\u00e1n\u00ed upozornn\u011bn\u00ed, pokud je odesl\u00e1n nov\u00fd koment\u00e1\u0159. V\u00edce adres odd\u011blte \u010d\u00e1rkami."
+        },
+        "0c9743be855a9e62ab36d4d4eb321932": {
+            "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed jsou koment\u00e1\u0159e \u0159azeny chronologicky (od nejstar\u0161\u00edch po nov\u00e9). Za\u0161krtnut\u00ed tohoto pol\u00ed\u010dka obr\u00e1t\u00ed po\u0159ad\u00ed."
+        },
+        "72fe450a750c9f11bf0531e5395e6e75": {
+            "text": "Za uveden\u00fd po\u010det dn\u00ed bude spam automaticky smaz\u00e1n."
+        },
+        "a27c92ebebda4931039636893b5c716d": {
+            "text": "Pole pro ukl\u00e1d\u00e1n\u00ed odeslan\u00fdch koment\u00e1\u0159\u016f na jedn\u00e9 str\u00e1nce."
+        },
+        "e0c0bcd1370c684469277f8066e3c64f": {
+            "text": "Str\u00e1nka"
+        },
+        "957cba65c7639be540b3bce16e2c8e57": {
+            "text": "Od"
+        },
+        "4df6dabe367988d938bbf565bbcdbe43": {
+            "text": "Web str\u00e1nky"
+        },
+        "5be3f30f5db8303d4baac9920be07c45": {
+            "text": "Stav"
+        },
+        "cea2870f162b18b9ab95c8c84da6d05a": {
+            "text": "Pokud je za\u0161krtl\u00e9, pou\u017eije ProcessWire po odesl\u00e1n\u00ed koment\u00e1\u0159e p\u0159esm\u011brov\u00e1n\u00ed (redirect). Toto zabr\u00e1n\u00ed op\u011btovn\u00e9mu odesl\u00e1n\u00ed stejn\u00e9ho koment\u00e1\u0159e. Doporu\u010den\u00e9 nastaven\u00ed."
+        },
+        "ec8fbd0794fa6fafb9061431f9bffa03": {
+            "text": "Pokud je za\u0161krtl\u00e9, bude odesl\u00e1no upozorn\u011bn\u00ed emailem i v p\u0159\u00edpad\u011b, \u017ee je koment\u00e1\u0159 ozna\u010den jako spam."
+        },
+        "b70aad8c6cb77fde247be00630d7f5ef": {
+            "text": "G: Vhodn\u00e9 pro zobrazen\u00ed na v\u0161ech str\u00e1nk\u00e1ch s jak\u00fdmkoliv typem publika."
+        },
+        "8e25a98f71c3244890fa8ecf2230fe18": {
+            "text": "PG: M\u016f\u017ee obsahovat sprost\u00e1 gesta, provokativn\u011b oble\u010den\u00e9 jednotlivce, men\u0161\u00ed nad\u00e1vky, nebo m\u00edrn\u00e9 n\u00e1sil\u00ed."
+        },
+        "2900074213d129e33d5d4b6e74076f29": {
+            "text": "R: M\u016f\u017ee obsahovat takov\u00e9 v\u011bci jako drsn\u00e9 vulg\u00e1rn\u00ed v\u00fdrazy, intenzivn\u00ed n\u00e1sil\u00ed, nahotu, nebo u\u017e\u00edv\u00e1n\u00ed t\u011b\u017ek\u00fdch drog."
+        },
+        "043cab853d189bb505d101c3c7ab3176": {
+            "text": "X: M\u016f\u017ee obsahovat hardcore sexu\u00e1ln\u00ed sn\u00edmky nebo velmi brut\u00e1ln\u00ed n\u00e1sil\u00ed."
+        },
+        "e9f6051c655ca4a6773af3f2d8458815": {
+            "text": "Hodnocen\u00ed"
+        },
+        "13df57b389c6175fd742098a67385895": {
+            "text": "Tato slu\u017eba bude automaticky detekovat v\u011bt\u0161inu spamu. P\u0159ed pou\u017eit\u00edm se ujist\u011bte, \u017ee m\u00e1te vlo\u017een kl\u00ed\u010d Akismet API v nastaven\u00ed Moduly > Filtr koment\u00e1\u0159\u016f: Akismet"
+        },
+        "c5fce56aee82d2bc007cbf213998945b": {
+            "text": "Tato slu\u017eba poskytuje obr\u00e1zky avatar\u016f pro jednotliv\u00e9 koment\u00e1\u0159e (unik\u00e1tn\u00ed podle email adresy). Pro povolen\u00ed slu\u017eby vyberte po\u010det hv\u011bzdi\u010dek. Je to stejn\u00e9 jako u hodnocen\u00ed film\u016f, kde G nejv\u00edce p\u0159\u00edstupn\u00e9 a X nep\u0159\u00edstupn\u00e9."
+        },
+        "4a97712de239878854839560e1765f5a": {
+            "text": "Koment\u00e1\u0159 posl\u00e1n ze str\u00e1nky: %s"
+        },
+        "d856205677eeb676b9b04c173a231c6b": {
+            "text": "E-mail"
+        }
+    }
+}

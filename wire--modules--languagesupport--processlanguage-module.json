@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/ProcessLanguage.module",
+    "textdomain": "wire--modules--languagesupport--processlanguage-module",
+    "translations": {
+        "897d3357128f316af8d6a605c545a702": {
+            "text": "%d fr\u00e1ze"
+        },
+        "f38977b9226f40d3b86bae7d9611a880": {
+            "text": "%d fr\u00e1z\u00ed"
+        },
+        "8f8c1687544a612bb0db27f2e24ab122": {
+            "text": "P\u0159elo\u017eit nov\u00fd soubor"
+        },
+        "3a08e2e340ab29fd9263af48193cbf8e": {
+            "text": "Jazyky"
+        },
+        "1514a1c310fe6db41aeda8f1b1006713": {
+            "text": "Upravit"
+        },
+        "8327b21ed9628232c90353c7c08ad16f": {
+            "text": "%d opu\u0161t\u011bno"
+        },
+        "c4337ed7fd3fa9186398110fdd126ba0": {
+            "text": "%d nep\u0159elo\u017eeno"
+        },
+        "8ff1c082c6dbbbb942d86d0620b18aca": {
+            "text": "Spr\u00e1va syst\u00e9mov\u00fdch jazyk\u016f"
+        }
+    }
+}

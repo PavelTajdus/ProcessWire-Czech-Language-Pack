@@ -1,0 +1,66 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditImageSelect\/ProcessPageEditImageSelect.module",
+    "textdomain": "wire--modules--process--processpageeditimageselect--processpageeditimageselect-module",
+    "translations": {
+        "48ccf48dcf2218a413ce473262f21a0c": {
+            "text": "\u0160\u00ed\u0159ka"
+        },
+        "e933dc24fb245d863a43b4fefe9b45f5": {
+            "text": "V\u00fd\u0161ka"
+        },
+        "5d13ae1a65403891ac0fe044f3acc865": {
+            "text": "Na t\u00e9to str\u00e1nce nejsou obr\u00e1zkov\u00e1 pole (image fields). Vyberte obr\u00e1zky z jin\u00e9 str\u00e1nky."
+        },
+        "64a201e91bd521f5640318d844920b31": {
+            "text": "Na t\u00e9to str\u00e1nce nejsou \u017e\u00e1dn\u00e9 obr\u00e1zky.  Zav\u0159ete toto okno a nahrajte obr\u00e1zky, nebo vyberte obr\u00e1zky z jin\u00e9 str\u00e1nky."
+        },
+        "83ea3ed3245ed2ce30aabecdc6b4d354": {
+            "text": "Obr\u00e1zky na str\u00e1nce:"
+        },
+        "48448404ecc9e95975b334dbe421c0bd": {
+            "text": "Pokud chcete vybrat obr\u00e1zky z jin\u00e9 str\u00e1nky, vyberte str\u00e1nku n\u00ed\u017ee."
+        },
+        "e853a6aca1b442d161c2642e88346bf9": {
+            "text": "Bez zarovn\u00e1n\u00ed"
+        },
+        "811398cb1e49b4f45851cc25fcc6501f": {
+            "text": "Zarovnat doleva"
+        },
+        "ad68675da1db2fb44a8d1cabcbbbb65e": {
+            "text": "Zarovnat doprava"
+        },
+        "e36098607b9dd3b6d7107a449b6a25bd": {
+            "text": "Zarovnat na st\u0159ed"
+        },
+        "d7e02762cdb4621a77388689b2ee53c0": {
+            "text": "Vytvo\u0159it odkaz na v\u011bt\u0161\u00ed verzi?"
+        },
+        "63c7dee42e04e2757472031aa7164d81": {
+            "text": "Vynechat atributy \u0161\u00ed\u0159ka a v\u00fd\u0161ka v tagu obr\u00e1zku?"
+        },
+        "5a8f9d5840811602e6806392ffef0523": {
+            "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed tento modul p\u0159id\u00e1v\u00e1 k html tagu <img> atributy \u0161\u00ed\u0159ka (width) a v\u00fd\u0161ka (height). Pokud pou\u017e\u00edv\u00e1te responsive obr\u00e1zky, m\u016f\u017eete toto chov\u00e1n\u00ed zak\u00e1zat. Pro zak\u00e1z\u00e1n\u00ed za\u0161krtn\u011bte pol\u00ed\u010dko."
+        },
+        "9909fb0aacb4a219f4b3cb8f57f63a87": {
+            "text": "T\u0159\u00edda pro zarovn\u00e1n\u00ed obr\u00e1zku vlevo"
+        },
+        "5e37ad68682589a77a924cdffb018f23": {
+            "text": "T\u0159\u00edda pro zarovn\u00e1n\u00ed obr\u00e1zku vpravo"
+        },
+        "9d2836f3ff372cd7964b90d118710202": {
+            "text": "T\u0159\u00edda pro zarovn\u00e1n\u00ed obr\u00e1zku na st\u0159ed"
+        },
+        "4e641cf2fc3e46719b2e78d8ab8c6c2e": {
+            "text": "Tahem za prav\u00fd doln\u00ed roh obr\u00e1zku, m\u016f\u017eete zm\u011bnit jeho velikost."
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Popis"
+        },
+        "36171be725b020fde0f22b3ceb047280": {
+            "text": "N\u00e1zvy pol\u00ed, kter\u00e1 budou p\u0159i v\u00fdb\u011bru vynech\u00e1na"
+        },
+        "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
+            "text": "Zadejte n\u00e1zvy \"image\" pol\u00ed (odd\u011blen\u00fdch mezerou),  kter\u00fdm nechete povolit v\u00fdb\u011br t\u00edmto modulem."
+        }
+    }
+}

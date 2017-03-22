@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "a528ac2d2f326703f458dec14cba03e5": {
+            "text": "Automatick\u00e9 na\u010dten\u00ed (Autojoin)"
+        },
+        "4cc6684df7b4a92b1dec6fce3264fac8": {
+            "text": "Glob\u00e1ln\u00ed (Global)"
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Pokud je za\u0161krtl\u00e9, v\u0161echny str\u00e1nky budou toto pole vy\u017eadovat. Bude automaticky p\u0159id\u00e1no do v\u0161ech skupin pol\u00ed a \u0161ablon\u00e1m, kter\u00e9 ho je\u0161t\u011b nemaj\u00ed. Neznamen\u00e1 to, \u017ee je vy\u017eadovan\u00e1 vypln\u011bn\u00e1 hodnota tohoto pole, ale pouze  \u017ee pole existuje a je mo\u017en\u00e9 ho upravovat ve v\u0161ech str\u00e1nk\u00e1ch."
+        },
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Pokud je za\u0161krtl\u00e9, budou data tohoto pole nahr\u00e1na s ka\u017edou instanc\u00ed str\u00e1nky bez ohledu na to, zda je pole pr\u00e1v\u011b pou\u017e\u00edv\u00e1no. Neza\u0161krtl\u00e1 volba zp\u016fsob\u00ed \u017ee budou data nahr\u00e1na na po\u017e\u00e1d\u00e1n\u00ed a pouze pokud je k poli p\u0159istupov\u00e1no."
+        }
+    }
+}

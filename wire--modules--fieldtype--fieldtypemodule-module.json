@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeModule.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypemodule-module",
+    "translations": {
+        "335fdfd0673e7e457d51384f686b00dc": {
+            "text": "N\u00e1zev modulu"
+        },
+        "40e27ece1fd60ce7081fd3084e866820": {
+            "text": "Typy modulu"
+        },
+        "e4b9c7449faedd6b2667e3db22d04cc1": {
+            "text": "Zkontrolujte v\u0161echny typy modul\u016f, kter\u00e9 budou dostupn\u00e9 v tomto poli. (selectable in this field)"
+        },
+        "4aa842af483898d272ce5ea136a446d3": {
+            "text": "Ud\u011blat z toto pole instanci vybran\u00e9ho modulu?"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "V\u00fdb\u011br (Select)"
+        },
+        "1d4b3399eb44d29f0188147089a9fb8a": {
+            "text": "Je-li za\u0161krtnuto, bude hodnota pole aktu\u00e1ln\u00ed instanc\u00ed vybran\u00e9ho modulu. Pokud nen\u00ed za\u0161krtnuto, bude hodnota pole \u0159et\u011bzec obsahuj\u00edc\u00ed n\u00e1zev t\u0159\u00eddy (class name) modulu."
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Typ vstupu"
+        },
+        "d5a4c326398e96cdf97b6d4a3cc300c1": {
+            "text": "P\u0159ep\u00edna\u010de (Radios)"
+        },
+        "bbddef2b960b6e14a0c9510c2312192e": {
+            "text": "Popisky voleb"
+        },
+        "0900a3f6adfa931e0130c02c436e7e7f": {
+            "text": "N\u00e1zev t\u0159\u00eddy modulu (Module Class Name)"
+        }
+    }
+}

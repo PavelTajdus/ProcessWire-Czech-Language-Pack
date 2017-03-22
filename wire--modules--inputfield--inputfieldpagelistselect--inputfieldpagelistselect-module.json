@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselect-module",
+    "translations": {
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Zm\u011bnit"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Zru\u0161it"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Vybrat"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Zru\u0161it v\u00fdb\u011br"
+        },
+        "417c313c31381894998d5fa72eac82c8": {
+            "text": "Nen\u00ed mo\u017en\u00e9 vykreslit toto pole z d\u016fvodu chyb\u011bj\u00edc\u00ed rodi\u010dovsk\u00e9 str\u00e1nky v nastaven\u00edch pole."
+        },
+        "a140a80c76193cb5a6bd75c2f9a13393": {
+            "text": "V\u00fdb\u011br jedn\u00e9 str\u00e1nky ze stromov\u00e9ho seznamu str\u00e1nek ProcessWire"
+        },
+        "9f3f3426fca77479498742b32c7d5d31": {
+            "text": "V\u00fdb\u011br str\u00e1nky (Page List Select)"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "V\u00edce"
+        }
+    }
+}

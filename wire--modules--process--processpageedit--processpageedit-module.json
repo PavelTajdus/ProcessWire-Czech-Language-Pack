@@ -1,0 +1,201 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/ProcessPageEdit.module",
+    "textdomain": "wire--modules--process--processpageedit--processpageedit-module",
+    "translations": {
+        "7ba9fe21b073af37b16f989e23112967": {
+            "text": "Nezn\u00e1m\u00e1 str\u00e1nka"
+        },
+        "b8e75fd085c6615286cee6fdc4e880ec": {
+            "text": "Tato str\u00e1nka je uzam\u010dena pro \u00fapravy"
+        },
+        "386397f000925f7d90c87a913a678eed": {
+            "text": "Nem\u00e1te pr\u00e1va k \u00faprav\u011b"
+        },
+        "df74a326081d841aef061c999c7979f3": {
+            "text": "Zm\u011bnit: %s"
+        },
+        "c0df350b3d4fe22546834d74cdc77023": {
+            "text": "Zve\u0159ejn\u011bna str\u00e1nka: %s"
+        },
+        "9ce0bc0d85071636f750e39ea86f86c0": {
+            "text": "Ulo\u017eena str\u00e1nka: %s"
+        },
+        "f15c1cae7882448b3fb0404682e17e61": {
+            "text": "Obsah"
+        },
+        "a1c508c8dcf832bde214942a479c63e5": {
+            "text": "Tato str\u00e1nka sa nach\u00e1z\u00ed v ko\u0161i"
+        },
+        "2cb4bb1ee54691377c8778a8823eb4dd": {
+            "text": "Tato str\u00e1nka nen\u00ed zve\u0159ejn\u011bna"
+        },
+        "404dd23de1c6c7edc7927e5262b93a1b": {
+            "text": "Ulo\u017eit + Nezve\u0159ej\u0148ovat"
+        },
+        "110a4b01beabd53b661a47d4b44bd7a8": {
+            "text": "Zve\u0159ejnit"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Ulo\u017eit"
+        },
+        "64e4aca4297806247f62a7b5f8cbd3df": {
+            "text": "Podstr\u00e1nky"
+        },
+        "9b30437c5e1e966fa90525c93356fd3f": {
+            "text": "Podstr\u00e1nky"
+        },
+        "a13cc55582da47cab1f7cc7518700c6e": {
+            "text": "P\u0159idat novou str\u00e1nku"
+        },
+        "7e92f49c92e3f91ed88f03063fc34748": {
+            "text": "Nastaven\u00ed \u0159azen\u00ed"
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "Nastaven\u00ed"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "\u0160ablona"
+        },
+        "1ad359c38781f8fc924a380559d60c42": {
+            "text": "Vytvo\u0159eno u\u017eivatelem"
+        },
+        "4059b0251f66a18cb56f544728796875": {
+            "text": "Informace"
+        },
+        "0fdd10ee950975e58b122abb2de3a49b": {
+            "text": "Neve\u0159ejn\u00e1: nen\u00ed na str\u00e1nk\u00e1ch vid\u011bt"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Stav"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Vymazat"
+        },
+        "aa47bb0913144619a0a9abc59d59d6ed": {
+            "text": "Trvale vymazat"
+        },
+        "7a289ea949902e8fa53efb4b3b4ccea0": {
+            "text": "P\u0159esunout do ko\u0161e"
+        },
+        "62a92c8e1a013dc0c9a67f2769642e9f": {
+            "text": "Za\u0161krtn\u011bte pol\u00ed\u010dko pro potvrzen\u00ed akce."
+        },
+        "6e2e3de95055596f315a073f771342e3": {
+            "text": "Moment\u00e1ln\u011b nelze tuto str\u00e1nku vymazat."
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Zobrazit"
+        },
+        "d2387a51d9f67d60dfc2cbb23bd04af2": {
+            "text": "Kdo m\u016f\u017ee p\u0159istupovat k t\u00e9to str\u00e1nce?"
+        },
+        "36c2b914f293a142343cba0f3157d748": {
+            "text": "Co m\u016f\u017eou d\u011blat"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(v\u0161ichni)"
+        },
+        "eec429d33814974270e5ab8a04a3d23e": {
+            "text": "P\u0159\u00edstup je definov\u00e1n v \u0161ablon\u011b: %s"
+        },
+        "890e4f4dd63b6c580cbf534f25914565": {
+            "text": "P\u0159\u00edstup je zd\u011bd\u011bn\u00fd ze str\u00e1nky \"%1$s\" a je definovan\u00fd v \u0161ablon\u011b: %2$s"
+        },
+        "17f8097b4af11ef352554fc7dd416c34": {
+            "text": "\u0160ablona '%s' nen\u00ed povolena"
+        },
+        "c4101b17a6f3bb8ffbe40eb9edef2347": {
+            "text": "Tato str\u00e1nka nen\u00ed smazateln\u00e1"
+        },
+        "827884bd1b673b7e58def7d09bf59b8b": {
+            "text": "Vymazan\u00e1 str\u00e1nka: %s"
+        },
+        "a419fb9d9fe259c36eb1e4a99462bd1f": {
+            "text": "Str\u00e1nka p\u0159esunut\u00e1 do ko\u0161e: %s"
+        },
+        "6c86eb040dbb20b1c6e1e891774b27ac": {
+            "text": "Nen\u00ed mo\u017en\u00e9 p\u0159esunout str\u00e1nku do ko\u0161e"
+        },
+        "8f1db4fbdd736bfc472e99f61be9e56f": {
+            "text": "Zm\u011bnit \u0161ablonu z \"%1$s\" na \"%2$s\""
+        },
+        "11daf8e4f72e87c440ed3e0cac443157": {
+            "text": "Potvrdit zm\u011bnu \u0161ablony"
+        },
+        "48af63aeec834982fcf91e325aaea998": {
+            "text": "Varov\u00e1n\u00ed, zm\u011bna \u0161ablony vyma\u017ee tyto pole:"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Jste si jisti?"
+        },
+        "e4c2fcbaac781d00fe1e192a4d94c0e9": {
+            "text": "Pros\u00edm potvr\u010fte, \u017ee ch\u00e1pete v\u00fd\u0161e uveden\u00e9 upozorn\u011bn\u00ed a klikn\u011bte na n\u00ed\u017ee um\u00edst\u011bn\u00e9 za\u0161krt\u00e1vac\u00ed pol\u00ed\u010dko."
+        },
+        "6b102e11bd33fb8f4be6a6cecf2c491b": {
+            "text": "Na t\u00e9to str\u00e1nce nem\u00e1te pr\u00e1va m\u011bnit \u0161ablonu."
+        },
+        "854de5f33bda667c67117b0aaee5a9cf": {
+            "text": "Nepovolen\u00e1 \u0161ablona"
+        },
+        "265dabf958cffe4bf96d445dcddf8678": {
+            "text": "%d zm\u011bna"
+        },
+        "4e5878c0e4b4e901ee96c19e7fd05914": {
+            "text": "%d zm\u011bny"
+        },
+        "d49042595c2674084c92d561b714d522": {
+            "text": "Opa\u010dn\u00fd sm\u011br \u0159azen\u00ed?"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Rodi\u010d"
+        },
+        "567d412904b379e49382b6e3b90881ca": {
+            "text": "Vytvo\u0159il: %1$s dne %2$s"
+        },
+        "1dec6a532601f755520b9567091e1bf8": {
+            "text": "Naposledy upravil: %1$s dne %2$s"
+        },
+        "cacab211629daeffac10e13574e49d9e": {
+            "text": "Skryta: vylou\u010dena ze seznam\u016f a vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "ab4b835121255016ef73bea7f4ea45a7": {
+            "text": "Zamknuta: nelze upravit"
+        },
+        "d4ad7f8661990f191def1fb3a6accbd9": {
+            "text": "\u0160ablona zm\u011bn\u011bna na '%s'"
+        },
+        "7ddc881b8c4b63699dd8487273384a38": {
+            "text": "Podstr\u00e1nky jsou \u0159azen\u00e9 podle"
+        },
+        "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
+            "text": "Tato str\u00e1nka nem\u00e1 \u017e\u00e1dn\u00e9ho potomka\/podstr\u00e1nky."
+        },
+        "591acadb8502cd6db313b718df45a6f4": {
+            "text": "Nativn\u00ed pole"
+        },
+        "833956a760d996ae61ea8b385e9fb6f0": {
+            "text": "Vlastn\u00ed pole"
+        },
+        "421318b075c43ddcd5426197f778c43c": {
+            "text": "Nelze zve\u0159ejnit dokud nebudou opraveny chyby"
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Podstr\u00e1nky jsou \u0159azeny podle \"%s\", dle nastaven\u00ed \u0161ablony."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ne\u0159adit"
+        },
+        "20a90cbb1d0984f5ecf4fe0cf01fe47e": {
+            "text": "Ru\u010dn\u00ed drag-n-drop"
+        },
+        "ea1a60a080fc428d2c18d9e6d33ded08": {
+            "text": "Pro \u0159azen\u00ed podstr\u00e1nek podle ur\u010dit\u00e9ho pole, vyberte po\u017eadovan\u00e9 pole n\u00ed\u017ee. Voliteln\u011b lze obr\u00e1tit sm\u011br \u0159azen\u00ed. Pokud zde nic nevyberete, p\u016fjdou podstr\u00e1nky p\u0159esouvat my\u0161\u00ed podle va\u0161ich pot\u0159eb.  "
+        },
+        "7b9bb8a9e6b0d2b64837e652485e11c9": {
+            "text": "Upravit str\u00e1nku: %s"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Potvrdit"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/PageRender.module",
+    "textdomain": "wire--modules--pagerender-module",
+    "translations": {
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "P\u0159id\u00e1 metodu vykreslov\u00e1n\u00ed (render method) do str\u00e1nky a pou\u017e\u00edv\u00e1 mezipam\u011b\u0165 (cache) pro v\u00fdstup str\u00e1nky."
+        },
+        "3a160df105e3d9d54575466354bdd312": {
+            "text": "Vykreslov\u00e1n\u00ed str\u00e1nky (Page Render)"
+        },
+        "403c89515b16b3417cd2e426612b4a53": {
+            "text": "Vymaz\u00e1no %d cache soubor\u016f pro %d str\u00e1nek"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "Vymazat \"Page Render Disk Cache\" ?"
+        },
+        "b4999a543edcfefc8c56ed6eafdcb98f": {
+            "text": "V sou\u010dasn\u00e9 dob\u011b je %d str\u00e1nek v mezipam\u011bti (cached) %s"
+        }
+    }
+}

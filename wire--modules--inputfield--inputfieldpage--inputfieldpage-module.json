@@ -1,0 +1,99 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPage\/InputfieldPage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpage--inputfieldpage-module",
+    "translations": {
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "P\u0159\u00edklad:"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(v\u00fdchoz\u00ed)"
+        },
+        "881b1a7b97bc4d70099cc59a53e8a8e5": {
+            "text": "Typ vstupn\u00edho pole"
+        },
+        "e3cada644043c81e6ff21250f2e53f3a": {
+            "text": "Nov\u00e9 str\u00e1nky budou p\u0159id\u00e1ny do %s"
+        },
+        "f0670991d41b78617ca7810b7ce334b9": {
+            "text": "P\u0159id\u00e1na str\u00e1nka %s"
+        },
+        "29b43e0c70cb336d03f04f3f06a8789d": {
+            "text": "Chyba pri p\u0159id\u00e1v\u00e1n\u00ed str\u00e1nky \"%s\""
+        },
+        "49e5878c7a1901b0a9baae9e0c774150": {
+            "text": "Vytvo\u0159it novou"
+        },
+        "6dc3e540b29f68e1eaf558b6a2edd476": {
+            "text": "Vlo\u017ete n\u00e1zvy polo\u017eek, kter\u00e9 chcete p\u0159idat, jednu na \u0159\u00e1dek. Polo\u017eky budou vytvo\u0159eny a p\u0159id\u00e1ny k v\u00fdb\u011bru po ulo\u017een\u00ed."
+        },
+        "b82b34c94588fc88ca4a6b18f5e18aef": {
+            "text": "Vlo\u017ete n\u00e1zev polo\u017eky, kterou chcete p\u0159idat. Polo\u017eka bude p\u0159id\u00e1na k v\u00fdb\u011bru po ulo\u017een\u00ed."
+        },
+        "bb990f9776c28444dad4fa48fb2c946c": {
+            "text": "Popisek pole"
+        },
+        "8332fcbd80839cdcc617bee49529ad1e": {
+            "text": "Povolit z tohoto pole vytv\u00e1\u0159en\u00ed nov\u00fdch str\u00e1nek?"
+        },
+        "7673446b991c59998763308c9f7f5d53": {
+            "text": "1. V\u00fd\u0161e mus\u00ed b\u00fdt vybr\u00e1n rodi\u010d i \u0161ablona."
+        },
+        "962f1366aaa6f1c636d3214e12322362": {
+            "text": "Voliteln\u00e9 str\u00e1nky (Selectable Pages)"
+        },
+        "21348aafc8733099a5b3c20e4a90e7b4": {
+            "text": "Rodi\u010d voliteln\u00e9 str\u00e1nky\/str\u00e1nek"
+        },
+        "5b0591013bf2cac5ee96f90e31a5b2e9": {
+            "text": "Vyberte rodi\u010de voliteln\u00fdch str\u00e1nek."
+        },
+        "dceea0994df5640514b906a18a43810f": {
+            "text": "\u0160ablona voliteln\u00fdch str\u00e1nek"
+        },
+        "9f80067ff42d8e69d0c3a24b67ef4c85": {
+            "text": "Vyberte \u0161ablonu voliteln\u00fdch str\u00e1nek. M\u016f\u017ee b\u00fdt pou\u017eita v nebo bez z\u00e1vislosti na rodi\u010di v\u00fd\u0161e. Pozn\u00e1mka: Nen\u00ed kompatibiln\u00ed s polem typu PageListSelect."
+        },
+        "53158583a607fba6e71f0f18d73a910b": {
+            "text": "Vlastn\u00ed selektor pro nalezen\u00ed voliteln\u00fdch str\u00e1nek"
+        },
+        "d04c6c77608855a3ff0fb3ee32a2cd53": {
+            "text": "Vlastn\u00ed PHP k\u00f3d pro nalezen\u00ed voliteln\u00fdch str\u00e1nek"
+        },
+        "e5c1791ec6a73eed5d8a7002e2799470": {
+            "text": "Vyberte pole str\u00e1nky, kter\u00e9 bude pou\u017eito pro vytv\u00e1\u0159en\u00ed popisk\u016f (labels) ka\u017ed\u00e9 voliteln\u00e9 str\u00e1nky."
+        },
+        "5b2e8722316eee4b8e200d6d07b51915": {
+            "text": "Pokud si p\u0159ejete hledat voliteln\u00e9 str\u00e1nky pomoc\u00ed vlastn\u00edho PHP k\u00f3du, ne\u017e je vyb\u00edrat zad\u00e1n\u00edm rodi\u010de nebo \u0161ablony v\u00fd\u0161e, vlo\u017ete v\u00e1\u0161 k\u00f3d. M\u00e1te p\u0159\u00edstup k prom\u011bnn\u00fdm API $page a $pages. $page odkazuje na pr\u00e1v\u011b upravovanou str\u00e1nku. Pozn\u00e1mka: Nen\u00ed kompatibiln\u00ed s poli typu PageListSelect a Autocomplete."
+        },
+        "bcf331523fb730639bde7c2e8fc4f811": {
+            "text": "Typ pole, kter\u00e9 bude pou\u017eit pro v\u00fdb\u011br str\u00e1nky. Vyberte takov\u00fd typ, kter\u00fd je v souladu s nastaven\u00edm pole zvolen\u00fdm na z\u00e1lo\u017ece \"Detaily\" (jedna\/vice str\u00e1nek)."
+        },
+        "6ad160329dd81f9ecede290bffe93928": {
+            "text": "Pokud si p\u0159ejete hledat voliteln\u00e9 str\u00e1nky pomoc\u00ed ProcessWire selectoru, ne\u017e je vyb\u00edrat zad\u00e1n\u00edm rodi\u010de nebo \u0161ablony v\u00fd\u0161e, vlo\u017ete selektor. Tento selektor bude p\u0159ed\u00e1n do $pages->find(\"v\u00e1\u0161 selector\"); "
+        },
+        "195a66e99428447940ac989366724b42": {
+            "text": "Typy ozna\u010den\u00e9 hv\u011bzdi\u010dkou jsou pro hromadn\u00fd v\u00fdb\u011br str\u00e1nek."
+        },
+        "20463a1675fc256b438538124524746a": {
+            "text": "Pokud je za\u0161krtl\u00e9 a jsou spln\u011bny n\u00e1sleduj\u00edc\u00ed podm\u00ednky, bude zobrazena volba pro p\u0159id\u00e1v\u00e1n\u00ed nov\u00fdch str\u00e1nek."
+        },
+        "65a208c6491dac4a6fb17f7a62f76658": {
+            "text": "2. U\u017eivatel upravuj\u00edc\u00ed str\u00e1nku mus\u00ed m\u00edt pr\u00e1va k vytvo\u0159en\u00ed\/zve\u0159ejn\u011bn\u00ed (create\/publish) t\u011bchto str\u00e1nek."
+        },
+        "aa2e4d260721b3a7e2776b8cb9c19fdf": {
+            "text": "3. Pole popisek (label-field ) mus\u00ed b\u00fdt nastaveno na titulek \"title (default)\"."
+        },
+        "4349c31cba02549f2043d69b9eb0d66e": {
+            "text": "(nepublikovan\u00fd)"
+        },
+        "d5a1e1e864827e2bbb99d144e30359de": {
+            "text": "V\u00fdb\u011br modul\u016f vstupn\u00edho pole (Inputfield), kter\u00e9 budou pou\u017eity pro v\u00fdb\u011br str\u00e1nek. Obecn\u011b by to m\u011bly b\u00fdt vstupn\u00ed pole, kter\u00e9 v\u00e1m umo\u017en\u00ed vybrat jednu nebo v\u00edce mo\u017enost\u00ed."
+        },
+        "d9a5927aa49f1a766a15e692b69c1c91": {
+            "text": "Moduly vstupn\u00edho pole (Inputfield) dostupn\u00e9 pro v\u00fdb\u011br str\u00e1nky"
+        },
+        "54b79da80ed98094797b9e3ee68488a6": {
+            "text": "Typy ozna\u010den\u00e9 znam\u00e9nkem plus berou rodi\u010de jako ko\u0159en stromu nam\u00edsto p\u0159\u00edm\u00e9ho rodi\u010de."
+        }
+    }
+}

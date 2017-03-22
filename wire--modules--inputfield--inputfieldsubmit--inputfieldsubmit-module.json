@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSubmit\/InputfieldSubmit.module",
+    "textdomain": "wire--modules--inputfield--inputfieldsubmit--inputfieldsubmit-module",
+    "translations": {
+        "297eb192f98270827a86fb18005b1e35": {
+            "text": "Formul\u00e1\u0159ov\u00e9 odes\u00edlac\u00ed tla\u010d\u00edtko"
+        },
+        "a4d3b161ce1309df1c4e25df28694b7b": {
+            "text": "Odeslat"
+        }
+    }
+}

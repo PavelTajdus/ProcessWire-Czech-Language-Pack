@@ -1,0 +1,54 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageClone.module",
+    "textdomain": "wire--modules--process--processpageclone-module",
+    "translations": {
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Kop\u00edrovat"
+        },
+        "779e23d04b68b9515ffc345454994895": {
+            "text": "Zkop\u00edrovat str\u00e1nku"
+        },
+        "0ac579c02e8d96b65a4bff917771b245": {
+            "text": "Nelze na\u010d\u00edst str\u00e1nku"
+        },
+        "3311bb66a5349309e01c99050e744f0b": {
+            "text": "Vytvo\u0159\u00ed kopii str\u00e1nky %s"
+        },
+        "415d40999f28fef452f65616dabfc7a0": {
+            "text": "Nastavit novou str\u00e1nku jako neve\u0159ejnou?"
+        },
+        "7e263f9f6a65e1126c6a599ea015a27c": {
+            "text": "Str\u00e1nka \"%1$s\" klonovan\u00e1 do \"%2$s\""
+        },
+        "366637b8eb1e99b85f6d6535e326a491": {
+            "text": "Klonovat str\u00e1nku"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(kopie)"
+        },
+        "884ba0e5457b084e152567fd52b66f6c": {
+            "text": "(kopie %d)"
+        },
+        "59eeb47edc78526e0e13dc0dfa8f6b07": {
+            "text": "Titulek nov\u00e9 str\u00e1nky"
+        },
+        "5061c76f17ce15eb2a6092a51cb22aa3": {
+            "text": "Zkop\u00edrovat tak\u00e9 podstr\u00e1nky?"
+        },
+        "6a26ee7a6d1234006bf3806ee697f7d0": {
+            "text": "Nelze vytvo\u0159it klon str\u00e1nky %s"
+        },
+        "a6c4c88eb6c7d256bf2e4aa56df4430f": {
+            "text": "Pokud je za\u0161krtl\u00e9, budou rekurzivn\u011b zkop\u00edrov\u00e1ny tak\u00e9 v\u0161echny podstr\u00e1nky."
+        },
+        "2627956e008c08b8affd8608d7980ff4": {
+            "text": "Je-li za\u0161krtnuto, bude klonovan\u00e1 str\u00e1nka nastavena jako neve\u0159ejn\u00e1 (nepublikov\u00e1na). Nebude zobrazena ve front-endu va\u0161eho webu."
+        },
+        "06170efdb0d3840cd32dea984d32067a": {
+            "text": "V\u00fdstraha: v p\u0159\u00edpad\u011b, \u017ee m\u00e1te velmi rozs\u00e1hlou strukturu str\u00e1nek n\u00ed\u017ee, m\u016f\u017ee b\u00fdt tato operace \u010dasov\u011b n\u00e1ro\u010dn\u00e1 nebo dokonce neuskute\u010dniteln\u00e1."
+        },
+        "fae7550bf964aa09e51752b154a6cb23": {
+            "text": "Poskytuje mo\u017enost klonovat\/kop\u00edrovat str\u00e1nky v administra\u010dn\u00edm rozhran\u00ed. P\u0159id\u00e1v\u00e1 volbu \"kop\u00edrovat\" ke v\u0161em str\u00e1nk\u00e1m v administra\u010dn\u00edm seznamu str\u00e1nek."
+        }
+    }
+}

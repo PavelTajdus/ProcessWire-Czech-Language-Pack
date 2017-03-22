@@ -1,0 +1,39 @@
+{
+    "file": "wire\/templates-admin\/debug.inc",
+    "textdomain": "wire--templates-admin--debug-inc",
+    "translations": {
+        "7421d68c70dfc346497573bf4e08acc5": {
+            "text": "Lad\u00edc\u00ed n\u00e1stroje (Debug Mode Tools)"
+        },
+        "b9a880607682d7ff74c39ef4cdefca90": {
+            "text": "Str\u00e1nky na\u010dteny"
+        },
+        "dc62e13d18c4cec89567255a0bbd8a67": {
+            "text": "API prom\u011bnn\u00e9"
+        },
+        "f929d2763e272dc4669d972bae9708e0": {
+            "text": "Moduly na\u010dteny"
+        },
+        "62483fbc1d13ed84612061e24f6e72fb": {
+            "text": "PDO dotazy ($database)"
+        },
+        "951102c6edd76f552294869d42635888": {
+            "text": "MySQLi dotazy ($db) - Zastaral\u00e9"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "U\u017eivatel"
+        },
+        "5351e7d8b45acb7070fc165ce3b738c6": {
+            "text": "Aktu\u00e1ln\u00ed role u\u017eivatele"
+        },
+        "1b272e451c327dcb796367163a2c403b": {
+            "text": "Aktu\u00e1ln\u00ed pr\u00e1va u\u017eivatele"
+        },
+        "e386ede4750a227397715b73b7727273": {
+            "text": "Aktu\u00e1ln\u00ed pr\u00e1va u\u017eivatele na t\u00e9to str\u00e1nce"
+        },
+        "71c7ae294b7abd866b3fb295b3b9e4a4": {
+            "text": "Sezen\u00ed (Session)"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "file": "wire\/core\/Inputfield.php",
+    "textdomain": "wire--core--inputfield-php",
+    "translations": {
+        "1729a56cfc89021478498fe0c89a843a": {
+            "text": "Viditelnost"
+        },
+        "49632d1c8309d42371ab31fe84d56c91": {
+            "text": "Jak m\u00e1 b\u00fdt toto pole zobrazeno v editoru?"
+        },
+        "604b97c67341baddd9547c714add721c": {
+            "text": "V\u017edy rozbaleno (v\u00fdchoz\u00ed)"
+        },
+        "d7a1a486818eebace651ff191e42984f": {
+            "text": "Zabaleno pouze pokud je pr\u00e1zdn\u00e9"
+        },
+        "996d9abb10eeff734a994fcd5b449db6": {
+            "text": "Zabaleno pouze pokud je vypln\u011bn\u00e9"
+        },
+        "c0b4e286b96d6d694cb7ecb152fe3e9d": {
+            "text": "V\u017edy zabaleno, vy\u017eaduje kliknut\u00ed pro rozbalen\u00ed"
+        },
+        "8263d549648f539508587a67f38d008b": {
+            "text": "Skryt\u00e9, nebude v editoru zobrazeno"
+        },
+        "a785c32894aad6d7c1dc826a4bc0a4a3": {
+            "text": "\u0160\u00ed\u0159ka sloupce  (%d%%)"
+        },
+        "6e18e908568ef24580d93bfd3e0f40d7": {
+            "text": "Povinn\u00e9?"
+        },
+        "c48c7243fc307fd425df738c9f0f4324": {
+            "text": "Pole bude vy\u017eadovat vypln\u011bnou hodnotu."
+        },
+        "0eb0b305235144ffe99e247b24200b09": {
+            "text": "\u0160\u00ed\u0159ka sloupce v procentech (10%-100%). Pokud bude pole um\u00edst\u011bno vedle jin\u00e9ho s redukovanou \u0161\u00ed\u0159kou, vytvo\u0159\u00ed plovouc\u00ed sloupce."
+        },
+        "8387772e28e9c2b81fa8cb674e569663": {
+            "text": "N\u00e9 v\u0161echny pole podporuj\u00ed redukci \u0161\u00ed\u0159ky. P\u0159i zm\u011bn\u011b by jste m\u011bli otestovat v\u00fdsledek."
+        },
+        "eb55ba736c30ab37baaa5d712ccb8f7f": {
+            "text": "Zamknuto, viditeln\u00e9 ale nelze editovat"
+        },
+        "c7bc3fddddb62d5b656adc30cea77a55": {
+            "text": "Prezentace"
+        },
+        "3cfa4a6238e2b559d3f52474e7545485": {
+            "text": "Zobrazit toto pole pouze tehdy, pokud ..."
+        },
+        "3b57940d51a0ed7f2d5c49363114bd0e": {
+            "text": "Zadejte podm\u00ednky, za kter\u00fdch bude pole zobrazeno."
+        },
+        "8183d67b5c53c5fb254741c64ae6f98d": {
+            "text": "Vy\u017eadov\u00e1no pouze, pokud ..."
+        },
+        "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
+            "text": "Zadejte podm\u00ednky, za kter\u00fdch bude vy\u017eadov\u00e1na vypln\u011bn\u00e1 hodnota tohoto pole."
+        },
+        "2d7ff3fa8a1a844b270d96878d358762": {
+            "text": "[V\u00edce informac\u00ed](http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/) o tom, jak pou\u017e\u00edvat tuto funkci."
+        },
+        "efdf8051d64766330e13627274b01787": {
+            "text": "Podm\u00ednky jsou vyj\u00e1d\u0159eny pomoc\u00ed \"pole=hodnota\" (\"field=value\"). Selektor obsahuj\u00edc\u00ed n\u00e1zev pole a hodnota pro vyhodnocen\u00ed podm\u00ednky. V\u00edce podm\u00ednek se odd\u011bluje \u010d\u00e1rkou. "
+        }
+    }
+}

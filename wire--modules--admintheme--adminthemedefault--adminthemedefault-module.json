@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeDefault\/AdminThemeDefault.module",
+    "textdomain": "wire--modules--admintheme--adminthemedefault--adminthemedefault-module",
+    "translations": {
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Barevn\u00e9 sch\u00e9ma"
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Klasick\u00e9 (Classic)"
+        },
+        "18297117d3d251afceed9ecbe797c849": {
+            "text": "Tepl\u00e9 (Warm)"
+        },
+        "ad1c9cd3e7b07e2c364c985f73188054": {
+            "text": "Modern\u00ed (Modern)"
+        },
+        "e23718b506da0770a65d60f908e449a7": {
+            "text": "Futuristick\u00e9 (Futura)"
+        }
+    }
+}

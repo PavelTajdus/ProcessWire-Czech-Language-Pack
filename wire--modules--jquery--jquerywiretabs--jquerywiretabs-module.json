@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Jquery\/JqueryWireTabs\/JqueryWireTabs.module",
+    "textdomain": "wire--modules--jquery--jquerywiretabs--jquerywiretabs-module",
+    "translations": {
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Nikdy"
+        },
+        "3f8dfcf012a1f2c00ebbe7cc3fe0f265": {
+            "text": "Pouze po odesl\u00e1n\u00ed formul\u00e1\u0159e"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "V\u017edy"
+        },
+        "9fdc49adcef1b65060a39f7a096d09e2": {
+            "text": "Poskytuje jQuery plugin pro generov\u00e1n\u00ed karet (tabs) v ProcessWire."
+        },
+        "d9f813a897729ef85bdc36fe6f9bc91a": {
+            "text": "Zapamatovat si pozici karty mezi po\u017eadavky?"
+        },
+        "4778324acb050ad87cef45324610ff81": {
+            "text": "Plugin jQuery Wire Tabs"
+        }
+    }
+}

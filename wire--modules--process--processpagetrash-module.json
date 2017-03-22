@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageTrash.module",
+    "textdomain": "wire--modules--process--processpagetrash-module",
+    "translations": {
+        "90e829a463f2e23bdd11a7d8dddabe7e": {
+            "text": "Ko\u0161 byl vypr\u00e1zdn\u011bn"
+        },
+        "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
+            "text": "Ko\u0161 je pr\u00e1zdn\u00fd"
+        },
+        "b93325ff37316801eaf36f95c25a75e3": {
+            "text": "V ko\u0161i jsou n\u00e1sleduj\u00edc\u00ed str\u00e1nky"
+        },
+        "206c3d86254559ad3cd3b88e8e002113": {
+            "text": "Vypr\u00e1zdnit ko\u0161"
+        },
+        "80a9994143f3ef28a7ba4fd1dd67436a": {
+            "text": "Pros\u00edm potvr\u010fte, \u017ee chcete vypr\u00e1zdnit ko\u0161."
+        },
+        "76c155bf8de0fe17853a8d8c231f72b0": {
+            "text": "Ko\u0161 str\u00e1nky (Page Trash)"
+        },
+        "920202a83e840023ebf5ac6e31ccfbf3": {
+            "text": "\u0158e\u0161\u00ed vyprazd\u0148ov\u00e1n\u00ed str\u00e1nky z ko\u0161e"
+        },
+        "1012544490a2eae7e9782116062941b6": {
+            "text": "Pokud je v ko\u0161i p\u0159\u00edli\u0161 mnoho polo\u017eek, m\u016f\u017ee b\u00fdt pot\u0159eba ho vypr\u00e1zdnit v\u00edcekr\u00e1t."
+        }
+    }
+}

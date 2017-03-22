@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessHome.module",
+    "textdomain": "wire--modules--process--processhome-module",
+    "translations": {
+        "3555f18b32d499274ee3fcfb73c15558": {
+            "text": "P\u016fsob\u00ed jako z\u00e1stupn\u00fd proces pro ko\u0159en administrace. Zaji\u0161\u0165uje \u0159\u00e1dn\u00e9 \u0159\u00edzen\u00ed toku dat po p\u0159ihl\u00e1\u0161en\u00ed."
+        },
+        "56cc559d234df2ffabc88b8926592264": {
+            "text": "\u00davod (Admin Home)"
+        }
+    }
+}

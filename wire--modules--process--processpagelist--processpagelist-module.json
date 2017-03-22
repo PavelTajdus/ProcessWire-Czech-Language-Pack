@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--process--processpagelist--processpagelist-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Zru\u0161it"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Vybrat"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Zru\u0161it v\u00fdb\u011br"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "V\u00edce"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Ta\u017een\u00edm p\u0159esunout"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Upravit"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Zobrazit"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Nov\u00e1"
+        },
+        "6bc362dbf494c61ea117fe3c71ca48a5": {
+            "text": "P\u0159esunout"
+        },
+        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
+            "text": "Vypr\u00e1zdnit"
+        },
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Zm\u011bnit"
+        },
+        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
+            "text": "Ko\u0161 je otev\u0159en\u00fd: p\u0159et\u00e1hn\u011bte sem str\u00e1nky pro smaz\u00e1n\u00ed"
+        },
+        "de306d89ec101aba6fb73c6879710e6c": {
+            "text": "404 Str\u00e1nka nebyla nalezena"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Ko\u0161"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "Administrace"
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "Po\u010det str\u00e1nek, kter\u00e9 se zobraz\u00ed p\u0159ed pou\u017eit\u00edm str\u00e1nkov\u00e1n\u00ed (pagination)."
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "Rychlost animace (ms)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "Rychlost rozbalov\u00e1n\u00ed v\u011btv\u00ed ve stromov\u00e9m seznamu str\u00e1nek. Ni\u017e\u0161\u00ed hodnota jsou rychlej\u0161\u00ed, ale m\u00e9n\u011b viditeln\u00e1. Animaci lze vypnout zad\u00e1n\u00edm hodnoty 0."
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "N\u00e1zev pole str\u00e1nky pro zobraz\u00ed"
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Toto nastaven\u00ed lze p\u0159et\u00ed\u017eit na \u00farovni \u0161ablon v kart\u011b \"Roz\u0161\u00ed\u0159en\u00e9\" nastaven\u00ed p\u0159\u00edslu\u0161n\u00e9 \u0161ablony."
+        },
+        "ae9945c00ae261445f0277fbae516179": {
+            "text": "Ka\u017ed\u00e1 str\u00e1nka ve stromov\u00e9 struktu\u0159e (PageList) je ozna\u010dena popiskem, typicky n\u00e1zvem (title) nebo titulkem (headline field). M\u016f\u017eete ur\u010dit, kter\u00e9 pole se zde bude pou\u017e\u00edvat. Chcete-li zadat v\u00edce pol\u00ed, odd\u011blte ka\u017ed\u00fd n\u00e1zev pole mezerou. Pokud pole vrac\u00ed objekt (nap\u0159\u00edklad jinou str\u00e1nku), zadejte vlastnost (property) pomoc\u00ed te\u010dky, tj. anotherpage.title. \r\nV\u0161imn\u011bte si, \u017ee v p\u0159\u00edpad\u011b, \u017ee zadan\u00e9 pole vrac\u00ed pr\u00e1zdnou hodnotu pak bude ProcessWire pou\u017e\u00edvat pole s n\u00e1zvem \"name\" str\u00e1nky."
+        }
+    }
+}

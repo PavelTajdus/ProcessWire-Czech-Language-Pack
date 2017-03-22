@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Pokud bude va\u0161e pole obsahovat v\u00edce str\u00e1nek, m\u011bli byste zvolit prvn\u00ed mo\u017enost (PageArray). Pokud bude va\u0161e pole obsahovat pouze jednu str\u00e1nku, vyberte jednu z voleb \"Jedna str\u00e1nka\" (pokud si nejste jisti, vyberte posledn\u00ed mo\u017enost)."
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "V\u00edce str\u00e1nek (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "Jedna str\u00e1nka (Page) nebo hodnota boolean false, pokud nen\u00ed vybr\u00e1na \u017e\u00e1dn\u00e1 str\u00e1nka"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "Jedna str\u00e1nka (Page) nebo pr\u00e1zdn\u00e1 str\u00e1nka (NullPage), pokud nen\u00ed vybr\u00e1na \u017e\u00e1dn\u00e1"
+        },
+        "d1d7182c9905811b10bcd1f5bdcb9eda": {
+            "text": "Dereference v API jako"
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Povolit nepublikovan\u00e9 str\u00e1nky?"
+        },
+        "58b4f6dae2009a3d22a395a94de85360": {
+            "text": "Pokud je za\u0161krtnuto, budou povoleny nepublikovan\u00e9 str\u00e1nky jako hodnoty pole. Neve\u0159ejn\u00e9 str\u00e1nky se neobjev\u00ed ve front-endu, s v\u00fdjimkou t\u011bch s pr\u00e1vy pro \u00fapravu (edit access)."
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Naj\u00edt a vymazat neplatn\u00e9 odkazy na str\u00e1nky"
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Upozorn\u011bn\u00ed:  P\u0159ed spu\u0161t\u011bn\u00edm t\u00e9to funkce, z\u00e1lohujte datab\u00e1zi (pro v\u011bt\u0161\u00ed bezpe\u010dnost)."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Prob\u00edh\u00e1 hled\u00e1n\u00ed a \u010di\u0161t\u011bn\u00ed ..."
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Toto odstran\u00ed probl\u00e9m ve star\u0161\u00edch verz\u00edch ProcessWire, kter\u00e9 mohly zanechat neplatn\u00e9 reference str\u00e1nek pro odstran\u011bn\u00e9 str\u00e1nky. Pokud dost\u00e1v\u00e1te nep\u0159esn\u00e9 v\u00fdsledky z vyhled\u00e1vac\u00edch operac\u00ed str\u00e1nek (zejm\u00e9na u selektor\u016f pou\u017e\u00edvaj\u00edc\u00edch pageref.count), pak tuto funkci spus\u0165te."
+        }
+    }
+}

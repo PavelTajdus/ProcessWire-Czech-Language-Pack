@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Aktivn\u00ed?"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "Prefix str\u00e1nky pro str\u00e1nkov\u00e1n\u00ed (pagination)"
+        },
+        "6119a76d8e8915737cda0e4151922c06": {
+            "text": "\u010c\u00edslo str\u00e1nky je p\u0159ipojeno k tomuto slovu v o\u010d\u00edslovan\u00e9m URL pro tento jazyk. Pokud je vynech\u00e1no, pou\u017eije se \"% s\"."
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "Je v\u00fdchoz\u00ed URL adresa jazyka (language homepage URL) stejn\u00e1 jako URL adresa ke ko\u0159enu webu (root URL)?"
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Zvolte Ano pokud chcete aby byla domovsk\u00e1 str\u00e1nka v\u00fdchoz\u00edho jazyka dostupn\u00e1 p\u0159es ko\u0159enovou URL \/ (doporu\u010deno). Zvolte NE pokud chcete, aby do\u0161lo k p\u0159esm\u011brov\u00e1n\u00ed ko\u0159enov\u00e9 URL adresy na \/n\u00e1zev\/ (kde \/n\u00e1zev\/ je v\u00fdchoz\u00ed jazyk va\u0161\u00ed domovsk\u00e9 str\u00e1nky). "
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "Toto nastaven\u00ed m\u00e1 vliv pouze na chov\u00e1n\u00ed domovsk\u00e9 str\u00e1nky. Zvol\u00edte-li Ne, mus\u00edte zajistit, aby m\u011bla va\u0161e str\u00e1nka definovan\u00fd n\u00e1zev pro v\u00fdchoz\u00ed (default) jazyk."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "Ano - ko\u0159enov\u00e1 URL adresa pod\u00e1v\u00e1 v\u00fdchoz\u00ed jazyk domovsk\u00e9 str\u00e1nky (doporu\u010deno)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "Ne - Ko\u0159enov\u00e1 URL adresa prov\u00e1d\u00ed p\u0159esm\u011brov\u00e1n\u00ed na: \/n\u00e1zev\/"
+        }
+    }
+}

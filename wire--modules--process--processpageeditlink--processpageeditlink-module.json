@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module",
+    "textdomain": "wire--modules--process--processpageeditlink--processpageeditlink-module",
+    "translations": {
+        "0f1d07df1a82d22e187c72bacabc1117": {
+            "text": "Vybrat str\u00e1nku"
+        },
+        "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
+            "text": "Odkaz na URL"
+        },
+        "d0371b1908138f8cd5be5356ef5a46ab": {
+            "text": "Odkaz na str\u00e1nku"
+        },
+        "629ea6ac7fee06a764a49cb39bd356d9": {
+            "text": "Spustit v nov\u00e9m okn\u011b?"
+        },
+        "149a978aed458d66e08de0460cdbf65e": {
+            "text": "Odkaz na soubor"
+        },
+        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
+            "text": "Vlo\u017ete URL, vyberte str\u00e1nku nebo soubor pro vytvo\u0159en\u00ed odkazu:"
+        },
+        "1f3e9bfe3126acfe0af746ec6ed2db68": {
+            "text": "Je-li za\u0161krtnuto, bude odkaz otev\u0159en v nov\u00e9m okn\u011b."
+        },
+        "27c6c65717076df3e127c24bee401fa7": {
+            "text": "Pro vybr\u00e1n\u00ed souboru z jin\u00e9 str\u00e1nky, klikn\u011bte na 'Odkaz na str\u00e1nku' v\u00fd\u0161e a vyberte str\u00e1nku kter\u00e1 obsahuje po\u017eadovan\u00fd soubor."
+        },
+        "7ac547b42cb510a9564daab982ac839a": {
+            "text": "Odkaz na podstr\u00e1nku"
+        },
+        "d6610e6929ce3f2c5d432efd8cb96097": {
+            "text": "Toto je stejn\u00e9 jako \"Odkaz na str\u00e1nku\" v\u00fd\u0161e, ale je rychlej\u0161\u00ed pokud vytv\u00e1\u0159\u00edte odkaz na potomka sou\u010dasn\u00e9 str\u00e1nky."
+        },
+        "eb629addbfc0dd4a0353d6defff81923": {
+            "text": "Typ URL pro odkazy na str\u00e1nky"
+        },
+        "6b02648ef824ca0a58b9a40518ff1152": {
+            "text": "Absolutn\u00ed (v\u00fdchoz\u00ed)"
+        },
+        "2c8a0fad581fd58be051633bfdaa53d0": {
+            "text": "Relativn\u00ed URL adresy pouze ve stejn\u00e9 v\u011btvi (same branches only)"
+        },
+        "4750338c560d44be6d53bd75e386a966": {
+            "text": "V\u017edy relativn\u00ed URL adresy"
+        },
+        "2453cc3c047929e3210a51607202b8bb": {
+            "text": "*Experiment\u00e1ln\u00ed funkce"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldMarkup.module",
+    "textdomain": "wire--modules--inputfield--inputfieldmarkup-module",
+    "translations": {
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Form\u00e1tova\u010de textu (Text Formatters)"
+        },
+        "0a803ca330899c7b7eb07d290ebbb5e8": {
+            "text": "Pokud pou\u017e\u00edv\u00e1te oby\u010dejn\u00e9 HTML, nemus\u00edte cht\u00edt vybrat \u017e\u00e1dn\u00fd form\u00e1tova\u010d textu."
+        },
+        "2ea61fab9633ba2efc3af0e85f8859f9": {
+            "text": "Text se zna\u010dkami"
+        },
+        "7b332ecb7817aa0e0d772e9220b5eae9": {
+            "text": "Vyberte form\u00e1t textu s podporou zna\u010dek nebo form\u00e1tova\u010de, kter\u00e9 na n\u011bj budou uplatn\u011bny v po\u0159ad\u00ed, ve kter\u00e9m je chcete aplikovat."
+        },
+        "e51e08a727173e8719e480316459991e": {
+            "text": "Zna\u010dka (Markup)"
+        },
+        "29513c0a079504b7b1ba10953d7270ac": {
+            "text": "Obsahuje ostatn\u00ed pole podporuj\u00edc\u00ed zna\u010dky(markup) a voliteln\u011b i pod\u0159\u00edzen\u00e1 vstupn\u00ed pole (Inputfields)"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/AdminTheme.php",
+    "textdomain": "wire--core--admintheme-php",
+    "translations": {
+        "1e7f9a369b1d2688c0a9de0ba9adeb43": {
+            "text": "Chcete-li pou\u017e\u00edt tento motiv, vyberte jej z va\u0161eho u\u017eivatelsk\u00e9ho profilu."
+        },
+        "e3d8856720f3539d3fd3e02238f095ef": {
+            "text": "Pole \"admin_theme\" bylo nainstalov\u00e1no a p\u0159id\u00e1no do nastaven\u00ed u\u017eivatelsk\u00e9ho profilu."
+        },
+        "40c0ca08425d862d797f41d0fe0ff368": {
+            "text": "Pole \"admin_theme\" bylo odstran\u011bno ze syst\u00e9mu."
+        }
+    }
+}

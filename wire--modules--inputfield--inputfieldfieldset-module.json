@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFieldset.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfieldset-module",
+    "translations": {
+        "80b64fcc30458532fff6446e92e98c54": {
+            "text": "Skupiny jednoho nebo v\u00edce pol\u00ed v kontejneru"
+        },
+        "5b3a50aadfa94048d38820473b25ec57": {
+            "text": "Skupiny pol\u00ed (Fieldset)"
+        }
+    }
+}

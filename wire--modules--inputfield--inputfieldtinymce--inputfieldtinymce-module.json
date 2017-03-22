@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTinyMCE\/InputfieldTinyMCE.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtinymce--inputfieldtinymce-module",
+    "translations": {
+        "9cfefed8fb9497baa5cd519d7d2bb5d7": {
+            "text": "cs"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Zru\u0161it"
+        },
+        "259738ca35a086ce9d269623e5ab5d37": {
+            "text": "Vlo\u017eit odkaz"
+        },
+        "446a6000511ab6fb0711400379a62a04": {
+            "text": "Vybrat obr\u00e1zek"
+        },
+        "03274f27f51f0c39e06e0e6cd07e01a9": {
+            "text": "Upravit obr\u00e1zek"
+        },
+        "586dfebdb944d7af7c4720be84d7fa50": {
+            "text": "Ukl\u00e1d\u00e1n\u00ed obr\u00e1zku"
+        },
+        "941c891be23b6a837de1d46c30efad2a": {
+            "text": "Vlo\u017eit tento obr\u00e1zek"
+        },
+        "a616a1ef7aa1ee32d7d31c742923a202": {
+            "text": "Vybrat jin\u00fd obr\u00e1zek"
+        },
+        "c52cec1acd3726638b497fc3b39cb851": {
+            "text": "Pokro\u010dil\u00e1 nastaven\u00ed TinyMCE"
+        },
+        "96b75e3952ad31abfa95420bdb00cec3": {
+            "text": "P\u0159\u00edklad: \/site\/templates\/styles\/content.css"
+        },
+        "5e0f16068f575dd9db39e18c16f0522f": {
+            "text": "Dodate\u010dn\u00e1 nastaven\u00ed TinyMCE"
+        },
+        "05c89e10b124c14e5502e938a4cfc7e2": {
+            "text": "P\u0159\u00edklad: theme_advanced_styles:Header 1=header1;Header 2=header2;Header 3=header3;Table Row=tableRow1"
+        },
+        "af33d545f762188f4ac0cbf35c07d1a3": {
+            "text": "P\u0159\u00edklad: bramus_cssextras : \/site\/tinymce\/myplugins\/bramus_cssextras"
+        },
+        "9247ce0e73d45c25608e5e5fac2d781c": {
+            "text": "N\u00e1sleduj\u00edc\u00ed pole jsou specifick\u00e1 pro TinyMCE a podrobnosti o t\u011bchto volb\u00e1ch jsou dostupn\u00e1 na str\u00e1nk\u00e1ch TinyMCE. Pokud nezn\u00e1te konfiguraci TinyMCE je lep\u0161\u00ed ponechat p\u0159ednastaven\u00e9 volby."
+        },
+        "e9cc0e7796a91954d22c949695a127f7": {
+            "text": "Pokud chcete nastavit dal\u0161\u00ed (v\u00fd\u0161e nepokryt\u00e9) TinyMCE volby, zadejte jednu na \u0159\u00e1dek ve form\u00e1tu kl\u00ed\u010d:hodnota."
+        },
+        "c0c126335fecd7cae389dfbf58c5622d": {
+            "text": "Voliteln\u011b lze nastavit URL adresa k souboru content.css (relativn\u00ed cesta z ko\u0159enov\u00e9ho adres\u00e1\u0159e str\u00e1nek). TinyMCE bude tento soubor pou\u017e\u00edvat pro jeho 'content_css' m\u00edsto v\u00fdchoz\u00edho \/wire\/modules\/Inputfield\/InputfieldTinyMCE\/content.css. V\u00e1\u0161 content.css by m\u011bl obsahovat i styly z v\u00fdchoz\u00edho: .align_left, .align_right, and .align_center"
+        },
+        "060cba1f9aaf01aa7573c92e30e634d8": {
+            "text": "Voliteln\u011b lze p\u0159idat i roz\u0161\u00ed\u0159en\u00ed od t\u0159et\u00edch stran (custom third-party TinyMCE plugins). Zadejte jeden na \u0159\u00e1dek ve form\u00e1tu kl\u00ed\u010d:hodnota, kde kl\u00ed\u010d je n\u00e1zev pluginu a hodnota je cesta k pluginu."
+        },
+        "cc622260b5aec87bc7427108ffc573ab": {
+            "text": "Jako v\u00fdborn\u00e1 alternativu k TinyMCE editoru m\u016f\u017eete poslou\u017eit modul [CKEditor](http:\/\/modules.processwire.com\/modules\/inputfield-ckeditor\/), kter\u00fd je dostupn\u00fd v [adres\u00e1\u0159i modul\u016f](http:\/\/modules.processwire.com\/)."
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageType\/ProcessPageType.module",
+    "textdomain": "wire--modules--process--processpagetype--processpagetype-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "N\u00e1zev"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "P\u0159idat"
+        },
+        "89872ab3eb9af52f34b4dd82077758fc": {
+            "text": "Filtrovat podle \u0161ablony"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Zobrazit v\u0161e"
+        },
+        "6a5b847af3d97df722040debdbccfbed": {
+            "text": "Typ str\u00e1nky (Page Type)"
+        },
+        "3d10fda1b8b9895bade8da5233636cbf": {
+            "text": "Zobraz\u00ed, uprav\u00ed a p\u0159id\u00e1 str\u00e1nky ur\u010dit\u00e9ho typu"
+        },
+        "bce455aa81509f2a4dbb9acb3581a0be": {
+            "text": "Kter\u00e1 pole budou zobrazena v seznamu str\u00e1nky?"
+        }
+    }
+}

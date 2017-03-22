@@ -1,0 +1,57 @@
+{
+    "file": "wire\/templates-admin\/default.php",
+    "textdomain": "wire--templates-admin--default-php",
+    "translations": {
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "Str\u00e1nky"
+        },
+        "ad2376beebecdcf7846ba973fa1a005b": {
+            "text": "Nastaven\u00ed"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "Moduly"
+        },
+        "bf733d8a933c1601697f364223fc7ecb": {
+            "text": "P\u0159\u00edstupy"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "Administrace"
+        },
+        "a7d6475ec8993b7224d6facc8cb0ead6": {
+            "text": "Str\u00e1nky"
+        },
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "Zobrazit str\u00e1nky"
+        },
+        "3a08e2e340ab29fd9263af48193cbf8e": {
+            "text": "Jazyky"
+        },
+        "f9aae5fda8d810a29f12d1e61b4ab25f": {
+            "text": "U\u017eivatel\u00e9"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Role"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Pr\u00e1va"
+        },
+        "7df96b18c230f90ada0a9e2307226338": {
+            "text": "\u0160ablony"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Pole"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "P\u0159idat"
+        },
+        "9cfefed8fb9497baa5cd519d7d2bb5d7": {
+            "text": "cs"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Odhl\u00e1sit"
+        }
+    }
+}

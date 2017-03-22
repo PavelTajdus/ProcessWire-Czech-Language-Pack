@@ -253,6 +253,63 @@
         },
         "678cad4866392ed0961cbce7d6ff550d": {
             "text": "automaticky na\u010dteno (autojoin)"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importovat"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Exportovat"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "V po\u0159\u00e1dku"
+        },
+        "8334c41e37dbbfb061177998028c6d0d": {
+            "text": "Nezn\u00e1m\u00e9 vlastnosti"
+        },
+        "158b56553ee2e91623b2568e46a4fb82": {
+            "text": "Klonovat existuj\u00edc\u00ed pole"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(v\u0161ichni)"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(kopie)"
+        },
+        "58425be3f17ffb9574fd3e5947653330": {
+            "text": "Zachovat nastaven\u00ed pole?"
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "\u0160ablona: %s"
+        },
+        "6620d0d6ed9996e374e77091f72102be": {
+            "text": "P\u0159ed %s"
+        },
+        "631a909b3eb785b8b3ae6d4d1a0ed886": {
+            "text": "Za %s"
+        },
+        "c40f632e4b3c69bbd1af89f5c5f5c617": {
+            "text": "Nep\u0159id\u00e1vat"
+        },
+        "32bcbddae2df658b6d193932ab97720e": {
+            "text": "Upravit"
+        },
+        "47ee982b17f699a3dffff43c76df78ec": {
+            "text": "\u0160ablona"
+        },
+        "a360c947f7ea8bd51220987c073edf15": {
+            "text": "Nastaven\u00ed"
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Akce"
+        },
+        "0e26a613a19dbe1752912c253f5b2e37": {
+            "text": "N\u00e1zev"
+        },
+        "1cdcfe223f7fb1cc15748a347bf161b2": {
+            "text": "Ano"
+        },
+        "b26a4731ede28b0686cf017804aa3574": {
+            "text": "Ne"
         }
     }
 }

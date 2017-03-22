@@ -37,6 +37,12 @@
         },
         "5a95a17c63903db6b24e1e8f2110a661": {
             "text": "Je-li za\u0161krtnuto, pole s popisem souboru pou\u017eije znakov\u00e9 entity (entity encoded). (Pokud je form\u00e1tov\u00e1n\u00ed v\u00fdstupu str\u00e1nky (Page output formatting) zapnut\u00e9, co\u017e je v\u00fdchoz\u00ed nastaven\u00ed)."
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "n\u00e1zev souboru"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0=Bez limitu"
         }
     }
 }

@@ -17,9 +17,6 @@
         "e69ccb31941d2fd7923c6b0c01957db3": {
             "text": "Maxim\u00e1ln\u00ed \u0161\u00ed\u0159ka nahran\u00fdch obr\u00e1zk\u016f"
         },
-        "21a08974171e7c2affbea041f9311318": {
-            "text": "Vlo\u017eit po\u010det pixel\u016f nebo nechat pr\u00e1zdn\u00e9 pro neomezen\u00ed maxima."
-        },
         "c58e466902d0ff945d0677114e41682b": {
             "text": "Maxim\u00e1ln\u00ed v\u00fd\u0161ka nahran\u00fdch obr\u00e1zk\u016f"
         },
@@ -43,6 +40,51 @@
         },
         "b3da2ccb426643b265971f8085617aa0": {
             "text": "Pohled lze v poli s obr\u00e1zky p\u0159ep\u00ednat pomoc\u00ed ikony m\u0159\u00ed\u017eka\/\u0159\u00e1dky. Toto nastaven\u00ed ur\u010duje, kter\u00e9 zobrazen\u00ed bude v\u00fdchoz\u00ed. \u0158\u00e1dkov\u00e9 zobrazen\u00ed je doporu\u010den\u00e9."
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Neplatn\u00fd obr\u00e1zek"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Obr\u00e1zek %s nespl\u0148uje minim\u00e1ln\u00ed po\u017eadavky na velikost"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Obr\u00e1zek %s p\u0159ekra\u010duje maxim\u00e1ln\u00ed povolenou velikost"
+        },
+        "840ad8821e0c1db717493f17a054bd18": {
+            "text": "Variace %s"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Smazat"
+        },
+        "ad2ac1967f0165ebf04a84bc1819e0de": {
+            "text": "P\u0159esunout dol\u016f"
+        },
+        "727b701bcc5f26422461f10c07a58d48": {
+            "text": "P\u0159esun nahoru"
+        },
+        "6a1c2d713d3598f27c30a6c448197f0e": {
+            "text": "Soubor nelze zobrazit"
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Zadejte hodnotu v pixelech nebo nechte pr\u00e1zdn\u00e9 pro \u017e\u00e1dn\u00fd limit."
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Odm\u00edtnout obr\u00e1zky p\u0159esahuj\u00edc\u00ed max rozm\u011bry?"
+        },
+        "e0af28e6bea01f8a983ebd94ec3b7468": {
+            "text": "Pokud je za\u0161krtnuto, budou obr\u00e1zky, kter\u00e9 p\u0159ekra\u010duj\u00ed maxim\u00e1ln\u00ed \u0161\u00ed\u0159ku\/v\u00fd\u0161ku odm\u00edtnuty bez \u00fapravy jejich velikosti."
+        },
+        "6760d392e57247a882e160cdb8b3680c": {
+            "text": "Min rozm\u011bry obr\u00e1zku"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Voliteln\u011b lze zadat minim\u00e1ln\u00ed \u0161\u00ed\u0159ka a nebo v\u00fd\u0161ka nahran\u00fdch obr\u00e1zk\u016f. Pokud je zad\u00e1no, budou obr\u00e1zky, kter\u00e9 nespl\u0148uj\u00ed tyto minima zam\u00edtnuta."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Minim\u00e1ln\u00ed \u0161\u00ed\u0159ka nahran\u00fdch obr\u00e1zk\u016f"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Minim\u00e1ln\u00ed v\u00fd\u0161ka nahran\u00fdch obr\u00e1zk\u016f"
         }
     }
 }

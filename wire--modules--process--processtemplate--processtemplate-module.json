@@ -600,7 +600,7 @@
             "text": "N\u00e1zev t\u0159\u00eddy str\u00e1nky (Class Name)"
         },
         "ecb1f1de9e0f813e37e40e2aa016c008": {
-            "text": "Pokud m\u00e1 va\u0161e str\u00e1nka SSL certifik\u00e1t a je p\u0159\u00edstupn\u00e1 p\u0159es HTTPS, m\u016f\u017eete nastavit aby byla p\u0159\u00edstupn\u00e1 pouze p\u0159es HTTPS nebo HTTP. Nap\u0159\u00edklad, kdy\u017e je vybr\u00e1na volby \"pouze HTTPS\" n\u00ed\u017ee a po\u017eadavek na str\u00e1nku pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu p\u0159i\u0161el p\u0159es HTTP, bude automaticky p\u0159esm\u011brov\u00e1n na HTTPS verzi. Ve v\u00fdchoz\u00edm nastaven\u00ed umo\u017e\u0148uje ProcessWire p\u0159ipojen\u00ed z HTTP i HTTPS. "
+            "text": "Pokud m\u00e1 va\u0161e str\u00e1nka SSL certifik\u00e1t a je p\u0159\u00edstupn\u00e1 p\u0159es HTTPS, m\u016f\u017eete nastavit aby byla p\u0159\u00edstupn\u00e1 pouze p\u0159es HTTPS nebo HTTP. Nap\u0159\u00edklad, kdy\u017e je vybr\u00e1na volby \"pouze HTTPS\" n\u00ed\u017ee a po\u017eadavek na str\u00e1nku pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu p\u0159i\u0161el p\u0159es HTTP, bude automaticky p\u0159esm\u011brov\u00e1n na HTTPS verzi. Ve v\u00fdchoz\u00edm nastaven\u00ed umo\u017e\u0148uje ProcessWire p\u0159ipojen\u00ed z HTTP i HTTPS."
         },
         "787f82b093280bcb87901ea228d7b083": {
             "text": "Pouze host\u00e9 (Guests only)"
@@ -672,7 +672,7 @@
             "text": "p\u0159\u00edstup"
         },
         "2f2055affca16d8404e278fc1d6c3a07": {
-            "text": "Voliteln\u00e9: Do va\u0161\u00ed URL adresy m\u016f\u017eete p\u0159idat tag '{id}'  (nap\u0159. prom\u011bnn\u00e1 GET), kter\u00fd bude nahrazen po\u017eadovan\u00fdm ID \u010d\u00edslem str\u00e1nky. "
+            "text": "Voliteln\u00e9: Do va\u0161\u00ed URL adresy m\u016f\u017eete p\u0159idat tag '{id}'  (nap\u0159. prom\u011bnn\u00e1 GET), kter\u00fd bude nahrazen po\u017eadovan\u00fdm ID \u010d\u00edslem str\u00e1nky."
         },
         "6ab8ac5b13a48347d2ca00a38bb06f94": {
             "text": "P\u0159\u00edkladem \u0161ablony, kterou nechcete pou\u017e\u00edvat pro nov\u00e9 str\u00e1nky m\u016f\u017ee b\u00fdt va\u0161e \u0161ablona 'homepage'."
@@ -700,6 +700,21 @@
         },
         "b14d306525e8d6e9927d577a59064048": {
             "text": "3. Zvolen\u00e1 rodi\u010dovsk\u00e1 \u0161ablona mus\u00ed m\u00edt vybranou tuto \u0161ablonu jako jednu z povolen\u00fdch pro svoje podstr\u00e1nky (\"Povolen\u00e9 \u0161ablony podstr\u00e1nek\")."
+        },
+        "323686db2bb70f95c6bedc86d5c3387d": {
+            "text": "Soubory"
+        },
+        "9fa7e7b76dafb5ffcb0b9bfbba9a65fd": {
+            "text": "str\u00e1nka %d"
+        },
+        "207ab96f9895f87f78f6c6162f323a4f": {
+            "text": "str\u00e1nky %d"
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "Pou\u017eit\u00ed"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Ikona"
         }
     }
 }

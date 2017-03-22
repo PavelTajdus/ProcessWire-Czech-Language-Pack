@@ -1,0 +1,171 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCKEditor\/InputfieldCKEditor.module",
+    "textdomain": "wire--modules--inputfield--inputfieldckeditor--inputfieldckeditor-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Zru\u0161it"
+        },
+        "259738ca35a086ce9d269623e5ab5d37": {
+            "text": "Vkl\u00e1d\u00e1n\u00ed odkazu"
+        },
+        "ff15d4e97d08c2ab0351169af757b0f2": {
+            "text": "Upravit odkaz"
+        },
+        "446a6000511ab6fb0711400379a62a04": {
+            "text": "V\u00fdb\u011br obr\u00e1zku"
+        },
+        "03274f27f51f0c39e06e0e6cd07e01a9": {
+            "text": "\u00daprava obr\u00e1zku"
+        },
+        "ddb1f53de8a1598fb3d52552d6246b85": {
+            "text": "cs"
+        },
+        "68835c69c5818fea532f3ad00a91be00": {
+            "text": "cs"
+        },
+        "c97c12dea7825a2fa7f2b23032c6aeb4": {
+            "text": "V\u00e1\u0161 text popisku obr\u00e1zku"
+        },
+        "586dfebdb944d7af7c4720be84d7fa50": {
+            "text": "Ukl\u00e1d\u00e1n\u00ed obr\u00e1zku"
+        },
+        "941c891be23b6a837de1d46c30efad2a": {
+            "text": "Vlo\u017eit tento obr\u00e1zek"
+        },
+        "a616a1ef7aa1ee32d7d31c742923a202": {
+            "text": "Vybrat jin\u00fd obr\u00e1zek"
+        },
+        "a2a62a977b1825230f76d3ba2a6bf3df": {
+            "text": "Inline re\u017eim pro CKEditor vy\u017eaduje nainstalovan\u00fd modul MarkupHTMLPurifier. Moment\u00e1ln\u011b se pou\u017eije norm\u00e1ln\u00ed m\u00f3d."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ano"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Ne"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "P\u0159\u00edklad:"
+        },
+        "2ae61d29b7247ef3679ced4aa729fb27": {
+            "text": "Nastaven\u00ed CKEditoru"
+        },
+        "29c6f6d4517d673b2003e604b4efb687": {
+            "text": "Panel n\u00e1stroj\u016f CKEditoru (Toolbar)"
+        },
+        "9022c2878a60d1f4ebc0f9f83a09975f": {
+            "text": "Jednotliv\u00e9 polo\u017eky panelu n\u00e1stroj\u016f se odd\u011bluj\u00ed \u010d\u00e1rkou. Polo\u017eky lze seskupit jejich um\u00edst\u011bn\u00edm na stejn\u00fd \u0159\u00e1dek. Poml\u010dkou \"-\" se definuje um\u00edst\u011bn\u00ed odd\u011blova\u010de (separator) v r\u00e1mci skupiny. Pro vytvo\u0159en\u00ed v\u00edce\u0159\u00e1dkov\u00e9ho panelu n\u00e1stroj\u016f lze odd\u011blit jednotliv\u00e9 \u0159\u00e1dky pr\u00e1zdn\u00fdm \u0159\u00e1dkem."
+        },
+        "dfabf65177db13369e6f60e33d626a25": {
+            "text": "Re\u017eim editoru"
+        },
+        "0e0da14bdea5e80af97115d05779bdc4": {
+            "text": "Klasick\u00fd editor (Regular)"
+        },
+        "9f1f94725c69ad201b156e002476104c": {
+            "text": "Vlo\u017een\u00fd editor (Inline) *"
+        },
+        "f4bbbce516de30f80d2025ca9cc9a595": {
+            "text": "Pokud je povolen vlo\u017een\u00fd re\u017eim bude editor na\u010dten a\u017e po klepnut\u00ed my\u0161\u00ed do textu. Toto je mnohem rychlej\u0161\u00ed a efektivn\u011bj\u0161\u00ed nastaven\u00ed pokud str\u00e1nka obsahuje velk\u00e9 mno\u017estv\u00ed pol\u00ed s CKEditorem. Nev\u00fdhoda je, \u017ee nepodporuje tolik funkc\u00ed nebo \u00faprav editoru jako je klasick\u00fd re\u017eim."
+        },
+        "5131613c3ef9d562a3e0e095e0f1fba8": {
+            "text": "*Inline re\u017eim pro CKEditor vy\u017eaduje nainstalovan\u00fd modul MarkupHTMLPurifier."
+        },
+        "86c0b99d54c2b5c2bbcdc74844dbb5cf": {
+            "text": "Upozorn\u011bn\u00ed: nen\u00ed moment\u00e1ln\u011b nainstalov\u00e1n. M\u011bli byste ho nainstalovat p\u0159ed zapnut\u00edm inline re\u017eimu."
+        },
+        "b71ae00b212e1c450146b7263bb791bb": {
+            "text": "Pou\u017e\u00edvat ACF?"
+        },
+        "60f803fa7569e56d3f76d2f622e4130b": {
+            "text": "Pokud ano, bude aktivn\u00ed \"Advanced Content Filter\". Tento filtr automaticky odstran\u00ed jak\u00e9koliv nerozpoznan\u00e9 zna\u010dky nebo atributy z va\u0161eho HTML. Doporu\u010den\u00e9 nastaven\u00ed."
+        },
+        "086f4ea637a29573ed5e10e106040ab5": {
+            "text": "Pou\u017e\u00edvat HTML Purifier?"
+        },
+        "cab4c54f1577378e89ca8dc055075ae4": {
+            "text": "Pokud ano, odeslan\u00fd obsah p\u016fjde p\u0159es [HTML Purifier](http:\/\/htmlpurifier.org\/) pro o\u010di\u0161t\u011bn\u00ed (sanitization). Toto je doporu\u010den\u00e9 volba p\u0159i pou\u017eit\u00ed vlo\u017een\u00e9ho (inline) re\u017eimu nebo pokud editor pou\u017e\u00edvaj\u00ed ned\u016fv\u011bryhodn\u00ed u\u017eivatel\u00e9."
+        },
+        "dbb9e7f934e4def553f1d3065635377e": {
+            "text": "Konvertovat div tagy na odstavce"
+        },
+        "ed97424627acfa23d899d27908115be3": {
+            "text": "Odstranit tagy pr\u00e1zdn\u00fdch odstavc\u016f"
+        },
+        "ed654cac16ad0b016c80b1e0e04a86fa": {
+            "text": "Odstranit non-breaking spaces (nbsp)"
+        },
+        "187cc7fdfc18d7eee937fb34cd6641dc": {
+            "text": "Form\u00e1tovac\u00ed zna\u010dky"
+        },
+        "eb58d10bb9587ab21ba79859997ea7f9": {
+            "text": "St\u0159edn\u00edky odd\u011blen\u00fd seznam voliteln\u00fdch zna\u010dek zobrazen\u00fdch v rozbalovac\u00edm menu \"Form\u00e1t\"."
+        },
+        "73dd33fa6157ee6008e269d67a2843e3": {
+            "text": "V\u00fdchoz\u00ed form\u00e1tovac\u00ed zna\u010dky jsou:"
+        },
+        "c6fd363ed202c7dd44b9a3d1b6065adc": {
+            "text": "Dal\u0161\u00ed povolen\u00fd obsah"
+        },
+        "988677b6c211741551df50fd57a5d3f4": {
+            "text": "Pravidla pro volbu [extraAllowedContent](http:\/\/docs.ckeditor.com\/#!\/api\/CKEDITOR.config-cfg-extraAllowedContent) CKEditoru. Funguje pouze se zapnutou volbou \"Pou\u017e\u00edvat ACF\" v\u00fd\u0161e."
+        },
+        "69262424661d8b544ebcba617e5772c6": {
+            "text": "M\u016f\u017eete zadat v\u00edce pravidel t\u00edm, \u017ee ka\u017ed\u00e9 um\u00edst\u00edte na vlastn\u00ed \u0159\u00e1dku."
+        },
+        "86981868980ec998b671432713a7b65b": {
+            "text": "Prohl\u00e9dn\u011bte si [detaily](http:\/\/docs.ckeditor.com\/#!\/guide\/dev_allowed_content_rules-section-2) v dokumentaci CKEditoru."
+        },
+        "9728a8f280cf7e8b0b89b52749f7e800": {
+            "text": "P\u0159e\u010dt\u011bte si pros\u00edm na\u0161e [pokyny](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file) k pou\u017e\u00edt\u00ed."
+        },
+        "c329380c093af757e030c47c58fc31ae": {
+            "text": "Vlastn\u00ed CSS soubor pro editor (regular m\u00f3d)"
+        },
+        "1f2a49f98f9868b764037314b9a0a2a0": {
+            "text": "Vlastn\u00ed CSS soubor pro editor (inline m\u00f3d)"
+        },
+        "1100db92626b135374ca3ad30025a3d5": {
+            "text": "Vlastn\u00ed JS Styles Set editoru"
+        },
+        "63ba0561c6027fed354e6c5af252a77b": {
+            "text": "P\u0159e\u010dt\u011bte si pros\u00edm na\u0161e [pokyny](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set) k pou\u017e\u00edt\u00ed."
+        },
+        "0d26e4905e21b238948dc724daade146": {
+            "text": "Vlastn\u00ed mo\u017enosti nastaven\u00ed"
+        },
+        "4cf63a5e6c4eff831c232b0eb238b4ae": {
+            "text": "pro v\u0161echny CKEditor pole"
+        },
+        "bb87b90b3b4cf5290402d36011056951": {
+            "text": "pouze pro toto CKEditor pole"
+        },
+        "bb38096ab39160dc20d44f3ea6b44507": {
+            "text": "Z\u00e1suvn\u00e9 moduly"
+        },
+        "7a6472fdd6090236270ada56951bb4ad": {
+            "text": "Extra z\u00e1suvn\u00e9 moduly"
+        },
+        "0aef2da721f0ab14676f8d6ffb9e7e8c": {
+            "text": "doporu\u010den\u00e9"
+        },
+        "7ae98f3a4b96e522d75992c305a4ec2b": {
+            "text": "%s nastaven\u00ed"
+        },
+        "9048e64caaebf67509d533265f44414b": {
+            "text": "\u010c\u00e1rkami odd\u011blen\u00fd seznam dal\u0161\u00edch z\u00e1suv\u00fdch modul\u016f, kter\u00e9 bude CKEditor na\u010d\u00edtat."
+        },
+        "7540434dd897a8f6f8118c31f2a931ab": {
+            "text": "P\u0159\u00edklad: pwlink,pwimage,myplugin,anotherplugin"
+        },
+        "973ed59e27ee4824370eaf8150cbeec9": {
+            "text": "Odebrat z\u00e1suvn\u00e9 moduly"
+        },
+        "3b9d2511fcd0e4afc3cc8c6c61b42d23": {
+            "text": "\u010c\u00e1rkami odd\u011blen\u00fd seznam z\u00e1suv\u00fdch modul\u016f, kter\u00e9 nebude CKEditor na\u010d\u00edtat."
+        },
+        "b6c2682ed322b5c3625338a5849b9794": {
+            "text": "Textov\u00fd editor CKEditor"
+        }
+    }
+}

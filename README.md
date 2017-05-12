@@ -1,7 +1,7 @@
 # Český jazykový balíček pro ProcessWire (English follows)
 
-Český překlad souborů pro ProcessWire verze 3.0.
-Pozor - toto je částečně přeložená verze - nevhodné pro stabilní použití.
+Český překlad souborů pro ProcessWire verze 3.0.61.
+Plně přeloženo. Nicméně prozatím nevhodné pro produkční použití.
 
 ## Jak instalovat balíček s češtinou
 
@@ -50,7 +50,7 @@ Největší dík patří autorovi této češtiny za jeho skvělou práci. [Rade
 
 # Czech Language Pack for ProcessWire
 
-Czech (cs-CZ) translation files for ProcessWire 3.0.
+Czech (cs-CZ) translation files for ProcessWire 3.0.61
 Warning - this is PRE-RELEASE version of language pack.
 
 ## How to Install a Language Pack

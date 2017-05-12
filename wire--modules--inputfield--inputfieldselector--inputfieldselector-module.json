@@ -1,5 +1,249 @@
 {
     "file": "wire\/modules\/Inputfield\/InputfieldSelector\/InputfieldSelector.module",
     "textdomain": "wire--modules--inputfield--inputfieldselector--inputfieldselector-module",
-    "translations": []
+    "translations": {
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "P\u0159idat pole"
+        },
+        "7acce3193127d4b71a6c2b140c22dc95": {
+            "text": "="
+        },
+        "d81f0f02cd6a877358cde8fbdbad89a5": {
+            "text": "d. m. Y"
+        },
+        "dab4b1ae6ff4f4a6b0ae4a2ce2601794": {
+            "text": "dd. mm. yyyy"
+        },
+        "1388e1432a93282ab487548dce4847d4": {
+            "text": "G:i"
+        },
+        "a5dc4a847828895f72a94ab5debe5c00": {
+            "text": "="
+        },
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "Je rovno"
+        },
+        "fb83c9b66919b4a757a43a807b6af2cf": {
+            "text": "Nen\u00ed rovno"
+        },
+        "7288454fa442d48bc741c5cbadc2621b": {
+            "text": "V\u011bt\u0161\u00ed ne\u017e"
+        },
+        "45ed1ce04bcf6003d4702422e1221c85": {
+            "text": "Men\u0161\u00ed ne\u017e"
+        },
+        "948f7ffb9d1e26622df83711e20e2fb2": {
+            "text": "V\u011bt\u0161\u00ed nebo rovno"
+        },
+        "189ce8ec24447eef9869d18043c9e303": {
+            "text": "Men\u0161\u00ed nebo rovno"
+        },
+        "7842f2dabc6c53dca4319818c88ebeb9": {
+            "text": "Obsahuje text"
+        },
+        "8354008c16032b35e36589957a3bd65f": {
+            "text": "Obsahuje fr\u00e1zi"
+        },
+        "7df149c48f0508977c06be79341a40ed": {
+            "text": "Obsahuje slova"
+        },
+        "062e49c0f9af31da4f7314124191d9ef": {
+            "text": "Za\u010d\u00edn\u00e1 s"
+        },
+        "3ad33d3cec01f7125e3cd0575cada7ef": {
+            "text": "Kon\u010d\u00ed s"
+        },
+        "f9b4bd2025de32122aca0de287601aa0": {
+            "text": "Neobsahuje text"
+        },
+        "c792d413c780e14f2ab0cd586af2940a": {
+            "text": "Neobsahuje fr\u00e1zi"
+        },
+        "f97418feca88d6e3a1747a59883b35fe": {
+            "text": "Neobsahuje slova"
+        },
+        "256511287ee7ec2a36613f761a24370c": {
+            "text": "Neza\u010d\u00edn\u00e1 s"
+        },
+        "70e54ebce37af51191725a9b2451e1b0": {
+            "text": "Nekon\u010d\u00ed s"
+        },
+        "1bb628612045d3d012de22cb249f83fc": {
+            "text": "Vzestupn\u011b podle"
+        },
+        "8ff3555e6aae7a100304c7b522bc350a": {
+            "text": "Sestupn\u011b podle"
+        },
+        "9f9913233699a4b67524eaac55a5f973": {
+            "text": "M\u00e1"
+        },
+        "aaa93244710b294d585b015dbb9b0317": {
+            "text": "Nem\u00e1"
+        },
+        "a61bbf7ad0ed153cb6c84fe3c8a9f2bb": {
+            "text": "Odpov\u00edd\u00e1"
+        },
+        "9c52ccb297567646df342a0413de3b02": {
+            "text": "Neodpov\u00edd\u00e1"
+        },
+        "78c143802119a85c9774c0459240085d": {
+            "text": "Je pr\u00e1zdn\u00e9"
+        },
+        "cbe0970a192d6df9999f4469f0854984": {
+            "text": "Nen\u00ed pr\u00e1zdn\u00e9"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "\u0160ablona"
+        },
+        "b718adec73e04ce3ec720dd11a06a308": {
+            "text": "="
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "N\u00e1zev"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Stav"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Skryto"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Nezve\u0159ejn\u011bno"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Zamknuto"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Ko\u0161"
+        },
+        "9a438bd942f1f19e6a641028bcfb43ff": {
+            "text": "Do\u010dasn\u00e9"
+        },
+        "a4b7f1864cfdb47cd05b54eb10337506": {
+            "text": "Datum \u00fapravy"
+        },
+        "b3b60b7a5e7f9977461d42a94bf2c761": {
+            "text": "Datum vytvo\u0159en\u00ed"
+        },
+        "4303f3a12b6405bb83d68a5438f1b6b8": {
+            "text": "Datum zve\u0159ejn\u011bn\u00ed"
+        },
+        "f5248dcc5755bb5124281da75c73b828": {
+            "text": "Zve\u0159ejn\u011bno u\u017eivatelem"
+        },
+        "69d1da1f16cb2c86467b8ac7495acb25": {
+            "text": "Vytvo\u0159eno u\u017eivatelem"
+        },
+        "631e36e8090edcdfea8b0b6dfa4f75cc": {
+            "text": "Po\u010det podstr\u00e1nek"
+        },
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Po\u010det"
+        },
+        "72280ef3b155dee3c1a134b8184c08a5": {
+            "text": "Cesta\/URL"
+        },
+        "4b9c456267783c4e40e7da4a4a61e887": {
+            "text": "M\u00e1 rodi\u010de\/prarodi\u010de"
+        },
+        "d7ba791417071ac5ec60f1cea2672faf": {
+            "text": "Vlastn\u00ed (pole=hodnota)"
+        },
+        "c0272cbdf2353b9f2810944ae048b4a1": {
+            "text": "pole=hodnota"
+        },
+        "d0e45878043844ffc41aac437e86b602": {
+            "text": "rodi\u010d"
+        },
+        "6b46ae48421828d9973deec5fa9aa0c3": {
+            "text": "T\u0159\u00eddit"
+        },
+        "f4d72a64acd8929c0cc9ed96a7a336cc": {
+            "text": "Obsahuje"
+        },
+        "765c9ab816a31bfd73ee87ce63960319": {
+            "text": "Skryt\u00e9 + Nezve\u0159ejn\u011bn\u00e9"
+        },
+        "b0db92ad2bbe61a11556a881e26ee82c": {
+            "text": "Skryt\u00e9 + Nezve\u0159ejn\u011bn\u00e9 + V ko\u0161i"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "V\u0161e"
+        },
+        "1a110fbdc786fe3100367f14c911a2da": {
+            "text": "(%d bez limitu)"
+        },
+        "1a2ecbf77cfe45069451c9954f74ea36": {
+            "text": "Str\u00e1nky odpov\u00eddaj\u00edc\u00ed va\u0161emu v\u00fdb\u011bru"
+        },
+        "a7dd12b1dab17d25467b0b0a4c8d4a92": {
+            "text": "uk\u00e1zat"
+        },
+        "befb04e123caaa28446ca8080a5fd836": {
+            "text": "P\u0159epnout na popisy pol\u00ed"
+        },
+        "e3e67251cebf159d3549a0a91729605d": {
+            "text": "P\u0159epnout na n\u00e1zvy pol\u00ed"
+        },
+        "f0c49f49661670cb88d2fd060c4d6a68": {
+            "text": "Nevybr\u00e1no"
+        },
+        "2627637e263ef687fa978b576580b8b1": {
+            "text": "Vybr\u00e1no"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nic"
+        },
+        "ad666d19888133a3cebc428f7535f2af": {
+            "text": "Za\u010dn\u011bte ps\u00e1t..."
+        },
+        "719cb425116d7d1c8b0c62c7064aaf9b": {
+            "text": "Za\u0161krtn\u011bte, aby byl \u0159\u00e1dek OR rad\u011bji ne\u017e AND"
+        },
+        "c7c76bcc877e95946d0158c1a0dd63a2": {
+            "text": "Odpov\u00edd\u00e1 ID (subselektor)"
+        },
+        "80d2677cf518f4d04320042f4ea6c146": {
+            "text": "="
+        },
+        "1d79542121869a6161bed167902ddc79": {
+            "text": "Ka\u017ed\u00fd \u0159\u00e1dek selektoru \u0159\u00edk\u00e1: pole se mus\u00ed rovnat hodnot\u011b. Tomu se \u0159\u00edk\u00e1 AND podm\u00ednka. V p\u0159\u00edpadech, kdy se pou\u017eije stejn\u00e9 pole nebo stejn\u00e1 hodnota ve v\u00edce \u0159\u00e1dc\u00edch, je mo\u017en\u00e1 podm\u00ednka OR. Pak se objev\u00ed na konci \u0159\u00e1dku mal\u00e9 za\u0161rkt\u00e1v\u00e1tko. Po za\u0161krtnut\u00ed bude pou\u017eita podm\u00ednka OR m\u00edsto AND."
+        },
+        "63bfec5d508757f781c6e3aa5ca214b6": {
+            "text": "Sandbox selektoru"
+        },
+        "eae4975b49e9af4e0b024b1c44c7fe4f": {
+            "text": "Toto m\u016f\u017eete pou\u017e\u00edt v p\u0159\u00edpad\u011b, \u017ee chcete otestovat funkcionalitu tohoto vstupn\u00edho pole."
+        },
+        "d1a7ff19fe990b9467a4a64f01a09f4e": {
+            "text": "Rodi\u010d"
+        },
+        "8449d3ddcf7322067ea68d60a3098945": {
+            "text": "Rodi\u010d"
+        },
+        "ea66a0a3f3311a155d84ef03a56850ca": {
+            "text": "Syst\u00e9mov\u00e1 pole"
+        },
+        "b12aae296eaa3d0cb3191edcf8764117": {
+            "text": "Pole"
+        },
+        "8a605787234086b5d0155715095a1c2a": {
+            "text": "Pod-pole"
+        },
+        "997bf93bdd0a990a751b4b33749fb171": {
+            "text": "Pole odpov\u00eddaj\u00ed jedn\u00e9 polo\u017ece"
+        },
+        "c3bd2ae49552f0fe2dd5927024fea5db": {
+            "text": "Modifik\u00e1tory"
+        },
+        "700e1502327c4e2d38cef2f7c15b2f17": {
+            "text": "\u00dapravy"
+        },
+        "b077806311238aeddd99b979570eb107": {
+            "text": "odpov\u00edd\u00e1 %d str\u00e1nce"
+        },
+        "ea4311c5f366d55a9a6e38450d3bad9f": {
+            "text": "odpov\u00edd\u00e1 %d str\u00e1nk\u00e1m"
+        }
+    }
 }

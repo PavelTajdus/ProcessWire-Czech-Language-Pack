@@ -1,5 +1,72 @@
 {
     "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageListerBookmarks.php",
     "textdomain": "wire--modules--process--processpagelister--processpagelisterbookmarks-php",
-    "translations": []
+    "translations": {
+        "0a88328254c6d3104aaf5aa1416e5493": {
+            "text": "P\u0159\u00edstup"
+        },
+        "fbfa318e948c32434209e9dec12f5342": {
+            "text": "Upravit"
+        },
+        "a68194569adc7b00a73840fceb912c24": {
+            "text": "P\u0159\u00edstup"
+        },
+        "5979876e287f07dc59597ec2139675c2": {
+            "text": "Odstranit"
+        },
+        "369edfa695c186fc693c7cdfea26b6d2": {
+            "text": "Pozn\u00e1mka superu\u017eivatel: ostatn\u00ed u\u017eivatel\u00e9 mohou vid\u011bt a klepat na z\u00e1lo\u017eky, ale nesm\u011bj\u00ed je p\u0159id\u00e1vat ani upravovat."
+        },
+        "1dd63dcbc0f27a97c60433bff0936901": {
+            "text": "Upravit z\u00e1lo\u017eky"
+        },
+        "149e49fd8162d8224947dfe253a802b5": {
+            "text": "P\u0159idat novou z\u00e1lo\u017eku"
+        },
+        "a84bed79c3b725dbbd17b6c4b8337a17": {
+            "text": "Vytvo\u0159\u00ed novou z\u00e1lo\u017eku odpov\u00eddaj\u00edc\u00ed va\u0161imu aktu\u00e1ln\u00edmu filtrov\u00e1n\u00ed, sloupc\u016fm a po\u0159ad\u00ed."
+        },
+        "644a574fca8608c6447c23ba5c9fb907": {
+            "text": "Jak\u00e9 u\u017eivatelsk\u00e9 role uvid\u00ed tuto z\u00e1lo\u017eku? Pokud nejsou vybr\u00e1ny \u017e\u00e1dn\u00e9 u\u017eivatelsk\u00e9 role, mohou v\u0161echny role s povolen\u00edm pou\u017e\u00edvat tento Lister zobrazit z\u00e1lo\u017eku."
+        },
+        "b527a6bf9b3ed589e44e5a4dc8cc40d4": {
+            "text": "Po\u0159ad\u00ed t\u0159\u00edd\u011bn\u00ed z\u00e1lo\u017eek"
+        },
+        "bfa974ff994bf6af816d695d88659fda": {
+            "text": "Odstranit tuto z\u00e1lo\u017eku?"
+        },
+        "33d64e5e020fcfcd6bf5b5edc3634211": {
+            "text": "Smaz\u00e1na z\u00e1lo\u017eka: %s"
+        },
+        "d04ee192f5a72f20e89abe7acb7225f3": {
+            "text": "Ulo\u017eena z\u00e1lo\u017eka: %s"
+        },
+        "84233339a29fc410e77ac95e377b0318": {
+            "text": "Z\u00e1lo\u017eky"
+        },
+        "bdb19863504282bccbd04237092c8ecb": {
+            "text": "Z\u00e1lo\u017eka"
+        },
+        "25f8473f61fb614f277d48e8bf5be8d2": {
+            "text": "Selektor"
+        },
+        "cd765bc6c6872048db5bb4cb9181392f": {
+            "text": "Sloupce"
+        },
+        "16f46652aa3bae21e3e051daba507193": {
+            "text": "Akce"
+        },
+        "97d0cf512abc18c75dc4200fb4102696": {
+            "text": "v\u0161e"
+        },
+        "624cb003e73151369680ecae1fe53f47": {
+            "text": "Titulek"
+        },
+        "8ca63fc5a95e5a226137f8dd03ad81f0": {
+            "text": "Jak\u00e9 str\u00e1nky m\u00e1 tato z\u00e1lo\u017eka zobrazit?"
+        },
+        "e7b51c4fbf19dfd1df7c4e05d1be6ca0": {
+            "text": "Sloupce"
+        }
+    }
 }

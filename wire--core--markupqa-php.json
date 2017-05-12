@@ -1,5 +1,18 @@
 {
     "file": "wire\/core\/MarkupQA.php",
     "textdomain": "wire--core--markupqa-php",
-    "translations": []
+    "translations": {
+        "2c8c8cc955bc953e099536d83ba3f9be": {
+            "text": "je v ko\u0161i"
+        },
+        "bb07bf84b3c2188ebdc8883e128685f8": {
+            "text": "Nepoda\u0159ilo se p\u0159elo\u017eit odkaz na str\u00e1nku %1$s v poli \"%2$s\": %3$s"
+        },
+        "82767b749996ed727738e156e277919f": {
+            "text": "P\u0159egenerovan\u00e9 varianty obr\u00e1zku"
+        },
+        "e7f0084e8dc972e4cd7d238f17f5cbce": {
+            "text": "Nen\u00ed mo\u017ene p\u0159egenerovat varianty obr\u00e1zku"
+        }
+    }
 }

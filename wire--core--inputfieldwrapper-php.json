@@ -1,1 +1,12 @@
-{"file":"wire\/core\/InputfieldWrapper.php","textdomain":"wire--core--inputfieldwrapper-php","translations":{"d6a6d393040fe53b20243c9abeee036b":{"text":"Chyb\u00ed vy\u017eadovan\u00e1 hodnota"}}}
+{
+    "file": "wire\/core\/InputfieldWrapper.php",
+    "textdomain": "wire--core--inputfieldwrapper-php",
+    "translations": {
+        "d6a6d393040fe53b20243c9abeee036b": {
+            "text": "Chyb\u00ed vy\u017eadovan\u00e1 hodnota"
+        },
+        "474306ce3c500f0bce3fb8891a2401cb": {
+            "text": "P\u0159ep\u00edna\u010d otev\u0159eno\/zav\u0159eno"
+        }
+    }
+}

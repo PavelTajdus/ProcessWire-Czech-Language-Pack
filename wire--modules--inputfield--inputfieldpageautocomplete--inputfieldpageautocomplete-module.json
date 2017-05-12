@@ -5,9 +5,6 @@
         "111ce57a33643818f896c8ef5b78f923": {
             "text": "Pro vlo\u017een\u00ed nov\u00e9 polo\u017eky stiskn\u011bte enter"
         },
-        "a2324d16f834e2138b021bb90f1823dc": {
-            "text": "Pokro\u010dil\u00e9 mo\u017enosti automatick\u00e9ho dopl\u0148ov\u00e1n\u00ed (Autocomplete)"
-        },
         "5bd9a3b9fd04ef31e99e96b10ce5ac5f": {
             "text": "Vyhled\u00e1vac\u00ed oper\u00e1tor automatick\u00e9ho dopl\u0148ov\u00e1n\u00ed"
         },
@@ -47,14 +44,20 @@
         "0e942985459c2961ee2ddd03061475e4": {
             "text": "Automatick\u00e9 dopl\u0148ov\u00e1n\u00ed str\u00e1nky (Page Auto Complete)"
         },
-        "0c458f5b668cdb153d43ffa89c2f2393": {
-            "text": "Zadejte n\u00e1zvy pol\u00ed, jejich\u017e obsah bude prohled\u00e1v\u00e1n dotazy automatick\u00e9ho dokon\u010dov\u00e1n\u00ed (autocomplete). Obvykle je to pouze pole s n\u00e1zvem (title), ale m\u016f\u017eete p\u0159idat dal\u0161\u00ed odd\u011blen\u00e1 mezerami. Zde zad\u00e1v\u00e1te pole, kter\u00e1 budou prohled\u00e1v\u00e1na a ne pole kter\u00e1 budou zobrazena."
-        },
         "8d217dc9693abc1d1094fbc2c06a5605": {
             "text": "Nov\u00e1 polo\u017eka:"
         },
         "654866693fd91ce8e9764a218f569918": {
             "text": "Doporu\u010den\u00e9"
+        },
+        "b167d45586a5cb2582394b5ec1545065": {
+            "text": "Zadejte n\u00e1zvy pol\u00ed, jejich\u017e obsah bude prohled\u00e1v\u00e1n dotazy automatick\u00e9ho dokon\u010dov\u00e1n\u00ed (autocomplete)."
+        },
+        "6429d0ba1de3ee46f49581535ac36cf4": {
+            "text": "Obvykle je to pouze pole s n\u00e1zvem (title), ale m\u016f\u017eete p\u0159idat dal\u0161\u00ed odd\u011blen\u00e1 mezerami."
+        },
+        "db47517eeed0761aad011565e44e8390": {
+            "text": "V\u0161imn\u011bte si, \u017ee toto je jin\u00e9 ne\u017e \"pole s titulkem\" (label field), proto\u017ee specifikujete pole, kter\u00e1 budou prohled\u00e1na. Nikoliv pole, kter\u00e1 budou zobrazena."
         }
     }
 }

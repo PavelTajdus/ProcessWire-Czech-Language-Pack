@@ -16,6 +16,27 @@
         },
         "a5cd3ed116608dac017f14c046ea56bf": {
             "text": "Role"
+        },
+        "5dee1c6493112af5676354d6c4243fbe": {
+            "text": "U\u017eivatel bude d\u011bdit opr\u00e1vn\u011bn\u00ed p\u0159i\u0159azen\u00e1 ka\u017ed\u00e9 roli. M\u016f\u017eete p\u0159i\u0159adit v\u00edce rol\u00ed u\u017eivateli. P\u0159i p\u0159\u00edstupu na str\u00e1nku u\u017eivatel pouze d\u011bd\u00ed opr\u00e1vn\u011bn\u00ed z rol\u00ed, kter\u00e9 jsou tak\u00e9 p\u0159i\u0159azeny \u0161ablon\u011b str\u00e1nky."
+        },
+        "4d4587e01b893874091ed2bcb940c2a8": {
+            "text": "Tuto roli nem\u016f\u017eete m\u011bnit"
+        },
+        "903c654a1a01b07cf8dd1567b1b99b3a": {
+            "text": "Nem\u00e1te opr\u00e1vn\u011bn\u00ed odebrat roli: %s"
+        },
+        "5374d65ce11cc92d3c142cc0249fde0a": {
+            "text": "Nem\u00e1te povoleno p\u0159id\u00e1vat roli: %s"
+        },
+        "ba0bf134511b54d35d023da28eb75e39": {
+            "text": "Odstranili jste roli(e), kter\u00e1 v\u00e1m zabr\u00e1n\u00ed v p\u0159\u00edstupu k \u00faprav\u00e1m pro tohoto u\u017eivatele. Role byly obnoveny."
+        },
+        "4b99fa96a7caeeafc646d0f0a059ea4d": {
+            "text": "%d u\u017eivatel"
+        },
+        "8103e74ea76ab74a0eabfc5d09e6588a": {
+            "text": "%d u\u017eivatel\u016f"
         }
     }
 }

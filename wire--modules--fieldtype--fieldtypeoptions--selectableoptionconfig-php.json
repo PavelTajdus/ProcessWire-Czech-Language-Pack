@@ -1,5 +1,51 @@
 {
     "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/SelectableOptionConfig.php",
     "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionconfig-php",
-    "translations": []
+    "translations": {
+        "d5d394071928f1f25b0e3c0f0a336d13": {
+            "text": "Potvr\u010fte pros\u00edm, \u017ee chcete vymazat mo\u017enosti"
+        },
+        "69e27cd6eff790dbbd4b6f65275ebaf7": {
+            "text": "ODSTRANIT:"
+        },
+        "2193a0641b7380e976778074efdfec0a": {
+            "text": "Jedin\u00e1 hodnota"
+        },
+        "06a7c76b256c778d08e1c9548a9e679d": {
+            "text": "V\u00edce hodnot"
+        },
+        "1465fa2b1c38fd4e8579e84e2b31a6d6": {
+            "text": "Co by m\u011blo b\u00fdt pou\u017eito pro vstup?"
+        },
+        "a088b8e4d1d572f82e2661ab0862f00b": {
+            "text": "V z\u00e1vislosti na pou\u017eit\u00e9m typu vstupu bude m\u00edt u\u017eivatel mo\u017enost vybrat jednu nebo v\u00edce mo\u017enosti. N\u011bkter\u00e9 typy vstupu (jako AsmSelect) tak\u00e9 podporuj\u00ed u\u017eivatelsky se\u0159aditeln\u00fd v\u00fdb\u011br. N\u011bkter\u00e9 typy vstupu nab\u00edzej\u00ed \u0161ir\u0161\u00ed mo\u017enosti nastaven\u00e9 na z\u00e1lo\u017ece Vstup (viditeln\u00e9 po ulo\u017een\u00ed)."
+        },
+        "2b19b4791a203f60ffe7369493dd7b5f": {
+            "text": "Kter\u00e9 mo\u017enosti se daj\u00ed zvolit?"
+        },
+        "7ca00a9ac9a521d8e1d62919da2e66c6": {
+            "text": "Zadejte jednu nebo v\u00edce voliteln\u00fdch mo\u017enost\u00ed na \u0159\u00e1dek. Po ulo\u017een\u00ed bude ka\u017ed\u00e9 mo\u017enosti p\u0159i\u0159azeno ID. Nap\u0159\u00edklad `123=title`. P\u0159e\u010dt\u011bte si dal\u0161\u00ed [instrukce pro pou\u017e\u00edt\u00ed tohoto pole](%s)."
+        },
+        "ebe68b1a7edd199230885058ca3f3351": {
+            "text": "Multijazykov\u00e1 pozn\u00e1mka: nejprve definujte mo\u017enosti pro v\u00fdchoz\u00ed jazyk, ulo\u017ete, a pak je teprve p\u0159ekl\u00e1dejte do dal\u0161\u00edch jazyk\u016f."
+        },
+        "0581f7830fb426e1d56efadbc1a09edb": {
+            "text": "Kter\u00e9 mo\u017enosti chcete ozna\u010dit jako vybran\u00e9? (nepovinn\u00e9)"
+        },
+        "ad560982b535502d63dbf2f46ea8b3a6": {
+            "text": "Toto pole tak\u00e9 slou\u017e\u00ed jako n\u00e1hled vybran\u00e9ho typu vstupu (%s) a mo\u017enost\u00ed."
+        },
+        "810906cf431b89762465d39dd3402ba7": {
+            "text": "Pozn\u00e1mka: va\u0161e nastaven\u00ed nebude aktivn\u00ed, pokud hodnota nebude *v\u017edy* povinn\u00e1. Pod\u00edvejte se na nastaven\u00ed \"povinn\u00e9\" na z\u00e1lo\u017ece Vstup v nastaven\u00ed pole."
+        },
+        "a6a26b1340a7cbaf1b405484a8a74b98": {
+            "text": "Tato funkce je aktivn\u00ed pouze pokud je hodnota v\u017edy ozna\u010dena jako povinn\u00e1."
+        },
+        "c3524d56fb147114b84d6e9dd56110a9": {
+            "text": "Vymazat tuto mo\u017enost"
+        },
+        "c766e5be484b0e0a2104bc2fe925000c": {
+            "text": "Vymazat tyto mo\u017enosti"
+        }
+    }
 }

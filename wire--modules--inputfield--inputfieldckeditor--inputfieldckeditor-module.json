@@ -29,12 +29,6 @@
         "586dfebdb944d7af7c4720be84d7fa50": {
             "text": "Ukl\u00e1d\u00e1n\u00ed obr\u00e1zku"
         },
-        "941c891be23b6a837de1d46c30efad2a": {
-            "text": "Vlo\u017eit tento obr\u00e1zek"
-        },
-        "a616a1ef7aa1ee32d7d31c742923a202": {
-            "text": "Vybrat jin\u00fd obr\u00e1zek"
-        },
         "a2a62a977b1825230f76d3ba2a6bf3df": {
             "text": "Inline re\u017eim pro CKEditor vy\u017eaduje nainstalovan\u00fd modul MarkupHTMLPurifier. Moment\u00e1ln\u011b se pou\u017eije norm\u00e1ln\u00ed m\u00f3d."
         },
@@ -116,9 +110,6 @@
         "86981868980ec998b671432713a7b65b": {
             "text": "Prohl\u00e9dn\u011bte si [detaily](http:\/\/docs.ckeditor.com\/#!\/guide\/dev_allowed_content_rules-section-2) v dokumentaci CKEditoru."
         },
-        "9728a8f280cf7e8b0b89b52749f7e800": {
-            "text": "P\u0159e\u010dt\u011bte si pros\u00edm na\u0161e [pokyny](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file) k pou\u017e\u00edt\u00ed."
-        },
         "c329380c093af757e030c47c58fc31ae": {
             "text": "Vlastn\u00ed CSS soubor pro editor (regular m\u00f3d)"
         },
@@ -127,9 +118,6 @@
         },
         "1100db92626b135374ca3ad30025a3d5": {
             "text": "Vlastn\u00ed JS Styles Set editoru"
-        },
-        "63ba0561c6027fed354e6c5af252a77b": {
-            "text": "P\u0159e\u010dt\u011bte si pros\u00edm na\u0161e [pokyny](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set) k pou\u017e\u00edt\u00ed."
         },
         "0d26e4905e21b238948dc724daade146": {
             "text": "Vlastn\u00ed mo\u017enosti nastaven\u00ed"
@@ -166,6 +154,69 @@
         },
         "b6c2682ed322b5c3625338a5849b9794": {
             "text": "Textov\u00fd editor CKEditor"
+        },
+        "7038eac66e387c3b3a0834d786a88757": {
+            "text": "Vlo\u017eit obr\u00e1zek"
+        },
+        "0d1fae9f57cbc9a014f1c96baeef3911": {
+            "text": "Vybrat jin\u00fd"
+        },
+        "e8ddfb44ace2866e54880497acd251e3": {
+            "text": "Vlo\u017ete \"#\" na za\u010d\u00e1tek, pokud chcete tento \u0159\u00e1dek vynechat."
+        },
+        "1c4caab2cc11e882c71d23c8365e23f5": {
+            "text": "*\u0159\u00e1dkov\u00fd m\u00f3d vy\u017eaduje, aby byl nainstalov\u00e1n modul HTML Purifier (MarkupHTMLPurifier)."
+        },
+        "fb946d5480a9eb75edd868079b14cfac": {
+            "text": "\u010c\u00edta\u010d je podporov\u00e1n pro b\u011b\u017en\u00e9 pole CKEditoru, ale ne pro \u0159\u00e1dkov\u00e1 pole CKEditoru."
+        },
+        "4a4b882ebec0013773373d7983935b1c": {
+            "text": "P\u0159ep\u00edna\u010d zkr\u00e1\u0161len\u00ed k\u00f3du"
+        },
+        "e3e03267810478ccd824a13309388549": {
+            "text": "Toto jsou dal\u0161\u00ed mo\u017enosti \u010dist\u011bn\u00ed (mimo ACF a HTML Purifieru), kter\u00e9 se mohou hodit v mnoh\u00fdch situac\u00edch. Aplikuj\u00ed se p\u0159i ulo\u017een\u00ed str\u00e1nky. Doporu\u010dujeme za\u0161krtnout v\u0161echny mo\u017enosti. Pokud ov\u0161em nem\u00e1te pot\u0159ebu n\u011bkter\u00fd z nic v k\u00f3du vynechat."
+        },
+        "378f7539f13b958d62e92c063772ee37": {
+            "text": "V\u00fd\u0161e uveden\u00fd p\u0159\u00edklad povol\u00ed alt, src, width a height pro img tagy, kdy src je v\u017edy vy\u017eadov\u00e1n."
+        },
+        "60eaab37de096deaa26bb3ff7b706095": {
+            "text": "Cesty by m\u011bly b\u00fdt relativn\u00ed k va\u0161\u00ed ko\u0159enov\u00e9 slo\u017ece ProcessWire (pokud v\u00e1\u0161 web b\u011b\u017e\u00ed na subdm\u00e9n\u011b, tuto \u010d\u00e1st vynechte)."
+        },
+        "b67b49a021c8f28a0be44e276cdcb145": {
+            "text": "Tato mo\u017enost v\u00e1m umo\u017en\u00ed upravit zp\u016fsob, jak\u00fdm se text a ostatn\u00ed elementy zobrazuj\u00ed v editoru. To se vztahuje jen na administra\u010dn\u00ed \u010d\u00e1st webu. U\u017eivatelsk\u00e1 \u010d\u00e1st (front-end) z\u016fstane nedot\u010dena."
+        },
+        "749b7a2316f526ff2ec75692749211ad": {
+            "text": "Tato mo\u017enost v\u00e1m umo\u017en\u00ed napsat vlastn\u00ed styly, kter\u00e9 pak m\u016f\u017eete pou\u017e\u00edt ve va\u0161em editoru. Vy\u017eaduje, aby jste m\u011bli v n\u00e1strojov\u00e9 li\u0161t\u011b polo\u017eku \"Styly\"."
+        },
+        "2c3077a1dd5833c9dc6f49fe48e3ab71": {
+            "text": "Pokud je pou\u017eito, zadejte zvl\u00e1\u0161\u0165 na ka\u017ed\u00fd \u0159\u00e1dek **property:value**, nebo pou\u017eijte JSON \u0159et\u011bzec."
+        },
+        "0361833f130e526c7475f0bbcda324f3": {
+            "text": "Pou\u017eijte, pokud chcete specifikovat jin\u00e9 mo\u017enosti CKEditoru, ne\u017e jsou dostupn\u00e9 na t\u00e9to str\u00e1nce."
+        },
+        "8b6ac858b8ce3c2724d267695c732325": {
+            "text": "Vlastn\u00ed nastaven\u00ed nepro\u0161lo JSON validac\u00ed."
+        },
+        "d662e23e83bdb75f4e25b3bb7afa2324": {
+            "text": "Pokud je to pot\u0159eba, mohou b\u00fdt tyto nastaven\u00ed zad\u00e1na v jednom z n\u00e1sleduj\u00edc\u00edch soubor\u016f:"
+        },
+        "8cd140c060d298234e0079cb77ee8190": {
+            "text": "Byly nalezeny n\u00e1sleduj\u00edc\u00ed dopl\u0148ky. Za\u0161krtn\u011b ka\u017ed\u00fd dopln\u011bk, kter\u00fd chcete nahr\u00e1t."
+        },
+        "08b808bc7661d755f526f70fbcc07e44": {
+            "text": "Alespo\u0148 jeden dopln\u011bk mus\u00ed b\u00fdt vybr\u00e1n."
+        },
+        "9252446fff7e6ba650e51955cb0dc1ad": {
+            "text": "Pro p\u0159id\u00e1n\u00ed v\u00edce dopl\u0148k\u016f, je um\u00edst\u011bte v **\/site\/modules\/InputfieldCKEditor\/plugins\/[jmeno]\/**, kde nahra\u010fte **[jmeno]** za n\u00e1zev dopl\u0148ku."
+        },
+        "ced89926ebd1c95b56710b6a873b1e93": {
+            "text": "Nastaven\u00ed pro dopln\u011bk \"%s\" nepro\u0161la JSON validac\u00ed."
+        },
+        "7a20fe498ae5ceab6766124b9cb7b2a9": {
+            "text": "P\u0159e\u010dt\u011bte si pros\u00edm na\u0161e [pokyny](%s) k pou\u017e\u00edt\u00ed."
+        },
+        "16176bde1adfb16f43ed136db778416d": {
+            "text": "P\u0159e\u010dt\u011bte si pros\u00edm na\u0161e [pokyny]() k pou\u017e\u00edt\u00ed."
         }
     }
 }

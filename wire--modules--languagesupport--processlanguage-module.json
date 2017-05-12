@@ -23,11 +23,44 @@
         "8ff1c082c6dbbbb942d86d0620b18aca": {
             "text": "Spr\u00e1va syst\u00e9mov\u00fdch jazyk\u016f"
         },
-        "4b58cc72fab0b5fb596e9f02091ec0fe": {
-            "text": "P\u0159elo\u017eit soubor"
-        },
         "9b73fd4d710e72a212bfc7dbe5692405": {
             "text": "St\u00e1hnout ZIP"
+        },
+        "e29dcc5c9ac228a6986599e4ec13613c": {
+            "text": "Import CSV:"
+        },
+        "eb277f118345e1e4c0f1b81cec469ee9": {
+            "text": "Vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "585cff0204f1e344b4ea709b6e2928b4": {
+            "text": "Text k vyhled\u00e1n\u00ed"
+        },
+        "59b2ae438ca9f446f5cd4d79d3395446": {
+            "text": "Klikn\u011bte zde pro vygenerov\u00e1n\u00ed indexu hledan\u00fdch fr\u00e1z\u00ed"
+        },
+        "038126bcfc832f08d96c331d0316f5da": {
+            "text": "Vyhledat v\u0161echny p\u0159elo\u017eiteln\u00e9 soubory pro specifikovan\u00fd text nebo fr\u00e1zi."
+        },
+        "3e6c8fe6aa8a8d75014ff9ed52aa30be": {
+            "text": "Klikn\u011bte na \"Naj\u00edt shody\" pro \u00fapravu p\u0159ekladu, nebo p\u0159idejte soubor (pokud je\u0161t\u011b nen\u00ed p\u0159id\u00e1n)."
+        },
+        "54df9536f2bc89e18bec27b0d34ab42e": {
+            "text": "St\u00e1hnout CSV"
+        },
+        "3f045b24a15220ad5572f3ad51dd80e0": {
+            "text": "CSV soubor s p\u0159ekladem pro import po ulo\u017een\u00ed"
+        },
+        "7ccfd146fb192231dafacaa68c6fad13": {
+            "text": "Najdi soubory k p\u0159ekladu"
+        },
+        "b012fb6e4f8ea5ec13a5797b60145bb3": {
+            "text": "Nerozpoznan\u00e1 textov\u00e1 dom\u00e9na pro soubor: %s"
+        },
+        "8d8b8c1b707b1cc979c41ca7cb2a2020": {
+            "text": "%d celkov\u00fdch p\u0159eklad\u016f, %d zm\u011bn celkem"
+        },
+        "610d28b5e07bce623b5dcbcefc043344": {
+            "text": "Ulo\u017eeno %d zm\u011bn\/y v souboru: %s"
         }
     }
 }

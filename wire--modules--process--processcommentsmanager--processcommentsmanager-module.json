@@ -1,5 +1,135 @@
 {
     "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
     "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
-    "translations": []
+    "translations": {
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "Edit"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Schv\u00e1leno"
+        },
+        "2d13df6f8b5e4c5af9f87e0dc39df69d": {
+            "text": "\u010cekaj\u00edc\u00ed"
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "="
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Vymazat"
+        },
+        "98a0736c51255f757cf109bccfa1d7e2": {
+            "text": "Nejsou instalovan\u00e1 \u017e\u00e1dn\u00e1 koment\u00e1\u0159ov\u00e1 pole"
+        },
+        "adf240c38c161d42244e9eb21f515ba2": {
+            "text": "Vyberte pros\u00edm koment\u00e1\u0159ov\u00e9 pole"
+        },
+        "9f97f1e4ae9c77faa2f4d30bb84dd69b": {
+            "text": "Nespecifikov\u00e1no \u017e\u00e1dn\u00e9 koment\u00e1\u0159ov\u00e9 pole v URL"
+        },
+        "4f85d037300d5f7efcf7fdc3f973db7f": {
+            "text": "Nerozpoznan\u00e9 pole"
+        },
+        "b718adec73e04ce3ec720dd11a06a308": {
+            "text": "="
+        },
+        "6a65e2235642194467bf83001d23639d": {
+            "text": "Odpov\u011bd\u011bt"
+        },
+        "68c548ee5ab9808887460b7c74baac30": {
+            "text": "odstranit filtr"
+        },
+        "301fdff99e595b9e55d94b9b51b24277": {
+            "text": "Vymazat koment\u00e1\u0159 #%d"
+        },
+        "9ee770091bc28969ca49eb8b60826002": {
+            "text": "Aktualizovat koment\u00e1\u0159 #%d"
+        },
+        "2eaf1946befd8d1cec85046ac88324e3": {
+            "text": "d.m.Y G:i"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "="
+        },
+        "44749712dbec183e983dcd78a7736c41": {
+            "text": "Datum"
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Citace"
+        },
+        "4dfbb099eafd3c82e033bf92946d3ce6": {
+            "text": "E-mail"
+        },
+        "c6e190b284633c48e39e55049da3cce8": {
+            "text": "="
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "Hv\u011bzdi\u010dky"
+        },
+        "8c3560971347019d5f97199e943831f0": {
+            "text": "Hlasy"
+        },
+        "f42d9d8fbfa2f6929ac7ee0d2e2871c5": {
+            "text": "Odpov\u00edd\u00e1 na %s"
+        },
+        "d442d63d91aee0c27fffe480c591f6d8": {
+            "text": "Nastavit status:"
+        },
+        "4f5d5f295ddc8fd8673e74dd5fbe114a": {
+            "text": "na str\u00e1nku"
+        },
+        "1ef29a5a234edee09d7e54a321740181": {
+            "text": "Za\u0161krtnout\/Od\u0161krtnout v\u0161e"
+        },
+        "67148361142da466e462aed78d201888": {
+            "text": "Nejsou \u017e\u00e1dn\u00e9 za\u0161krtnut\u00e9 polo\u017eky"
+        },
+        "a46e2270222c49988714ec7916109fc4": {
+            "text": "Akce (za\u0161krtnut\u00e9 polo\u017eky)"
+        },
+        "e8eaf777c8e1f5b4e219d2e79cfd755f": {
+            "text": "Resetovat: Kladn\u00e9 hodnocen\u00ed"
+        },
+        "cf2dd3571dc6f61216f9f14785d7e227": {
+            "text": "Resetovat: Negativn\u00ed hodnocen\u00ed"
+        },
+        "dec8ba3ab6e0a24199eb5b6c43a9c846": {
+            "text": "Datum (nov\u00e9\u2013star\u00e9)"
+        },
+        "33abd1fd65941eb346da43ae77afbbb0": {
+            "text": "Datum (star\u00e9\u2013nov\u00e9)"
+        },
+        "ff138d55cfc1cb9ad05eff795e830b6c": {
+            "text": "Hv\u011bzdi\u010dky (nejvy\u0161\u0161\u00ed\u2013nejni\u017e\u0161\u00ed)"
+        },
+        "5a4745441b4ca1eaecd9d27664d7a667": {
+            "text": "Hv\u011bzdi\u010dky (nejni\u017e\u0161\u00ed\u2013nejvy\u0161\u0161\u00ed)"
+        },
+        "63e90287fd383e2e42e4778c0e9d7a71": {
+            "text": "Kladn\u00e9 hodnocen\u00ed"
+        },
+        "b45352aeca3646b5fb15baa385d44224": {
+            "text": "Z\u00e1porn\u00e9 hodnocen\u00ed"
+        },
+        "a4c295f303bd3ad4c69344a18dc68420": {
+            "text": "\u0158adit:"
+        },
+        "eee1a3d85e91b9944c98c7558f706b27": {
+            "text": "M\u00e1te neulo\u017een\u00e9 zm\u011bny!"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "V\u0161e"
+        },
+        "aa55eeb3bfe951eb9d56e8a919d80781": {
+            "text": "z %d"
+        },
+        "30f29dc6505d24512de6f3189a5bda62": {
+            "text": "Nen\u00ed co zobrazit"
+        },
+        "43ffce869929998c02ec3de3dd218d03": {
+            "text": "%d odpov\u011bd"
+        },
+        "af617b357692e5cded9ff1dd859080b3": {
+            "text": "%d odpov\u011bd\u00ed"
+        }
+    }
 }

@@ -197,9 +197,6 @@
         "19a3fc9f896f1ef86f69f782be122c37": {
             "text": "V\u00fdchoz\u00ed nastaven\u00ed nezobrazuje intern\u00ed\/syst\u00e9mov\u00e9 \u0161ablony. Chcete aby seznam n\u00ed\u017ee obsahoval i syst\u00e9mov\u00e9 \u0161ablony?"
         },
-        "7fc1fde9711c421115c890cd0d181100": {
-            "text": "Definujte pole, kter\u00e1 jsou pou\u017e\u00edv\u00e1na touto \u0161ablonou. Pole m\u016f\u017eete tak\u00e9 p\u0159et\u00e1hnout my\u0161\u00ed do jejich po\u017eadovan\u00e9ho po\u0159ad\u00ed."
-        },
         "524fe63ba99d979ba854d38529c9abc1": {
             "text": "Chete-li vytvo\u0159it novou \u0161ablonu i p\u0159es to, \u017ee s n\u00ed nen\u00ed asociov\u00e1n \u017e\u00e1dn\u00fd soubor, zadejte n\u00e1zev \u0161ablony."
         },
@@ -239,9 +236,6 @@
         "707380d7bcc2ece9eead5a5879fb1c22": {
             "text": "Chcete spravovat p\u0159\u00edstupy k prohl\u00ed\u017een\u00ed a \u00faprav\u011b str\u00e1nek pou\u017e\u00edvaj\u00edc\u00edch tuto \u0161ablonu?"
         },
-        "adf92855ccc9fe04707fd12688a17c59": {
-            "text": "Tuto \u0161ablonu pou\u017e\u00edv\u00e1 1 str\u00e1nka"
-        },
         "d26c2f7eb253b0202c2769f3dd232d96": {
             "text": "Tuto \u0161ablonu pou\u017e\u00edv\u00e1 %d str\u00e1nek"
         },
@@ -252,7 +246,7 @@
             "text": "N\u00e1zev souboru \u0161ablony, pokud je rozd\u00edln\u00fd od: %s"
         },
         "1e791aefe4014d2551110c4348279487": {
-            "text": "Povolen\u00e9 \u0161ablony podstr\u00e1nek"
+            "text": "Povolen\u00e1 \u0161ablona(y) podstr\u00e1nek"
         },
         "fcdd2e278208618dfa795ed85ba1eb06": {
             "text": "Vyberte \u0161ablony, kter\u00e9 budou povoleny jako podstr\u00e1nky (pod\u0159azen\u00e9) pro str\u00e1nky pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu. Tuto volbu pou\u017e\u00edvejte pouze v p\u0159\u00edpad\u011b, \u017ee chcete omezit um\u00edst\u011bn\u00ed str\u00e1nek pou\u017e\u00edvaj\u00edc\u00edch tuto \u0161ablonu."
@@ -262,9 +256,6 @@
         },
         "e71a260bc8db16e30f2dedeba9440a25": {
             "text": "Nap\u0159\u00edklad: 60 = 1 minuta, 600 = 10 minut, 3600 = 1 hodina, 86400 = 1 den, 604800 = 1 t\u00fdden, 2419200 = 1 m\u011bs\u00edc."
-        },
-        "b69fde670b130ace1c7890c8be5b289b": {
-            "text": "Za\u0161krtnut\u00edm n\u00ed\u017ee polo\u017een\u00e9ho pol\u00ed\u010dka se vytvo\u0159\u00ed kopie\/klon t\u00e9to \u0161ablony. Kopie bude vytvo\u0159ena po stisku tla\u010d\u00edtka Ulo\u017eit. Pokud je V\u00e1\u0161 adres\u00e1\u0159 \u0161ablon zapisovateln\u00fd a \u0161ablona m\u00e1 soubor, bude soubor \u0161ablony tak\u00e9 zkop\u00edrov\u00e1n."
         },
         "244561833b6ce4599891cf9e33fb33d6": {
             "text": "Voliteln\u00e1 pokro\u010dil\u00e1 nastaven\u00ed \u0161ablony"
@@ -410,12 +401,6 @@
         "1684cd1767cda6618ed92febec9e78c6": {
             "text": "API: $template->allowChangeUser = 1; \/\/ nebo 0 pro zak\u00e1z\u00e1no"
         },
-        "115162847e362551c1dcaff31e64fa80": {
-            "text": "Sch\u00e9ma\/Protokol"
-        },
-        "6b01f3d73dbcea918c2e08424f41c87c": {
-            "text": "Vlo\u017ete URL adresu, kam chcete p\u0159esm\u011brovat u\u017eivatele bez p\u0159\u00edstupov\u00fdch pr\u00e1v."
-        },
         "dbb2a9bf7f53894204e7b75a4a323fa2": {
             "text": "Chyba p\u0159i vytv\u00e1\u0159en\u00ed klonu t\u00e9to \u0161ablony"
         },
@@ -504,10 +489,10 @@
             "text": "Vy\u010distit vyrovn\u00e1vac\u00ed pam\u011b\u0165 pouze pro ulo\u017eenou str\u00e1nku (v\u00fdchoz\u00ed)"
         },
         "3bba41317ab3da84fd247ebaa32ea821": {
-            "text": "Vy\u010distit vyrovn\u00e1vac\u00ed pam\u011b\u0165 ulo\u017een\u00e9 str\u00e1nky a v\u0161ech nad\u0159azen\u00fdch str\u00e1nek"
+            "text": "Vy\u010distit vyrovn\u00e1vac\u00ed pam\u011b\u0165 pro ulo\u017eenou str\u00e1nku a v\u0161ech rodi\u010d\u016f (v\u010detn\u011b homepage)"
         },
         "f841b3150a439220f669e77e12ea0bda": {
-            "text": "Vy\u010distit vyrovn\u00e1vac\u00ed pam\u011b\u0165 ulo\u017een\u00e9 str\u00e1nky a dal\u0161\u00edch str\u00e1nek kter\u00e9 vyberu..."
+            "text": "Vy\u010distit vyrovn\u00e1vac\u00ed pam\u011b\u0165 pro ulo\u017eenou str\u00e1nku a dal\u0161\u00edch str\u00e1nek kter\u00e9 vyberu..."
         },
         "d6b522c2ed20093505dfa63be2ba0454": {
             "text": "Pou\u017e\u00edvat vyrov\u00e1vac\u00ed pam\u011b\u0165 pro str\u00e1nky zobrazovan\u00e9 t\u011bmto u\u017eivatel\u016fm"
@@ -535,9 +520,6 @@
         },
         "86c66b6c28f25016de70be40475eb881": {
             "text": "API: $template->flagSystem = 1; \/\/ nebo 0 pro zak\u00e1z\u00e1no"
-        },
-        "69b2806a857d0fb5778a31c1f88f59a0": {
-            "text": "Sou\u010dasn\u00e9 \u010d\u00edslo str\u00e1nky z\u00edsk\u00e1te ve va\u0161ich \u0161ablon\u00e1ch pomoc\u00ed $input->pageNum;"
         },
         "42a6e7a5ed0d0ae111fa88a2ccf1aca2": {
             "text": "Nepovolit p\u0159esuny str\u00e1nek?"
@@ -611,9 +593,6 @@
         "724da4546b6908025f8a9fa99885297f": {
             "text": "API pozn\u00e1mka: Toto nastaven\u00ed m\u00e1 vliv na n\u00e1vratov\u00e9 hodnoty $pages->find(), $page->children() a ostatn\u00ed funkce, kter\u00e9 vrac\u00ed PageArrays."
         },
-        "0ad1fc6237db839537da704c90b40c53": {
-            "text": "Vytvo\u0159en klon \u0161ablony \"%1$s\" pojmenovan\u00fd \"%2$s\". M\u016f\u017eete ho p\u0159ejmenovat \u00fapravou \"%2$s\" v kart\u011b \"Pokro\u010dil\u00e9\"."
-        },
         "c69da3a709ad376098eb517be436a12b": {
             "text": "Po\u017e\u00e1dali jste o zm\u011bnu skupiny pol\u00ed \"%1$s\" na \"%2$s\"."
         },
@@ -644,17 +623,8 @@
         "ac32650de5a87d0e83f088edcefbc9a8": {
             "text": "Ne - Str\u00e1nky se nebudou zobrazovat v seznamech\/hled\u00e1n\u00edch, dokud na n\u011b u\u017eivatel nebude m\u00edt pr\u00e1va k prohl\u00ed\u017een\u00ed."
         },
-        "8bda693211f46eb289c8bdadedaf54ae": {
-            "text": "Je-li za\u0161krtnuto, budou str\u00e1nky pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu p\u0159ij\u00edmat v URL adrese segmenty ve form\u00e1tu 'page123' slou\u017e\u00edc\u00ed pro \u010d\u00edslov\u00e1n\u00ed str\u00e1nek ('123' je libovoln\u00e9 kladn\u00e9 \u010d\u00edslo). Nap\u0159\u00edklad: URL adresa '\/widgets\/page3' automaticky nastav\u00ed $input->pageNum na hodnotu 3. Toto nastaven\u00ed je vhodn\u00e9 povolit pouze v \u0161ablon\u00e1ch ve kter\u00fdch pot\u0159ebujeme podporu pro \u010d\u00edslov\u00e1n\u00ed str\u00e1nek (pagination). V\u0161imn\u011bte si, \u017ee \u010d\u00edsla str\u00e1nek za\u010d\u00ednaj\u00ed hodnotou 1 (ne 0). V kombinaci s URL segmenty (viz dal\u0161\u00ed \u010d\u00e1st) pak \u010d\u00edslo str\u00e1nky, mus\u00ed b\u00fdt posledn\u00ed \u010d\u00e1st\u00ed URL adresy."
-        },
         "60cb362641cd33525562c9d62d0f8d18": {
             "text": "Volbou \"Ano\", budou URL adresy str\u00e1nek pou\u017e\u00edvaj\u00edc\u00edch tuto \u0161ablonu v\u017edy kon\u010dit lom\u00edtkem \"\/\". Pokud je str\u00e1nka zavol\u00e1na z URL adresy bez lom\u00edtka nakonci, bude automaticky p\u0159esm\u011brov\u00e1na na adresu s lom\u00edtkem. V\u0161imn\u011bte si, \u017ee toto nastaven\u00ed nen\u00ed vy\u017eadov\u00e1no URL segmenty ani \u010d\u00edslov\u00e1n\u00edm str\u00e1nek. Doporu\u010den\u00e9 nastaven\u00ed je ponechat volbu na \"Ano\"."
-        },
-        "8c8b0529510e126bc81359c5a2ae3482": {
-            "text": "Jsou podporov\u00e1ny a\u017e 3 URL segmenty za adresou str\u00e1nky. Povolen\u00e9 jsou kombinace mal\u00fdch ASCII p\u00edsmen (a-z), \u010d\u00edslic (0-9), poml\u010dky a podtr\u017e\u00edtka. URL segmenty budou ve va\u0161ich \u0161ablon\u00e1ch p\u0159\u00edstupn\u00e9 p\u0159es API funkci $input->urlSegment(n) nebo $input->urlSegment[n] (nahra\u010fte [n] \u010d\u00edslem segmentu 1, 2 nebo 3)."
-        },
-        "3f7071fb2ff5f5a0218c696722986007": {
-            "text": "Nap\u0159\u00edklad: Cel\u00e1 URL adresa je \/path\/to\/page\/a\/b\/c\/, adresa str\u00e1nky je \/path\/to\/page\/ a \/a\/b\/c\/ jsou segmenty: $input->urlSegment1 je \"a\", $input->urlSegment2 je \"b\", and $input->urlSegment3 je \"c\". Pokud \u0161ablona obdr\u017e\u00ed nezn\u00e1n\u00fd URL segment, doporu\u010duje se p\u0159eru\u0161it po\u017eadavek vr\u00e1cen\u00edm str\u00e1nky 404 chyba. API k\u00f3d, kter\u00fd to za\u0159\u00edd\u00ed je: throw new Wire404Exception();"
         },
         "dcc07e185c0c88ca7c4439fbaa56e4cb": {
             "text": "Pokud \u0161ablona pou\u017e\u00edv\u00e1 vyrovn\u00e1vac\u00ed pam\u011b\u0165, prom\u011bnn\u00e9 tohoto typu jsou ve v\u00fdchoz\u00edm nastaven\u00ed ignorov\u00e1ny. Voliteln\u011b lze zadat jeden nebo v\u00edce n\u00e1zv\u016f prom\u011bnn\u00fdch, pro kter\u00e9 bude bude v dan\u00e9m po\u017eadavku vyrovn\u00e1vac\u00ed pam\u011b\u0165 zak\u00e1z\u00e1na, co\u017e zp\u016fsob\u00ed \u017ee bude str\u00e1nka vykreslena bez vyrovn\u00e1vac\u00ed pam\u011bti."
@@ -665,9 +635,6 @@
         "ad63801f30d93a9f54257aa637d5ed89": {
             "text": "POST prom\u011bnn\u00e9 pro kter\u00e9 bude zak\u00e1z\u00e1na vyrovn\u00e1vac\u00ed pam\u011b\u0165"
         },
-        "edf7d3cbbda60af5148285cec1cd7569": {
-            "text": "Voliteln\u011b m\u016f\u017ee tato \u0161ablona podporovat URL segmenty pro st\u00e1nky, kter\u00e9 j\u00ed pou\u017e\u00edvaj\u00ed. Nap\u0159\u00edklad m\u016f\u017eete cht\u00edt, aby str\u00e1nka s adresou \/path\/to\/page\/ p\u0159ij\u00edmala po\u017eadavky z adres \/path\/to\/page\/segment1\/ nebo \/path\/to\/page\/segment1\/segment2\/. Ve v\u00fdchoz\u00edm nastaven\u00ed vr\u00e1t\u00ed na takov\u00fd po\u017eadavek ProcessWire vyj\u00edmku  '404 Page Not Found'. Za\u0161krtnut\u00ed pol\u00ed\u010dka n\u00ed\u017ee, povol\u00ed zobrazit str\u00e1nky na kter\u00e9 se p\u0159istupuje p\u0159es adresy obsahuj\u00edc\u00ed segmenty. Pot\u00e9 m\u016f\u017eete manu\u00e1ln\u011b obslou\u017eit hodnoty z URL segmentu ve va\u0161\u00ed \u0161ablon\u011b."
-        },
         "7de04564993d28e2b32be513c1575777": {
             "text": "p\u0159\u00edstup"
         },
@@ -676,9 +643,6 @@
         },
         "6ab8ac5b13a48347d2ca00a38bb06f94": {
             "text": "P\u0159\u00edkladem \u0161ablony, kterou nechcete pou\u017e\u00edvat pro nov\u00e9 str\u00e1nky m\u016f\u017ee b\u00fdt va\u0161e \u0161ablona 'homepage'."
-        },
-        "857cec13e140d4bf4bb55c10e7878997": {
-            "text": "M\u016f\u017eete tak\u00e9 zadat [n\u00e1zev ikony](http:\/\/fortawesome.github.io\/Font-Awesome\/icons\/), nap\u0159\u00edklad: icon-file"
         },
         "de4914b2943f3cfce0232ae281a8b155": {
             "text": "Zobrazit v rychl\u00e9m menu\/tla\u010d\u00edtku pro p\u0159id\u00e1v\u00e1n\u00ed str\u00e1nek?"
@@ -689,14 +653,8 @@
         "91426b7105692d7c29b6307385ea99d1": {
             "text": "Podm\u00ednky vy\u017eadovan\u00e9 pro spr\u00e1vnou funk\u010dnost"
         },
-        "487b2fe79edc18261ed2e37e657c0b58": {
-            "text": "4. T\u00e9ma administrace mus\u00ed tuto funkci podporovat."
-        },
         "635a2459897d3f0072993713558c84b0": {
             "text": "1. Mus\u00ed b\u00fdt vybr\u00e1na rodi\u010dovsk\u00e1 \u0161ablona (viz: \"Povolen\u00e9 rodi\u010dovsk\u00e9 \u0161ablony\" v\u00fd\u0161e). Pokud je vybr\u00e1no v\u00edce \u0161ablon pou\u017eije se pouze prvn\u00ed."
-        },
-        "b31e82dcc61dd6ba650389f38c6e154e": {
-            "text": "3. V syst\u00e9mu mus\u00ed existovat pouze jedna instance str\u00e1nky pou\u017e\u00edvaj\u00edc\u00ed \u0161ablonu rodi\u010de."
         },
         "b14d306525e8d6e9927d577a59064048": {
             "text": "3. Zvolen\u00e1 rodi\u010dovsk\u00e1 \u0161ablona mus\u00ed m\u00edt vybranou tuto \u0161ablonu jako jednu z povolen\u00fdch pro svoje podstr\u00e1nky (\"Povolen\u00e9 \u0161ablony podstr\u00e1nek\")."
@@ -715,6 +673,336 @@
         },
         "817434295a673aed431435658b65d9a7": {
             "text": "Ikona"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Exportovat"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importovat"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Nepovoleno"
+        },
+        "9aa8f6fc386e155886938a352548a81c": {
+            "text": "Upraveno"
+        },
+        "5124b02da7ffa5ef666dc8bde11cd10d": {
+            "text": "jak\u00fdkoliv \/ nez\u00e1le\u017e\u00ed na tom"
+        },
+        "6703f01fb2662a497ae2d29163ed68c2": {
+            "text": "Jm\u00e9no se ji\u017e pou\u017e\u00edv\u00e1"
+        },
+        "0e2511c51c799246bc640afd3b4cc07b": {
+            "text": "M\u016f\u017eete zadat v\u00edce n\u00e1zv\u016f \u0161ablon t\u00edm, \u017ee je odd\u011bl\u00edte mezerou."
+        },
+        "ae89f7319ca951efb3ce055e92b8ade2": {
+            "text": "Definujte pole pou\u017e\u00edvan\u00e1 touto \u0161ablonou. M\u016f\u017eete tak\u00e9 p\u0159et\u00e1hnout pole do po\u017eadovan\u00e9ho po\u0159ad\u00ed nebo [vytvo\u0159it nov\u00e9 pole](..\/field\/add)."
+        },
+        "044c72d21891e006e09a78d32a1e3226": {
+            "text": "Zav\u0159\u00edt a p\u0159idat"
+        },
+        "1ad747442af37649526e00927b7d0a1f": {
+            "text": "Chcete-li konfigurovat, jak\u00e9 pole m\u016f\u017ee u\u017eivatel ve sv\u00e9m profilu upravit, p\u0159e\u010dt\u011bte si [nastaven\u00ed modulu profilu](%s)."
+        },
+        "c5abeb6189c82d5b9d81bbcac604408b": {
+            "text": "Stav mezipam\u011bti (cache)"
+        },
+        "399c72ebbb8b618eeb11aab334a88369": {
+            "text": "Povoleno (mezipam\u011b\u0165 \u0161ablony)"
+        },
+        "6d490a96685b13339b51530ee05a7c9a": {
+            "text": "Povoleno (ProCache, nastaveno zde)"
+        },
+        "404deca0459b84d7308fb7c434301657": {
+            "text": "Str\u00e1nky pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu jsou ulo\u017eeny v mezipam\u011bti ProCache, nicm\u00e9n\u011b konfigurov\u00e1ny jsou p\u0159\u00edmo v ProCache. Chcete-li konfigurovat nastaven\u00ed ProCache pro tuto \u0161ablonu, vyberte mo\u017enost ProCache v\u00fd\u0161e."
+        },
+        "b0349bb2d18f943c6aa52c5c038850a0": {
+            "text": "Pokud pou\u017e\u00edv\u00e1te [ProCache](%s), nen\u00ed pot\u0159eba zde pou\u017e\u00edvat nastaven\u00ed mezipam\u011bti."
+        },
+        "70445e42e2f9089020b0ba1c23063287": {
+            "text": "Vy\u010distit vyrovn\u00e1vac\u00ed pam\u011b\u0165 pro ulo\u017eenou str\u00e1nku a dal\u0161\u00ed str\u00e1nky odpov\u00eddaj\u00edc\u00ed v\u00fdb\u011bru..."
+        },
+        "f62b09e2a4c1eb3583afe9c213b981c8": {
+            "text": "Selektor pro nalezen\u00ed dal\u0161\u00edch str\u00e1nek, kter\u00e9 by m\u011bly vymazat svou mezipam\u011b\u0165."
+        },
+        "dcbec326309994892030ce4aa6f72f75": {
+            "text": "Ulo\u017ete tuto \u0161ablonu a vra\u0165te se sem pro dal\u0161\u00ed nastaven\u00ed selektoru."
+        },
+        "711aef464118d5be216c2879591fbb5a": {
+            "text": "Selektor vypr\u0161en\u00ed platnosti mezipam\u011bti"
+        },
+        "fc5817e1bd14f3acbf2266635b0e30ed": {
+            "text": "Chcete-li vypnout mezipam\u011b\u0165, v p\u0159\u00edpad\u011b \u017ee je dostupn\u00e1 n\u011bjak\u00e1 prom\u011bnn\u00e1, zadejte pouze hv\u011bzdi\u010dku: * (doporu\u010deno)"
+        },
+        "f578ef5a7330291e151dc6052fe85bfe": {
+            "text": "Voliteln\u011b p\u0159ep\u00ed\u0161e v\u00fdchoz\u00ed \u0161t\u00edtek z\u00e1lo\u017eky \"Obsah\"."
+        },
+        "5fda5af59d211bd673998a69f051c3f2": {
+            "text": "Voliteln\u011b p\u0159ep\u00ed\u0161e v\u00fdchoz\u00ed \u0161t\u00edtek z\u00e1lo\u017eky \"Potomci\"."
+        },
+        "4a49f761ce504d9c073de20eba6ca069": {
+            "text": "Voliteln\u011b p\u0159ep\u00ed\u0161e v\u00fdchoz\u00ed jmenovku vlastnosti \"Jm\u00e9no\"."
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Zadejte n\u00e1zev nov\u00e9 \u0161ablony, kterou chcete vytvo\u0159it. Klon bude vytvo\u0159en p\u0159i ulo\u017een\u00ed. Pokud je adres\u00e1\u0159 \"template\" zapisovateln\u00fd a \u0161ablona m\u00e1 soubor, bude tak\u00e9 klonov\u00e1n."
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "Povinn\u00e9 pole akce"
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "Jak\u00e1 akce se m\u00e1 podniknout, kdy\u017e ji\u017e zve\u0159ejn\u011bn\u00e1 str\u00e1nka bude ulo\u017eena s chyb\u011bj\u00edc\u00edm po\u017eadovan\u00fdm polem?"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "Upozornit u\u017eivatele o chyb\u011b (v\u00fdchoz\u00ed)"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "Obnovit p\u0159edchoz\u00ed hodnotu (je-li k dispozici)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "Zru\u0161it publikov\u00e1n\u00ed str\u00e1nky (pokud je povoleno)"
+        },
+        "4f50a13dad7a9fb97496e4b62718d3a8": {
+            "text": "Vyberte ikonu, kter\u00e1 bude p\u0159id\u00e1na k \u0161ablon\u011b a str\u00e1nkami pou\u017e\u00edvaj\u00edc\u00edmi tuto \u0161ablonu (v administraci)."
+        },
+        "9a4127b29b0b6c40638af21074829f0e": {
+            "text": "M\u016f\u017eete tak\u00e9 pou\u017e\u00edt vlastn\u00ed form\u00e1t (a jak\u00e9koli dal\u0161\u00ed interpunk\u010dn\u00ed znam\u00e9nka\/znaky) zad\u00e1n\u00edm n\u00e1zv\u016f pol\u00ed v z\u00e1vorce, nap\u0159. {name}, {categories.title} atd."
+        },
+        "9c16eb3042fbf6c2b73a21dea122d19e": {
+            "text": "Chcete-li zadat vlastnost pole, obklopte pole v z\u00e1vork\u00e1ch a zadejte {field_name.property}, nap\u0159\u00edklad: {categories.title}."
+        },
+        "8f0944546d02e3fd7de73e9418494b3b": {
+            "text": "P\u0159ep\u00edna\u010de \u0161ablony"
+        },
+        "249d044ac9d6d23ba96d1515cc4717e4": {
+            "text": "Obecn\u011b byste m\u011bli nechat tyto p\u0159ep\u00edna\u010de neza\u0161krtnut\u00e9, pokud ov\u0161em nem\u00e1te pot\u0159ebu specifick\u00e9ho nastaven\u00ed."
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "Chcete zak\u00e1zat v\u00edcejazy\u010dnou podporu u t\u00e9to \u0161ablony?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "Pokud je za\u0161krtnuto, str\u00e1nky pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu budou pou\u017e\u00edvat pouze v\u00fdchoz\u00ed jazyk."
+        },
+        "2ae2316266d64c1c1caa543c16fe62bc": {
+            "text": "API: $template->noLang = 1; \/\/ v\u00fdchoz\u00ed je 0."
+        },
+        "8a08c3b7f2922be4ad8e59744781b796": {
+            "text": "Form\u00e1t jm\u00e9na str\u00e1nky"
+        },
+        "8a396099e3eecefcbbbbac1715a464de": {
+            "text": "Voliteln\u011b zadejte form\u00e1t n\u00e1zvu str\u00e1nek, pou\u017eit\u00fd p\u0159i p\u0159id\u00e1n\u00ed nov\u00e9 str\u00e1nky. T\u00edm se p\u0159i p\u0159id\u00e1n\u00ed nov\u00e9 str\u00e1nky p\u0159esko\u010d\u00ed krok \"P\u0159idat str\u00e1nku\". Aby to fungovalo, \u0161ablona pou\u017eita rodi\u010dovsk\u00fdmi str\u00e1nkami mus\u00ed m\u00edt nastavenou tuto \u0161ablonu (%s) jako jedinou povolenou pro potomky (viz z\u00e1lo\u017eka \"Rodina\" v nastaven\u00ed \u0161ablony, kterou pou\u017e\u00edv\u00e1 rodi\u010d)."
+        },
+        "6058394e74833c97153b0edaec2fb369": {
+            "text": "M\u016f\u017eete zadat libovoln\u00fd text, kter\u00fd se v\u00e1m l\u00edb\u00ed. Pokud bude vytvo\u0159ena nov\u00e1 str\u00e1nka a n\u00e1zev nebude unik\u00e1tn\u00ed, na konec n\u00e1zvu bude p\u0159id\u00e1no p\u0159\u00edr\u016fstkov\u00e9 \u010d\u00edslo, dokud n\u00e1zev nebude unik\u00e1tn\u00ed."
+        },
+        "026e4114c3bd578141d593edfdcba4b6": {
+            "text": "**Pokud chcete, aby va\u0161e n\u00e1zvy str\u00e1nek odvozovaly svou hodnotu z pole titulek**: zadejte \"title\" (bez uvozovek)."
+        },
+        "cde43753349041653da0d29cc52a15fa": {
+            "text": "**Pokud chcete, aby n\u00e1zvy str\u00e1nek odpov\u00eddaly datu \/ \u010dasu vytvo\u0159en\u00ed:** vlo\u017ete [form\u00e1t data](http:\/\/www.php.net\/manual\/en\/function.date.php). Form\u00e1t data mus\u00ed obsahovat nejm\u00e9n\u011b jeden alfanumerick\u00fd znak (nap\u0159\u00edklad lom\u00edtko \"\/\" nebo dvojte\u010dku \":\"), aby byl rozpozn\u00e1n jako form\u00e1t data. P\u0159\u00edklad: \"Y\/m\/d H:i:s\" bude vypadat v n\u00e1zvu str\u00e1nek jako: \"2014-10-30-12-39-01\". Jak m\u016f\u017eete vid\u011bt, ne-alfanumerick\u00e9 znaky, kter\u00e9 se nach\u00e1z\u00ed ve form\u00e1tu data, se p\u0159evedou na poml\u010dky."
+        },
+        "9278bd133a7f5cd50f24a5a253f8ac9b": {
+            "text": "API: $template->pageClass = \"JmenoTridy\";"
+        },
+        "06c2cea18679d64399783748fa367bdd": {
+            "text": "Jedna"
+        },
+        "b4a25e0860ab98f8476c6339abbb773b": {
+            "text": "v\u00edce nen\u00ed povoleno"
+        },
+        "ad1d924dc261c8945b07d271c9cd5888": {
+            "text": "\u0160ablony ozna\u010den\u00e9 pomoc\u00ed %s mus\u00ed b\u00fdt nakonfigurov\u00e1ny tak, aby m\u011bly povolenou tuto \u0161ablonu jako nad\u0159azenou. Klepn\u011bte na libovolnou vybranou \u0161ablonu pro konfiguraci povolen\u00fdch rodi\u010d\u016f."
+        },
+        "81d8cfa67d7f3fa526cff71bd27238c5": {
+            "text": "\u0160ablony ozna\u010den\u00e9 znakem %s jsou ji\u017e nakonfigurov\u00e1ny tak, aby umo\u017e\u0148ovaly tuto \u0161ablonu jako rodi\u010de."
+        },
+        "fb3f093ab0572a059120f2c7c680da3c": {
+            "text": "\u0160ablony ozna\u010den\u00e9 znakem %s mus\u00ed b\u00fdt nakonfigurov\u00e1ny tak, aby aby m\u011bly povolenou tuto \u0161ablonu pro potomky\/podstr\u00e1nky. Klikn\u011bte na libovolnou vybranou \u0161ablonu pro konfiguraci povolen\u00fdch potomk\u016f."
+        },
+        "173fc4509c54323d4c0da3ffea41742c": {
+            "text": "\u0160ablony ozna\u010den\u00e9 znakem %s jsou ji\u017e nakonfigurov\u00e1ny tak, aby umo\u017e\u0148ovaly pou\u017e\u00edt tuto \u0161ablonu pro podstr\u00e1nky."
+        },
+        "92fe79a8aa59b037f5f6e2b43f89fea8": {
+            "text": "Form\u00e1t jm\u00e9na pro podstr\u00e1nky"
+        },
+        "5cf485ae4559df60232a5ff0f87783cb": {
+            "text": "Voliteln\u011b ur\u010dete form\u00e1t n\u00e1zv\u016f str\u00e1nek pou\u017eit\u00fd p\u0159i p\u0159id\u00e1n\u00ed nov\u00e9 podstr\u00e1nky. T\u00edm se p\u0159i p\u0159id\u00e1n\u00ed nov\u00e9 str\u00e1nky p\u0159esko\u010d\u00ed krok \"P\u0159idat str\u00e1nku\". Aby to fungovalo, mus\u00ed b\u00fdt vybr\u00e1na pouze jedna \u0161ablona pro pole \"Povolen\u00e9 \u0161ablony podstr\u00e1nek\" v\u00fd\u0161e."
+        },
+        "27dd547b53bb1b3c67c345f984747010": {
+            "text": "Chcete-li zak\u00e1zat, nechte pr\u00e1zdn\u00e9. Zadejte \"title\" (bez uvozovek), chcete-li n\u00e1zev automaticky vygenerovat z n\u00e1zvu str\u00e1nky. K dispozici jsou tak\u00e9 dal\u0161\u00ed mo\u017enosti v\u010detn\u011b datumov\u00fdch form\u00e1t\u016f. [V\u00edce](http:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "9351544406147e2f9a081ce279e7f687": {
+            "text": "Chcete-li upravit po\u0159ad\u00ed \u0161ablon v nab\u00eddce zkratek, p\u0159e\u010dt\u011bte si [nastaven\u00ed modulu PageAdd](%s)."
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "V\u00edce"
+        },
+        "991dba5ecf8a850b42ffc2e6d0697c2b": {
+            "text": "Pokud je za\u0161krtnuto, str\u00e1nky pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu budou m\u00edt podporu pro str\u00e1nkov\u00e1n\u00ed."
+        },
+        "4ee65b65a7329e4d76cce40b69075c2d": {
+            "text": "K aktu\u00e1ln\u00edmu \u010d\u00edslu str\u00e1nky m\u016f\u017eete v \u0161ablon\u011b p\u0159istupovat pomoc\u00ed $input-> pageNum."
+        },
+        "fb72654fb51cb493c6d0123505d9e596": {
+            "text": "M\u011bly by URL adresy str\u00e1nkov\u00e1n\u00ed obsahovat lom\u00edtko?"
+        },
+        "4295c2949c604273ad18a82924a06684": {
+            "text": "Pokud je za\u0161krtnuto, str\u00e1nky pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu budou podporovat vlastn\u00ed URL segmenty po URL adrese str\u00e1nky."
+        },
+        "3f967ce93af0de3a0457071f3d743f14": {
+            "text": "P\u0159\u00edstupovat ke st\u00e1vaj\u00edc\u00edm segment\u016fm URL adres v \u0161ablon\u011b pomoc\u00ed $input->urlSegmentStr."
+        },
+        "bbd5238aeedba403b7977656d2f132fc": {
+            "text": "M\u011bly by segmenty URL kon\u010dit koncov\u00fdm lom\u00edtkem?"
+        },
+        "85eb71c20f7740fc3bdbf7dfdee2636b": {
+            "text": "Kter\u00e9 segmenty URL chcete povolit?"
+        },
+        "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
+            "text": "Zadejte jeden povolen\u00fd segment, cestu segmentu nebo regul\u00e1rn\u00ed v\u00fdraz (jeden na \u0159\u00e1dek), nebo nechte pr\u00e1zdn\u00e9 pro z\u00e1kaz."
+        },
+        "2d234a37f1f09a868ff9e51cbec93c0a": {
+            "text": "Sch\u00e9ma\/Protokol"
+        },
+        "3797b58404902683867d788211ac5ce2": {
+            "text": "Pou\u017e\u00edt kompilovan\u00fd soubor?"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "Umo\u017e\u0148uje ProcessWire aktualizovat v\u00e1\u0161 soubor \u0161ablon pro jmenn\u00fd prostor ProcessWire, a pou\u017e\u00edt v\u0161echny nainstalovan\u00e9 moduly FileCompileru."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "Doporu\u010dujeme alespo\u0148 pro soubory \u0161ablon, kter\u00e9 nepou\u017e\u00edvaj\u00ed jmenn\u00fd prostor ProcessWire (jako ty poch\u00e1zej\u00edc\u00ed z web\u016f PW 2.x)."
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "Pokud si nejste jist\u00ed, zvolte \"Auto\"."
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(vypne kompil\u00e1tor)"
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Auto (kompilace, pokud soubor nem\u00e1 \u017e\u00e1dn\u00fd jmenn\u00fd prostor)"
+        },
+        "422d6e51e28831664b5c0b701b6c6182": {
+            "text": "(pouze soubor \u0161ablony)"
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(soubor \u0161ablony a souvisej\u00edc\u00ed soubory)"
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "Zji\u0161t\u011bn\u00fd jmenn\u00fd prostor souboru \u0161ablon je \"%s\"."
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "Kompilovat doporu\u010den\u00e9."
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "Kompilace nen\u00ed nutn\u00e1, pokud nen\u00ed zapot\u0159eb\u00ed pro moduly nebo pro vkl\u00e1dan\u00fd obsah."
+        },
+        "dc105ac52c237f9f09c74b0767f64f74": {
+            "text": "Typ obsahu"
+        },
+        "65cee0d2556f206faa5e315e2f165551": {
+            "text": "Z\u00e1hlav\u00ed k odesl\u00e1n\u00ed s v\u00fdstupem souboru \u0161ablony. Nen\u00ed-li vybr\u00e1no \u017e\u00e1dn\u00e9, ProcessWire nebude odes\u00edlat z\u00e1hlav\u00ed typu obsahu (content-type header) a ve v\u011bt\u0161in\u011b p\u0159\u00edpad\u016f se p\u0159edpokl\u00e1d\u00e1 text\/html. V\u00fdb\u011br typu obsahu se doporu\u010duje, pokud v\u00fdstup bude n\u011bco jin\u00e9ho ne\u017e html."
+        },
+        "6540057c786960e596930c3041771293": {
+            "text": "Chcete-li p\u0159idat dal\u0161\u00ed typy obsahu, pod\u00edvejte se na *contentTypes* do \/wire\/config.php (a p\u0159idejte je do \/site\/config.php)."
+        },
+        "52ca64db1f0ca50831b3af91db6cd643": {
+            "text": "P\u0159ed\u0159adit soubor"
+        },
+        "58a0dd4014386dd156c47a6d69cdd5f8": {
+            "text": "Soubor p\u0159ed\u0159azen\u00fd k souboru \u0161ablony b\u011bhem vykreslov\u00e1n\u00ed str\u00e1nky. Mus\u00ed b\u00fdt relativn\u00ed k \/site\/templates\/."
+        },
+        "0f7b5e8d336c577672820ac8d848fb4f": {
+            "text": "P\u0159ipojit soubor"
+        },
+        "9c33f36534809a059d32ae185a28ad0e": {
+            "text": "Soubor p\u0159ipojen\u00fd za soubor \u0161ablony b\u011bhem vykreslov\u00e1n\u00ed str\u00e1nky. Mus\u00ed b\u00fdt relativn\u00ed k \/site\/templates\/."
+        },
+        "ab6b38f8849f9837a2fbb24721ab5e99": {
+            "text": "Zak\u00e1z\u00e1n\u00ed automatick\u00e9ho p\u0159ed\u0159azen\u00ed souboru: %s"
+        },
+        "07bbc1cae53fb8d26759b5564e6a5824": {
+            "text": "Tato mo\u017enost zak\u00e1\u017ee $config->prependTemplateFile v souboru \/site\/config.php pouze pro tuto \u0161ablonu."
+        },
+        "95dac43782405c335b194c4f4ff28436": {
+            "text": "Zak\u00e1z\u00e1n\u00ed automatick\u00e9ho p\u0159ipojen\u00ed souboru: %s"
+        },
+        "438f365e84607c69184559ff2e9d974b": {
+            "text": "Tato mo\u017enost zak\u00e1\u017ee $config->appendTemplateFile v souboru \/site\/config.php pouze pro tuto \u0161ablonu."
+        },
+        "57f844c4a5ccb54207fa22705e7729a3": {
+            "text": "Zadejte URL adresu nebo ID str\u00e1nky, na kterou chcete u\u017eivatele p\u0159esm\u011brovat, pokud nem\u00e1 p\u0159\u00edstup"
+        },
+        "ba9f2559a3fd0e360488de130ff7ab73": {
+            "text": "Umo\u017enit podstr\u00e1nk\u00e1m zd\u011bdit p\u0159\u00edstup k \u00faprav\u00e1m?"
+        },
+        "ef4a1860dd8847a43619b6ca5f26e638": {
+            "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed se v\u0161echna nastaven\u00ed p\u0159\u00edstupu, v t\u00e9to \u0161ablon\u011b, d\u011bd\u00ed skrze strom str\u00e1nek, dokud str\u00e1nka s jinou \u0161ablonou toto nep\u0159ep\u00ed\u0161e."
+        },
+        "6aee0c8c870a84f930c97c2eb1427c8d": {
+            "text": "Zvolte mo\u017enost \"Ne\", chcete-li zabr\u00e1nit tomu, aby se pr\u00e1vo na \u00fapravy d\u011bdilo i za str\u00e1nky pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu. Pr\u00e1vo pro zobrazen\u00ed bude nad\u00e1le d\u011bd\u011bno ob\u011bma zp\u016fsoby."
+        },
+        "2678dd0fb63b2adfb38fe14f66d6c6b5": {
+            "text": "Povolit d\u011bdi\u010dnost pr\u00e1va na \u00fapravy pro podstr\u00e1nky, kter\u00e9 nepodl\u00e9haj\u00ed p\u0159\u00edstupov\u00fdm pr\u00e1v\u016fm."
+        },
+        "1dee747820c27fbdc81384045a54c8c3": {
+            "text": "Omezit pr\u00e1vo na \u00fapravy pouze na str\u00e1nky pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu"
+        },
+        "8b961334d86b2e4afdb29a825b7537f5": {
+            "text": "Pozn\u00e1mka: Mo\u017enosti \u00fapravy\/vytv\u00e1\u0159en\u00ed\/p\u0159id\u00e1v\u00e1n\u00ed jsou zak\u00e1z\u00e1ny pro role, kter\u00e9 aktu\u00e1ln\u011b nemaj\u00ed opr\u00e1vn\u011bn\u00ed k \u00faprav\u011b str\u00e1nky."
+        },
+        "34aeb942ccc5860ae5af2885bf346a5d": {
+            "text": "Dal\u0161\u00ed pr\u00e1va pro \u00fapravy a p\u0159episov\u00e1n\u00ed"
+        },
+        "5cd4a0ea4859ae8a1371ded392cfff3b": {
+            "text": "Voliteln\u011b p\u0159id\u00e1v\u00e1 nebo ru\u0161\u00ed pr\u00e1va p\u0159i\u0159azen\u00e9 ka\u017ed\u00e9 roli pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu (nebo pokud jsou pr\u00e1va d\u011bd\u011bna)."
+        },
+        "f0ec91a2ccc29fee4de702e940b186a8": {
+            "text": "Mo\u017enosti, zde m\u00e1te k dispozici, jsou ur\u010deny v\u00fdb\u011brem mo\u017enosti \"Upravit str\u00e1nky\" v\u00fd\u0161e. V d\u016fsledku toho byste tuto \u0161ablonu m\u011bli ulo\u017eit, a vr\u00e1tit se sem po proveden\u00ed zm\u011bn rol\u00ed s pr\u00e1vem \"Upravit str\u00e1nky\"."
+        },
+        "b50d7f1673d8d8694f84094c093718df": {
+            "text": "Mo\u017enosti jsou zobrazeny ve form\u00e1tu \"role: opr\u00e1vn\u011bn\u00ed\". Popis toho, co d\u011bl\u00e1 ka\u017ed\u00e9 opr\u00e1vn\u011bn\u00ed, naleznete v [dokumentaci k opr\u00e1vn\u011bn\u00edm](%s)."
+        },
+        "a1066ecb03f6d2dfa02c658ba45dc08a": {
+            "text": "P\u0159idat opr\u00e1vn\u011bn\u00ed podle role"
+        },
+        "3d7582ad0b178e43f075e25248efdc12": {
+            "text": "Zru\u0161it opr\u00e1vn\u011bn\u00ed podle role"
+        },
+        "f048d404737b6fafd4849b8cd850e983": {
+            "text": "Varov\u00e1n\u00ed, soubor neexistuje"
+        },
+        "e2cbec4ffca6b29170e0a79d38d2b6dd": {
+            "text": "P\u0159ejmenovan\u00ed \u0161ablony bylo p\u0159esko\u010deno - dokon\u010dete to a\u017e po skon\u010den\u00ed aktu\u00e1ln\u00ed akce."
+        },
+        "dd086c8dc23fef8fb9543424864aa9cb": {
+            "text": "Neplatn\u00e9 jm\u00e9no \u0161ablony ur\u010den\u00e9 pro klonov\u00e1n\u00ed"
+        },
+        "ab64903a1bc47ab8cf1767e8d6581c2d": {
+            "text": "Nelze klonovat, proto\u017ee \u0161ablona s t\u00edmto n\u00e1zvem ji\u017e existuje"
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Vytvo\u0159en klon \u0161ablony \"%1$s\" s n\u00e1zvem \"%2$s\"."
+        },
+        "363b220544077dba6890921e123486dc": {
+            "text": "Chyba p\u0159i um\u00edst\u011bn\u00ed pole\/karty \"%s\" - prove\u010fte opravu a znovu ulo\u017ete"
+        },
+        "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
+            "text": "="
+        },
+        "3050063a3917b13308a0470879b3259f": {
+            "text": "Jmenovka pro z\u00e1lo\u017eku s obsahem"
+        },
+        "7b5a26bd066cf9716b38372f73408f10": {
+            "text": "Jmenovka pro z\u00e1lo\u017eku s podstr\u00e1nkami"
+        },
+        "13138fdee141d39a065f3fe82c0e0676": {
+            "text": "Jmenovka pro vlastnost n\u00e1zev str\u00e1nky"
+        },
+        "860024d803b29185e2cb90399cc73599": {
+            "text": "Tuto \u0161ablonu pou\u017e\u00edv\u00e1 str\u00e1nka %d"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "="
         }
     }
 }

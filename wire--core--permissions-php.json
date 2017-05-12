@@ -1,5 +1,39 @@
 {
     "file": "wire\/core\/Permissions.php",
     "textdomain": "wire--core--permissions-php",
-    "translations": []
+    "translations": {
+        "811deefb4c02a58fd629b05b775dbd3a": {
+            "text": "Skr\u00fdt\/Zobrazit str\u00e1nky"
+        },
+        "078d02bfb62cf6957d8295c0072eb869": {
+            "text": "Zve\u0159ejnit\/Zneve\u0159ejnit"
+        },
+        "419cb8b2ecc5b9144270ebbbb7e65c92": {
+            "text": "Editovat pouze str\u00e1nky vytvo\u0159en\u00e9 u\u017eivatelem"
+        },
+        "7a3c0039ad0f29f74babc54b9d96467d": {
+            "text": "U\u017eivatel sm\u00ed smazat str\u00e1nky, kter\u00e9 vytvo\u0159il (bez \"page-delete\" pr\u00e1va na maz\u00e1n\u00ed)."
+        },
+        "618400fc1b0f0b7a96f2d0c871bd2c6b": {
+            "text": "Pou\u017e\u00edvat editor obr\u00e1zku k manipulaci (o\u0159ez, \u00faprava velikosti atd) s obr\u00e1zky"
+        },
+        "aea865164370da774405c331d6657a6f": {
+            "text": "Zm\u011bnit jm\u00e9no zve\u0159ejn\u011bn\u00fdch str\u00e1nek, ke kter\u00fdm m\u00e1 pr\u00e1vo na \u00fapravu"
+        },
+        "11872ca557915bb50767c6f91d5483d5": {
+            "text": "Spravovat u\u017eivatele v\u0161ech rol\u00ed (mimo superu\u017eivatele)"
+        },
+        "eecc2e81896b43d7a7fad8cd165a8107": {
+            "text": "Spravovat u\u017eivatele v roli: %s"
+        },
+        "8048bbf682a36eb44e24af9d4996ba3d": {
+            "text": "Upravit pole na str\u00e1nce v jazyce: %s"
+        },
+        "c7ec5d220e7d4a02342efda6f6b2be98": {
+            "text": "(tak\u00e9 vy\u017eadov\u00e1no k vytv\u00e1\u0159en\u00ed \u010di maz\u00e1n\u00ed str\u00e1nek)"
+        },
+        "40840d28513eb3dfb7be0a1fdffae9a7": {
+            "text": "Spr\u00e1va jazyk\u016f a statick\u00fdch soubor\u016f p\u0159ekladu"
+        }
+    }
 }

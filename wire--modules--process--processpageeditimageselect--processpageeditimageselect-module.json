@@ -57,10 +57,10 @@
             "text": "Zru\u0161it"
         },
         "575f5f86d2c7ea113c6710c1037c4465": {
-            "text": "Ukl\u00e1d\u00e1n\u00ed ..."
+            "text": "Ukl\u00e1d\u00e1n\u00ed..."
         },
         "a7d784a6301793f61c070496d6988d36": {
-            "text": "Aktualizace ..."
+            "text": "Aktualizace..."
         },
         "93cba07454f06a4a960172bbd6e2a435": {
             "text": "Ano"
@@ -174,13 +174,37 @@
             "text": "Chyba p\u0159i maz\u00e1n\u00ed variac\u00ed obr\u00e1zku"
         },
         "a2c7bdf75d9141ef485ca345d5a3b50c": {
-            "text": "Maz\u00e1n\u00ed povoleno"
+            "text": "Smazat vybran\u00e9"
         },
-        "0bedb7a49466cc5abddacd2003be55b3": {
-            "text": "Vynechat atribut \u0161\u00ed\u0159ka v tagu obr\u00e1zku?"
+        "f586a5b42bcd327bea09641d0ac4a06a": {
+            "text": "="
         },
-        "cf4a792de8b81c847ece5501f00def00": {
-            "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed tento modul p\u0159id\u00e1v\u00e1 k html tagu <img> atributy \u0161\u00ed\u0159ka (width). Pokud pou\u017e\u00edv\u00e1te responsive obr\u00e1zky, m\u016f\u017eete toto chov\u00e1n\u00ed zak\u00e1zat. Pro zak\u00e1z\u00e1n\u00ed za\u0161krtn\u011bte pol\u00ed\u010dko."
+        "68155ca6e2858626c370f0fb3ea9bfc5": {
+            "text": "Je za\u0161krtnuto pol\u00ed\u010dko HiDPI\/Retina?"
+        },
+        "3608b24ec08977c76c40c8514f3bcbd5": {
+            "text": "Za\u0161krtn\u011bte tohoto pol\u00ed\u010dko pro nastaven\u00ed v\u00fdchoz\u00edho stavu - za\u0161krtnuto - pro pol\u00ed\u010dko HiDPI\/Retina pro nov\u011b vlo\u017een\u00e9 obr\u00e1zky."
+        },
+        "575acda05a24ee8b606cee4f25024afe": {
+            "text": "Nem\u00e1te p\u0159\u00edstup k \u00faprav\u00e1m obr\u00e1zk\u016f na t\u00e9to str\u00e1nce."
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "Pokud je za\u0161krtnuto, bude v\u00fdb\u011br sn\u00edmk\u016f pou\u017e\u00edvat sp\u00ed\u0161e obr\u00e1zky v pln\u00e9 velikosti ne\u017e obr\u00e1zky miniatur."
+        },
+        "66e1d61daf21cfd5a9a0c3c172d7215d": {
+            "text": "Nedoporu\u010dujeme za\u0161krtnout toto pol\u00ed\u010dko, proto\u017ee bude ru\u0161it n\u011bkter\u00e9 funkce (nap\u0159\u00edklad pou\u017eit\u00ed HiDPI\/retina obr\u00e1zk\u016f)."
+        },
+        "0220ca2a43c59a70842cafc215b6430e": {
+            "text": "Vytvo\u0159eno pro um\u00edst\u011bn\u00ed v textarea"
+        },
+        "4e5c9b873df1e8716656250c63342361": {
+            "text": "="
+        },
+        "8cc1cfd47373070e2d8f4fc7d367abf3": {
+            "text": "Automaticky generovan\u00fd n\u00e1hled v administraci"
+        },
+        "671bf4e51334fa684ae31fdaa130b6db": {
+            "text": "Varianta generovan\u00e1 rozhran\u00edm API"
         }
     }
 }

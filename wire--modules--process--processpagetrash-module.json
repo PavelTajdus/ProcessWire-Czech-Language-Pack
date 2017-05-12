@@ -2,9 +2,6 @@
     "file": "wire\/modules\/Process\/ProcessPageTrash.module",
     "textdomain": "wire--modules--process--processpagetrash-module",
     "translations": {
-        "90e829a463f2e23bdd11a7d8dddabe7e": {
-            "text": "Ko\u0161 byl vypr\u00e1zdn\u011bn"
-        },
         "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
             "text": "Ko\u0161 je pr\u00e1zdn\u00fd"
         },
@@ -24,7 +21,19 @@
             "text": "\u0158e\u0161\u00ed vyprazd\u0148ov\u00e1n\u00ed str\u00e1nky z ko\u0161e"
         },
         "1012544490a2eae7e9782116062941b6": {
-            "text": "Pokud je v ko\u0161i p\u0159\u00edli\u0161 mnoho polo\u017eek, m\u016f\u017ee b\u00fdt pot\u0159eba ho vypr\u00e1zdnit v\u00edcekr\u00e1t."
+            "text": "Pokud je v ko\u0161i p\u0159\u00edli\u0161 mnoho polo\u017eek, m\u016f\u017ee b\u00fdt nutn\u00e9 jej vypr\u00e1zdnit n\u011bkolikr\u00e1t."
+        },
+        "671ad2168f66a9b66f8d97c8a4ad2794": {
+            "text": "Ko\u0161 byl vypr\u00e1zdn\u011bn"
+        },
+        "de1fd0d21eb1f64deec95ed694fffed0": {
+            "text": "Ne v\u0161echny str\u00e1nky mohly b\u00fdt smaz\u00e1ny"
+        },
+        "7c9ca1a0395393577cf4cf3f3e7f0b8d": {
+            "text": "(%d str\u00e1nka)"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d str\u00e1nky)"
         }
     }
 }

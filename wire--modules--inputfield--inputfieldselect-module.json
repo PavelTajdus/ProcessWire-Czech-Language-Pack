@@ -26,14 +26,20 @@
         "eed6fbc4de3755e7189b1461a4844bea": {
             "text": "Vybr\u00e1n\u00ed jedn\u00e9 hodnoty z rolovac\u00edho v\u00fdb\u011bru (select pulldown)"
         },
-        "6b66a61fa66288a9a7ad6474d2e686ec": {
+        "7c63f89ebf4832b00f3e7365c794b642": {
+            "text": "Chcete-li m\u00edt p\u0159edem vybran\u00e9 hodnotu(y), zadejte hodnotu (jedna na \u0159\u00e1dek) n\u00ed\u017ee."
+        },
+        "032f6def0f9076885bcd8366ce324178": {
+            "text": "Pokud chcete m\u00edt p\u0159edvypln\u011bnou hodnotu, zadejte tuto hodnotu sem."
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
             "text": "V\u00fdchoz\u00ed hodnota"
         },
-        "c37baf4e64db68f6887058399a37ad60": {
-            "text": "Chcete-li m\u00edt p\u0159edem vybran\u00e9 hodnotu(y), zadejte hodnotu (jedna na \u0159\u00e1dek) n\u00ed\u017ee. Pro v\u00fdb\u011br str\u00e1nek zadejte ID str\u00e1nky."
+        "d1fd1babab2eaee3f04bcbc5278193d2": {
+            "text": "Pro nastaven\u00ed v\u00fdchoz\u00ed str\u00e1nky, bude jej\u00ed hodnotou ID str\u00e1nky."
         },
-        "d48cd2cb0f5c1d209800b28e019eb574": {
-            "text": "Tato v\u00fdchoz\u00ed hodnota(y) je dostupn\u00e1, proto\u017ee jste za\u0161krtli \"required\" box v\u00fd\u0161e."
+        "5c6d4a4ac74797a290100dc74f6cd79d": {
+            "text": "D\u016eLE\u017dIT\u00c9: V\u00fdchoz\u00ed hodnota nen\u00ed pou\u017eita, dokud nen\u00ed pole povinn\u00e9. (viz za\u0161krt\u00e1v\u00e1tko \"Povinn\u00e9?\")."
         }
     }
 }

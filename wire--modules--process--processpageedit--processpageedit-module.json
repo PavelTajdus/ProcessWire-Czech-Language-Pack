@@ -26,9 +26,6 @@
         "a1c508c8dcf832bde214942a479c63e5": {
             "text": "Tato str\u00e1nka sa nach\u00e1z\u00ed v ko\u0161i"
         },
-        "2cb4bb1ee54691377c8778a8823eb4dd": {
-            "text": "Tato str\u00e1nka nen\u00ed zve\u0159ejn\u011bna"
-        },
         "404dd23de1c6c7edc7927e5262b93a1b": {
             "text": "Ulo\u017eit + Nezve\u0159ej\u0148ovat"
         },
@@ -168,7 +165,7 @@
             "text": "Podstr\u00e1nky jsou \u0159azen\u00e9 podle"
         },
         "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
-            "text": "Tato str\u00e1nka nem\u00e1 \u017e\u00e1dn\u00e9ho potomka\/podstr\u00e1nky."
+            "text": "Tato str\u00e1nka nem\u00e1 \u017e\u00e1dn\u00e9 potomky\/podstr\u00e1nky."
         },
         "591acadb8502cd6db313b718df45a6f4": {
             "text": "Nativn\u00ed pole"
@@ -189,13 +186,70 @@
             "text": "Ru\u010dn\u00ed drag-n-drop"
         },
         "ea1a60a080fc428d2c18d9e6d33ded08": {
-            "text": "Pro \u0159azen\u00ed podstr\u00e1nek podle ur\u010dit\u00e9ho pole, vyberte po\u017eadovan\u00e9 pole n\u00ed\u017ee. Voliteln\u011b lze obr\u00e1tit sm\u011br \u0159azen\u00ed. Pokud zde nic nevyberete, p\u016fjdou podstr\u00e1nky p\u0159esouvat my\u0161\u00ed podle va\u0161ich pot\u0159eb.  "
+            "text": "Pro \u0159azen\u00ed podstr\u00e1nek podle ur\u010dit\u00e9ho pole, vyberte po\u017eadovan\u00e9 pole n\u00ed\u017ee. Voliteln\u011b lze obr\u00e1tit sm\u011br \u0159azen\u00ed. Pokud zde nic nevyberete, p\u016fjdou podstr\u00e1nky p\u0159esouvat my\u0161\u00ed podle va\u0161ich pot\u0159eb."
         },
         "7b9bb8a9e6b0d2b64837e652485e11c9": {
             "text": "Upravit str\u00e1nku: %s"
         },
         "70d9be9b139893aa6c69b5e77e614311": {
             "text": "Potvrdit"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Odej\u00edt"
+        },
+        "1040873c1bf94b1995201c648a15989d": {
+            "text": "%s + Zobrazit"
+        },
+        "407911b74ab384304ea0190675a00894": {
+            "text": "%s + P\u0159idat novou"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "%s + Dal\u0161\u00ed"
+        },
+        "109f29a4bda4c9b4a00ffd5452fe9515": {
+            "text": "Jsi si jisti? Nahr\u00e1v\u00e1n\u00ed st\u00e1le prob\u00edh\u00e1 a m\u016f\u017ee b\u00fdt ztraceno, pokud budete pokra\u010dovat."
+        },
+        "0b7b79dc6ffa228f9e59cecc61c4efb6": {
+            "text": "Publikov\u00e1no %s"
+        },
+        "bbbabdbe1b262f75d99d62880b953be1": {
+            "text": "="
+        },
+        "30b78fb546fe9686f84a740a5e5524a3": {
+            "text": "N\u00e1zev URL adresy str\u00e1nky byl zm\u011bn\u011bn na \"%s\", proto\u017ee po\u017eadovan\u00e9 jm\u00e9no ji\u017e bylo pou\u017eito."
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "Neexistuje \u017e\u00e1dn\u00e1 dal\u0161\u00ed upraviteln\u00e1 str\u00e1nka."
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Obnovena p\u0159edchoz\u00ed hodnota"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "Str\u00e1nka nebyla publikov\u00e1na, proto\u017ee je po\u017eadov\u00e1no pole \"%s\""
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "V\u00fdchoz\u00ed akce tla\u010d\u00edtka \"Zobrazit\""
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "V\u00fdchoz\u00ed typ akce pou\u017eit\u00fd p\u0159i kliknut\u00ed na kartu \"Zobrazit\" v editoru str\u00e1nek."
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Zobrazen\u00ed str\u00e1nky"
+        },
+        "43aaebd9ba4408c30e8e5164b4860ae6": {
+            "text": "Bo\u010dn\u00ed panel"
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "Mod\u00e1ln\u00ed vyskakovac\u00ed okno"
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Nov\u00e9 okno\/z\u00e1lo\u017eka"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Odej\u00edt + Zobrazit"
+        },
+        "e76ea9d62d4a434a98238f3ec7932075": {
+            "text": "v\u0161e"
         }
     }
 }

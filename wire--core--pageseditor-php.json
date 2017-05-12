@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/PagesEditor.php",
+    "textdomain": "wire--core--pageseditor-php",
+    "translations": {
+        "9ba12390dc16d0bb6b897e136830b4e4": {
+            "text": "Bezjmenn\u00e1 str\u00e1nka"
+        },
+        "f7b20059533e8267e92eecda0b6eee8e": {
+            "text": "Chyba p\u0159i ukl\u00e1d\u00e1n\u00ed pole \"%s\""
+        }
+    }
+}

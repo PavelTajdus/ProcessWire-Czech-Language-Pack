@@ -1,1 +1,15 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldForm.module","textdomain":"wire--modules--inputfield--inputfieldform-module","translations":{"d359c6df99b25183d81f7d728b71de0e":{"text":"Formul\u00e1\u0159 (Form)"},"d1e114b786b9fa971fbba24b8e584a43":{"text":"Obsahuje jedno nebo v\u00edce formul\u00e1\u0159ov\u00fdch pol\u00ed"}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldForm.module",
+    "textdomain": "wire--modules--inputfield--inputfieldform-module",
+    "translations": {
+        "d359c6df99b25183d81f7d728b71de0e": {
+            "text": "Formul\u00e1\u0159 (Form)"
+        },
+        "d1e114b786b9fa971fbba24b8e584a43": {
+            "text": "Obsahuje jedno nebo v\u00edce formul\u00e1\u0159ov\u00fdch pol\u00ed"
+        },
+        "98c9c3ab74a1b32e2278dd17586938f2": {
+            "text": "Jsou zde neulo\u017een\u00e9 zm\u011bny:"
+        }
+    }
+}

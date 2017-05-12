@@ -17,35 +17,11 @@
         "d95deddfb80310ff0d1d63013611777c": {
             "text": "Ta\u017een\u00edm p\u0159esunout"
         },
-        "7dce122004969d56ae2e0245cb754d35": {
-            "text": "Upravit"
-        },
-        "4351cfebe4b61d8aa5efa1d020710005": {
-            "text": "Zobrazit"
-        },
-        "03c2e7e41ffc181a4e84080b4710e81e": {
-            "text": "Nov\u00e1"
-        },
-        "6bc362dbf494c61ea117fe3c71ca48a5": {
-            "text": "P\u0159esunout"
-        },
-        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
-            "text": "Vypr\u00e1zdnit"
-        },
         "f4ec5f57bd4d31b803312d873be40da9": {
             "text": "Zm\u011bnit"
         },
-        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
-            "text": "Ko\u0161 je otev\u0159en\u00fd: p\u0159et\u00e1hn\u011bte sem str\u00e1nky pro smaz\u00e1n\u00ed"
-        },
-        "de306d89ec101aba6fb73c6879710e6c": {
-            "text": "404 Str\u00e1nka nebyla nalezena"
-        },
         "a7e253cd8dd95da3e20daf45519a8dc2": {
             "text": "Ko\u0161"
-        },
-        "e3afed0047b08059d0fada10f400c1e5": {
-            "text": "Administrace"
         },
         "43da4fffe875f34908241df94ccb535b": {
             "text": "Po\u010det str\u00e1nek, kter\u00e9 se zobraz\u00ed p\u0159ed pou\u017eit\u00edm str\u00e1nkov\u00e1n\u00ed (pagination)."
@@ -62,8 +38,38 @@
         "8593fb74b02478b2734e442f86507d7b": {
             "text": "Toto nastaven\u00ed lze p\u0159et\u00ed\u017eit na \u00farovni \u0161ablon v kart\u011b \"Roz\u0161\u00ed\u0159en\u00e9\" nastaven\u00ed p\u0159\u00edslu\u0161n\u00e9 \u0161ablony."
         },
-        "ae9945c00ae261445f0277fbae516179": {
-            "text": "Ka\u017ed\u00e1 str\u00e1nka ve stromov\u00e9 struktu\u0159e (PageList) je ozna\u010dena popiskem, typicky n\u00e1zvem (title) nebo titulkem (headline field). M\u016f\u017eete ur\u010dit, kter\u00e9 pole se zde bude pou\u017e\u00edvat. Chcete-li zadat v\u00edce pol\u00ed, odd\u011blte ka\u017ed\u00fd n\u00e1zev pole mezerou. Pokud pole vrac\u00ed objekt (nap\u0159\u00edklad jinou str\u00e1nku), zadejte vlastnost (property) pomoc\u00ed te\u010dky, tj. anotherpage.title. \r\nV\u0161imn\u011bte si, \u017ee v p\u0159\u00edpad\u011b, \u017ee zadan\u00e9 pole vrac\u00ed pr\u00e1zdnou hodnotu pak bude ProcessWire pou\u017e\u00edvat pole s n\u00e1zvem \"name\" str\u00e1nky."
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Chyba s\u00edt\u011b, zkuste to pros\u00edm pozd\u011bji"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Nezn\u00e1m\u00e1 chyba, zkuste to pros\u00edm pozd\u011bji"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Ka\u017ed\u00e1 str\u00e1nka ve stromov\u00e9 struktu\u0159e (PageList) je ozna\u010dena popiskem, typicky n\u00e1zvem (title) nebo titulkem (headline). M\u016f\u017eete ur\u010dit, kter\u00e9 pole se zde bude pou\u017e\u00edvat. Chcete-li zadat v\u00edce pol\u00ed, odd\u011blte ka\u017ed\u00fd n\u00e1zev pole mezerou. Pokud pole vrac\u00ed objekt (nap\u0159\u00edklad jinou str\u00e1nku), zadejte vlastnost (property) pomoc\u00ed te\u010dky, tj. anotherpage.title. \nV\u0161imn\u011bte si, \u017ee v p\u0159\u00edpad\u011b, \u017ee zadan\u00e9 pole vrac\u00ed pr\u00e1zdnou hodnotu pak bude ProcessWire pou\u017e\u00edvat pole s n\u00e1zvem \"name\" str\u00e1nky."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "V\u00fdchoz\u00ed hodnota je %d."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Pokud ponech\u00e1te v\u00fdchoz\u00ed hodnotu, m\u016f\u017ee b\u00fdt toto nastaven\u00ed tak\u00e9 specifikov\u00e1no v poli $config->pageList."
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "Zobrazit akce str\u00e1nky p\u0159i najet\u00ed my\u0161\u00ed (hover)?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "Ve v\u00fdchoz\u00edm stavu se akce pro str\u00e1nku zobraz\u00ed a\u017e po kliknut\u00ed (alespo\u0148 ve v\u00fdchoz\u00ed \u0161ablon\u011b administrace). Pro zobrazen\u00ed po najet\u00ed my\u0161i tuto mo\u017enost za\u0161krtn\u011bte."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Pro v\u00edce mo\u017enost\u00ed se pod\u00edvejte do $config->pageList nastaven\u00ed v \/wire\/config.php. Toto nastaven\u00ed m\u016f\u017eete zkop\u00edrovat do \/site\/config.php a p\u0159epsat je."
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "P\u0159idat nov\u00fd"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Zobrazit v\u0161e"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d str\u00e1nek)"
         }
     }
 }

@@ -1,0 +1,141 @@
+{
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotificationsConfig.php",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
+    "translations": {
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "Zapnuto"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Vypnuto"
+        },
+        "945d5e233cf7d6240f6b783b36a374ff": {
+            "text": "Vlevo"
+        },
+        "92b09c7c48c520c3c55e497875da437c": {
+            "text": "Vpravo"
+        },
+        "64930416d9c5663de5d4ef880d8e0b0e": {
+            "text": "Stav notifikac\u00ed"
+        },
+        "2e9cdb9adc7f7c13f750d7fe7ab46979": {
+            "text": "Pokud je vypnuto, ozn\u00e1men\u00ed se nebudou zobrazovat."
+        },
+        "1983cbef846882d5eb60db0f1af3cf4a": {
+            "text": "Sledovat \u00fapravy str\u00e1nky?"
+        },
+        "6f089aa14345991d2dc5234b61b2841c": {
+            "text": "Zobraz\u00ed ozn\u00e1men\u00ed u\u017eivatel\u016fm, kte\u0159\u00ed se sna\u017e\u00ed upravit str\u00e1nku, kter\u00e1 je ji\u017e aktu\u00e1ln\u011b upravov\u00e1na."
+        },
+        "51bcb0deba18f3c17526ac9589275a1b": {
+            "text": "Po\u0159ad\u00ed ozn\u00e1men\u00ed"
+        },
+        "452fe939bf3b82240e39d4e32402f191": {
+            "text": "Vyberte v jak\u00e9m po\u0159ad\u00ed maj\u00ed b\u00fdt ozn\u00e1men\u00ed zobrazeny."
+        },
+        "dbc0773df87763dba658c0718cb23cbd": {
+            "text": "Od nejnov\u011bj\u0161\u00edch po nejstar\u0161\u00ed"
+        },
+        "795c06257e98282a98f9b4372343154c": {
+            "text": "Od nejstar\u0161\u00edch po nejnov\u011bj\u0161\u00ed"
+        },
+        "2871a976bc7a1ed674bc578c34af81ee": {
+            "text": "Aktivn\u00ed automatick\u00e9 h\u00e1\u010dky (hooks) ozn\u00e1men\u00ed"
+        },
+        "b106396b3992fc580dd88f36d98c32b5": {
+            "text": "Kdykoliv se spust\u00ed jedna z t\u011bchto ud\u00e1lost\u00ed, budou u\u017eivatel\u00e9 syst\u00e9mu upozorn\u011bni."
+        },
+        "53af239ee5d3e261545dededcb6ffd57": {
+            "text": "404 str\u00e1nka nenalezena"
+        },
+        "926febaa3f486221378c09d2fb900eff": {
+            "text": "Usp\u011b\u0161n\u00e9 a ne\u00fasp\u011b\u0161n\u00e9 p\u0159ihl\u00e1\u0161en\u00ed u\u017eivatele"
+        },
+        "6d204ddabcf344603448790344217ec5": {
+            "text": "Odhl\u00e1\u0161en\u00ed u\u017eivatele"
+        },
+        "1bb51316162ffaecdae67003acc36d00": {
+            "text": "Jedn\u00e1 se p\u0159edev\u0161\u00edm o p\u0159\u00edklady ozn\u00e1men\u00ed za \u00fa\u010delem uk\u00e1zky notifikac\u00ed."
+        },
+        "d9b71f69d8afdf5b522a5529ec7434f5": {
+            "text": "Jm\u00e9no u\u017eivatele, kter\u00fd obdr\u017e\u00ed syst\u00e9mov\u00e1 ozn\u00e1men\u00ed"
+        },
+        "2495a34a1379d1325ca518e3c0b2b098": {
+            "text": "\u010cas mezi aktualizacemi"
+        },
+        "d4f7e0a594dd8d1eb92264b3d43c507d": {
+            "text": "Jak \u010dasto se maj\u00ed kontrolovat aktualizace upozorn\u011bn\u00ed (v milisekund\u00e1ch). P\u0159\u00edklad: 5000 znamen\u00e1 5 sekund."
+        },
+        "534fd46732986cba0efeda8701592427": {
+            "text": "Form\u00e1t data"
+        },
+        "414f2eb480e8f38b6f93f41ca28279fb": {
+            "text": "Form\u00e1t data pou\u017e\u00edvan\u00fd pro ozn\u00e1men\u00ed. Pou\u017eijte form\u00e1t date() nebo strftime() nebo \"relative\" pro relativn\u00ed datum\/\u010das, \"rel\" pro zkr\u00e1cen\u00e9 datum\/\u010das."
+        },
+        "64a87d656e89eca4f73f4ecda74480f5": {
+            "text": "Ikona zpr\u00e1vy"
+        },
+        "b454aae1916829fd90512b2c31a01e68": {
+            "text": "Ikona upozorn\u011bn\u00ed"
+        },
+        "c59e636f1291af56f91d53c3a51ac8f8": {
+            "text": "Ikona chyby"
+        },
+        "b386baeabf452105b52ddd8a8dbebf1c": {
+            "text": "Prodleva zobrazen\u00ed"
+        },
+        "fa3ed13e0d1d3606900f0d0fcb96b94e": {
+            "text": "Jak dlouho se zobraz\u00ed vyskakovac\u00ed zpr\u00e1vy (v milisekund\u00e1ch)."
+        },
+        "a24efc3293365b4ca44161c70fffe1b7": {
+            "text": "Prodleva zobrazen\u00ed chyby"
+        },
+        "0673410c6de314e9317a7f593f6a99b6": {
+            "text": "Jak dlouho se zobraz\u00ed vyskakovac\u00ed zpr\u00e1vy s chybou (v milisekund\u00e1ch)."
+        },
+        "cc7148e90f03a6539cd11c343d8fdf8a": {
+            "text": "Pr\u016fhlednost vyskakovac\u00ed zpr\u00e1vy"
+        },
+        "4f8b65fe69b4b13c2a02bf47648c9a34": {
+            "text": "Pln\u00e1 pr\u016fhlednost vyskakovac\u00edch zpr\u00e1v (0.1 - 1.0)"
+        },
+        "333da8687b16a586812b92b6acda8674": {
+            "text": "Limit vyskakovac\u00edch zpr\u00e1v"
+        },
+        "8a1cf8cf2597193851e727307d3d3b31": {
+            "text": "Zobrazit shrnut\u00ed zpr\u00e1v, pokud jich je v\u00edce."
+        },
+        "a2736075ee5bcaeaad4650b9a1bb7d43": {
+            "text": "Rychlost vyblednut\u00ed zpr\u00e1v"
+        },
+        "c4f9ba7565ccdd1b1ec3e06265ef4995": {
+            "text": "Rychlost vyblendut\u00ed vyskakovac\u00edch zpr\u00e1v"
+        },
+        "081b98759749efbb07052c62da920324": {
+            "text": "Okam\u017eit\u011b (\u017e\u00e1dn\u00fd fade in\/out)"
+        },
+        "e16b5b7f26f54214445cbe38d72c2828": {
+            "text": "Rychle"
+        },
+        "960b44c579bc2f6818d2daaf9e4c16f0": {
+            "text": "Norm\u00e1ln\u011b"
+        },
+        "efa5397985b8609a5dbeb430a4bcadd3": {
+            "text": "Pomalu"
+        },
+        "4b3f62787ef2a663f5af7c2a25c0c617": {
+            "text": "Pozice vyskakovac\u00edch zpr\u00e1v"
+        },
+        "22c3a11778dfb998611f45125023b39c": {
+            "text": "Na kter\u00e9 stran\u011b obrazovky se maj\u00ed zpr\u00e1vy objevovat."
+        },
+        "d6e7bc4caa8b68af7f00ff457e4d3344": {
+            "text": "Ozn\u00e1men\u00ed o b\u011bhu\/po\u017eadavku"
+        },
+        "a2e68070d70d39ee23fe1edf9767c11c": {
+            "text": "Zobrazit jako notifikace"
+        },
+        "9650b6be51970b497f28b3f079f7bf79": {
+            "text": "Nechat je b\u00fdt"
+        }
+    }
+}

@@ -8,9 +8,6 @@
         "278c491bdd8a53618c149c4ac790da34": {
             "text": "\u0160ablona"
         },
-        "5d1b7adfdc7ca6d81d9ddbfa22b443af": {
-            "text": "P\u0159id\u00e1v\u00e1te str\u00e1nku pou\u017e\u00edvaj\u00edc\u00ed \u0161ablonu '%s'"
-        },
         "c9cc8cce247e49bae79f15173ce97354": {
             "text": "Ulo\u017eit"
         },
@@ -18,7 +15,7 @@
             "text": "P\u0159idat novou str\u00e1nku"
         },
         "9e31eadc87a42dd9b75f4b4d141c192b": {
-            "text": "Jm\u00e9no kter\u00e9 jste vybrali je ji\u017e v obsazeno. Pros\u00edm vyberte jin\u00e9."
+            "text": "Jm\u00e9no kter\u00e9 jste vybrali se ji\u017e pou\u017e\u00edv\u00e1. Vyberte pros\u00edm jin\u00e9."
         },
         "abc32b2bc5cd1b61b5d3738f09405c0d": {
             "text": "Chyb\u00ed povinn\u00e9 pole: name"
@@ -40,6 +37,51 @@
         },
         "100e1438e523c6553ac21fd872262d56": {
             "text": "Pros\u00edm vyberte rodi\u010dovskou %s str\u00e1nku n\u00ed\u017ee:"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Rodi\u010d"
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Ulo\u017eit + Zve\u0159ejnit"
+        },
+        "b0324fdebb63032317bba7c66bff89fc": {
+            "text": "V sou\u010dasn\u00e9 dob\u011b neexistuj\u00ed \u017e\u00e1dn\u00e9 \u0161ablony s definovan\u00fdmi vztahy rodi\u010d\/potomek, kter\u00e9 by zde m\u011bly zobrazovat z\u00e1stupce \"P\u0159idat\". Chcete-li toto chov\u00e1n\u00ed konfigurovat, upravte libovolnou \u0161ablonu (Nastaven\u00ed> \u0160ablony) a klikn\u011bte na kartu \"Rodina\"."
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "1f03189503b2b085455900a07777134c": {
+            "text": "Ji\u017e se pou\u017e\u00edv\u00e1"
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "Zadan\u00fd n\u00e1zev je ji\u017e pou\u017e\u00edv\u00e1n. Pokud jej nezm\u011bn\u00edte, bude po ulo\u017een\u00ed automaticky vytvo\u0159eno unik\u00e1tn\u00ed jm\u00e9no."
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "Pro p\u0159id\u00e1n\u00ed nov\u00fdch str\u00e1nek nejsou povoleny \u017e\u00e1dn\u00e9 \u0161ablony."
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "\u0160ablona \"%s\" zde nen\u00ed povolena."
+        },
+        "591d3e7786bdfa26890da22a5565f1f5": {
+            "text": "Ulo\u017eit + Zve\u0159ejnit + P\u0159idat dal\u0161\u00ed"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "Nepou\u017e\u00edvan\u00e1 do\u010dasn\u00e1 (temp) str\u00e1nka"
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Upozorn\u011bn\u00ed: jm\u00e9no, kter\u00e9 jste vybrali \"%1$s\", ji\u017e bylo pou\u017e\u00edv\u00e1no a bylo zm\u011bn\u011bno na \"%2$s\"."
+        },
+        "a713b3cf3828f00d541e6ae14b294a8f": {
+            "text": "Str\u00e1nky, kter\u00e9 jste vybrali v\u00fd\u0161e, p\u0159edstavuj\u00ed z\u00e1lo\u017eky na nad\u0159azen\u00e9 str\u00e1nky, kam chcete p\u0159idat potomky. V\u0161imn\u011bte si, \u017ee pokud u\u017eivatel nem\u00e1 opr\u00e1vn\u011bn\u00ed p\u0159idat str\u00e1nku na danou rodi\u010dovskou str\u00e1nku (a\u0165 u\u017e kv\u016fli \u0159\u00edzen\u00ed p\u0159\u00edstupu nebo nastaven\u00ed rodiny \u0161ablon), z\u00e1lo\u017eka se nezobraz\u00ed."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Po\u0159ad\u00ed \u0159azen\u00ed zkratek \u0161ablon"
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Chcete-li zm\u011bnit po\u0159ad\u00ed zkratek pro p\u0159id\u00e1n\u00ed nov\u00fdch str\u00e1nek \"P\u0159idat\", p\u0159et\u00e1hn\u011bte polo\u017eky do po\u0159ad\u00ed, ve kter\u00e9 je chcete m\u00edt."
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Chcete-li p\u0159idat nebo odebrat \u0161ablony z t\u011bchto zkratek, p\u0159ejd\u011bte na kartu Rodina p\u0159i editaci \u0161ablony."
         }
     }
 }

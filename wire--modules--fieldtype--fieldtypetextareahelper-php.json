@@ -1,0 +1,138 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextareaHelper.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextareahelper-php",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Typ vstupn\u00edho pole"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Typ pole, kter\u00fd bude pou\u017eit pro sb\u011br \u00fadaj\u016f (textarea je v\u00fdchoz\u00ed typ). V\u0161imn\u011bte si, \u017ee pokud toto zm\u011bn\u00edte a potvrd\u00edte, mohou se dostupn\u00e9 mo\u017enosti konfigurace na z\u00e1lo\u017ece \"Vstup\" zm\u011bnit."
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "K\u00f3d\/HTML"
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Typ obsahu"
+        },
+        "a9b2702617bab3152e6c7018a2285a92": {
+            "text": "Nezn\u00e1m\u00fd\/Text"
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "Mo\u017enost [u]K\u00f3d\/HTML[\/u] je doporu\u010dena pro pou\u017eit\u00ed s poli pou\u017e\u00edvaj\u00edc\u00edmi textov\u00e9 editory (jako CKEditor) nebo pro pole obsahuj\u00edc\u00ed HTML. Poskytuje dodate\u010dn\u00e9 kontroly a filtry pro zaji\u0161t\u011bn\u00ed vy\u0161\u0161\u00ed kvality."
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "Pokud vyberete mo\u017enost [u]Nezn\u00e1m\u00fd\/Text[\/u], je siln\u011b doporu\u010deno (z d\u016fvod\u016f bezpe\u010dnosti), \u017ee tak\u00e9 vyberete \"Kod\u00e9r HTML entit\" ve v\u00fd\u0161e uveden\u00e9m poli [u]Form\u00e1tova\u010de textu[\/u]."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "Pro v\u00edce informac\u00ed o mo\u017enostech v\u00fd\u0161e se pod\u00edvejte na [popis mo\u017enost\u00ed typ\u016f obsahu](%s)."
+        },
+        "2addde1795e171e77196f84ba88dbcbf": {
+            "text": "Mo\u017enosti HTML"
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "Tato mo\u017enost poskytuje dodate\u010dnou kontrolu pro HTML."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "**Pozn\u00e1mka:** Tyto mo\u017enosti jsou moment\u00e1ln\u011b experiment\u00e1ln\u00ed. Sledujte mo\u017en\u00e9 probl\u00e9my a vznikl\u00e9 chyby pros\u00edm nahlaste."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "Mo\u017enost v\u00fd\u0161e zaznamen\u00e1v\u00e1 chyby do Nastaven\u00ed > Logy > markup-qa-errors."
+        },
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Referen\u010dn\u00ed odkazy (link abstraction):"
+        },
+        "9bf757dce49f1b058b55e0234e5b422a": {
+            "text": "Automaticky aktualizuje intern\u00ed odkazy v p\u0159\u00edpad\u011b zm\u011bny."
+        },
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "Aktualizovat alt atributy u obr\u00e1zk\u016f:"
+        },
+        "e18d0ae0d4d738e2afb687643527b107": {
+            "text": "Nahrad\u00ed pr\u00e1zdn\u00e9 alt atributy popisem (description) obr\u00e1zku"
+        },
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "Oprava poru\u0161en\u00fdch obr\u00e1zk\u016f:"
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "Odstran\u00ed img tagy, kter\u00e9 vedou na 404 str\u00e1nku, nebo - pokud je to mo\u017en\u00e9 - obr\u00e1zky oprav\u00ed."
+        },
+        "3b51a8c40e3436386b687d45ddb5f836": {
+            "text": "Nastaven\u00ed p\u0159\u00edstupu k obr\u00e1zku:"
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "V p\u0159\u00edpad\u011b, \u017ee u\u017eivatel nem\u00e1 pr\u00e1vo vid\u011bt obr\u00e1zky, je odstran\u00ed z k\u00f3du."
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "Aplikuj mo\u017enosti HTML"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "Za\u0161krtn\u011bte toto pole pro proveden\u00ed v\u00fd\u0161e uveden\u00fdch mo\u017enost\u00ed na v\u0161echny existuj\u00ed str\u00e1nky. Toto nastaven\u00ed se prim\u00e1rn\u011b zam\u011b\u0159uje na referen\u010dn\u00ed odkazy."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Upozorn\u011bn\u00ed, toto spust\u00ed aktualizace potencion\u00e1ln\u011b na stovk\u00e1ch str\u00e1nek (maxim\u00e1ln\u011b 300 najednou) a aktualizuje \u010das zm\u011bny str\u00e1nky. Pokud m\u00e1 v\u00e1\u0161 web mnoho str\u00e1nek, bude pot\u0159eba to spustit v\u00edcekr\u00e1t."
+        },
+        "d9acd327c0ee998a16c85324936d214d": {
+            "text": "**Jako dal\u0161\u00ed bezpe\u010dnostn\u00ed opat\u0159en\u00ed doporu\u010dujeme p\u0159ed spu\u0161t\u011bn\u00edm z\u00e1lohovat va\u0161i datab\u00e1zi.**"
+        },
+        "0f754c670b9d8c02b22eaeebd630181e": {
+            "text": "Vypad\u00e1 to, \u017ee jsme hotovi! Mo\u017enosti HTML jsou pln\u011b aplikov\u00e1ny."
+        },
+        "2029a900eb62eecaaf188a654c2c084d": {
+            "text": "Budouc\u00ed aktualizace budou aplikov\u00e1ny automaticky p\u0159i ka\u017ed\u00e9m ulo\u017een\u00ed str\u00e1nky."
+        },
+        "4b9ad9f31022ef1c2c6d202da55a0365": {
+            "text": "St\u00e1le je\u0161t\u011b zb\u00fdvaj\u00ed str\u00e1nky k \u00faprav\u011b. Pro spu\u0161t\u011bn\u00ed na zbyl\u00fdch str\u00e1nk\u00e1ch znovu za\u0161krtn\u011bte toto pole."
+        },
+        "2c1df5375d9f20282b3df677f8a4bc0c": {
+            "text": "Pot\u0159ebujete upravit v\u00edce str\u00e1nek najednou? M\u016f\u017eete p\u0159idat nastaven\u00ed - %s do va\u0161eho \/site\/config.php souboru."
+        },
+        "d4705c271d7e1e75a05e9b6236ad836c": {
+            "text": "(sledujte %s z\u00e1znam\/log)"
+        },
+        "91032d1254768e880dbbeede54e35a79": {
+            "text": "%d m\u00edstn\u00ed a[href] tagy', 'link-type"
+        },
+        "5fcef18456ba78863a5a57e162279d2d": {
+            "text": "%d m\u00edstn\u00ed img[src] tagy', 'link-type"
+        },
+        "d53200ec5949152baffbeed6c4d58966": {
+            "text": "Aktualizov\u00e1no %1$d z %2$d str\u00e1nek skrze HTML nastaven\u00ed."
+        },
+        "8a64cae4f29b541d3e532599d513e04e": {
+            "text": "V\u00fdsledky kontroly kvality K\u00f3du\/HTML:"
+        },
+        "7b538279515341a88a5fcfb4197111f6": {
+            "text": "Ostatn\u00ed mo\u017enosti HTML jsou aplikov\u00e1ny p\u0159i spu\u0161t\u011bn\u00ed."
+        },
+        "9b039b000924bae6bb0977867cc455a0": {
+            "text": "%d extern\u00ed a[href] tagy"
+        },
+        "bb83c854fd76ba88b57f700280e65291": {
+            "text": "%d intern\u00ed\/referen\u010dn\u00ed odkazy str\u00e1nky"
+        },
+        "52b8044e625821dcc4f2002c70f05881": {
+            "text": "%d file\/asset reference"
+        },
+        "b49218c47bb7e184c12776471a865612": {
+            "text": "%d relativn\u00ed a[href] tagy upraveny"
+        },
+        "84a543e559f6e8ae86ba9ca203f6c57f": {
+            "text": "%d m\u00edstn\u00ed a[href] nestr\u00e1nkov\u00e9\/nerozpoznan\u00e9 tagy"
+        },
+        "2fb3cb1dbd223aca0a255df639afabb1": {
+            "text": "% ne-http a[href] linky jako mailto, tel, a jin\u00e9"
+        },
+        "a0b71249600398fd6f497273a8fbd0c6": {
+            "text": "%d nevy\u0159e\u0161en\u00e9 a[href] tagy"
+        },
+        "1207ad89efff06ef7ff663d9b3a61af4": {
+            "text": "%d nevy\u0159e\u0161en\u00e9 img[src] tagy"
+        },
+        "29cf35e7a0357a5a759b715afbcfa857": {
+            "text": "%d nevy\u0159e\u0161en\u00e9 a opraven\u00e9 img[src] tagy"
+        },
+        "bf488dca57621015b17e715b49053f72": {
+            "text": "%d pr\u00e1zdn\u00e9 img[alt] tagy budou napln\u011bny p\u0159i spu\u0161t\u011bn\u00ed"
+        }
+    }
+}

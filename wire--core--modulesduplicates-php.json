@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/ModulesDuplicates.php",
+    "textdomain": "wire--core--modulesduplicates-php",
+    "translations": {
+        "58a6d03e30331d26f3ab31c392c104ab": {
+            "text": "Zd\u00e1 se, \u017ee v souborov\u00e9m syst\u00e9mu je n\u011bkolik kopi\u00ed modulu \"%s\"."
+        },
+        "47edefbd0afb7d34d9a1ea2e99a18d1b": {
+            "text": "Upravte pros\u00edm nastaven\u00ed modulu aby ProcessWire v\u011bd\u011bl, kter\u00fd z nich m\u00e1 pou\u017e\u00edt:"
+        }
+    }
+}

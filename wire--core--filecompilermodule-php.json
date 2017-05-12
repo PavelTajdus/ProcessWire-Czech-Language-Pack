@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/FileCompilerModule.php",
+    "textdomain": "wire--core--filecompilermodule-php",
+    "translations": {
+        "e774dc32721ed4babc1996a83868058f": {
+            "text": "Po\u0159ad\u00ed spu\u0161t\u011bn\u00ed"
+        },
+        "26ca6e7fb5ade62330c73e93dc083cab": {
+            "text": "Po\u0159ad\u00ed ve kter\u00e9m tento modul pob\u011b\u017e\u00ed, relativn\u00ed k ostatn\u00edm FileCompiler modul\u016fm. Ni\u017e\u0161\u00ed \u010d\u00edslo bude spu\u0161t\u011bno d\u0159\u00edve."
+        }
+    }
+}

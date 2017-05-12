@@ -11,9 +11,6 @@
         "5d13ae1a65403891ac0fe044f3acc865": {
             "text": "Na t\u00e9to str\u00e1nce nejsou obr\u00e1zkov\u00e1 pole (image fields). Vyberte obr\u00e1zky z jin\u00e9 str\u00e1nky."
         },
-        "64a201e91bd521f5640318d844920b31": {
-            "text": "Na t\u00e9to str\u00e1nce nejsou \u017e\u00e1dn\u00e9 obr\u00e1zky.  Zav\u0159ete toto okno a nahrajte obr\u00e1zky, nebo vyberte obr\u00e1zky z jin\u00e9 str\u00e1nky."
-        },
         "83ea3ed3245ed2ce30aabecdc6b4d354": {
             "text": "Obr\u00e1zky na str\u00e1nce:"
         },
@@ -32,15 +29,6 @@
         "e36098607b9dd3b6d7107a449b6a25bd": {
             "text": "Zarovnat na st\u0159ed"
         },
-        "d7e02762cdb4621a77388689b2ee53c0": {
-            "text": "Vytvo\u0159it odkaz na v\u011bt\u0161\u00ed verzi?"
-        },
-        "63c7dee42e04e2757472031aa7164d81": {
-            "text": "Vynechat atributy \u0161\u00ed\u0159ka a v\u00fd\u0161ka v tagu obr\u00e1zku?"
-        },
-        "5a8f9d5840811602e6806392ffef0523": {
-            "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed tento modul p\u0159id\u00e1v\u00e1 k html tagu <img> atributy \u0161\u00ed\u0159ka (width) a v\u00fd\u0161ka (height). Pokud pou\u017e\u00edv\u00e1te responsive obr\u00e1zky, m\u016f\u017eete toto chov\u00e1n\u00ed zak\u00e1zat. Pro zak\u00e1z\u00e1n\u00ed za\u0161krtn\u011bte pol\u00ed\u010dko."
-        },
         "9909fb0aacb4a219f4b3cb8f57f63a87": {
             "text": "T\u0159\u00edda pro zarovn\u00e1n\u00ed obr\u00e1zku vlevo"
         },
@@ -50,17 +38,173 @@
         "9d2836f3ff372cd7964b90d118710202": {
             "text": "T\u0159\u00edda pro zarovn\u00e1n\u00ed obr\u00e1zku na st\u0159ed"
         },
-        "4e641cf2fc3e46719b2e78d8ab8c6c2e": {
-            "text": "Tahem za prav\u00fd doln\u00ed roh obr\u00e1zku, m\u016f\u017eete zm\u011bnit jeho velikost."
-        },
-        "b5a7adde1af5c87d7fd797b6245c2a39": {
-            "text": "Popis"
-        },
         "36171be725b020fde0f22b3ceb047280": {
             "text": "N\u00e1zvy pol\u00ed, kter\u00e1 budou p\u0159i v\u00fdb\u011bru vynech\u00e1na"
         },
         "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
             "text": "Zadejte n\u00e1zvy \"image\" pol\u00ed (odd\u011blen\u00fdch mezerou),  kter\u00fdm nechete povolit v\u00fdb\u011br t\u00edmto modulem."
+        },
+        "9d723d04c40bfd81835c0766a698cf63": {
+            "text": "Zm\u011bna velikosti"
+        },
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "O\u0159\u00edznut\u00ed"
+        },
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "Pou\u017e\u00edt"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Zru\u0161it"
+        },
+        "575f5f86d2c7ea113c6710c1037c4465": {
+            "text": "Ukl\u00e1d\u00e1n\u00ed..."
+        },
+        "a7d784a6301793f61c070496d6988d36": {
+            "text": "Aktualizace..."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ano"
+        },
+        "a7ef116917746995c6efb74b77261e93": {
+            "text": "Titulek?"
+        },
+        "3f67a6c93bc61e24e9ba2a9b47712010": {
+            "text": "Ulo\u017eit a nahradit"
+        },
+        "c87935037e12cf6f0302989fd23bcf37": {
+            "text": "Ulo\u017eit jako kopii"
+        },
+        "b9869a2e0129f044fca87d4b4f7664f0": {
+            "text": "Text titulku zde"
+        },
+        "5e470c96fb73af827111043d60af3dbe": {
+            "text": "Oto\u010dit doprava"
+        },
+        "f3d4b8039718518b45713ae64c12de37": {
+            "text": "Oto\u010dit doleva"
+        },
+        "2f96dd2b9788ed9ecbc6f41c312bf455": {
+            "text": "Horizont\u00e1ln\u011b p\u0159evr\u00e1tit"
+        },
+        "8373d2f18e29920f78459f34d71040ad": {
+            "text": "Vertik\u00e1ln\u011b p\u0159evr\u00e1tit"
+        },
+        "d695a4d4ae7091badbe5c20c5b064bac": {
+            "text": "Na t\u00e9to str\u00e1nce nejsou \u017e\u00e1dn\u00e9 obr\u00e1zky. Nahrajte obr\u00e1zek, nebo vyberte obr\u00e1zek z jin\u00e9 str\u00e1nky."
+        },
+        "1f98842c354dc496970446bce14f4c50": {
+            "text": "Nahr\u00e1t obr\u00e1zek"
+        },
+        "8524de963f07201e5c086830d370797f": {
+            "text": "Na\u010d\u00edt\u00e1n\u00ed ..."
+        },
+        "46ce1195125fefcac9df32093fb8f238": {
+            "text": "Nebyly provedeny \u017e\u00e1dn\u00e9 zm\u011bny"
+        },
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "Zav\u0159\u00edt"
+        },
+        "6cefecef91de145c3ca72fb3d5e59702": {
+            "text": "Nevytv\u00e1\u0159et n\u00e1hledy obr\u00e1zk\u016f"
+        },
+        "7fde437e01b597d729484cfc830eb4c5": {
+            "text": "Doporu\u010den\u00e1 hodnota:"
+        },
+        "792530c475571d1e0faf0c94f333e6f2": {
+            "text": "Obr\u00e1zek"
+        },
+        "41aecd06bffa8d91e4b860af01295890": {
+            "text": "Soubor"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Velikost"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Upraveno"
+        },
+        "4f42496817221234f2297f3605183f29": {
+            "text": "Pozn\u00e1mky"
+        },
+        "1c8ce444e68e56abf58edd178ed3bf54": {
+            "text": "O\u0159\u00edznut\u00e1 verze"
+        },
+        "a3921791372620c674562de0f5b0f9ed": {
+            "text": "Vlo\u017een\u00fd ze str\u00e1nky:"
+        },
+        "8df4dcb71975633a0a9e60b4d05c37d8": {
+            "text": "%1$d varianta obr\u00e1zku %2$s"
+        },
+        "02b1a8c5ed34fba75d6ce56f68435743": {
+            "text": "%1$d varianty obr\u00e1zku %2$s"
+        },
+        "e254a34f3a1001f00adc55aba5552783": {
+            "text": "Shora:"
+        },
+        "52c9a1be3c0e025b4aa30857a474fea5": {
+            "text": "Zleva:"
+        },
+        "a547432ab25b830c51cb8a560e4e4f62": {
+            "text": "Popisek obr\u00e1zku (alt attribute)"
+        },
+        "f8927cab12c03e7537c735cd3117fba2": {
+            "text": "Vytvo\u0159\u00ed odkaz na velkou\/origin\u00e1ln\u00ed verzi"
+        },
+        "77fb47f76c22aae57cce393488dfee23": {
+            "text": "Ulo\u017eit v t\u00e9to velikosti?"
+        },
+        "2c968d3065f948e7d3e6086c46fdcb68": {
+            "text": "Maximalizace \/ cel\u00e1 \u0161\u00ed\u0159ka"
+        },
+        "2d43ecd8d6e1e6e4bd564dd3b15515bc": {
+            "text": "Minimalizace \/ p\u0159izp\u016fsoben\u00ed obrazovce"
+        },
+        "b1a0a023c5df1b1928e1176fca487837": {
+            "text": "Ne, pou\u017eijte %s"
+        },
+        "82e8dd04a8fd3563e8e703b0ab6620d4": {
+            "text": "Text titulku se zad\u00e1v\u00e1 v editoru po vlo\u017een\u00ed obr\u00e1zku."
+        },
+        "fef2a86d13179e1022a0f692ad9f521b": {
+            "text": "Variace obr\u00e1zku nevy\u017eaduj\u00ed \u017e\u00e1dn\u00e9 zm\u011bny."
+        },
+        "a39537e1c6a1b744127450b81c4f8173": {
+            "text": "Smazan\u00e9 variace obr\u00e1zku"
+        },
+        "966c5c54ae383420f05957c520436202": {
+            "text": "Chyba p\u0159i maz\u00e1n\u00ed variac\u00ed obr\u00e1zku"
+        },
+        "a2c7bdf75d9141ef485ca345d5a3b50c": {
+            "text": "Smazat vybran\u00e9"
+        },
+        "f586a5b42bcd327bea09641d0ac4a06a": {
+            "text": "="
+        },
+        "68155ca6e2858626c370f0fb3ea9bfc5": {
+            "text": "Je za\u0161krtnuto pol\u00ed\u010dko HiDPI\/Retina?"
+        },
+        "3608b24ec08977c76c40c8514f3bcbd5": {
+            "text": "Za\u0161krtn\u011bte tohoto pol\u00ed\u010dko pro nastaven\u00ed v\u00fdchoz\u00edho stavu - za\u0161krtnuto - pro pol\u00ed\u010dko HiDPI\/Retina pro nov\u011b vlo\u017een\u00e9 obr\u00e1zky."
+        },
+        "575acda05a24ee8b606cee4f25024afe": {
+            "text": "Nem\u00e1te p\u0159\u00edstup k \u00faprav\u00e1m obr\u00e1zk\u016f na t\u00e9to str\u00e1nce."
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "Pokud je za\u0161krtnuto, bude v\u00fdb\u011br sn\u00edmk\u016f pou\u017e\u00edvat sp\u00ed\u0161e obr\u00e1zky v pln\u00e9 velikosti ne\u017e obr\u00e1zky miniatur."
+        },
+        "66e1d61daf21cfd5a9a0c3c172d7215d": {
+            "text": "Nedoporu\u010dujeme za\u0161krtnout toto pol\u00ed\u010dko, proto\u017ee bude ru\u0161it n\u011bkter\u00e9 funkce (nap\u0159\u00edklad pou\u017eit\u00ed HiDPI\/retina obr\u00e1zk\u016f)."
+        },
+        "0220ca2a43c59a70842cafc215b6430e": {
+            "text": "Vytvo\u0159eno pro um\u00edst\u011bn\u00ed v textarea"
+        },
+        "4e5c9b873df1e8716656250c63342361": {
+            "text": "="
+        },
+        "8cc1cfd47373070e2d8f4fc7d367abf3": {
+            "text": "Automaticky generovan\u00fd n\u00e1hled v administraci"
+        },
+        "671bf4e51334fa684ae31fdaa130b6db": {
+            "text": "Varianta generovan\u00e1 rozhran\u00edm API"
         }
     }
 }

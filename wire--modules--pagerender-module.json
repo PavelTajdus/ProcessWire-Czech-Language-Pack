@@ -16,6 +16,18 @@
         },
         "b4999a543edcfefc8c56ed6eafdcb98f": {
             "text": "V sou\u010dasn\u00e9 dob\u011b je %d str\u00e1nek v mezipam\u011bti (cached) %s"
+        },
+        "22a38306ce7556a0a5eeebca65cd9b58": {
+            "text": "Expirovan\u00e1 cache str\u00e1nek pro cel\u00fd web"
+        },
+        "b091c65f589c970f6084669796efb995": {
+            "text": "Vymaz\u00e1na cache: %s"
+        },
+        "af4137a5254dfe8654d87ff05286b80e": {
+            "text": "Vymaz\u00e1na cache:"
+        },
+        "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
+            "text": "Vymaz\u00e1na cache pro %d str\u00e1nek"
         }
     }
 }

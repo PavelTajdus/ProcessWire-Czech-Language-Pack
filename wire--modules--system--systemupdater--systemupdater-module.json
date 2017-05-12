@@ -1,1 +1,27 @@
-{"file":"wire\/modules\/System\/SystemUpdater\/SystemUpdater.module","textdomain":"wire--modules--system--systemupdater--systemupdater-module","translations":{"68b7f791d338e65dd897b4316c51a568":{"text":"Spravuje syst\u00e9mov\u00e9 verze a upgrady."},"131f946cc232ed294bb1051fdb295d02":{"text":"Aktualizace syst\u00e9mu (System Updater)"}}}
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdater.module",
+    "textdomain": "wire--modules--system--systemupdater--systemupdater-module",
+    "translations": {
+        "68b7f791d338e65dd897b4316c51a568": {
+            "text": "Spravuje syst\u00e9mov\u00e9 verze a upgrady."
+        },
+        "131f946cc232ed294bb1051fdb295d02": {
+            "text": "Aktualizace syst\u00e9mu (System Updater)"
+        },
+        "d7e351389cfa8187fc844808c5d524e7": {
+            "text": "Detekov\u00e1na zm\u011bna verze j\u00e1dra %1$s => %2$s"
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "Cache pam\u011b\u0165 kompil\u00e1toru vymaz\u00e1na"
+        },
+        "2bb01c9e5f493e464bae4f127ac24891": {
+            "text": "Z\u00e1znam syst\u00e9mov\u00fdch aktualizac\u00ed"
+        },
+        "83d345108e3c4ebe46ec3d2de0b7e463": {
+            "text": "Verze syst\u00e9mu"
+        },
+        "e3087085dad248ad622f15449dc45832": {
+            "text": "T\u00edm, \u017ee sn\u00ed\u017e\u00edte \u010d\u00edslo verze, budete moci znovu aplikovat aktualizaci verze syst\u00e9mu."
+        }
+    }
+}

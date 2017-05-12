@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/Fieldgroups.php",
+    "textdomain": "wire--core--fieldgroups-php",
+    "translations": {
+        "abce719a5ff28157e0e92337d8dcf8bd": {
+            "text": "Nelze naj\u00edt pole: %s"
+        },
+        "f1d3c736f589a82f1519c711fd4123c0": {
+            "text": "Nelze naj\u00edt pole pro nastaven\u00ed kontextu pole: %s"
+        },
+        "fdd1e49a5de74a22586acf7420fcbd8d": {
+            "text": "Upozorn\u011bn\u00ed, v\u0161echna data v poli (nebo pol\u00edch) budou trvale odstran\u011bny (potvr\u010fte pros\u00edm): %s"
+        }
+    }
+}

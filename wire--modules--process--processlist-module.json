@@ -1,1 +1,18 @@
-{"file":"wire\/modules\/Process\/ProcessList.module","textdomain":"wire--modules--process--processlist-module","translations":{"9040adb9c035d31a6f59c34259371121":{"text":"Popis nen\u00ed k dispozici"},"4ee29ca12c7d126654bd0e5275de6135":{"text":"Seznam (List)"},"11edaf952ae49a89083e2f6ed973c774":{"text":"Vyp\u00ed\u0161e procesy p\u0159i\u0159azen\u00e9 ke ka\u017ed\u00e9 pod\u0159\u00edzen\u00e9 str\u00e1nce"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessList.module",
+    "textdomain": "wire--modules--process--processlist-module",
+    "translations": {
+        "9040adb9c035d31a6f59c34259371121": {
+            "text": "Popis nen\u00ed k dispozici"
+        },
+        "4ee29ca12c7d126654bd0e5275de6135": {
+            "text": "List (Seznam)"
+        },
+        "11edaf952ae49a89083e2f6ed973c774": {
+            "text": "Vyp\u00ed\u0161e procesy p\u0159i\u0159azen\u00e9 ke ka\u017ed\u00e9 pod\u0159\u00edzen\u00e9 str\u00e1nce"
+        },
+        "5b4883d0e89e3d445d1cd1ccad668cf1": {
+            "text": "Vypad\u00e1 to, \u017ee proces p\u0159i\u0159azen\u00fd k t\u00e9to str\u00e1nce nen\u00ed nainstalovan\u00fd."
+        }
+    }
+}

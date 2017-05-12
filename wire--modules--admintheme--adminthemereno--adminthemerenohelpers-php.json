@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeRenoHelpers.php",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemerenohelpers-php",
+    "translations": {
+        "5b6cf869265c13af8566f192b4ab3d2a": {
+            "text": "Dokumentace"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profil"
+        },
+        "3b0c14770e6bd663518496da60f524da": {
+            "text": "Strom"
+        },
+        "e8209ff97e2fd1fd89a08e2dbee3673c": {
+            "text": "Forum podpory"
+        },
+        "aecb91ec8d874934a5dece9ac6ec55c5": {
+            "text": "Github repozit\u00e1\u0159"
+        },
+        "1c8a4467581c8a67def0a02f975a9f10": {
+            "text": "Tah\u00e1k"
+        },
+        "35ad48797a780091740cbcf14ebc094d": {
+            "text": "H\u00e1\u010dky (hooks)"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Odhl\u00e1sit"
+        },
+        "7421d68c70dfc346497573bf4e08acc5": {
+            "text": "N\u00e1stroje pro lad\u011bn\u00ed chyb"
+        }
+    }
+}

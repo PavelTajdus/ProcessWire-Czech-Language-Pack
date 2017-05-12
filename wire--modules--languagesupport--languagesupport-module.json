@@ -1,1 +1,24 @@
-{"file":"wire\/modules\/LanguageSupport\/LanguageSupport.module","textdomain":"wire--modules--languagesupport--languagesupport-module","translations":{"49eb6a44db57cba8d66b3404fa9f0ad4":{"text":"d.m.Y H:i:s"},"0d61f8370cad1d412f80b84d143e1257":{"text":"cs_CZ.UTF-8"},"4994a8ffeba4ac3140beb89e8d41f174":{"text":"Jazyk"},"185d23ff9526ad93077a1c9ad5ed26a2":{"text":"E-mailov\u00e1 adresa"},"b78a3223503896721cca1303f776159b":{"text":"Titulek"}}}
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupport.module",
+    "textdomain": "wire--modules--languagesupport--languagesupport-module",
+    "translations": {
+        "49eb6a44db57cba8d66b3404fa9f0ad4": {
+            "text": "d.m.Y H:i:s"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "cs_CZ.UTF-8"
+        },
+        "4994a8ffeba4ac3140beb89e8d41f174": {
+            "text": "Jazyk"
+        },
+        "185d23ff9526ad93077a1c9ad5ed26a2": {
+            "text": "E-mailov\u00e1 adresa"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titulek"
+        },
+        "3f94f86633491ad8e5d18f5e481330c2": {
+            "text": "Zm\u011bny v tomto poli nebudou ulo\u017eeny, proto\u017ee nem\u00e1te dostate\u010dn\u00e9 opr\u00e1vn\u011bn\u00ed pro tento jazyk: %s."
+        }
+    }
+}

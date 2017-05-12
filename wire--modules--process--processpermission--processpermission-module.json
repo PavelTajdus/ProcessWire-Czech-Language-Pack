@@ -1,1 +1,27 @@
-{"file":"wire\/modules\/Process\/ProcessPermission\/ProcessPermission.module","textdomain":"wire--modules--process--processpermission--processpermission-module","translations":{"d08ccf52b4cdd08e41cfb99ec42e0b29":{"text":"Opr\u00e1vn\u011bn\u00ed (Permissions)"},"175111b089b0e62fbde2b5344f2a547f":{"text":"Spr\u00e1va syst\u00e9mu opr\u00e1vn\u011bn\u00ed"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPermission\/ProcessPermission.module",
+    "textdomain": "wire--modules--process--processpermission--processpermission-module",
+    "translations": {
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Opr\u00e1vn\u011bn\u00ed"
+        },
+        "175111b089b0e62fbde2b5344f2a547f": {
+            "text": "Spr\u00e1va syst\u00e9mu opr\u00e1vn\u011bn\u00ed"
+        },
+        "179e210d56ed91c1da0ac7cff7234b21": {
+            "text": "Nainstalujte p\u0159eddefinovan\u00e1 syst\u00e9mov\u00e1 opr\u00e1vn\u011bn\u00ed"
+        },
+        "f6a3c2ccb1bf0db768a1e710b1bb4b8f": {
+            "text": "Za\u0161krtn\u011bte pol\u00ed\u010dko vedle ka\u017ed\u00e9ho voliteln\u00e9ho opr\u00e1vn\u011bn\u00ed, kter\u00e9 chcete nainstalovat."
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Instalovat"
+        },
+        "934d155461a5e54ed0cfed45b64272ed": {
+            "text": "P\u0159idat nov\u00e9 vlastn\u00ed opr\u00e1vn\u011bn\u00ed"
+        },
+        "baa866af125aefed417409d878f6d013": {
+            "text": "P\u0159id\u00e1no voliteln\u00e9 opr\u00e1vn\u011bn\u00ed: %s"
+        }
+    }
+}

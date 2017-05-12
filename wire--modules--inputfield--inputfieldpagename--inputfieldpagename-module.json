@@ -16,6 +16,9 @@
         },
         "9d250aded0473671ec3f113407f9809c": {
             "text": "Zadejte znaky pro nahrazen\u00ed p\u0159i zad\u00e1v\u00e1n\u00ed znak\u016f do pole n\u00e1zvu str\u00e1nky (page name field). Zadejte jednu n\u00e1hradu na \u0159\u00e1dek ve form\u00e1tu kl\u00ed\u010d=hodnota. Ve smyslu, na ka\u017ed\u00fd nov\u00fd \u0159\u00e1dek, zadejte znak(y), kter\u00fd chcete nahradit n\u00e1sledovan\u00fd znam\u00e9nka rovn\u00e1 se \"=\" a ascii znak(y), kter\u00e9 chcete nahradit."
+        },
+        "5e6587062568e96fc604e79a948a7460": {
+            "text": "Nastaven\u00ed nahrazov\u00e1n\u00ed znak\u016f je vypnuto proto\u017ee $config->pageNameCharset je UTF8."
         }
     }
 }

@@ -1,0 +1,63 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Barevn\u00e1 sada"
+        },
+        "77b6e24f5b78b6eb0697aa8994ce15e9": {
+            "text": "="
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Klasick\u00e1"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "Modr\u00e1"
+        },
+        "3e3780bdd59279494ba0eeed55f551d9": {
+            "text": "U\u017eivatelsk\u00e9 obr\u00e1zky"
+        },
+        "bbe7b2d443c26552faeb0e0c7d4541fe": {
+            "text": "Pro pou\u017eit\u00e9 t\u00e9to funkce mus\u00ed m\u00edt \"user\" \u0161ablona pole pro obr\u00e1zek. Pokud \"user\" \u0161ablona nem\u00e1 pole pro obr\u00e1zek, v\u00fdchoz\u00edm profilov\u00fdm obr\u00e1zkem bude ikona. Pro p\u0159id\u00e1n\u00ed pole s obr\u00e1zkem k \u0161ablon\u011b jd\u011bte do Nastaven\u00ed > \u0160ablony > Filtry (Zobrazit syst\u00e9mov\u00e9 \u0161ablony). \u0160ablona \"user\" se nyn\u00ed zobraz\u00ed v seznamu. Pokud jste vytvo\u0159ili jinou u\u017eivatelskou \u0161ablonu, m\u016f\u017eete tuto funkci p\u0159idat dopln\u011bn\u00edm pole s obr\u00e1zkem do \u0161ablony."
+        },
+        "b012c7da60d514a8d126979210fa1f8e": {
+            "text": "Pole obr\u00e1zek pro \u0161ablonu %s"
+        },
+        "20db21c89b31fa16e87dc79c98dd4afb": {
+            "text": "\u017d\u00e1dn\u00e9 obr\u00e1zkov\u00e9 pole nebylo p\u0159i\u0159azeno k t\u00e9to \u0161ablon\u011b"
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "Pole \"%s\" p\u0159id\u00e1no mezi pole editovateln\u00e1 u\u017eivateli v jejich profilu."
+        },
+        "c89a8fcd5422ef9d592d35af51ad242d": {
+            "text": "Zobrazen\u00ed jmen u\u017eivatel\u016f"
+        },
+        "713128d7e4e2ab180d2126b0cea259b9": {
+            "text": "\u010c\u00e1rkou odd\u011blen\u00fd seznam pol\u00ed pro pou\u017eit\u00ed jako jm\u00e9no u\u017eivatele v administraci. (p\u0159\u00edklad: first_name, last_name)"
+        },
+        "ebb4a6d411a325b9c4d626f842cd6ed1": {
+            "text": "Toto mohou b\u00fdt pouze textov\u00e1 pole. Ostatn\u00ed typy pol\u00ed budou ignorov\u00e1ny."
+        },
+        "71151aa83128f4189875470f7e2a8d82": {
+            "text": "Zobrazen\u00e9 jm\u00e9no pro \u0161ablonu %s"
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "Ikony"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "Vyberte ikonu pro polo\u017eky v menu"
+        },
+        "0fe8dceda2440ee8d71e0ed8869f075d": {
+            "text": "Horn\u00ed menu: Upozorn\u011bn\u00ed"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "Horn\u00ed menu: Zobrazit domovskou str\u00e1nku"
+        },
+        "c87aacf5673fada1108c9f809d354311": {
+            "text": "Odhl\u00e1sit"
+        },
+        "787989d17c5a57298dd6959fcc70ba1a": {
+            "text": "\u0160ablona administrace pro ProcessWire 2.5+. Vytvo\u0159il Tom Reno (Renobird)"
+        }
+    }
+}

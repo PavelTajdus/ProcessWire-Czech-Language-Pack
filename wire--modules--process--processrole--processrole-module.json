@@ -1,1 +1,69 @@
-{"file":"wire\/modules\/Process\/ProcessRole\/ProcessRole.module","textdomain":"wire--modules--process--processrole--processrole-module","translations":{"a5cd3ed116608dac017f14c046ea56bf":{"text":"Role (Roles)"},"e5e77ccf470959bc6be60127730908b5":{"text":"Spr\u00e1va u\u017eivatelsk\u00fdch rol\u00ed a p\u0159i\u0159azen\u00ed pr\u00e1v"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
+    "textdomain": "wire--modules--process--processrole--processrole-module",
+    "translations": {
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Role (Roles)"
+        },
+        "e5e77ccf470959bc6be60127730908b5": {
+            "text": "Spr\u00e1va u\u017eivatelsk\u00fdch rol\u00ed a p\u0159i\u0159azen\u00ed pr\u00e1v"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Opr\u00e1vn\u011bn\u00ed"
+        },
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "Podrobn\u00fd popis t\u011bchto opr\u00e1vn\u011bn\u00ed naleznete v dokumentaci v sekci [opr\u00e1vn\u011bn\u00ed](%s)."
+        },
+        "ae9a363b2dfa9181da7ffde8e37813b5": {
+            "text": "P\u0159e\u0161krtnut\u00ed"
+        },
+        "cea791d6258d032e4742a9a99f1ecf11": {
+            "text": "Za\u0161krtnut\u00ed opr\u00e1vn\u011bn\u00ed pro \u00fapravu str\u00e1nky (page-edit) samo o sob\u011b ned\u00e1v\u00e1 opr\u00e1vn\u011bn\u00ed k \u00faprav\u00e1m str\u00e1nek. M\u00edsto toho v\u00e1m umo\u017e\u0148\u00ed nastavit opr\u00e1vn\u011bn\u00ed pro tuto roli v Nastaven\u00ed > P\u0159\u00edstup v nastaven\u00ed \u0161ablony. Toto opr\u00e1vn\u011bn\u00ed (page-edit) tak\u00e9 umo\u017e\u0148uje u\u017eivatel\u016fm prohl\u00ed\u017eet str\u00e1nky v administraci. Toto opr\u00e1vn\u011bn\u00ed se doporu\u010duje v\u0161em spr\u00e1vc\u016fm."
+        },
+        "d923671ad010412a573db8ccdbddc911": {
+            "text": "Ozna\u010duje opr\u00e1vn\u011bn\u00ed, kter\u00e1 mohou b\u00fdt voliteln\u011b p\u0159id\u00e1na nebo zru\u0161ena v Nastaven\u00ed > P\u0159\u00edstup v nastaven\u00ed \u0161ablony. Za\u0161krtnut\u00ed opr\u00e1vn\u011bn\u00ed jej povol\u00ed pro v\u0161echny upraviteln\u00e9 \u0161ablony. Chcete-li, aby u\u017eivatelsk\u00e1 role z\u00edskala tato nastaven\u00ed pouze pro vybran\u00e9 \u0161ablony, nechte pol\u00ed\u010dko neza\u0161krtnut\u00e9 a m\u00edsto toho opr\u00e1vn\u011bn\u00ed nastavte v Nastaven\u00ed > P\u0159\u00edstup v nastaven\u00ed \u0161ablony."
+        },
+        "64a4d3473343a325080c311b47099be6": {
+            "text": "Opr\u00e1vn\u011bn\u00ed k p\u0159id\u00e1v\u00e1n\u00ed str\u00e1nek (page-add) a vytv\u00e1\u0159en\u00ed str\u00e1nek (page-create) lze p\u0159id\u00e1vat pouze z Nastaven\u00ed > P\u0159\u00edstup v nastaven\u00ed \u0161ablony, a zde se zobrazuj\u00ed pouze pro informativn\u00ed \u00fa\u010dely."
+        },
+        "efc30c4ed12a9e95e4fad5ae9be115fb": {
+            "text": "Ozna\u010duje \u0161ablonu, kter\u00e1 p\u0159id\u00e1v\u00e1 opr\u00e1vn\u011bn\u00ed. Klepnut\u00edm otev\u0159ete okno pro nastaven\u00ed opr\u00e1vn\u011bn\u00ed pro danou \u0161ablonu. Pokud n\u00e1zev \u0161ablony m\u00e1 hodnotu %s, znamen\u00e1 to, \u017ee je v \u0161ablon\u011b nastaveno opr\u00e1vn\u011bn\u00ed, ale va\u0161\u00edm v\u00fdb\u011brem je zde p\u0159eps\u00e1no."
+        },
+        "dce4a957c0c6225be564be146d71b245": {
+            "text": "Stejn\u00e9 jako v\u00fd\u0161e, s v\u00fdjimkou toho, \u017ee opr\u00e1vn\u011bn\u00ed je zru\u0161eno touto \u0161ablonou (sp\u00ed\u0161e ne\u017e p\u0159id\u00e1no)."
+        },
+        "c6cc7e92b9fc348360b34c024086432c": {
+            "text": "n\u00e1zev|popis"
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "P\u0159id\u00e1n\u00ed potomk\u016f\/podstr\u00e1nek ke str\u00e1nk\u00e1m pomoc\u00ed \u0161ablony"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Vytvo\u0159en\u00ed str\u00e1nek pomoc\u00ed \u0161ablony"
+        },
+        "faa5826bce6656df7f63cbeb5b2a85fe": {
+            "text": "Toto opr\u00e1vn\u011bn\u00ed lze p\u0159i\u0159adit pouze pomoc\u00ed Nastaven\u00ed > P\u0159istup v nastaven\u00ed \u0161ablony."
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(vy\u017eadov\u00e1no)"
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Toto opr\u00e1vn\u011bn\u00ed je vy\u017eadov\u00e1no pro v\u0161echny role."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "plat\u00ed pro v\u0161echny upraviteln\u00e9 \u0161ablony"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "%1$s p\u0159id\u00e1no \u0161ablonou %2$s, klikn\u011bte pro \u00fapravu"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "%1$s odebr\u00e1no \u0161ablonou %2$s, klikn\u011bte pro \u00fapravu"
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Za\u0161krtnut\u00edm tohoto pol\u00ed\u010dka p\u0159id\u00e1te opr\u00e1vn\u011bn\u00ed pro v\u0161echny upraviteln\u00e9 \u0161ablony, ale toto opr\u00e1vn\u011bn\u00ed ji\u017e plat\u00ed samostatn\u011b pro jednu nebo v\u00edce \u0161ablon. Chcete-li si v opr\u00e1vn\u011bn\u00edch udr\u017eet po\u0159\u00e1dek, doporu\u010dujeme p\u0159ed ud\u011blen\u00edm opr\u00e1vn\u011bn\u00ed odstranit u v\u0161ech t\u011bchto \u0161ablon toto opr\u00e1vn\u011bn\u00ed. Opravdu jej chcete nyn\u00ed povolit?"
+        },
+        "95c58584c58685c05c1a7cc706416455": {
+            "text": "v sou\u010dasn\u00e9 dob\u011b se nevztahuje na \u017e\u00e1dn\u00e9 \u0161ablony"
+        }
+    }
+}

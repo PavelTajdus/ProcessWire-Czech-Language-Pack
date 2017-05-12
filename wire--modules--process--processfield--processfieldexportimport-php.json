@@ -1,0 +1,156 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessFieldExportImport.php",
+    "textdomain": "wire--modules--process--processfield--processfieldexportimport-php",
+    "translations": {
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "Jm\u00e9no"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "\u0160t\u00edtek"
+        },
+        "948495146facadfe8859789036313d79": {
+            "text": "Typ"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "Nov\u00fd"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Exportovat"
+        },
+        "e37dfad06455f0c5d79778a5020d946d": {
+            "text": "Importovat"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Ano"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Ne"
+        },
+        "71eaa2b13692809e39c2f0c36e7f1d7f": {
+            "text": "Vyberte pole, kter\u00e9 chcete exportovat"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+Klik pro v\u00fdb\u011br v\u00edce polo\u017eek za sebou. Ctrl+Klik (nebo Cmd+Klik) pro v\u00fdb\u011br jednotliv\u00fdch polo\u017eek. Ctrl+A (nebo Cmd+A) pro v\u00fdb\u011br v\u0161ech polo\u017eek."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Exportovat Data"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Zkop\u00edrujte a vlo\u017ete tato data do \"Importn\u00edho\" pole v jin\u00e9 instalaci."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Klikn\u011bte kdekoliv v tomto poli pro v\u00fdb\u011br v\u0161ech dat pro export. Jakmile jsou data vybr\u00e1na, kop\u00edrujte je kl\u00e1vesovou zkratkou CTRL-C nebo CMD-C."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Vlo\u017ete data z exportu."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Kop\u00edrujte exportn\u00ed data z jin\u00e9 instalace a pak je vlo\u017ete do pole v\u00fd\u0161e pomoc\u00ed CTRL-V nebo CMD-V."
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "N\u00e1hled"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Zm\u011bny"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Vlastnost"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "P\u016fvodn\u00ed hodnota"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Nov\u00e1 hodnota"
+        },
+        "939704657d1c6c48005bdb67bc14ee75": {
+            "text": "Doporu\u010dujeme manu\u00e1ln\u00ed zm\u011bnu typu tohoto pole na \"%s\". Pak se sem vra\u0165te a dopl\u0148te zb\u00fdvaj\u00edc\u00ed zm\u011bny."
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "\u017d\u00e1dn\u00e9 \u010dekaj\u00edc\u00ed zm\u011bny."
+        },
+        "c4fd77379e1e463339786fbbc671068c": {
+            "text": "Upravit toto pole?"
+        },
+        "2f4ddf245d305802ffed479ba3b88451": {
+            "text": "Vytvo\u0159it toto pole?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "Klikn\u011bte na ano pro zobrazen\u00ed zm\u011bn"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "Ob\u010das je pot\u0159eba zm\u011bny odeslat dvakr\u00e1t, aby byly provedeny. Projd\u011bte si pros\u00edm n\u00ed\u017ee uveden\u00e9 zm\u011bny a podle pot\u0159eby je ode\u0161lete."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Projd\u011bte si pros\u00edm n\u00ed\u017ee uveden\u00e9 zm\u011bny a podle pot\u0159eby je ode\u0161lete. Pokud n\u011bkter\u00e9 zm\u011bny nechcete aplikovat, pak neza\u0161krt\u00e1vejte polo\u017eky, kter\u00fdch se to t\u00fdk\u00e1."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Odeslat zm\u011bny"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Va\u0161e zm\u011bny byly aprovedeny!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "\u017d\u00e1dn\u00e9 zm\u011bny nebyly nalezeny"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Ulo\u017eeno:"
+        },
+        "22e3e6ff427708ffbb7a54e2e91bc99e": {
+            "text": "P\u0159id\u00e1no pole"
+        },
+        "9de8e0c21384ddfd634fd87a48f6b3b2": {
+            "text": "Upraveno pole"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "="
+        },
+        "c3005b0d579421afe9654e94b7f60c41": {
+            "text": "%d chyba"
+        },
+        "2169b4627df97333ed94d1e30a9b8148": {
+            "text": "%d chyby"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "Nalezena %d vlastnost k pou\u017eit\u00ed."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "Nalezeny %d vlastnosti k pou\u017eit\u00ed."
+        },
+        "9e06b5dbfb31f1828888bca905c2e88e": {
+            "text": "V %d poli byly nalezeny chyby"
+        },
+        "68949530f08adb8c1a98b2a452c25604": {
+            "text": "V %d pol\u00edch byly nalezeny chyby"
+        },
+        "98e916ede6d185f77336fd8e0c08bfe0": {
+            "text": "Nalezeno %d nov\u00e9 pole pro p\u0159id\u00e1n\u00ed"
+        },
+        "9bdf5048d07cd31f11ccd839cc2d077a": {
+            "text": "Nalezeny %d nov\u00e1 pole pro p\u0159id\u00e1n\u00ed"
+        },
+        "927d189873b1f34075deb20406d33644": {
+            "text": "Nalezeno %d existuj\u00edc\u00ed pole pro aktualizaci"
+        },
+        "5cc06b731a19a2b34a1e3a0e79e35690": {
+            "text": "Nalezeno %d existuj\u00edc\u00edch pol\u00ed pro aktualizaci"
+        },
+        "99dc52a2961a9de2d42d6dbd498b0103": {
+            "text": "P\u0159id\u00e1no %d pole"
+        },
+        "46b6c6eede6b98b8ac580770f6215f35": {
+            "text": "P\u0159id\u00e1no %d pol\u00ed"
+        },
+        "0ecf1cc5ca067272faabd8c0900efe68": {
+            "text": "Zm\u011bn\u011bno %d pole"
+        },
+        "18e7924633aa136c8b5ba3827b3f7058": {
+            "text": "Zm\u011bn\u011bno %d pol\u00ed"
+        },
+        "c9185726324b2953e521ff596b287f25": {
+            "text": "P\u0159esko\u010deno %d pole"
+        },
+        "0cf5f939a615a083962e96f06b8ed6ea": {
+            "text": "P\u0159esko\u010deno %d pol\u00ed"
+        }
+    }
+}

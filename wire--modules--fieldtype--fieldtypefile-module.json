@@ -26,17 +26,68 @@
         "2cb39a29b55cb3b4480c782dbe367518": {
             "text": "Pole pro ukl\u00e1d\u00e1n\u00ed jednoho nebo v\u00edce soubor\u016f"
         },
-        "427422c500305acf3cb1d09967f3b5e3": {
-            "text": "Zadejte 0 pro neomezen\u00e9 mno\u017estv\u00ed. Pokud zad\u00e1te hodnotu 1, dereferencuje API toto pole jako jeden soubor m\u00edsto pole (array). (Pokud je form\u00e1tov\u00e1n\u00ed v\u00fdstupu str\u00e1nky (Page output formatting) zapnut\u00e9, co\u017e je v\u00fdchoz\u00ed nastaven\u00ed)."
-        },
         "91f3a2c0e4424c87689525da44c4db11": {
             "text": "Soubory (Files)"
         },
-        "b07a8c03dba15d6e4c3ebf8c555c749a": {
-            "text": "Pou\u017e\u00edt znakov\u00e9 entity pro popisy\/zna\u010dky (description\/tags) souboru?"
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "n\u00e1zev souboru"
         },
-        "5a95a17c63903db6b24e1e8f2110a661": {
-            "text": "Je-li za\u0161krtnuto, pole s popisem souboru pou\u017eije znakov\u00e9 entity (entity encoded). (Pokud je form\u00e1tov\u00e1n\u00ed v\u00fdstupu str\u00e1nky (Page output formatting) zapnut\u00e9, co\u017e je v\u00fdchoz\u00ed nastaven\u00ed)."
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0=Bez limitu"
+        },
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "Pole \"%s\" je\u0161t\u011b nen\u00ed p\u0159ipraveno k pou\u017eit\u00ed a mus\u00ed b\u00fdt konfigurov\u00e1no."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Nastaven\u00ed dosud nebylo ulo\u017eeno."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Zkontrolujte pros\u00edm nastaven\u00ed na t\u00e9to str\u00e1nce a znovu ulo\u017ete (ikdy\u017e jste nic nem\u011bnili) pro potvrzen\u00ed tohoto nastaven\u00ed."
+        },
+        "f217d0fdc1aad53234d09e7107b25316": {
+            "text": "Form\u00e1tovan\u00e1 hodnota"
+        },
+        "f09906b55a7a66786de08cb25550a2c8": {
+            "text": "Vyberte typ hodnoty, kter\u00e9 m\u00e1 toto pole vr\u00e1tit, p\u0159i p\u0159\u00edstupu p\u0159es API na u\u017eivatelsk\u00e9 \u010d\u00e1sti va\u0161eho webu."
+        },
+        "ffb520d31a51841782cf1cba617fc875": {
+            "text": "Pokud je form\u00e1tov\u00e1n\u00ed v\u00fdstupu vypnuto, hodnota je v\u017edy pole (WireArray)."
+        },
+        "6e7e8b4097cb9c2651e291b007b8efad": {
+            "text": "Automaticky (jedna polo\u017eka nebo nic, pokud je maxim\u00e1ln\u00ed po\u010det souboru nastaven\u00fd na 1, jinak vrac\u00ed pole polo\u017eek)"
+        },
+        "b93d9ddf4fe98458456fa4a117acf665": {
+            "text": "Pole polo\u017eek"
+        },
+        "fd392fe52f347bbf7391f791b963416d": {
+            "text": "Jedna polo\u017eka (nic pokud je pr\u00e1zdn\u00e1)"
+        },
+        "6f836d738a527f80156286edc9d1f829": {
+            "text": "Vygenerovan\u00fd \u0159et\u011bzec textu (kter\u00fd jste zadali)"
+        },
+        "ad3f5d66e216a4f1b65654b8b70d592f": {
+            "text": "Vygenerovan\u00fd \u0159et\u011bzec textu"
+        },
+        "fefb41e13016890d511b8d55d8057c37": {
+            "text": "Vygeneruje textov\u00fd \u0159et\u011bzec, kter\u00fd chcete generovat jako v\u00fdstup tohoto pole. Pokud pole obsahuje v\u00edce polo\u017eek, bude \u0159et\u011bzec generovan\u00fd v\u00edcekr\u00e1t. Pokud pole neobsahuje \u017e\u00e1dn\u00e9 polo\u017eky, pou\u017eije se pr\u00e1zdn\u00fd \u0159et\u011bzec."
+        },
+        "839047fe3f6109257399fe301ddb7912": {
+            "text": "M\u016f\u017eete pou\u017e\u00edt kter\u00fdkoliv z n\u00e1sleduj\u00edc\u00edch zna\u010dek (tags):"
+        },
+        "a1ede0a9a3c447cb83c7b6598dc556ff": {
+            "text": "V\u00fdchoz\u00ed hodnota (pokud je pr\u00e1zdn\u00e9)"
+        },
+        "05ac72cc4df427baf9db44228a577ed7": {
+            "text": "Voliteln\u011b vyberte str\u00e1nku, kter\u00e1 bude obsahovat v\u00fdchoz\u00ed hodnotu (stejn\u00e9ho pole). M\u016f\u017eete vytvo\u0159it str\u00e1nku ur\u010denou \u010dist\u011b pro tento \u00fa\u010del."
+        },
+        "b17288f2ed130badc7ac8919f95fd5f1": {
+            "text": "Form\u00e1tova\u010de textu (pro popis souboru)"
+        },
+        "8d664d296530bbabc76043e4e499b272": {
+            "text": "Vyberte jeden nebo v\u00edce form\u00e1tova\u010d\u016f textu (a jejich po\u0159ad\u00ed), kter\u00e9 bude aplikov\u00e1no na popis souboru, pokud je form\u00e1tov\u00e1n\u00ed aktivn\u00ed. Jako minim\u00e1ln\u00ed je doporu\u010deno k\u00f3dov\u00e1n\u00ed HTML entit (HTML Entity Encoder)."
+        },
+        "9cdd19f51364783933fefd557c7cd644": {
+            "text": "M\u011bnte pouze tehdy, pokud o to budete po\u017e\u00e1d\u00e1ni modulem pro vstupn\u00edho pole (inputfield) t\u0159et\u00ed strany."
         }
     }
 }

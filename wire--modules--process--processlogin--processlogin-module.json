@@ -1,1 +1,60 @@
-{"file":"wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module","textdomain":"wire--modules--process--processlogin--processlogin-module","translations":{"5048eab3b6b17142d965cf9d43f6e460":{"text":"Jste p\u0159ihl\u00e1\u0161eni."},"a0bfb8e59e6c13fc8d990781f77694fe":{"text":"Pokra\u010dovat"},"847549ae30061a6767a4b17c6fb4f53c":{"text":"\u00dasp\u011b\u0161n\u00e9 p\u0159ihl\u00e1\u0161en\u00ed"},"48649d8c2d04aa439d10bc45eaba8f75":{"text":"P\u0159ihl\u00e1\u0161en\u00ed se nezda\u0159ilo"},"646d9e77201093e05380ead006df9975":{"text":"Bezpe\u010dnostn\u00ed upozorn\u011bn\u00ed: soubor %s by m\u011bl b\u00fdt co nejd\u0159\u00edve smaz\u00e1n."},"f6039d44b29456b20f8f373155ae4973":{"text":"Jm\u00e9no"},"dc647eb65e6711e155375218212b3964":{"text":"Heslo"},"99dea78007133396a7b8ed70578ac6ae":{"text":"P\u0159ihl\u00e1sit"},"d837cc5a72556c5e2abf4b9fe10ddef8":{"text":"P\u0159ihl\u00e1\u0161en\u00ed"},"0d5dfb1efbd4144f5e7c8d80df1d09f1":{"text":"Jste odhl\u00e1\u0161eni"},"01a569ddc6cf67ddec2a683f0a5f5956":{"text":"Zapomn\u011bli jste heslo?"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module",
+    "textdomain": "wire--modules--process--processlogin--processlogin-module",
+    "translations": {
+        "5048eab3b6b17142d965cf9d43f6e460": {
+            "text": "Jste p\u0159ihl\u00e1\u0161eni."
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Pokra\u010dovat"
+        },
+        "847549ae30061a6767a4b17c6fb4f53c": {
+            "text": "\u00dasp\u011b\u0161n\u00e9 p\u0159ihl\u00e1\u0161en\u00ed"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "P\u0159ihl\u00e1\u0161en\u00ed se nezda\u0159ilo"
+        },
+        "646d9e77201093e05380ead006df9975": {
+            "text": "Bezpe\u010dnostn\u00ed upozorn\u011bn\u00ed: soubor %s by m\u011bl b\u00fdt co nejd\u0159\u00edve smaz\u00e1n."
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Jm\u00e9no"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Heslo"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "P\u0159ihl\u00e1sit"
+        },
+        "d837cc5a72556c5e2abf4b9fe10ddef8": {
+            "text": "P\u0159ihl\u00e1\u0161en\u00ed"
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "Jste odhl\u00e1\u0161eni"
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "Zapomn\u011bli jste heslo?"
+        },
+        "4c429484c06b2d2901b3a582f300af56": {
+            "text": "Upozorn\u011bn\u00ed, v\u00e1\u0161 \/site\/config.php specifikuje opr\u00e1vn\u011bn\u00ed k soubor\u016fm, kter\u00e1 jsou p\u0159\u00edli\u0161 voln\u00e1 pro mnoh\u00e1 prost\u0159ed\u00ed:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "\u010ct\u011bte \"Zabezpe\u010den\u00ed opr\u00e1vn\u011bn\u00ed k soubor\u016fm\" pro v\u00edce informac\u00ed"
+        },
+        "00796cc045b871fe7b2867edef6aaaf7": {
+            "text": "Pro vypnut\u00ed tohoto upozorn\u011bn\u00ed, nastavte $config->chmodWarn = false; ve va\u0161em \/site\/config.php souboru."
+        },
+        "efdf35a179a19ed3b3de0d3e7785f17d": {
+            "text": "Upozorn\u011bn\u00ed: Va\u0161e \"server locale\" nejsou definov\u00e1ny a to m\u016f\u017ee zp\u016fsobit probl\u00e9my."
+        },
+        "25722c10f4f7abdc7297094d5d8f97e6": {
+            "text": "P\u0159elo\u017ete (nastavte) pros\u00edm polo\u017eku \"C\" pro ka\u017ed\u00fd jazyk na spr\u00e1vn\u00e9 k\u00f3dov\u00e1n\u00ed v %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Ku p\u0159\u00edkladu pro nastaven\u00ed US English bude k\u00f3dov\u00e1n\u00ed: %s"
+        },
+        "58b0cb95c27f394bd4c6970b563153dd": {
+            "text": "P\u0159idejte pros\u00edm toto do souboru \/site\/config.php - (nastavte \u201c%s\u201d dle pot\u0159eby):"
+        }
+    }
+}

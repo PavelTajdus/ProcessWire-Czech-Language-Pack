@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeDefault\/default.php",
+    "textdomain": "wire--modules--admintheme--adminthemedefault--default-php",
+    "translations": {
+        "9cfefed8fb9497baa5cd519d7d2bb5d7": {
+            "text": "="
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Odhl\u00e1sit"
+        },
+        "aa0e46d2e05217acb9d70a1bbb546845": {
+            "text": "PRO P\u0158EKLADATELE: p\u0159elo\u017ete pros\u00edm sp\u00ed\u0161e soubor \/wire\/templates-admin\/default.php ne\u017e tento."
+        }
+    }
+}

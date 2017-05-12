@@ -8,29 +8,8 @@
         "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
             "text": "Odkaz na URL"
         },
-        "d0371b1908138f8cd5be5356ef5a46ab": {
-            "text": "Odkaz na str\u00e1nku"
-        },
-        "629ea6ac7fee06a764a49cb39bd356d9": {
-            "text": "Spustit v nov\u00e9m okn\u011b?"
-        },
-        "149a978aed458d66e08de0460cdbf65e": {
-            "text": "Odkaz na soubor"
-        },
         "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
             "text": "Vlo\u017ete URL, vyberte str\u00e1nku nebo soubor pro vytvo\u0159en\u00ed odkazu:"
-        },
-        "1f3e9bfe3126acfe0af746ec6ed2db68": {
-            "text": "Je-li za\u0161krtnuto, bude odkaz otev\u0159en v nov\u00e9m okn\u011b."
-        },
-        "27c6c65717076df3e127c24bee401fa7": {
-            "text": "Pro vybr\u00e1n\u00ed souboru z jin\u00e9 str\u00e1nky, klikn\u011bte na 'Odkaz na str\u00e1nku' v\u00fd\u0161e a vyberte str\u00e1nku kter\u00e1 obsahuje po\u017eadovan\u00fd soubor."
-        },
-        "7ac547b42cb510a9564daab982ac839a": {
-            "text": "Odkaz na podstr\u00e1nku"
-        },
-        "d6610e6929ce3f2c5d432efd8cb96097": {
-            "text": "Toto je stejn\u00e9 jako \"Odkaz na str\u00e1nku\" v\u00fd\u0161e, ale je rychlej\u0161\u00ed pokud vytv\u00e1\u0159\u00edte odkaz na potomka sou\u010dasn\u00e9 str\u00e1nky."
         },
         "eb629addbfc0dd4a0353d6defff81923": {
             "text": "Typ URL pro odkazy na str\u00e1nky"
@@ -46,6 +25,99 @@
         },
         "2453cc3c047929e3210a51607202b8bb": {
             "text": "*Experiment\u00e1ln\u00ed funkce"
+        },
+        "97e7c9a7d06eac006a28bf05467fcc8b": {
+            "text": "Odkaz"
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Vlastnosti"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "N\u00e1zev"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Dopl\u0148kov\u00fd text k popisu odkazu."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "C\u00edl"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Kde se bude tento odkaz otev\u00edrat."
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "otev\u0159\u00edt v nov\u00e9m okn\u011b"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "V\u00fdb\u011br souboru"
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Zadejte adresu URL, e-mailovou adresu, kotvu nebo zadejte slovo(a) pro nalezen\u00ed str\u00e1nky."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Zvolte kotvu (anchor)"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "V textu kter\u00fd upravujete byly nalezeny kotvy (anchors)."
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Vyberte str\u00e1nku"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Zvolte potomka"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "Toto je stejn\u00e9 jako \"Vybrat str\u00e1nku\" v\u00fd\u0161e, ale m\u016f\u017ee b\u00fdt rychlej\u0161\u00ed, pokud se odkazuje na potomky aktu\u00e1ln\u00ed str\u00e1nky."
+        },
+        "eba991d56b1be0b940d722211bab87bc": {
+            "text": "Vztah"
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Vztah odkazu k dokumentu."
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "T\u0159\u00edda"
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Dal\u0161\u00ed t\u0159\u00eddy, kter\u00e9 mohou ovlivnit vzhled nebo chov\u00e1n\u00ed odkazu."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "V nastaven\u00ed modudl %s m\u016f\u017eete p\u0159izp\u016fsobit uveden\u00e9 v\u00fd\u0161e dostupn\u00e9 atributy."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "\u017d\u00e1dn\u00e9"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "nastav\u00ed odkazy na no-follow"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Zobrazen\u00ed soubor\u016f na str\u00e1nce:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "Vyberte soubor, z t\u00e9to str\u00e1nky, na kter\u00fd chcete odkazovat."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Chcete-li vybrat soubor z jin\u00e9 str\u00e1nky, klikn\u011bte na tla\u010d\u00edtko \"Vybrat str\u00e1nku\" a zvolte str\u00e1nku, ze kter\u00e9 chcete vybrat soubor."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Mo\u017enosti atribut\u016f"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Zadejte jednu hodnotu atributu na \u0159\u00e1dek. U\u017eivatel si bude moci p\u0159i v\u00fdb\u011bru odkaz\u016f vybrat tyto mo\u017enosti. Chcete-li nastavit mo\u017enost jako v\u00fdchoz\u00ed (pro nov\u00e9 odkazy), zadejte p\u0159ed ni znam\u00e9nko plus \"+\"."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Atributy extern\u00edho odkazu"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Ur\u010dete v\u00fdchoz\u00ed vybran\u00fd atribut, kter\u00fd bude automaticky vypln\u011bn p\u0159i zji\u0161t\u011bn\u00ed extern\u00edho odkazu."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Pokud se pou\u017eije, mus\u00ed to b\u00fdt hodnota, kterou jste p\u0159edem definovali."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "P\u0159\u00edklad: Ur\u010den\u00ed **nofollow** by zp\u016fsob\u00ed, \u017ee extern\u00ed odkazy nebudou n\u00e1sledov\u00e1ny vyhled\u00e1va\u010di."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "P\u0159\u00edklad: Zad\u00e1n\u00edm parametru **_blank**  se extern\u00ed odkaz otev\u0159e v nov\u00e9m okn\u011b."
         }
     }
 }

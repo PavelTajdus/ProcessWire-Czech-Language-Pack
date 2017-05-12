@@ -1,0 +1,39 @@
+{
+    "file": "wire\/core\/ImageSizerEngine.php",
+    "textdomain": "wire--core--imagesizerengine-php",
+    "translations": {
+        "4aede3b538343c5323a0f900ca4fa255": {
+            "text": "Priorita skriptu"
+        },
+        "3d50ad624e49f81b1f9f836a3b70b57c": {
+            "text": "Ur\u010duje po\u0159ad\u00ed ve kter\u00e9m se skript vol\u00e1n v n\u00e1vaznosti k ostatn\u00edm ImageSizerEngine modul\u016fm."
+        },
+        "7556d21eaf163cc3e4019e7c065df022": {
+            "text": "\u010c\u00edm ni\u017e\u0161\u00ed \u010d\u00edslo, t\u00edm v\u011bt\u0161\u00ed p\u0159ednost dostane."
+        },
+        "c57c3b5a8e7466e2c2940704b60d2a42": {
+            "text": "Pokud m\u00e1te nainstalovan\u00e9 dal\u0161\u00ed moduly ImageSizerEngine, ujist\u011bte se, \u017ee maj\u00ed stejnou prioritu."
+        },
+        "1e97e73f1e45d465e23a2ea172bc3355": {
+            "text": "Zost\u0159en\u00ed"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "\u017d\u00e1dn\u00e9"
+        },
+        "682160fc6ad12f783f70608a9b46b9b9": {
+            "text": "Jemn\u00e9"
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "St\u0159edn\u00ed"
+        },
+        "c43e0fd449c758dab8f891d8e19eb1a9": {
+            "text": "Siln\u00e9"
+        },
+        "571094bb27864b600d8e6b561a137a55": {
+            "text": "Kvalita"
+        },
+        "c602090a02c41e9f67961fd513166846": {
+            "text": "V\u00fdchoz\u00ed nastaven\u00ed kvalit od 1 do 100, kde 1 je nejni\u017e\u0161\u00ed a 100 je nejvy\u0161\u0161\u00ed kvalita."
+        }
+    }
+}

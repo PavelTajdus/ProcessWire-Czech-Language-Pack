@@ -8,9 +8,6 @@
         "6f6cb72d544962fa333e2e34ce64f719": {
             "text": "Velikost (size)"
         },
-        "2eb8badec738786d01bb81d0ee6ab3c0": {
-            "text": "Maxim\u00e1ln\u00ed d\u00e9lka (Maxlength)"
-        },
         "a4965347ff8523a66897b92fec81e04e": {
             "text": "Maxim\u00e1ln\u00ed po\u010det znak\u016f povolen\u00fdch v tomto poli."
         },
@@ -49,6 +46,69 @@
         },
         "6a5e3a3d3be1a3d27b96e1e378c31ad9": {
             "text": "Voliteln\u00fd regul\u00e1rn\u00ed v\u00fdraz, kter\u00fd bude vy\u017eadov\u00e1n na vstupu. Pou\u017e\u00edv\u00e1 se na stran\u011b klienta (HTML5 pattern attribute) i serveru pro validace. P\u0159idejte do popisu pole n\u00e1pov\u011bdu nebo p\u0159\u00edklad pou\u017eit\u00ed pro u\u017eivatele."
+        },
+        "3c046b3ba4bce0e808ae74b1f17d4cdc": {
+            "text": "1 slovo"
+        },
+        "4694403722611f0dab5b4020626b289b": {
+            "text": "%d slov"
+        },
+        "266be751f6043dd6f14366d90c02e395": {
+            "text": "1 znak"
+        },
+        "1799f67dd85c2b51921d814c95bc30dc": {
+            "text": "%d znak\u016f"
+        },
+        "42eab4ec87a7e8c172ab10a645ab9301": {
+            "text": "(vy\u017eadov\u00e1no minim\u00e1ln\u011b %d znak\u016f)"
+        },
+        "cd4377f9e686f1024a3d4358bf96235e": {
+            "text": "="
+        },
+        "587a544effd13d88cb89456df1222d73": {
+            "text": "Je vy\u017eadov\u00e1no minim\u00e1ln\u011b %1$d znaky\/\u016f (aktu\u00e1ln\u011b jsou zde %2$d znaky\/\u016f)."
+        },
+        "773726357c07d9847f900eef6ed9b6af": {
+            "text": "Hodnota p\u0159ekro\u010dila maxim\u00e1ln\u00ed povolenou d\u00e9lku %d znak\u016f a bude zkr\u00e1cena."
+        },
+        "4049392fac457a50d9eb641c5873f41e": {
+            "text": "Pou\u017e\u00edt tak\u00e9 atribut HTML5 \"required\"?"
+        },
+        "e20047e93328484a90fd0cf82642d0ff": {
+            "text": "Pou\u017eijte pouze na pol\u00edch, kter\u00e9 jsou *v\u017edy* viditeln\u00e9 pro u\u017eivatele."
+        },
+        "65be4bb9e294bfb3e8b7c09ca0017ef4": {
+            "text": "Maxim\u00e1ln\u00ed d\u00e9lka"
+        },
+        "9df187935ceb54067692c568b45e042b": {
+            "text": "Minim\u00e1ln\u00ed d\u00e9lka (znak\u016f), kter\u00e9 toto pole po\u017eaduje."
+        },
+        "8eaf7dcee17c55fd550a28c803b47718": {
+            "text": "Pokud nen\u00ed pole \"vy\u017eadov\u00e1no\", pak bude minim\u00e1ln\u00ed d\u00e9lka kontrolov\u00e1na jen pokud bude pole vypln\u011bno."
+        },
+        "94f0e608658539187d65dddeea593677": {
+            "text": "Maxim\u00e1ln\u00ed d\u00e9lka"
+        },
+        "62b926a914028b7677a7c1e33ae9306e": {
+            "text": "Hodnota \"0\" znamen\u00e1 \u017e\u00e1dn\u00e9 omezen\u00ed\/maximum."
+        },
+        "64d129224a5377b63e9727479ec987d9": {
+            "text": "Po\u010d\u00edtadlo"
+        },
+        "e98d599c27d0cc5eac6f2306b4c5891a": {
+            "text": "Bez po\u010d\u00edtadla"
+        },
+        "00914008e58920e2994f712269d2e306": {
+            "text": "Po\u010d\u00edtadlo znak\u016f"
+        },
+        "e5be16f125cae69d8a9185392d6b3393": {
+            "text": "Po\u010d\u00edtadlo slov"
+        },
+        "8f72b73949c8127fb6e116573cbb970c": {
+            "text": "Doporu\u010dujeme, aby jste zobrazili po\u010d\u00edtadlo znak\u016f, pokud je pole omezeno maxim\u00e1ln\u00edm po\u010dtem znak\u016f."
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "="
         }
     }
 }

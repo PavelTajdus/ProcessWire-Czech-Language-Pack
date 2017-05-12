@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/FieldtypeOptions.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
+    "translations": {
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "Nakonfigurovan\u00fd p\u0159edv\u00fdb\u011br nebyl vypln\u011bn, proto\u017ee hodnota nen\u00ed nastaven\u00e1 jako povinn\u00e1. Opravte pros\u00ed nastaven\u00ed tohoto pole."
+        },
+        "aee44a384657fe502a5b91c94fbc7713": {
+            "text": "Import mo\u017enost\u00ed zat\u00edm nebyl implementov\u00e1n. Nicm\u00e9n\u011b mohou b\u00fdt jednodu\u0161e importov\u00e1ny z jednoho webu do druh\u00e9 pouh\u00fdm kop\u00edrov\u00e1n\u00edm\/vlo\u017een\u00edm p\u0159\u00edmo z editovan\u00e9ho pole."
+        },
+        "33568d5ff03072672cce95681df20964": {
+            "text": "Seznam s mo\u017enostmi"
+        },
+        "440494bea619acd17c0a19326d9030fd": {
+            "text": "Pole kter\u00e9 obsahuje seznam s jednou nebo v\u00edce mo\u017enostmi."
+        }
+    }
+}

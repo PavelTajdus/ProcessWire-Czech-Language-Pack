@@ -1,1 +1,15 @@
-{"file":"wire\/modules\/PagePaths.module","textdomain":"wire--modules--pagepaths-module","translations":{"d6fee4e5741568290c0f4c4edc81f70f":{"text":"Aktualizov\u00e1na %d cesta"},"b198072961bf47ed9c790c1006f98372":{"text":"Aktualizov\u00e1no %d cest"}}}
+{
+    "file": "wire\/modules\/PagePaths.module",
+    "textdomain": "wire--modules--pagepaths-module",
+    "translations": {
+        "d6fee4e5741568290c0f4c4edc81f70f": {
+            "text": "Aktualizov\u00e1na %d cesta"
+        },
+        "b198072961bf47ed9c790c1006f98372": {
+            "text": "Aktualizov\u00e1no %d cest"
+        },
+        "0e620fb070fcc5279681b61f5720fb6e": {
+            "text": "Odinstalujte pros\u00edm modul Core > PagePaths (nen\u00ed kompatibiln\u00ed s LanguageSupportPageNames)"
+        }
+    }
+}

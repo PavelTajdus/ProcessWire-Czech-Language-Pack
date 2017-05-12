@@ -49,6 +49,12 @@
         },
         "fae7550bf964aa09e51752b154a6cb23": {
             "text": "Poskytuje mo\u017enost klonovat\/kop\u00edrovat str\u00e1nky v administra\u010dn\u00edm rozhran\u00ed. P\u0159id\u00e1v\u00e1 volbu \"kop\u00edrovat\" ke v\u0161em str\u00e1nk\u00e1m v administra\u010dn\u00edm seznamu str\u00e1nek."
+        },
+        "04ded6e943c2cb8fab9a9b7075462f7c": {
+            "text": "Klonov\u00e1no do: %s"
+        },
+        "d52cff2047c2d3bd15b08ec62c34eb7d": {
+            "text": "Nebylo mo\u017en\u00e9 klonovat str\u00e1nku"
         }
     }
 }

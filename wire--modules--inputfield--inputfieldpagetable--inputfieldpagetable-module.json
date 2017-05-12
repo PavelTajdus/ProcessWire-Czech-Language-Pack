@@ -1,0 +1,111 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageTable\/InputfieldPageTable.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
+    "translations": {
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[pr\u00e1zdn\u00fd]"
+        },
+        "140092f149378fe66bcd1b7e472cde79": {
+            "text": "P\u0159ed pou\u017eit\u00edm tohoto pole nastavte \u0161ablonu."
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "P\u0159ed pou\u017eit\u00edm tohoto pole zadejte v nastaven\u00ed jeden nebo v\u00edce sloupc\u016f."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Byly nalezeny podstr\u00e1nky, kter\u00e9 je mo\u017eno p\u0159idat do t\u00e9to tabulky. Za\u0161krtn\u011bte str\u00e1nku, kterou chcete p\u0159idat."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Vybrat v\u0161echny"
+        },
+        "6a73e132a6818bc067a0cdec443689a1": {
+            "text": "d. m. Y G:i"
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "Str\u00e1nka %d byla p\u0159id\u00e1na do tabulky"
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "Pole tabulky pro zobrazen\u00ed v administraci"
+        },
+        "420fb882b998481add0d526522ffff81": {
+            "text": "Zadejte jm\u00e9na pol\u00ed (jedno na ka\u017ed\u00fd \u0159\u00e1dek), kter\u00e9 chcete zobrazit jako sloupce v tabulce. Pro nastaven\u00ed \u0161\u00ed\u0159ky sloupce pro pole zadejte \"nazev_pole=30\" kde \"30\" je \u0161\u00ed\u0159ka sloupce v procentech. P\u0159i zad\u00e1v\u00e1n\u00ed \u0161\u00ed\u0159ek myslete na to, \u017ee v\u0161echny mus\u00ed m\u00edt dohromady maxim\u00e1ln\u011b 100."
+        },
+        "290cc1b749092b6f62035343a4e4f9eb": {
+            "text": "M\u016f\u017eete specifikovat kter\u00e9koliv syst\u00e9mov\u00e9, nebo vlastn\u00ed pole. Tak\u00e9 m\u016f\u017eete pou\u017e\u00edt podpole (pole.podpole) s poli, kter\u00e9 obsahuj\u00ed v\u00edce parametr\u016f, jako t\u0159eba odkazy na str\u00e1nky."
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "Pole p\u0159i\u0159azen\u00e9 k vybran\u00e9 \u0161ablon\u011b jsou tyto:"
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "Pro zobrazen\u00ed seznamu mo\u017en\u00fdch pol\u00ed, vyberte \u0161ablonu na z\u00e1lo\u017ece \"Detaily\", ulo\u017ete, a vra\u0165te se op\u011bt sem."
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Form\u00e1t automatick\u00e9ho n\u00e1zvu str\u00e1nky"
+        },
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "P\u0159idat str\u00e1nku"
+        },
+        "9264201faa8a6ca75fc27583eafe1e88": {
+            "text": "Pokud je toto pole vypln\u011bno, po kliknut\u00ed na tla\u010d\u00edtko \"P\u0159idat str\u00e1nku\" bude vytvo\u0159ena str\u00e1nka s n\u00e1zvem v zadan\u00e9m form\u00e1tu. Pokud nen\u00ed vypln\u011bno, u\u017eivatel bude muset zadat n\u00e1zev str\u00e1nky poka\u017ed\u00e9, kdy\u017e bude tvo\u0159it novou str\u00e1nku."
+        },
+        "e4f63a8ac32b32675310ab45dd15e6cb": {
+            "text": "Pokud n\u00e1zev obsahuje pouze alfanumerick\u00e9 znaky, bude tento n\u00e1zev pou\u017eit p\u0159\u00edmo, a na konec se p\u0159id\u00e1 \u010d\u00edslo (pokud to bude nutn\u00e9) pro zachov\u00e1n\u00ed unik\u00e1tnosti. Pokud ale n\u00e1zev bude obsahovat jak\u00fdkoliv jin\u00fd znak ne\u017e alfanumerick\u00fd, bude to pova\u017eov\u00e1no za form\u00e1t [PHP datumu](http:\/\/www.php.net\/manual\/en\/function.date.php)."
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "P\u0159\u00edklad: **dmY:Gi** je dobr\u00e9 jm\u00e9no pro n\u00e1zvy str\u00e1nek zalo\u017een\u00e9 na \u010dase a datu."
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Chov\u00e1n\u00ed Modal okna pro \u00fapravy"
+        },
+        "ddc5451d4ec8474b52d0c29aa3a0d475": {
+            "text": "P\u0159i ulo\u017een\u00ed automaticky zav\u0159\u00edt (v\u00fdchoz\u00ed)"
+        },
+        "7d3bd56da0d093058cd12ccf10411b3d": {
+            "text": "Ponechat okno otev\u0159en\u00e9, zav\u0159\u00edt manu\u00e1ln\u011b."
+        },
+        "fd77179553ab23331a3bb360662cbf47": {
+            "text": "ProFields: Tabulka Str\u00e1nek"
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Vstupn\u00ed pole doprov\u00e1zej\u00edc\u00ed FieldtypePageTable"
+        },
+        "26fbcf76e1954ff7641a38a979ac4b62": {
+            "text": "="
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Jm\u00e9no"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Vytvo\u0159eno"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Upraveno"
+        },
+        "f45cf450f2435b8e50cee88a4ac15112": {
+            "text": "Zve\u0159ejn\u011bno"
+        },
+        "036eabaedf4f638437a5ecdf7582d541": {
+            "text": "Upravil"
+        },
+        "5058207150146a31a3722ea410dac987": {
+            "text": "Vytvo\u0159il"
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "="
+        },
+        "fab3cb63defc8837e34f8ff45d16299f": {
+            "text": "Cesta"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "\u0160ablona"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Rodi\u010d"
+        },
+        "1817eacf444b166d0c26160f2176ae96": {
+            "text": "Podstr\u00e1nky"
+        },
+        "8e1c1f71742a04abf811af399e149b72": {
+            "text": "Stav"
+        }
+    }
+}

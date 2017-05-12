@@ -1,0 +1,21 @@
+{
+    "file": "wire\/core\/WireCache.php",
+    "textdomain": "wire--core--wirecache-php",
+    "translations": {
+        "d35d926654fdaeed481722384826e32b": {
+            "text": "Ulo\u017een\u00e1 cache"
+        },
+        "a188964d2912198a985f7bcd9564c530": {
+            "text": "Vymazan\u00e1 cache"
+        },
+        "8a4a48cd3a709f985d5ea015c2db76c0": {
+            "text": "Gener\u00e1ln\u00ed \u00fadr\u017eba expirovala %d cache"
+        },
+        "f64daf743a238aa0cd75ee82bff43332": {
+            "text": "\u00dadr\u017eba expirovala %d cache pro ulo\u017een\u00e9 str\u00e1nky"
+        },
+        "fb00a11e56682a1fc9456f910b1ebcff": {
+            "text": "\u00dadr\u017eba expirovala %d cache pro ulo\u017een\u00e9 \u0161ablony"
+        }
+    }
+}

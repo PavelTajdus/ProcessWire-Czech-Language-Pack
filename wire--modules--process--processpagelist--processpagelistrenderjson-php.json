@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListRenderJSON.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistrenderjson-php",
+    "translations": {
+        "de306d89ec101aba6fb73c6879710e6c": {
+            "text": "404 Str\u00e1nka nenalezena"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "Administrace"
+        },
+        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
+            "text": "Ko\u0161 je otev\u0159en\u00fd: P\u0159esu\u0148te sem polo\u017eky, kter\u00e9 chcete vyhodit"
+        }
+    }
+}

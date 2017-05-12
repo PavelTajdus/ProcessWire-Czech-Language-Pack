@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFieldsetTabOpen.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefieldsettabopen-module",
+    "translations": {
+        "7d46168ae11400e7b496a22b2bfe6c6f": {
+            "text": "Otev\u0159\u00edt v modal (vyskakovac\u00edm) okn\u011b?"
+        },
+        "fb6e6fc9f3f435218d01763c02dec7c3": {
+            "text": "Za\u0161krtn\u011bte pokud chcete tuto z\u00e1lo\u017eku otev\u00edrat ve vlastn\u00edm vyskakovac\u00edm okn\u011b. To m\u016f\u017ee zlep\u0161it v\u00fdkon u v\u011bt\u0161\u00edch formul\u00e1\u0159\u016f."
+        },
+        "e9f1e9337e418af0267d9475c5b46940": {
+            "text": "Pro podobn\u00fd v\u00fdsledek m\u016f\u017eete m\u00edsto toho pou\u017e\u00edt AJAX, dostupn\u00fd na z\u00e1lo\u017ece: Vstup > Viditelnost > Prezentace."
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUserConfig.php",
+    "textdomain": "wire--modules--process--processuser--processuserconfig-php",
+    "translations": {
+        "512bc1289fe1ab9723f6ed9d3d6e651e": {
+            "text": "Maxim\u00e1ln\u00ed po\u010det u\u017eivatel\u016f zobrazen\u00fdch v AJAX rozbalovac\u00ed nab\u00eddce"
+        },
+        "59b101e7ae1c41c851d1c05341347023": {
+            "text": "Pokud po\u010det u\u017eivatel\u016f v syst\u00e9mu p\u0159ekro\u010d\u00ed tuto hodnotu, rozbalovac\u00ed menu bude m\u00edsto u\u017eivatel\u016f zobrazovat role s po\u010dtem u\u017eivatel\u016f."
+        },
+        "77cb5109c9ae7f1f6359fefd4f8dbfaa": {
+            "text": "Zadejte hodnotu mezi 1 a\u017e 100 (v\u00fdchoz\u00ed=25)"
+        }
+    }
+}

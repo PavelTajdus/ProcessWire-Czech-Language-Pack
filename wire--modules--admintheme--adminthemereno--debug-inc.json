@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/debug.inc",
+    "textdomain": "wire--modules--admintheme--adminthemereno--debug-inc",
+    "translations": {
+        "dc62e13d18c4cec89567255a0bbd8a67": {
+            "text": "API prom\u011bnn\u00e9"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "U\u017eivatel"
+        },
+        "7421d68c70dfc346497573bf4e08acc5": {
+            "text": "N\u00e1stroje pro lad\u011bn\u00ed chyb"
+        },
+        "b9a880607682d7ff74c39ef4cdefca90": {
+            "text": "Nahr\u00e1no str\u00e1nek"
+        },
+        "71c7ae294b7abd866b3fb295b3b9e4a4": {
+            "text": "Relace"
+        },
+        "f929d2763e272dc4669d972bae9708e0": {
+            "text": "Nahr\u00e1no modul\u016f"
+        },
+        "554c5efaf6a3411ec0c56132825ce0f1": {
+            "text": "%d modul\u016f nahr\u00e1no"
+        },
+        "5e9171024adf23f0e7e7f298f251a935": {
+            "text": "%d nebylo nahr\u00e1no"
+        },
+        "35ad48797a780091740cbcf14ebc094d": {
+            "text": "H\u00e1\u010dky (hooks)"
+        },
+        "62483fbc1d13ed84612061e24f6e72fb": {
+            "text": "PDQ dotazy ($database)"
+        },
+        "92dd35cc61ffc41d02defdcef071856d": {
+            "text": "\u010casova\u010de"
+        },
+        "951102c6edd76f552294869d42635888": {
+            "text": "MySQLi dotazy ($db) - zastaral\u00e9"
+        },
+        "5351e7d8b45acb7070fc165ce3b738c6": {
+            "text": "Pr\u00e1va aktu\u00e1ln\u00edho u\u017eivatele"
+        },
+        "1b272e451c327dcb796367163a2c403b": {
+            "text": "Opr\u00e1vn\u011bn\u00ed aktu\u00e1ln\u00edho u\u017eivatele"
+        },
+        "e386ede4750a227397715b73b7727273": {
+            "text": "Opr\u00e1vn\u011bn\u00ed aktu\u00e1ln\u00edho u\u017eivatele na t\u00e9to str\u00e1nce"
+        }
+    }
+}

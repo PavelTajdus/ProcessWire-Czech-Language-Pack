@@ -1,1 +1,27 @@
-{"file":"wire\/modules\/Fieldtype\/FieldtypeComments\/CommentList.php","textdomain":"wire--modules--fieldtype--fieldtypecomments--commentlist-php","translations":{"8413c683b4b27cc3f4dbd4c90329d8ba":{"text":"Koment\u00e1\u0159e"},"5f3d086ce8bea5dbf6cc6335a5394c24":{"text":"Odeslal {cite} dne {created}"},"4f7ba099c8cd7a8301cf1a8e81cb5e3c":{"text":"d.m.Y G:i"}}}
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentList.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentlist-php",
+    "translations": {
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Koment\u00e1\u0159e"
+        },
+        "4f7ba099c8cd7a8301cf1a8e81cb5e3c": {
+            "text": "d.m.Y G:i"
+        },
+        "6f207f8b5dfe1eebac63467930df5189": {
+            "text": "="
+        },
+        "25d8df6e580905091a0d5ef5b9e05bf0": {
+            "text": "Odpov\u011bd\u011bt"
+        },
+        "8725214cdd9f9af24e914b5da135793d": {
+            "text": "Trval\u00fd odkaz"
+        },
+        "6194a6554ccb6086b8809d2b3a5dddaf": {
+            "text": "L\u00edb\u00ed se mi koment\u00e1\u0159"
+        },
+        "c7e01d04a86dacfbef51bb8cd79ae5eb": {
+            "text": "Nel\u00edb\u00ed se mi koment\u00e1\u0159"
+        }
+    }
+}

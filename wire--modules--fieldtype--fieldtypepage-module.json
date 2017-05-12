@@ -14,9 +14,6 @@
         "94a53712b9a34f922a776fc5aa68d31f": {
             "text": "Jedna str\u00e1nka (Page) nebo pr\u00e1zdn\u00e1 str\u00e1nka (NullPage), pokud nen\u00ed vybr\u00e1na \u017e\u00e1dn\u00e1"
         },
-        "d1d7182c9905811b10bcd1f5bdcb9eda": {
-            "text": "Dereference v API jako"
-        },
         "7d5f7f76b51ac880e91da28dbc52df35": {
             "text": "Povolit nepublikovan\u00e9 str\u00e1nky?"
         },
@@ -34,6 +31,27 @@
         },
         "f7e35a334f1501cc0365458563f90cf5": {
             "text": "Toto odstran\u00ed probl\u00e9m ve star\u0161\u00edch verz\u00edch ProcessWire, kter\u00e9 mohly zanechat neplatn\u00e9 reference str\u00e1nek pro odstran\u011bn\u00e9 str\u00e1nky. Pokud dost\u00e1v\u00e1te nep\u0159esn\u00e9 v\u00fdsledky z vyhled\u00e1vac\u00edch operac\u00ed str\u00e1nek (zejm\u00e9na u selektor\u016f pou\u017e\u00edvaj\u00edc\u00edch pageref.count), pak tuto funkci spus\u0165te."
+        },
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Po\u010det"
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Nepoda\u0159ilo se naj\u00edt str\u00e1nku"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "Nepoda\u0159ilo se naj\u00edt \u0161ablonu"
+        },
+        "b163d440906ff7e0a02262fb1406e123": {
+            "text": "Typ hodnoty pro pole Str\u00e1nka"
+        },
+        "be288f506d4d5100260d915b396a83be": {
+            "text": "P\u0159\u00edklady pou\u017eit\u00ed v API"
+        },
+        "c563103ae743ad1643e5f3e49a2c89d5": {
+            "text": "Stejn\u00e9 jako v\u00fd\u0161e uveden\u00e9, jen s jinou syntax\u00ed"
+        },
+        "0a7cd2620545065d49a8ca58f5fc0b28": {
+            "text": "V\u00edce informac\u00ed o metod\u011b %s."
         }
     }
 }

@@ -1,0 +1,159 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "cb2d417d536ac6b6d8668d272b28ca47": {
+            "text": "Repeater pole \"%s\" m\u00e1 nastavenu \"vy\u017eadov\u00e1no pouze pokud\" z\u00e1vislost, a ta nen\u00ed podporov\u00e1na v Repeaterech."
+        },
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "P\u0159idejte pros\u00edm pole do tohoto Repeateru ze z\u00e1lo\u017eky \"detaily\"."
+        },
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "Nastavte pole, kter\u00e1 budou pou\u017eita t\u00edmto repeaterem. M\u016f\u017eete tak\u00e9 p\u0159esouvat polo\u017eky do po\u017eadovan\u00e9ho po\u0159ad\u00ed."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "P\u0159idat pole"
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "Popisky pol\u00ed repeateru"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Zadejte n\u00e1zev pole pro pou\u017eit\u00ed jako popisek, nebo nechte pr\u00e1zdn\u00e9 pro automatick\u00e9 generov\u00e1n\u00ed."
+        },
+        "699a4d80b29a2b87e8bea7946afebe8e": {
+            "text": "Pro pou\u017eit\u00ed v\u00edce pol\u00ed, nebo pro zad\u00e1n\u00ed vlastn\u00edho form\u00e1tovac\u00edho \u0159et\u011bzce vlo\u017ete n\u00e1zev pole do {z\u00e1vorek}."
+        },
+        "c5e90fa5edbe00c619ca4d69c3692627": {
+            "text": "Pro vlo\u017een\u00ed \u010d\u00edslov\u00e1n\u00ed ke ka\u017ed\u00e9mu popisku vlo\u017ete znak \"#n\" n\u011bkam do \u0159et\u011bzce."
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "P\u0159\u00edklad #n: {title}"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "Popisek tla\u010d\u00edtka pro vkl\u00e1d\u00e1n\u00ed nov\u00fdch polo\u017eek"
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "Zadejte popisek, kter\u00fd chcete pou\u017e\u00edvat jako tla\u010d\u00edtko \"P\u0159idej novou polo\u017eku\". Nebo nechte pr\u00e1zdn\u00e9 pro v\u00fdchoz\u00ed hodnoty."
+        },
+        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
+            "text": "Viditelnost polo\u017eky repeateru v editoru"
+        },
+        "e420623b25fa348e2155e3e2bdbf5620": {
+            "text": "Polo\u017eky repeateru mohou b\u00fdt otev\u0159en\u00e9, nebo sbalen\u00e9 (vy\u017eaduje kliknut\u00ed pro otev\u0159en\u00ed). Sbalen\u00e9 polo\u017eky jsou vhodn\u011bj\u0161\u00ed pro t\u0159\u00edd\u011bn\u00ed a p\u0159ehled."
+        },
+        "c2d450307945339defec74620dd295d2": {
+            "text": "Nov\u00e9 polo\u017eky otev\u0159en\u00e9, vypln\u011bn\u00e9 polo\u017eky sbalen\u00e9 (doporu\u010deno pro v\u011bt\u0161inu p\u0159\u00edpad\u016f)"
+        },
+        "0905199ed34fceff86e31adf81cbc702": {
+            "text": "Polo\u017eky v\u017edy otev\u0159en\u00e9 (vypne dynamick\u00e9 na\u010d\u00edt\u00e1n\u00ed pro existuj\u00edc\u00ed polo\u017eky)"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "Polo\u017eky v\u017edy sbalen\u00e9"
+        },
+        "1c1fc75d282666eeffc288a4d82594ba": {
+            "text": "Dynamick\u00e9 na\u010d\u00edt\u00e1n\u00ed repeateru (AJAX) v editoru"
+        },
+        "78385cca5a362b333c60753b2fcf6e40": {
+            "text": "Kter\u00e9 polo\u017eky maj\u00ed b\u00fdt v editoru dynamicky na\u010dteny AJAXem? Pokud zjist\u00edte, \u017ee repeater pou\u017e\u00edv\u00e1 pole, kter\u00e9 tuto funk\u010dnost nepodporuje, bude mo\u017en\u00e1 nutn\u00e9 tuto funkcionalitu vypnout."
+        },
+        "18e57decad6ecfd57b1231426deb7f2d": {
+            "text": "Existuj\u00edc\u00ed a nov\u00e9 polo\u017eky (doporu\u010deno, zvl\u00e1\u0161t\u011b pro repeatery, kter\u00e9 maj\u00ed MNOHO polo\u017eek)"
+        },
+        "e8b8b3345ab0076aaef6c21cd7ca5b79": {
+            "text": "Pouze nov\u00e9 polo\u017eky (dobr\u00e9 pro repeatery, kter\u00e9 maj\u00ed p\u00e1r polo\u017eek)"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Vypnuto"
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "Pamatovat si kter\u00e9 polo\u017eky repeateru jsou oteven\u00e9?"
+        },
+        "031e3292fe279734b454896226066dfc": {
+            "text": "Pokud je za\u0161krtnuto, otev\u0159en\u00e9 polo\u017eky repeateru z\u016fstanou otev\u0159en\u00e9 i po ulo\u017een\u00ed str\u00e1nky, nebo p\u0159i znovuna\u010dten\u00ed (dokud je sami nesbal\u00edte)."
+        },
+        "65f6a551619120fdc79329b66ab6c1fd": {
+            "text": "Vymazat star\u00e9\/nepou\u017e\u00edvan\u00e9 polo\u017eky repeateru?"
+        },
+        "9c539ab2317d7056d5d664b083557796": {
+            "text": "Nalezeno %d star\u00fdch\/nepou\u017e\u00edvan\u00fdch polo\u017eek repeateru, za\u0161krtn\u011bte pro smaz\u00e1n\u00ed t\u011bchto polo\u017eek."
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Polo\u017eka repeateru je vyhodnocena jako star\u00e1, pokud nebyla za posledn\u00ed 3 dny zavol\u00e1na (p\u0159es API) nebo zobrazena."
+        },
+        "06f7e37d7cc093483d98d11772f75837": {
+            "text": "Maxim\u00e1ln\u00ed po\u010det polo\u017eek repeateru"
+        },
+        "9175b33ed3085ade32188d58a242e0bc": {
+            "text": "Maxim\u00e1ln\u00ed povolen\u00fd po\u010det, kter\u00e9 jsou v tomto repeateru povoleny."
+        },
+        "8db1e9fd86969c9e9ee4c09365c260a6": {
+            "text": "Pokud nastav\u00edte 0, nebude aplikov\u00e1n \u017e\u00e1dn\u00fd limit."
+        },
+        "f29a8c723be64c58c0e9f4cbd6c32a88": {
+            "text": "Pokud nastav\u00edte 1, toto pole se bude chovat jako jedno polo\u017ekov\u00e1 [Page] sp\u00ed\u0161e ne\u017e [PageArray]."
+        },
+        "66eb0d45c43394f51bdb0397febc5b4f": {
+            "text": "V\u0161imn\u011bte si, \u017ee kdy\u017e je volba form\u00e1tov\u00e1n\u00ed v\u00fdstupu (outputFormatting) vypnut\u00e1, bude se v\u00fdstup v\u017edy chovat jako pole (PageArray) nez\u00e1visle na tomto nastaven\u00ed."
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Typ repeateru"
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "Pokud je repeater \"p\u0159ipojen\u00fd\", bude spravovat svou vlastn\u00ed \u0161ablonu a nad\u0159azenou str\u00e1nku, ani\u017e byste to museli vid\u011bt nebo o tom p\u0159em\u00fd\u0161let."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "Pokud je repeater \"odpojen\u00fd\", m\u016f\u017eete p\u0159esouvat a upravovat rodi\u010dovskou str\u00e1nku a \u0161ablonu jak se v\u00e1m zl\u00edb\u00ed."
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "V\u0161imn\u011bte si, \u017ee jakmile je jednou \"odpojen\u00fd\", ProcessWire neodstran\u00ed rodi\u010dovskou str\u00e1nku nebo \u0161ablonu, pokud bude toto pole odstran\u011bno."
+        },
+        "1f8c0e21410e1c136bf780fc141b35ae": {
+            "text": "P\u0159id\u00e1no pole \"%1$s\" do repeateru \"%2$s\""
+        },
+        "f54c2540ded6390c6328b2838850482d": {
+            "text": "Odstran\u011bno pole \"%1$s\" z repeateru \"%2$s\""
+        },
+        "27dafd7f7794d09bc001fc0acac8e1ad": {
+            "text": "Vymaz\u00e1no %d star\u00fdch\/nepou\u017eit\u00fdch pol\u00ed repeateru"
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "Rodi\u010dovsk\u00e1 str\u00e1nka %s je nyn\u00ed odpojena, a m\u016f\u017ee b\u00fdt p\u0159esunuta nebo upravena."
+        },
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "Pole Repeateru"
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Pou\u017e\u00edt m\u00f3d Akorde\u00f3n?"
+        },
+        "d608f61f5c7a0e2b84a3ae252a596a48": {
+            "text": "Pokud je vybr\u00e1no, bude otev\u0159ena pouze jedna polo\u017eka repeateru (opakova\u010de)."
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "Maxim\u00e1ln\u00ed po\u010det polo\u017eek"
+        },
+        "528f529d4617eb805a332c782f8666fe": {
+            "text": "Pokud pot\u0159ebujete omezit po\u010det polo\u017eek, zadejte sem v\u00e1\u0161 limit (0 = \u017e\u00e1dn\u00fd limit)."
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "Minim\u00e1ln\u00ed po\u010det polo\u017eek"
+        },
+        "d167f14d9682362265c133aca323b335": {
+            "text": "Tento po\u010det polo\u017eek bude v\u017edy otev\u0159en\u00fd a p\u0159ipraven\u00fd k \u00faprav\u00e1m (0 = \u017e\u00e1dn\u00e9 minimum)."
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "Zano\u0159en\u00ed polo\u017eek"
+        },
+        "e316c9556c1be5b536576ce4b27d0575": {
+            "text": "Pro podporu zano\u0159en\u00fdch polo\u017eek zadejte maxim\u00e1ln\u00ed povolenou hloubku zano\u0159en\u00ed, nebo nechte pr\u00e1zdn\u00e9 pro vypnut\u00ed t\u00e9to funkce."
+        },
+        "ea3a2c41fc47d9150f65147b030a3ad8": {
+            "text": "P\u0159i \u00faprav\u011b repeateru (opakova\u010de) m\u016f\u017eete m\u011bnit hloubku zano\u0159en\u00ed p\u0159esouv\u00e1n\u00edm polo\u017eky repeateru vpravo nebo vlevo."
+        },
+        "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
+            "text": "Zano\u0159en\u00ed za\u010d\u00edn\u00e1 nulou. \u010cili hloubka zano\u0159en\u00ed 3 dovol\u00ed hloubku 0, 1, 2 a 3."
+        },
+        "8b3964c39c4eb2db458965c40689f5a0": {
+            "text": "Hloubka zano\u0159en\u00ed je dostupn\u00e1 z polo\u017eky repeateru na str\u00e1nce p\u0159es $item->depth."
+        }
+    }
+}

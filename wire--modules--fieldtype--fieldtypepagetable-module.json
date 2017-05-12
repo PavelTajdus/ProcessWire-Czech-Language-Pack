@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
+    "translations": {
+        "56d29e2358c489ca2ba085412d22b543": {
+            "text": "Vyberte jednu nebo v\u00edce mo\u017enosti pro polo\u017eky"
+        },
+        "23eb7651d596fbeec11e64a6c67925d9": {
+            "text": "Toto jsou \u0161ablony, kter\u00e9 budou pou\u017eity str\u00e1nkami, kter\u00e9 nastav\u00edte z tohoto pole. Mo\u017en\u00e1 budete cht\u00edt vytvo\u0159it novou \u0161ablonu speci\u00e1ln\u011b pro pot\u0159eby tohoto pole."
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "Klikn\u011bte na Ulo\u017eit po v\u00fdb\u011bru \u0161ablony. Zobraz\u00ed se tak dal\u0161\u00ed mo\u017enosti konfigurace na z\u00e1lo\u017ece Vstup."
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "Vyberte rodi\u010de pro polo\u017eky"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "V\u0161echny polo\u017eky vytvo\u0159en\u00e9 a ovl\u00e1dan\u00e9 z tohoto pole z\u016fstanou pod vybran\u00fdm rodi\u010dem."
+        },
+        "5243227b5f4a58e7cc1be6b30f4bbce8": {
+            "text": "Pokud nen\u00ed vybran\u00fd rodi\u010d, pak budou polo\u017eky um\u00edst\u011bny jako potomci editovan\u00e9 str\u00e1nky."
+        },
+        "fcb2facea33821286bfd4cad3f7ac76d": {
+            "text": "P\u0159esunout polo\u017eky do ko\u0161e, pokud je str\u00e1nka smaz\u00e1na?"
+        },
+        "08f53f44f5a22058682ec7c305c2f37b": {
+            "text": "Pokud je za\u0161krtnuto, polo\u017eky vytvo\u0159en\u00e9\/spravovan\u00e9 str\u00e1nkou budou automatiky p\u0159esunuty do ko\u0161e jakmile bude tato str\u00e1nka smaz\u00e1na. Pokud nen\u00ed za\u0161krtnuto, polo\u017eky z\u016fstanou pod rodi\u010dem vybran\u00fdm n\u00ed\u017ee."
+        },
+        "276fe80c8306b8f1211c933c5b0789dd": {
+            "text": "Tato mo\u017enost plat\u00ed pouze pokud jste v\u00fd\u0161e vybrali rodi\u010de."
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Chov\u00e1n\u00ed str\u00e1nky"
+        },
+        "f80a4ad87fee7c9fdc19b7769495fdb5": {
+            "text": "Nic"
+        },
+        "4cfd1fcdeecdd1e6acb46393d787316c": {
+            "text": "P\u0159esunout do ko\u0161e"
+        },
+        "6ac9a034dc3a8b4cf5a3902d2b7755d4": {
+            "text": "Odstranit"
+        },
+        "eb2f5e1930872f2aed78a2ffca4af260": {
+            "text": "Zneve\u0159ejnit"
+        },
+        "8840e48a3c2b71738f5a52d5ae1e084f": {
+            "text": "Skr\u00fdt"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Odstranit"
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "Co se m\u00e1 st\u00e1t \"%s\" polo\u017ek\u00e1m, kdy\u017e bude str\u00e1nka trvale odstran\u011bna?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Ko\u0161"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "Co se m\u00e1 st\u00e1t \"%s\" polo\u017ek\u00e1m, kdy\u017e bude str\u00e1nka p\u0159esunuta do ko\u0161e?"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "Zneve\u0159ejnit"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "Co se m\u00e1 st\u00e1t \"%s\" polo\u017ek\u00e1m, kdy\u017e bude str\u00e1nka zneve\u0159ejn\u011bna?"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "\u0158adit pole"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Zadejte n\u00e1zev pole, podle kter\u00e9ho chcete tabulku se\u0159adit. Pro sestupn\u00e9 \u0159azen\u00ed zadejte p\u0159ed n\u00e1zev pole m\u00ednus, nap\u0159\u00edklad \"-date\"."
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "M\u016f\u017eete vybrat v\u00edce pol\u00ed pro \u0159azen\u00ed, a odd\u011blit je \u010d\u00e1rkou. Nap\u0159\u00edklad \"jmeno, prijmeni , -datum_narozeni\"."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "Ponechte pr\u00e1zdn\u00e9 pro manu\u00e1ln\u00ed drag-and-drop \u0159azen\u00ed (v\u00fdchoz\u00ed)."
+        }
+    }
+}

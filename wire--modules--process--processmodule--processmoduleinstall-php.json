@@ -1,0 +1,57 @@
+{
+    "file": "wire\/modules\/Process\/ProcessModule\/ProcessModuleInstall.php",
+    "textdomain": "wire--modules--process--processmodule--processmoduleinstall-php",
+    "translations": {
+        "ccb108ad977122d69f8bbc7758997ff2": {
+            "text": "Ujist\u011bte se, \u017ee PHP m\u016f\u017ee zapisovat do adres\u00e1\u0159e \/site\/assets\/cache\/."
+        },
+        "cfe1ee62b0efc597562d0b78c5196d47": {
+            "text": "Ujist\u011bte se, \u017ee PHP m\u016f\u017ee zapisovat do adres\u00e1\u0159e pro moduly str\u00e1nek (\/site\/modules\/)."
+        },
+        "34484ec9b680d2670f6c0d0a6ea5cb5a": {
+            "text": "T\u0159\u00edda ZipArchive je vy\u017eadov\u00e1na ale va\u0161e PHP nevypad\u00e1, \u017ee by ji m\u011blo."
+        },
+        "af32834e6517e929e3993eb018b46ac0": {
+            "text": "Nelze naj\u00edt \u017e\u00e1dn\u00e9 soubory modul\u016f"
+        },
+        "2a3cd9a18eaf3b274b4fa40068fff003": {
+            "text": "Soubory byly \u00fasp\u011b\u0161n\u011b zkop\u00edrov\u00e1ny do nov\u00e9ho adres\u00e1\u0159e:"
+        },
+        "5bb84f541cde4c248e5f6f58ae92c49e": {
+            "text": "Nelze kop\u00edrovat soubory do nov\u00e9ho adres\u00e1\u0159e:"
+        },
+        "5a3527463defe3c1e1ab721c4942f331": {
+            "text": "Adres\u00e1\u0159 nelze vytvo\u0159it:"
+        },
+        "a7e401f040fc37065b5d7a8b01e5a592": {
+            "text": "Soubory modulu nelze kop\u00edrovat:"
+        },
+        "82d70ccfc2a2e0bb66507a3f90c4690e": {
+            "text": "Nelze odstranit slo\u017eku po\u0161kozen\u00e9ho modulu:"
+        },
+        "04abd66e622f247f079329fcbc51b97c": {
+            "text": "M\u011bjte na pam\u011bti, \u017ee %s byl symbolick\u00fd odkaz a byl p\u0159eveden na b\u011b\u017en\u00fd adres\u00e1\u0159"
+        },
+        "0e30f791217cbeee87323db58731e58f": {
+            "text": "Z\u00e1lohov\u00e1n st\u00e1vaj\u00edc\u00ed %s"
+        },
+        "34e8dc0a73d373618c591be38800cd3c": {
+            "text": "Obnovena z\u00e1loha %s"
+        },
+        "21b1483780050057a84adbf35ec57c05": {
+            "text": "Nelze dokon\u010dit nahr\u00e1v\u00e1n\u00ed"
+        },
+        "e7df9a3e1460bdfcaabe5b2e451a6594": {
+            "text": "Nebyly nalezeny \u017e\u00e1dn\u00e9 nahran\u00e9 soubory"
+        },
+        "c8e5b4f1bb72c62949a522f6925e80c8": {
+            "text": "Nelze dokon\u010dit stahov\u00e1n\u00ed"
+        },
+        "a4e29333ef852fef776eecdb5b3ac6a1": {
+            "text": "Byla zad\u00e1na neplatn\u00e1 adresa URL pro sta\u017een\u00ed"
+        },
+        "e830879e542fd52ca82f599ce41b6668": {
+            "text": "Sta\u017een\u00fd soubor ZIP: %s (%d bytes)"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRecentPages\/ProcessRecentPages.module",
+    "textdomain": "wire--modules--process--processrecentpages--processrecentpages-module",
+    "translations": {
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Upraveno"
+        },
+        "fda27fd4e8f31d46c37d6ebb661d4975": {
+            "text": "\u017d\u00e1dn\u00e9 str\u00e1nky neodpov\u00eddaj\u00ed (zat\u00edm)"
+        },
+        "0f1af93a396987467471642622b4f372": {
+            "text": "Tato funkce vy\u017eaduje povolen\u00ed page-lister"
+        },
+        "0cd816a2b17a6fd85120a4ffc417ef52": {
+            "text": "Posledn\u00ed str\u00e1nky"
+        },
+        "e8ec3c5a66a1458617d385c211485937": {
+            "text": "Str\u00e1nky ned\u00e1vno vytvo\u0159en\u00e9 u\u017eivatelem %s"
+        },
+        "6164ab6f0d40bf0dbb4d016d70f22451": {
+            "text": "Ned\u00e1vno vytvo\u0159en\u00e9 str\u00e1nky"
+        },
+        "0fa9b1da7af6dc7c17300d2696d4e840": {
+            "text": "Str\u00e1nky ned\u00e1vno editovan\u00e9 u\u017eivatelem %s"
+        },
+        "727d0685214d2e29837bf220bd336876": {
+            "text": "Ned\u00e1vno upraven\u00e9 str\u00e1nky"
+        },
+        "0d52952360bedad458af277a8f2aeb1e": {
+            "text": "v %s"
+        },
+        "854a4e1057837e016fa0fd26de810760": {
+            "text": "P\u0159idat dal\u0161\u00ed"
+        },
+        "587e304d5de9c56ac7833cb11fbbbcf9": {
+            "text": "Klepnut\u00edm na kteroukoli polo\u017eku p\u0159id\u00e1te dal\u0161\u00ed polo\u017eku stejn\u00e9ho typu"
+        },
+        "67ed6ddb7d890b23166c1bef771e9451": {
+            "text": "Upraveno"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Vytvo\u0159eno"
+        },
+        "2ff3c4fe971c877ac58d0d2ae6d21a1f": {
+            "text": "Upraveno mnou"
+        },
+        "1914dedd048465ec232e765349041af5": {
+            "text": "Vytvo\u0159eno mnou"
+        },
+        "47d881f2691b3fe7e1aa6ddd1d9362fa": {
+            "text": "Str\u00e1nka"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Rodi\u010d"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "\u0160ablona"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Vytvo\u0159eno"
+        },
+        "7a194bb4dc7991f70455c1068bc10d94": {
+            "text": "Naposledy vytvo\u0159eno"
+        }
+    }
+}

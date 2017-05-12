@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/Fields.php",
+    "textdomain": "wire--core--fields-php",
+    "translations": {
+        "e1658097cf747de4696d2515e2e8b9a0": {
+            "text": "vedle-sebe"
+        },
+        "68d1cb3da7a618bf1997d9d5149ae24a": {
+            "text": "jednoduchy-dotaz"
+        },
+        "0c6ba1befbcac7213ccc923d1ecf573a": {
+            "text": "Odstran\u011bna data pole \"%1$s\" v \u0159\u00e1dku (\u0159\u00e1dc\u00edch) %2$d ze str\u00e1nky (str\u00e1nek) %3$d ."
+        },
+        "b9e9528a32781ceaefec638ec3bfa62e": {
+            "text": "Chyba p\u0159i odstra\u0148ov\u00e1n\u00ed pole \"%1$s\" v \u0159\u00e1dku (\u0159\u00e1dc\u00edch) %2$d ze str\u00e1nky (str\u00e1nek) %3$d ."
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListActions.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistactions-php",
+    "translations": {
+        "9e2e4fbd398b11af3aabb1866bbb3e25": {
+            "text": "V demo re\u017eimu jsou akce zak\u00e1z\u00e1ny"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Zve\u0159ejn\u011bno"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Nastaveno jako neve\u0159ejn\u00e9"
+        },
+        "49db9a5bceddadc8512acb4b336c7464": {
+            "text": "Schov\u00e1no"
+        },
+        "02ac38291d7be8fb1f41d85c0a428d11": {
+            "text": "Zviditeln\u011bno"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Zamknuto"
+        },
+        "c76fd517e45cc95709f4ac106efa4a94": {
+            "text": "Odemknuto"
+        },
+        "e708704f405b4a6ec4d57cb147ea9b91": {
+            "text": "P\u0159esunuto do ko\u0161e"
+        },
+        "5de66daea41e791a26f6b495ad1fc3b0": {
+            "text": "Obnoveno do: %s (obnovte str\u00e1nku pro zobrazen\u00ed)"
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/Page\/PageFrontEdit\/PageFrontEditConfig.php",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefronteditconfig-php",
+    "translations": {
+        "2e3924cdf708580effa1682a30cc024c": {
+            "text": "P\u0159ed pou\u017eit\u00edm \u00faprav na u\u017eivatelsk\u00e9 \u010d\u00e1sti si pros\u00edm p\u0159e\u010dt\u011bte [n\u00e1pov\u011bdu pro \u00fapravy na u\u017eivatelsk\u00e9 \u010d\u00e1sti webu](%s)."
+        },
+        "728f08c6a5722017ce7fb9747da7bac3": {
+            "text": "Nastaven\u00ed \u0159\u00e1dkov\u00e9ho editoru"
+        },
+        "180efa8a9b1cfee25988715f7d673dbc": {
+            "text": "Mo\u017enost A: pole, kter\u00e1 lze upravit na u\u017eivatelsk\u00e9 \u010d\u00e1sti webu"
+        },
+        "97f5063cc7446aefa21ae4e7fb3cc146": {
+            "text": "Tyto textov\u00e1 pole budou upraviteln\u00e1 z u\u017eivatelsk\u00e9 \u010d\u00e1sti webu (front-end) p\u0159\u00edmo na str\u00e1nce. Sta\u010d\u00ed za\u0161krtnout, kter\u00e9 pole chcete m\u00edt editovateln\u00e9."
+        },
+        "d0526ac74110f73ee2926fd2d650c4a9": {
+            "text": "**Bu\u010fte opatrn\u00ed s t\u00edmto nastaven\u00edm.** Pokud zobrazujete hodnotu pole na v\u00edce ne\u017e jednom m\u00edst\u011b na str\u00e1nce, m\u011bli by jste pou\u017e\u00edt sp\u00ed\u0161e [Mo\u017enost B, C nebo D](https:\/\/processwire.com\/api\/modules\/front-end-editing\/)."
+        },
+        "78badcbc932189f3c876e9f2f55350cd": {
+            "text": "(nedoporu\u010duje se)"
+        },
+        "f16845125537677cf6b52cc53b2e1ee7": {
+            "text": "Mo\u017enost A: rozsah editoru"
+        },
+        "5fd733ebd21770ef2dff6a0382db2117": {
+            "text": "Pokud jsou v\u00fd\u0161e uveden\u00e1 pole zobrazena na webu, kde mohou b\u00fdt upraveny?"
+        },
+        "2fac3d64842df30df607c68da216acd7": {
+            "text": "Pole se daj\u00ed upravit pouze pokud jsou ze str\u00e1nky, kter\u00e1 je zobrazena (doporu\u010deno)"
+        },
+        "aa27ca4492b42802705a21889bb9a27e": {
+            "text": "Pole se daj\u00ed upravit bez ohledu na str\u00e1nku"
+        },
+        "8b0326c326b1dddbdc4bf7b3519c02f6": {
+            "text": "Tla\u010d\u00edtka Ulo\u017eit\/zru\u0161it"
+        },
+        "046d8235ad520c64afae23d7aaa4ffcc": {
+            "text": "Um\u00edst\u011bn\u00ed tla\u010d\u00edtek"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Automatick\u00e9"
+        },
+        "a4d0d101d6a34bf80ffeee601c3ff84a": {
+            "text": "Vlevo naho\u0159e"
+        },
+        "d3708546a929dfcf66eaeaba794486eb": {
+            "text": "Vpravo naho\u0159e"
+        },
+        "b67554192c50f4f6a4c1bd4797f6c3f8": {
+            "text": "Vlevo dole"
+        },
+        "5968e3c37145f57587afcba727d2b120": {
+            "text": "Vpravo dole"
+        },
+        "61a4338583e41efc9ecde01cc622f21c": {
+            "text": "Typy tla\u010d\u00edtek"
+        },
+        "de39b6da18c671eec0524a2bfc0da0c2": {
+            "text": "Automatick\u00e9 (ikony a text pro desktop, ikony pro dotykov\u00e1 za\u0159\u00edzen\u00ed)"
+        },
+        "fb8bc05d9bb7a27307aff0d799f995fd": {
+            "text": "Ikony a text"
+        },
+        "e01d2e7e85c1522149ddd1abead1167f": {
+            "text": "Pouze text"
+        },
+        "bf1079a9cc453b4caaa03e1b4d3c41d7": {
+            "text": "Pouze ikony"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "V\u00edce"
+        },
+        "fdf8ef9fa133d1852bef33c7c85144cb": {
+            "text": "Jsou r\u016fzn\u00e9 mo\u017enosti jak nastavit editaci na u\u017eivatelsk\u00e9 \u010d\u00e1sti webu pro toto pole. Jakoukoliv mo\u017enost zvol\u00edte, v\u017edy budou m\u00edt mo\u017enost editace pouze ti u\u017eivatel\u00e9, kte\u0159\u00ed maj\u00ed p\u0159\u00edslu\u0161n\u00e9 pr\u00e1va ke str\u00e1nce a k poli."
+        },
+        "4cb305eca1333573edc880819fc7c977": {
+            "text": "Po\u017eadovan\u00e9 opr\u00e1vn\u011bn\u00ed jsou [page-edit](%s) a [page-edit-front](%s)."
+        },
+        "5e7f95d663a3711b9965a6fa8707ef6f": {
+            "text": "Pokud je pole editovateln\u00e9, p\u0159i najet\u00ed my\u0161\u00ed na toto pole se zobraz\u00ed kurzor s \u0161ipkou a ikonou kontextov\u00e9 nab\u00eddky m\u00edsto b\u011b\u017en\u00e9ho kurzoru. Pro \u00fapravu pole na n\u011bj mus\u00edte **kliknout dvojklikem**."
+        },
+        "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
+            "text": "Pro toto pole nen\u00ed tato mo\u017enost podporov\u00e1na."
+        },
+        "5f858c76077c44036b1442243b30ac34": {
+            "text": "Mo\u017enost A: Automatick\u00e1 editace"
+        },
+        "88dad1b60aca7105bd5e7e185fa221ec": {
+            "text": "Pokud je hodnota pole (v k\u00f3du) vr\u00e1cena prom\u011bnnou $page, bude automaticky editovateln\u00e1 bez nutnosti jakkoliv upravovat k\u00f3d. Ov\u0161em za p\u0159edpokladu, \u017ee u\u017eivatel m\u00e1 p\u0159\u00edslu\u0161n\u00e1 pr\u00e1va pro editaci tohoto pole."
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Nastavit"
+        },
+        "c214147662040e46e52c3cd0006a1122": {
+            "text": "Pro toto pole je tato mo\u017enost aktu\u00e1ln\u011b POVOLENA."
+        },
+        "c4755719068ffa0049bab373cee32aef": {
+            "text": "Mo\u017enost B: Vol\u00e1ni p\u0159es API"
+        },
+        "b4da834069eb28c98cdf74c0dd7179d3": {
+            "text": "Pro generov\u00e1n\u00ed prom\u011bnn\u00fdch v k\u00f3du pou\u017eijte rad\u011bji $page->edit(\"%s\"); ne\u017e jen $page->%s;"
+        },
+        "a88ea479a9d66a019262dbfd5b4879b7": {
+            "text": "Kter\u00e1koliv z n\u00e1sleduj\u00edc\u00edch mo\u017enost\u00ed syntaxe je podporov\u00e1na (vyberte si jeden zp\u016fsob z\u00e1pisu). \"1001\" m\u016f\u017ee b\u00fdt ID kter\u00e9koliv str\u00e1nky nebo cesty a \"...\" m\u016f\u017ee b\u00fdt jak\u00fdkoliv k\u00f3d. Typicky tam, kde chcete zobrazit hodnotu pole."
+        },
+        "48f403566075715027bd7fc9e1902cbc": {
+            "text": "Mo\u017enost C: P\u0159idejte HTML tagy \"edit\" pro vytvo\u0159en\u00ed editovateln\u00e9ho bloku."
+        },
+        "ee885b8843c6c111129d0eaca536bbbe": {
+            "text": "Mo\u017enost D: P\u0159idejte HTML atributy \"edit\" do existuj\u00edc\u00edho k\u00f3du, pro vytvo\u0159en\u00ed editovateln\u00e9ho bloku."
+        },
+        "0e060a7eca98daf0e3c2e5280319e907": {
+            "text": "Div tag zobrazen\u00fd n\u00ed\u017ee m\u016f\u017ee b\u00fdt jak\u00fdkoliv existuj\u00edc\u00ed HTML tag, kter\u00fd obklopuje v\u00e1\u0161 editovateln\u00fd blok."
+        },
+        "5c23fae6f3e37e699b6663a4fa6dbf08": {
+            "text": "V\u0161imn\u011bte si, \u017ee p\u0159i pou\u017eit\u00ed atributu \"edit\" je v\u017edy pou\u017eito Modal vyskakovac\u00ed okno. V\u0161echny ostatn\u00ed mo\u017enosti budou pou\u017e\u00edvat \u0159\u00e1dkov\u00fd editor (pokud je podporov\u00e1n)."
+        }
+    }
+}

@@ -34,6 +34,27 @@
         },
         "71c7ae294b7abd866b3fb295b3b9e4a4": {
             "text": "Sezen\u00ed (Session)"
+        },
+        "554c5efaf6a3411ec0c56132825ce0f1": {
+            "text": "%d modul\u016f na\u010dteno"
+        },
+        "5e9171024adf23f0e7e7f298f251a935": {
+            "text": "%d nebyl na\u010dten"
+        },
+        "92dd35cc61ffc41d02defdcef071856d": {
+            "text": "\u010casova\u010de (Timers)"
+        },
+        "ab0cf104f39708eabd07b8cb67e149ba": {
+            "text": "Mezipam\u011bt (Cache)"
+        },
+        "35ad48797a780091740cbcf14ebc094d": {
+            "text": "H\u00e1\u010dky (hooks)"
+        },
+        "3d7ce213fb1c2bec707c0fac7b1999e2": {
+            "text": "Automatick\u00e9 nahr\u00e1n\u00ed (autoload)"
+        },
+        "38dee61bfa5e86e18c76e272c4c830fa": {
+            "text": "Nenech\u00e1vejte zapnut\u00fd re\u017eim lad\u011bn\u00ed v produk\u010dn\u00edm prost\u0159ed\u00ed (zkontrolujte $config->debug v souboru \/site\/config.php)."
         }
     }
 }

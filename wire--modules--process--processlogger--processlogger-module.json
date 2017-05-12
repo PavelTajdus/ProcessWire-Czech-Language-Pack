@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogger\/ProcessLogger.module",
+    "textdomain": "wire--modules--process--processlogger--processlogger-module",
+    "translations": {
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Jm\u00e9no"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Upraveno"
+        },
+        "a422bfafc484bafeef9ccbfeb175c216": {
+            "text": "Vytvo\u0159te nebo p\u0159idejte soubor logu z API:"
+        },
+        "872e46a716d24989bf3199d28e4ae86e": {
+            "text": "Vymaz\u00e1n log: %s"
+        },
+        "f33458f02cd71a8319c79c2f4d89c947": {
+            "text": "Pro\u010di\u0161t\u011bn \"%s\" soubor (nyn\u00ed obsahuje %d z\u00e1znam(\u016f) )."
+        },
+        "02bb48ec8c3eb6796671313f290e943d": {
+            "text": "Nov\u00fd z\u00e1pis ulo\u017een do logu \"%s\""
+        },
+        "4ad21358c22f2457f4a4c6495c68ddf6": {
+            "text": "Text z\u00e1pisu logu byl pr\u00e1zdn\u00fd"
+        },
+        "58840cc813684ae1c5cb61d83a4c974f": {
+            "text": "Pomocn\u00edci"
+        },
+        "dc770a451931e3eb28348451a1ef9896": {
+            "text": "Vyhledat text"
+        },
+        "4777bbe3c06c7939e97101b4589ba1eb": {
+            "text": "Datum od"
+        },
+        "d24e4fa285c1eab355817ed6c38ec1bd": {
+            "text": "Datum do"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Akce"
+        },
+        "de36914cd9d030bca299ef13e59e81fc": {
+            "text": "N\u00ed\u017ee vyberte akci. P\u0159edt\u00edm ne\u017e bude akce vykon\u00e1na, budete po\u017e\u00e1d\u00e1ni o kliknut\u00ed na tla\u010d\u00edtko."
+        },
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "Sta\u017een\u00ed"
+        },
+        "1c53c4bdef63da21f7d99ba3bc5999f9": {
+            "text": "P\u0159idat z\u00e1pis"
+        },
+        "02f9418b682bcf39e6426bc2981e2b8a": {
+            "text": "O\u0159ezat"
+        },
+        "d7e4a58b047e3d80c673e8689567c66b": {
+            "text": "Vymazat"
+        },
+        "346d021dc6749fe81c1f0faee3a38831": {
+            "text": "O\u0159ezat na # dn\u00ed"
+        },
+        "6ae864586a6fe2c99b1501c4c20e2e38": {
+            "text": "Zmen\u0161\u00ed velikost logu tak, aby obsahoval pouze z\u00e1pisy za posledn\u00edch [n] dn\u00ed."
+        },
+        "83f5d3fdcb74c638ae403fae1637a1fc": {
+            "text": "Nov\u00fd z\u00e1pis v logu"
+        },
+        "c397f5454fbbd15045aaacf88b43888e": {
+            "text": "O\u0159ezat tento log"
+        },
+        "9ac3ee6fa6d85d02c8d53149a96a0bcd": {
+            "text": "Smazat tento log"
+        },
+        "504e5b0396525461611c2daa17c1a420": {
+            "text": "P\u0159idat tento z\u00e1pis do logu"
+        },
+        "85b023a5435c54612ef3316cbc37a660": {
+            "text": "St\u00e1hnout tento log"
+        },
+        "5157e3c765af93679ea07052f30f0a6e": {
+            "text": "aktu\u00e1ln\u00ed"
+        },
+        "1058f3258b7dca7c4693166c425b968d": {
+            "text": "\u017d\u00e1dn\u00e9 z\u00e1znamy logu neodpov\u00eddaj\u00ed"
+        },
+        "b2d37ae1cedf42ff874289b721860af2": {
+            "text": "Logy"
+        },
+        "527b296f2533d0e979933116081467a8": {
+            "text": "Zobrazen\u00ed a spr\u00e1va syst\u00e9mov\u00fdch log\u016f."
+        },
+        "922e48e67eab1e2b2673f5d44a6fbafd": {
+            "text": "Z\u00e1znamy"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Velikost"
+        },
+        "4c35d99800510d64691a870b65d277f4": {
+            "text": "Datum\/\u010cas"
+        },
+        "88cfe14e9a1a3300a1f5ef50f73a648b": {
+            "text": "U\u017eivatel"
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "="
+        },
+        "9f3af3dbda7832b613a27b731cc3ca02": {
+            "text": "="
+        },
+        "bd350ab4ad8284276668d82be6b20b52": {
+            "text": "="
+        },
+        "712684fe92736fe32b1c2eb87d2360c7": {
+            "text": "%d log\u016f"
+        },
+        "064a2c9034205289d020252829c41052": {
+            "text": "Jeden nov\u00fd z\u00e1pis v logu na stran\u011b 1"
+        },
+        "b9dc13817999fcd3ea5967c020b5c043": {
+            "text": "N\u011bkolik nov\u00fdch z\u00e1pis\u016f v logu na stran\u011b 1"
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "file": "wire\/modules\/Process\/ProcessTemplate\/ProcessTemplateExportImport.php",
+    "textdomain": "wire--modules--process--processtemplate--processtemplateexportimport-php",
+    "translations": {
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "Jm\u00e9no"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "\u0160t\u00edtek"
+        },
+        "40e3819215b52841e19a7cac06b5f065": {
+            "text": "Upraveno"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "Nov\u00fd"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Exportovat"
+        },
+        "12c658575040446e9b2ffdfaaf7bc115": {
+            "text": "Importovat"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Ano"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Ne"
+        },
+        "adb6c5041788e54ab20e2a3ef58fbe6e": {
+            "text": "Vyberte \u0161ablony, kter\u00e9 chcete exportovat"
+        },
+        "60f5cde0d3f7fde81ba481a6a2ea2c49": {
+            "text": "POLE"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+Kliknut\u00edm provedete mnohon\u00e1sobn\u00fd v\u00fdb\u011br s posloupnost\u00ed. Ctrl+Kliknut\u00edm (nebo Cmd+Klepnut\u00edm) provedete mnohon\u00e1sobn\u00fd v\u00fdb\u011br individu\u00e1ln\u011b. Ctrl+A (nebo Cmd+A) vyberete v\u0161e."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Exportovat data"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Tyto \u00fadaje zkop\u00edrujte a vlo\u017ete do pole \"Import\" v dal\u0161\u00ed instalaci."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Klepnut\u00edm kdekoli v poli vyberte v\u0161echny exportn\u00ed \u00fadaje. Po v\u00fdb\u011bru zkop\u00edrujte data pomoc\u00ed kl\u00e1vesov\u00e9 zkratky CTRL+C nebo CMD+C."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Vlo\u017ete data z exportu."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Zkop\u00edrujte data exportu z jin\u00e9 instalace a vlo\u017ete je do v\u00fd\u0161e uveden\u00e9ho pole pomoc\u00ed kl\u00e1vesov\u00e9 zkratky CTRL+V nebo CMD+V."
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "N\u00e1hled"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Zm\u011bny"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Vlastnosti"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Star\u00e9 hodnoty"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Nov\u00e9 hodnoty"
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Neprob\u011bhly \u017e\u00e1dn\u00e9 zm\u011bny."
+        },
+        "10683c4dcfaf72824f906297f56bf7a5": {
+            "text": "Upravit tuto \u0161ablonu?"
+        },
+        "8ed3116cc653ca014c306d4750f6fdb4": {
+            "text": "Vytvo\u0159it tuto \u0161ablonu?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "klikn\u011bte na ano pro zobrazen\u00ed zm\u011bn"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "N\u011bkdy m\u016f\u017ee doj\u00edt k dv\u011bma zad\u00e1n\u00edm, ne\u017e budou provedeny v\u0161echny zm\u011bny. Prov\u011b\u0159te n\u00ed\u017ee uveden\u00e9 nevy\u0159\u00edzen\u00e9 zm\u011bny a podle pot\u0159eby je zadejte."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Prov\u011b\u0159te n\u00ed\u017ee uveden\u00e9 zm\u011bny a zadejte je jakmile budete p\u0159ipraveni. Pokud existuj\u00ed n\u011bjak\u00e9 zm\u011bny, kter\u00e9 nechcete pou\u017e\u00edt, zru\u0161te za\u0161krtnut\u00ed pol\u00ed\u010dek."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Prove\u010fte zm\u011bny"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Va\u0161e zm\u011bny byly provedeny!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Nebyly nalezeny \u017e\u00e1dn\u00e9 zm\u011bny"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Ulo\u017eeno:"
+        },
+        "9e8f440807ceee9139987ab8fc6af288": {
+            "text": "P\u0159id\u00e1no:"
+        },
+        "c5537dee88da6f333d20bfd49cfe1ce4": {
+            "text": "Upraveno:"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "="
+        },
+        "1de056630a16e4be557e090c25f5791e": {
+            "text": "%d ozn\u00e1men\u00ed"
+        },
+        "f96edcbe75239be800209c48ae9beb65": {
+            "text": "%d ozn\u00e1men\u00ed"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "Nalezeno %d vlastnost k pou\u017eit\u00ed."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "Nalezeno %d vlastnost\u00ed k pou\u017eit\u00ed."
+        },
+        "55c3a7525ed259e874a6d8f5e7e1b951": {
+            "text": "Upozorn\u011bn\u00ed v %d \u0161ablon\u011b"
+        },
+        "c444fb69a513bb955e7fc6d2743259c0": {
+            "text": "Upozorn\u011bn\u00ed v %d \u0161ablon\u00e1ch"
+        },
+        "941d6506a00bb692b6fef9cd4ae4b5e1": {
+            "text": "Nalezena %d nov\u00e1 \u0161ablona, kterou lze p\u0159idat"
+        },
+        "5788268970dc1d50bc88a88494487e11": {
+            "text": "Nalezeny %d nov\u00e9 \u0161ablony, kter\u00e9 lze p\u0159idat"
+        },
+        "6c0ca3ff5408385efd5418b46d06cd85": {
+            "text": "Nalezena %d existuj\u00edc\u00ed \u0161ablona k aktualizaci"
+        },
+        "b51b8d4de5d4fd2422af0fb2ad529875": {
+            "text": "Nalezeno %d existuj\u00edc\u00edch \u0161ablon k aktualizaci"
+        },
+        "9b64d9a70291ddd3f6c42edec1bb9866": {
+            "text": "P\u0159id\u00e1na %d polo\u017eka"
+        },
+        "0f1a6168f03f3ac45f46090fef3bf688": {
+            "text": "P\u0159id\u00e1no %d polo\u017eek"
+        },
+        "1992f81aea256b7d907c455b395d5ea4": {
+            "text": "Upravena %d polo\u017eka"
+        },
+        "91cfce0d08404cef27087ea2d7c9043a": {
+            "text": "Upraveno %d polo\u017eek"
+        },
+        "c95e1b7b8cdab666cefec077890996f5": {
+            "text": "P\u0159esko\u010dena %d polo\u017eka"
+        },
+        "fc9475948584941277524f1216bb18ff": {
+            "text": "P\u0159esko\u010deno %d polo\u017eek"
+        }
+    }
+}

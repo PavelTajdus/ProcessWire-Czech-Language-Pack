@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Z\u00e1lo\u017eky"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Upravit z\u00e1lo\u017eky"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "v\u0161e"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "V sou\u010dasn\u00e9 dob\u011b nejsou definov\u00e1ny \u017e\u00e1dn\u00e9 z\u00e1lo\u017eky"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "kdokoliv"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Z\u00e1lo\u017eky pro: %s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "%s editor z\u00e1lo\u017eek"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "V\u0161imn\u011bte si, \u017ee pouze superu\u017eivatel\u00e9 mohou vid\u011bt tento editor."
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "P\u0159idat z\u00e1lo\u017eku"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Klepnut\u00edm na akci \"p\u0159idat z\u00e1lo\u017eku\" vyberte str\u00e1nky, kter\u00e9 chcete p\u0159idat jako z\u00e1lo\u017eky. Chcete-li, aby se z\u00e1lo\u017eky zobrazovaly pouze pro ur\u010ditou roli u\u017eivatele, nejprve v\u00fd\u0161e vyberte roli."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Ulo\u017een\u00e9 z\u00e1lo\u017eky"
+        },
+        "e750f199f551e1b0b52dd0f5228da48d": {
+            "text": "Povolit pou\u017eit\u00ed z\u00e1lo\u017eek?"
+        },
+        "53b820d38e547eb253a74a242a29e16f": {
+            "text": "Z\u00e1lo\u017eky umo\u017e\u0148uj\u00ed z tohoto modulu vytv\u00e1\u0159et zkratky pro str\u00e1nky, konfigurovateln\u00e9 podle role u\u017eivatele. U\u017eite\u010dn\u00e9 pro velk\u00e9 aplikace."
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "file": "wire\/core\/FieldtypeMulti.php",
+    "textdomain": "wire--core--fieldtypemulti-php",
+    "translations": {
+        "e2942a04780e223b215eb8b663cf5353": {
+            "text": "po\u010det"
+        },
+        "0f87dcdd9cbafb48e5d9e444ba7c14a7": {
+            "text": "\u0158azen\u00ed a str\u00e1nkov\u00e1n\u00ed"
+        },
+        "7f99274f686fafb79a69fb49fd22b087": {
+            "text": "Tato nastaven\u00ed plat\u00ed pro front-end(web) a back-end (administraci)."
+        },
+        "bfc4400f3a3f1f3ad8647c7391cc3f1c": {
+            "text": "(obr\u00e1cen\u011b)"
+        },
+        "1785200c818e6b465cab76d18f05aa40": {
+            "text": "Automatick\u00e9 \u0159azen\u00ed"
+        },
+        "c1e2087d761e1449f626c96d45bb1c3e": {
+            "text": "Vyberte jedno nebo v\u00edce pol\u00ed pro se\u0159azen\u00ed. Pro manu\u00e1ln\u00ed \u0159azen\u00ed, nechte pr\u00e1zdn\u00e9."
+        },
+        "53fc83e55c6d5a04fd63ffe5c4e90d1c": {
+            "text": "Limit pro str\u00e1nkov\u00e1n\u00ed \/ po\u010det polo\u017eek na str\u00e1nku"
+        },
+        "cc4713abaa08f23ce8f1a1143a04ee77": {
+            "text": "Limituje po\u010det polo\u017eek nahran\u00fdch\/editovan\u00fdch pro str\u00e1nkov\u00e1n\u00ed. Hodnota \"0\" znamen\u00e1 bez limitu (v\u00fdchoz\u00ed)."
+        },
+        "0b01fc6afe7ee324751846ccf0dfc735": {
+            "text": "Str\u00e1nkov\u00e1n\u00ed je doporu\u010deno, pokud budete pracovat se stovkami nebo tis\u00edci polo\u017eek (nebo v\u00edce)."
+        },
+        "ab7c5fc204d8e160a7b731a0799bf450": {
+            "text": "Toto nastaven\u00ed nebude fungovat dokud nevyberete \"Automatick\u00e9 \u0159azen\u00ed\"."
+        }
+    }
+}

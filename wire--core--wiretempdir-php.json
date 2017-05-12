@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/WireTempDir.php",
+    "textdomain": "wire--core--wiretempdir-php",
+    "translations": {
+        "fcecae7cd3a639caff1a6a7c895c954d": {
+            "text": "Nepoda\u0159ilo se vytvo\u0159it slo\u017eku temp"
+        },
+        "5d73c732a700aaa27e07ffd0f638ecc8": {
+            "text": "Nepoda\u0159ilo se odstranit slo\u017eku temp"
+        }
+    }
+}

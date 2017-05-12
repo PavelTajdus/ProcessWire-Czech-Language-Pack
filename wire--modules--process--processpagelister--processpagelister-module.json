@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Jm\u00e9no"
+        },
+        "35e0c8c0b180c95d4e122e55ed62cc64": {
+            "text": "Upraveno"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "P\u0159idat nov\u00fd"
+        },
+        "7ffc4d510260a8544e5550e62ec56bc1": {
+            "text": "="
+        },
+        "e4ef81cce7e4e10033ebb10962dfdd5e": {
+            "text": "Pr\u00e1zdn\u00e9"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Vytvo\u0159eno"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Publikov\u00e1no"
+        },
+        "a5e3d3ad4b54f37c48d9391d5ab35eed": {
+            "text": "Upravil"
+        },
+        "7b1255f8fdd0cb8751baee55621164e1": {
+            "text": "Vytvo\u0159il"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "\u0160ablona"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Stav"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Rodi\u010d"
+        },
+        "379a82f72eacfec4228f74d4e39f3eec": {
+            "text": "Po\u010det potomk\u016f"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Skryto"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Nastaveno jako neve\u0159ejn\u00e9"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Zamknuto"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Ko\u0161"
+        },
+        "57c17efa48d527f45393fdbf800500a0": {
+            "text": "Nerozpoznan\u00e1 z\u00e1lo\u017eka nebo z\u00e1lo\u017eka ji\u017e nen\u00ed aktivn\u00ed"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filtry"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "P\u0159idat filtr"
+        },
+        "d050438ea9af830fff49ddbbad2218b0": {
+            "text": "V\u00fdchoz\u00ed sloupce"
+        },
+        "6d0999f49ddabda93eae8276595abe62": {
+            "text": "Vyberte a set\u0159i\u010fte sloupce, kter\u00e9 se budou zobrazovat v tabulce seznamu str\u00e1nek."
+        },
+        "97bff91e1e9c0a1d8a8cc9a0c1ae88fc": {
+            "text": "U\u017eivatel m\u016f\u017ee voliteln\u011b m\u011bnit sloupce, kter\u00e9 se zobrazuj\u00ed. Budou tak slou\u017eit pouze jako v\u00fdchoz\u00ed hodnoty."
+        },
+        "0e305a04b5eb6dc8bf502625710a74d3": {
+            "text": "Zde proveden\u00e9 zm\u011bny by m\u011bly b\u00fdt okam\u017eit\u011b prom\u00edtnuty do n\u00ed\u017ee uveden\u00fdch v\u00fdsledk\u016f."
+        },
+        "60170ad1f8db03dc180ee0ced484b19f": {
+            "text": "Kolik sloupc\u016f se zobraz\u00ed ve v\u00fdsledc\u00edch"
+        },
+        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
+            "text": "Jak\u00e9 str\u00e1nky se maj\u00ed zobrazit"
+        },
+        "3361493ce22b609b5d11f463c8bd8c6a": {
+            "text": "Zadan\u00fd 'include=' re\u017eim zde nen\u00ed povolen."
+        },
+        "e418dc3d6d68592a1932bb1446975acb": {
+            "text": "Ne v\u0161echny ur\u010den\u00e9 \u0161ablony lze upravovat. Pouze \"include=hidden\" je povoleno"
+        },
+        "12b585ee7c6e8dca3790262f321f3823": {
+            "text": "\u017d\u00e1dn\u00e9 \u0161ablony zadan\u00e9 tak, 'include = hidden' je max povolen\u00fd include mode"
+        },
+        "a5158728109d8e67ae31b7b02bdc8b86": {
+            "text": "%1$d do %2$d z %3$d"
+        },
+        "3b8769d187c6c3306c50729bc43a9903": {
+            "text": "\u017d\u00e1dn\u00e9 v\u00fdsledky."
+        },
+        "ef7de3f485174ff47f061ad27d83d0ee": {
+            "text": "vybr\u00e1no"
+        },
+        "7b0fb34fcab89b5e58429e5e917b98bb": {
+            "text": "V\u0161echna nastaven\u00ed byla resetov\u00e1na."
+        },
+        "2cd1c7a79703fe25a98128ad343a621e": {
+            "text": "Obnovit v\u00fdsledky"
+        },
+        "d77a4f65dfe38bdbb76371048e3ae9ea": {
+            "text": "Reset filtr\u016f a sloupc\u016f na v\u00fdchoz\u00ed hodnoty"
+        },
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Z\u00e1lo\u017eky"
+        },
+        "590345301b23eb45c176da0fc139b191": {
+            "text": "Sloupce"
+        }
+    }
+}

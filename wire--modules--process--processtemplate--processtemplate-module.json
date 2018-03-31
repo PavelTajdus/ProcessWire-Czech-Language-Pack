@@ -377,17 +377,8 @@
         "e864c0d94cbc5dc0faf1ce78d9021e63": {
             "text": "API: $template->nameContentTab = 1; \/\/ nebo 0 pro zak\u00e1z\u00e1no"
         },
-        "7ee14ea7ba968378f99fb3efa7ac22da": {
-            "text": "API: $template->noMove = 1; \/\/ nebo 0 pro zak\u00e1z\u00e1no"
-        },
-        "5c9171f7b16eac3245d2e5f3e79aadbc": {
-            "text": "API: $template->noChangeTemplate = 1; \/\/ nebo 0 pro zak\u00e1z\u00e1no"
-        },
         "29f47bc61ea7a6f45ee3d36da3a3feff": {
             "text": "Nepovolovat neve\u0159ejn\u00e9 str\u00e1nky"
-        },
-        "691edb2dd99517cf0e15dbf596e10cc5": {
-            "text": "API: $template->noUnpublish = 1; \/\/ nebo 0 pro zak\u00e1z\u00e1no"
         },
         "69385004eb4f22d17482beb09e549453": {
             "text": "API: $template->noTrash = 1; \/\/ nebo 0 pro zak\u00e1z\u00e1no"
@@ -397,9 +388,6 @@
         },
         "6a90024dcca935af3329542c3f346229": {
             "text": "API: $template->noSettings = 1; \/\/ nebo 0 pro zak\u00e1z\u00e1no"
-        },
-        "1684cd1767cda6618ed92febec9e78c6": {
-            "text": "API: $template->allowChangeUser = 1; \/\/ nebo 0 pro zak\u00e1z\u00e1no"
         },
         "dbb2a9bf7f53894204e7b75a4a323fa2": {
             "text": "Chyba p\u0159i vytv\u00e1\u0159en\u00ed klonu t\u00e9to \u0161ablony"
@@ -701,9 +689,6 @@
         "044c72d21891e006e09a78d32a1e3226": {
             "text": "Zav\u0159\u00edt a p\u0159idat"
         },
-        "1ad747442af37649526e00927b7d0a1f": {
-            "text": "Chcete-li konfigurovat, jak\u00e9 pole m\u016f\u017ee u\u017eivatel ve sv\u00e9m profilu upravit, p\u0159e\u010dt\u011bte si [nastaven\u00ed modulu profilu](%s)."
-        },
         "c5abeb6189c82d5b9d81bbcac604408b": {
             "text": "Stav mezipam\u011bti (cache)"
         },
@@ -781,24 +766,6 @@
         },
         "109da571222f1c753257a9ea7d9c0f23": {
             "text": "Pokud je za\u0161krtnuto, str\u00e1nky pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu budou pou\u017e\u00edvat pouze v\u00fdchoz\u00ed jazyk."
-        },
-        "2ae2316266d64c1c1caa543c16fe62bc": {
-            "text": "API: $template->noLang = 1; \/\/ v\u00fdchoz\u00ed je 0."
-        },
-        "8a08c3b7f2922be4ad8e59744781b796": {
-            "text": "Form\u00e1t jm\u00e9na str\u00e1nky"
-        },
-        "8a396099e3eecefcbbbbac1715a464de": {
-            "text": "Voliteln\u011b zadejte form\u00e1t n\u00e1zvu str\u00e1nek, pou\u017eit\u00fd p\u0159i p\u0159id\u00e1n\u00ed nov\u00e9 str\u00e1nky. T\u00edm se p\u0159i p\u0159id\u00e1n\u00ed nov\u00e9 str\u00e1nky p\u0159esko\u010d\u00ed krok \"P\u0159idat str\u00e1nku\". Aby to fungovalo, \u0161ablona pou\u017eita rodi\u010dovsk\u00fdmi str\u00e1nkami mus\u00ed m\u00edt nastavenou tuto \u0161ablonu (%s) jako jedinou povolenou pro potomky (viz z\u00e1lo\u017eka \"Rodina\" v nastaven\u00ed \u0161ablony, kterou pou\u017e\u00edv\u00e1 rodi\u010d)."
-        },
-        "6058394e74833c97153b0edaec2fb369": {
-            "text": "M\u016f\u017eete zadat libovoln\u00fd text, kter\u00fd se v\u00e1m l\u00edb\u00ed. Pokud bude vytvo\u0159ena nov\u00e1 str\u00e1nka a n\u00e1zev nebude unik\u00e1tn\u00ed, na konec n\u00e1zvu bude p\u0159id\u00e1no p\u0159\u00edr\u016fstkov\u00e9 \u010d\u00edslo, dokud n\u00e1zev nebude unik\u00e1tn\u00ed."
-        },
-        "026e4114c3bd578141d593edfdcba4b6": {
-            "text": "**Pokud chcete, aby va\u0161e n\u00e1zvy str\u00e1nek odvozovaly svou hodnotu z pole titulek**: zadejte \"title\" (bez uvozovek)."
-        },
-        "cde43753349041653da0d29cc52a15fa": {
-            "text": "**Pokud chcete, aby n\u00e1zvy str\u00e1nek odpov\u00eddaly datu \/ \u010dasu vytvo\u0159en\u00ed:** vlo\u017ete [form\u00e1t data](http:\/\/www.php.net\/manual\/en\/function.date.php). Form\u00e1t data mus\u00ed obsahovat nejm\u00e9n\u011b jeden alfanumerick\u00fd znak (nap\u0159\u00edklad lom\u00edtko \"\/\" nebo dvojte\u010dku \":\"), aby byl rozpozn\u00e1n jako form\u00e1t data. P\u0159\u00edklad: \"Y\/m\/d H:i:s\" bude vypadat v n\u00e1zvu str\u00e1nek jako: \"2014-10-30-12-39-01\". Jak m\u016f\u017eete vid\u011bt, ne-alfanumerick\u00e9 znaky, kter\u00e9 se nach\u00e1z\u00ed ve form\u00e1tu data, se p\u0159evedou na poml\u010dky."
         },
         "9278bd133a7f5cd50f24a5a253f8ac9b": {
             "text": "API: $template->pageClass = \"JmenoTridy\";"
@@ -1003,6 +970,12 @@
         },
         "afd2f2d22bac5fd1faf1abf753685366": {
             "text": "="
+        },
+        "b3a57cf1770883844c8e986675546d20": {
+            "text": "Pokud jste pr\u00e1v\u011b p\u0159idali pole v\u00fd\u0161e, nejprve ulo\u017ete a pak se sem vr\u00e1\u0165te a vyberte jej."
+        },
+        "6be7133083e1d91f772589bf24aa5e48": {
+            "text": "zadejte 0 pro zak\u00e1z\u00e1n\u00ed"
         }
     }
 }

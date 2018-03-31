@@ -14,35 +14,11 @@
         "e0c8b59640bc35bac606431203d2d9b0": {
             "text": "Podrobn\u00fd popis t\u011bchto opr\u00e1vn\u011bn\u00ed naleznete v dokumentaci v sekci [opr\u00e1vn\u011bn\u00ed](%s)."
         },
-        "ae9a363b2dfa9181da7ffde8e37813b5": {
-            "text": "P\u0159e\u0161krtnut\u00ed"
-        },
-        "cea791d6258d032e4742a9a99f1ecf11": {
-            "text": "Za\u0161krtnut\u00ed opr\u00e1vn\u011bn\u00ed pro \u00fapravu str\u00e1nky (page-edit) samo o sob\u011b ned\u00e1v\u00e1 opr\u00e1vn\u011bn\u00ed k \u00faprav\u00e1m str\u00e1nek. M\u00edsto toho v\u00e1m umo\u017e\u0148\u00ed nastavit opr\u00e1vn\u011bn\u00ed pro tuto roli v Nastaven\u00ed > P\u0159\u00edstup v nastaven\u00ed \u0161ablony. Toto opr\u00e1vn\u011bn\u00ed (page-edit) tak\u00e9 umo\u017e\u0148uje u\u017eivatel\u016fm prohl\u00ed\u017eet str\u00e1nky v administraci. Toto opr\u00e1vn\u011bn\u00ed se doporu\u010duje v\u0161em spr\u00e1vc\u016fm."
-        },
-        "d923671ad010412a573db8ccdbddc911": {
-            "text": "Ozna\u010duje opr\u00e1vn\u011bn\u00ed, kter\u00e1 mohou b\u00fdt voliteln\u011b p\u0159id\u00e1na nebo zru\u0161ena v Nastaven\u00ed > P\u0159\u00edstup v nastaven\u00ed \u0161ablony. Za\u0161krtnut\u00ed opr\u00e1vn\u011bn\u00ed jej povol\u00ed pro v\u0161echny upraviteln\u00e9 \u0161ablony. Chcete-li, aby u\u017eivatelsk\u00e1 role z\u00edskala tato nastaven\u00ed pouze pro vybran\u00e9 \u0161ablony, nechte pol\u00ed\u010dko neza\u0161krtnut\u00e9 a m\u00edsto toho opr\u00e1vn\u011bn\u00ed nastavte v Nastaven\u00ed > P\u0159\u00edstup v nastaven\u00ed \u0161ablony."
-        },
-        "64a4d3473343a325080c311b47099be6": {
-            "text": "Opr\u00e1vn\u011bn\u00ed k p\u0159id\u00e1v\u00e1n\u00ed str\u00e1nek (page-add) a vytv\u00e1\u0159en\u00ed str\u00e1nek (page-create) lze p\u0159id\u00e1vat pouze z Nastaven\u00ed > P\u0159\u00edstup v nastaven\u00ed \u0161ablony, a zde se zobrazuj\u00ed pouze pro informativn\u00ed \u00fa\u010dely."
-        },
-        "efc30c4ed12a9e95e4fad5ae9be115fb": {
-            "text": "Ozna\u010duje \u0161ablonu, kter\u00e1 p\u0159id\u00e1v\u00e1 opr\u00e1vn\u011bn\u00ed. Klepnut\u00edm otev\u0159ete okno pro nastaven\u00ed opr\u00e1vn\u011bn\u00ed pro danou \u0161ablonu. Pokud n\u00e1zev \u0161ablony m\u00e1 hodnotu %s, znamen\u00e1 to, \u017ee je v \u0161ablon\u011b nastaveno opr\u00e1vn\u011bn\u00ed, ale va\u0161\u00edm v\u00fdb\u011brem je zde p\u0159eps\u00e1no."
-        },
-        "dce4a957c0c6225be564be146d71b245": {
-            "text": "Stejn\u00e9 jako v\u00fd\u0161e, s v\u00fdjimkou toho, \u017ee opr\u00e1vn\u011bn\u00ed je zru\u0161eno touto \u0161ablonou (sp\u00ed\u0161e ne\u017e p\u0159id\u00e1no)."
-        },
-        "c6cc7e92b9fc348360b34c024086432c": {
-            "text": "n\u00e1zev|popis"
-        },
         "dc3abfaff3190368a09f01d6589eeeea": {
             "text": "P\u0159id\u00e1n\u00ed potomk\u016f\/podstr\u00e1nek ke str\u00e1nk\u00e1m pomoc\u00ed \u0161ablony"
         },
         "9c281188158fc34cf5afc9d2820a761c": {
             "text": "Vytvo\u0159en\u00ed str\u00e1nek pomoc\u00ed \u0161ablony"
-        },
-        "faa5826bce6656df7f63cbeb5b2a85fe": {
-            "text": "Toto opr\u00e1vn\u011bn\u00ed lze p\u0159i\u0159adit pouze pomoc\u00ed Nastaven\u00ed > P\u0159istup v nastaven\u00ed \u0161ablony."
         },
         "9bfb6e6af6e6793bfa9387e728187c87": {
             "text": "(vy\u017eadov\u00e1no)"
@@ -62,8 +38,56 @@
         "1754bfdd544e98486c2ed46753ca8edd": {
             "text": "Za\u0161krtnut\u00edm tohoto pol\u00ed\u010dka p\u0159id\u00e1te opr\u00e1vn\u011bn\u00ed pro v\u0161echny upraviteln\u00e9 \u0161ablony, ale toto opr\u00e1vn\u011bn\u00ed ji\u017e plat\u00ed samostatn\u011b pro jednu nebo v\u00edce \u0161ablon. Chcete-li si v opr\u00e1vn\u011bn\u00edch udr\u017eet po\u0159\u00e1dek, doporu\u010dujeme p\u0159ed ud\u011blen\u00edm opr\u00e1vn\u011bn\u00ed odstranit u v\u0161ech t\u011bchto \u0161ablon toto opr\u00e1vn\u011bn\u00ed. Opravdu jej chcete nyn\u00ed povolit?"
         },
-        "95c58584c58685c05c1a7cc706416455": {
-            "text": "v sou\u010dasn\u00e9 dob\u011b se nevztahuje na \u017e\u00e1dn\u00e9 \u0161ablony"
+        "73a0430d4108945b73c1d27c8d048339": {
+            "text": "Kter\u00e9 typy str\u00e1nek sm\u00ed b\u00fdt zobrazeny touto rol\u00ed?"
+        },
+        "1c572404150327a35e463b4638740073": {
+            "text": "Kter\u00e9 typy str\u00e1nek sm\u00ed b\u00fdt upraveny touto rol\u00ed?"
+        },
+        "b2295468aae810dba114aeafc6affecc": {
+            "text": "Ke kter\u00fdm typ\u016fm str\u00e1nek m\u016f\u017ee tato role p\u0159id\u00e1vat podstr\u00e1nky?"
+        },
+        "a94285c99473e5cb477bfebd41f5b479": {
+            "text": "Kter\u00e9 typy str\u00e1nek sm\u00ed vytv\u00e1\u0159et tato role?"
+        },
+        "2121718f2638e1afe762097a7981ea3c": {
+            "text": "Chcete-li p\u0159idat {permission} pouze na konkr\u00e9tn\u00ed \u0161ablony, za\u0161krtn\u011bte n\u00ed\u017ee uveden\u00e1 pole pro \u0161ablony, ke kter\u00fdm je chcete p\u0159idat, a nechte nepovoleno {permission} opr\u00e1vn\u011bn\u00ed."
+        },
+        "308b65bff5801587885912db1a2aacdf": {
+            "text": "Povolen\u00ed {permission} opr\u00e1vn\u011bn\u00ed je za\u0161krtnuto a vztahuje se na v\u0161echny \u0161ablony, kter\u00e9 lze rol\u00ed upravovat. Chcete-li zru\u0161it opr\u00e1vn\u011bn\u00ed {permission} opr\u00e1vn\u011bn\u00ed z konkr\u00e9tn\u00edch \u0161ablon, za\u0161krtn\u011bte pol\u00ed\u010dka n\u00ed\u017ee. Chcete-li p\u0159idat toto opr\u00e1vn\u011bn\u00ed pouze k ur\u010dit\u00fdm \u0161ablon\u00e1m, nejprve zkontrolujte {permission} opr\u00e1vn\u011bn\u00ed."
+        },
+        "0cb74f3f98993beb92d1fa5e9dbdeb64": {
+            "text": "V\u0161imn\u011bte si, \u017ee role mus\u00ed m\u00edt tak\u00e9 opr\u00e1vn\u011bn\u00ed pro \u00fapravu str\u00e1nky (page-edit) pro v\u0161echny v\u00fd\u0161e uveden\u00e9 \u0161ablony."
+        },
+        "46e843d341c23fcc923e4057f2011f5e": {
+            "text": "V\u011bt\u0161ina opr\u00e1vn\u011bn\u00ed, kter\u00e1 mohou b\u00fdt p\u0159i\u0159azena \u0161ablonou, tak\u00e9 vy\u017eaduje, aby m\u011bl u\u017eivatel opr\u00e1vn\u011bn\u00ed k \u00faprav\u011b str\u00e1nky v dan\u00e9 \u0161ablon\u011b. Pokud \u0161ablona kterou pot\u0159ebujete, nen\u00ed uvedena, mus\u00edte nejprve povolit \u0159\u00edzen\u00ed p\u0159\u00edstupu (viz \u010d\u00e1st \"P\u0159\u00edstup\" p\u0159i \u00faprav\u011b \u0161ablony)."
+        },
+        "bd6e3218368542ea8b8ec79e212960c3": {
+            "text": "Na rozd\u00edl od v\u011bt\u0161iny ostatn\u00edch opr\u00e1vn\u011bn\u00ed nen\u00ed opr\u00e1vn\u011bn\u00ed k \u00faprav\u011b str\u00e1nky \u0161ablony p\u0159edpokladem tohoto opr\u00e1vn\u011bn\u00ed."
+        },
+        "10928cc0ee4f4ca5cd54b8f7d90fe439": {
+            "text": "Pozn\u00e1mka: Role superu\u017eivatele m\u00e1 v\u017edy v\u0161echna opr\u00e1vn\u011bn\u00ed, tak\u017ee pole opr\u00e1vn\u011bn\u00ed se nezobrazuje."
+        },
+        "e92cdb67062c4b4fa95179b9130677a9": {
+            "text": "jm\u00e9no|popis|"
+        },
+        "bdeb3e0cbe3d8f44757a86e8da219abc": {
+            "text": "Toto opr\u00e1vn\u011bn\u00ed lze p\u0159i\u0159adit pouze u \u0161ablony."
+        },
+        "00abcc0a482965cd87aa000c253bf713": {
+            "text": "(zd\u011bd\u011bno z role hosta)"
+        },
+        "76ea2cfb7138b9f6db1ca5385ffd6bec": {
+            "text": "P\u0159idat do: %s"
+        },
+        "484a603504d7ed70ae95310674989236": {
+            "text": "Odebrat z: %s"
+        },
+        "862ca20a14a289ffa53aa7b458c0f288": {
+            "text": "Kliknut\u00edm otev\u0159ete\/zav\u0159ete nastaven\u00ed opr\u00e1vn\u011bn\u00ed podle \u0161ablony"
+        },
+        "4106d43df925487225450293085f8bad": {
+            "text": "Opr\u00e1vn\u011bn\u00ed \u201c%1$s\u201d pro \u0161ablonu \u201c%2$s\u201d nen\u00ed povoleno (vy\u017eaduje opr\u00e1vn\u011bn\u00ed \u201c%3$s\u201d)"
         }
     }
 }

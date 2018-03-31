@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterSmartypants\/TextformatterSmartypants.module",
+    "textdomain": "wire--modules--textformatter--textformattersmartypants--textformattersmartypants-module",
+    "translations": {
+        "25311c7902557e01bc00f49ff049bcd5": {
+            "text": "Pou\u017e\u00edt pro nahrazen\u00ed sp\u00ed\u0161e znaky UTF-8, ne\u017e entity HTML?"
+        },
+        "0c5d2b49bcf5a803467880b04e70010d": {
+            "text": "V\u00fdchoz\u00edm chov\u00e1n\u00edm aplikace SmartyPants je p\u0159id\u00e1vat\/aktualizovat znaky pomoc\u00ed entit HTML."
+        },
+        "1db1fb23d15114bebcd0b4c9451753ff": {
+            "text": "Pokud se objevuj\u00ed probl\u00e9my s dvojit\u00fdm k\u00f3dov\u00e1n\u00edm, mo\u017en\u00e1 budete cht\u00edt m\u00edsto toho pou\u017e\u00edvat nahrazov\u00e1n\u00ed UTF-8."
+        },
+        "34ba6fe92bd3442e28614da7804133f7": {
+            "text": "Ne (v\u00fdchoz\u00ed)"
+        },
+        "438be7072bafe2bb92897edc240e45ae": {
+            "text": "Ano (n\u011bkter\u00e9)"
+        },
+        "8265970592705983b3983796fe0bb408": {
+            "text": "Ano (v\u0161e)"
+        },
+        "3dbbad2a19b63578a38458d5c9b08980": {
+            "text": "V\u0161imn\u011bte si, \u017ee volba \"v\u0161e\" zp\u016fsob\u00ed dek\u00f3dov\u00e1n\u00ed n\u00e1sleduj\u00edc\u00edch znak\u016f (p\u0159i k\u00f3dov\u00e1n\u00ed entitou), i kdy\u017e nebyly vlo\u017eeny SmartyPants:"
+        }
+    }
+}

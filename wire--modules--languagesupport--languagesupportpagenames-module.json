@@ -25,6 +25,9 @@
         },
         "68d765216e3092d42524f9f6f14ce93c": {
             "text": "\u010c\u00edslo str\u00e1nky je p\u0159ipojeno k tomuto slovu v st\u00e1nkovanc\u00ed URL pro tento jazyk. Pokud je vynech\u00e1no, pou\u017eije se \"% s\"."
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "P\u0159\u00edbuzn\u00e1 str\u00e1nka (id=%1$d) ji\u017e pou\u017e\u00edv\u00e1 jm\u00e9no \"%2$s\" pro jazyk: %3$s"
         }
     }
 }

@@ -1,0 +1,78 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/AdminThemeUikit.module",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--adminthemeuikit-module",
+    "translations": {
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(doporu\u010deno)"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Automaticky"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "\u017d\u00e1dn\u00e9"
+        },
+        "b2dd4aca1dc11bb2c4efcbd9ab347789": {
+            "text": "Nastaven\u00ed \u0161ablony administrace"
+        },
+        "838ee308c6474d98feac3ebbff4c08a8": {
+            "text": "Tato nastaven\u00ed ovliv\u0148uj\u00ed, jak se toto pole zobraz\u00ed p\u0159i pou\u017eit\u00ed s \u0161ablonou administrace Uikit."
+        },
+        "2a94ec4e40704b025161d175bc18fe53": {
+            "text": "P\u0159i volb\u011b mo\u017enosti \"Auto\" se nastaven\u00ed ur\u010d\u00ed za b\u011bhu."
+        },
+        "54e4e4fb8f8494b61dc7407161cff620": {
+            "text": "Nastaven\u00ed \"Odsazen\u00ed\" se vztahuje pouze na pole s \u0161\u00ed\u0159kou 100%."
+        },
+        "98369609669478919c74c916440e9978": {
+            "text": "Odsazen\u00ed"
+        },
+        "2660064e68655415da2628c2ae2f7592": {
+            "text": "Mal\u00e9"
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "St\u0159edn\u00ed"
+        },
+        "3a69b34ce86dacb205936a8094f6c743": {
+            "text": "Velk\u00e9"
+        },
+        "070554647306343cbea29ebfdd278ba8": {
+            "text": "Okraj"
+        },
+        "cb5feb1b7314637725a2e73bdc9f7295": {
+            "text": "Barva"
+        },
+        "0a52730597fb4ffa01fc117d9e71e3a9": {
+            "text": "P\u0159\u00edklad"
+        },
+        "c0bfe90a485c1e5db5e8fd63193fe65f": {
+            "text": "Toto pole jednodu\u0161e demonstruje nastaven\u00ed, kter\u00e1 jste vybrali v\u00fd\u0161e."
+        },
+        "3b0c14770e6bd663518496da60f524da": {
+            "text": "Strom"
+        },
+        "7ce481195c78d64795db8cf62a6df04d": {
+            "text": "Obrys"
+        },
+        "0afa7ae71fac97af574e05f44f2296c5": {
+            "text": "Karta"
+        },
+        "8101df5a8d382ef957a02876d08a6f0f": {
+            "text": "Pr\u016fhledn\u00fd"
+        },
+        "eed661e12b91dcdc202ea5682df87a83": {
+            "text": "Hlavn\u00ed"
+        },
+        "702f41f09f0670ea93e1bb7121a835eb": {
+            "text": "Sekund\u00e1rn\u00ed"
+        },
+        "d819318a32ee146ed8fec4feb03aab02": {
+            "text": "Zv\u00fdrazn\u011bn\u00e1"
+        },
+        "42d6b04b169e71af86e5bff6ca177f11": {
+            "text": "Varov\u00e1n\u00ed"
+        },
+        "5a9e33ceafdb38535a8dcee28ff0cd68": {
+            "text": "Nebezpe\u010d\u00ed"
+        }
+    }
+}

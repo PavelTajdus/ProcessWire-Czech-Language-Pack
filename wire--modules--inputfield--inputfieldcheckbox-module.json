@@ -25,6 +25,15 @@
         },
         "170635e560a679be3d1a532e2979d08c": {
             "text": "Neza\u0161krtnuto"
+        },
+        "abef8912ef3f167ed726c6a56288dce5": {
+            "text": "Popisek za\u0161krt\u00e1v\u00e1tka"
+        },
+        "ad96619d37c6ca42363be76aba496b26": {
+            "text": "Chcete-li m\u00edt samostatn\u011b pole (field) a popisek (label) za\u0161krt\u00e1vac\u00edch pol\u00ed\u010dek, zadejte popisek, kter\u00fd se zobraz\u00ed vedle za\u0161krt\u00e1vac\u00edho pol\u00ed\u010dka."
+        },
+        "fee76a03fa4f7d7f0cbb391c9474316d": {
+            "text": "Nen\u00ed-li zad\u00e1n, pou\u017eije se m\u00edsto toho popisek (label) pole."
         }
     }
 }

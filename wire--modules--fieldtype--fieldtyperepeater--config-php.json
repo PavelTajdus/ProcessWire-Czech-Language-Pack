@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
     "translations": {
         "cb2d417d536ac6b6d8668d272b28ca47": {
-            "text": "Repeater pole \"%s\" m\u00e1 nastavenu \"vy\u017eadov\u00e1no pouze pokud\" z\u00e1vislost, a ta nen\u00ed podporov\u00e1na v Repeaterech."
+            "text": "Pole Repeateru \"%s\" m\u00e1 nastavenu \"vy\u017eadov\u00e1no pouze pokud\" z\u00e1vislost, a ta nen\u00ed podporov\u00e1na v Repeaterech."
         },
         "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
             "text": "P\u0159idejte pros\u00edm pole do tohoto Repeateru ze z\u00e1lo\u017eky \"detaily\"."
@@ -107,12 +107,6 @@
         "77e23d8e1ff8e93bfc6e188f62e409bd": {
             "text": "V\u0161imn\u011bte si, \u017ee jakmile je jednou \"odpojen\u00fd\", ProcessWire neodstran\u00ed rodi\u010dovskou str\u00e1nku nebo \u0161ablonu, pokud bude toto pole odstran\u011bno."
         },
-        "1f8c0e21410e1c136bf780fc141b35ae": {
-            "text": "P\u0159id\u00e1no pole \"%1$s\" do repeateru \"%2$s\""
-        },
-        "f54c2540ded6390c6328b2838850482d": {
-            "text": "Odstran\u011bno pole \"%1$s\" z repeateru \"%2$s\""
-        },
         "27dafd7f7794d09bc001fc0acac8e1ad": {
             "text": "Vymaz\u00e1no %d star\u00fdch\/nepou\u017eit\u00fdch pol\u00ed repeateru"
         },
@@ -154,6 +148,12 @@
         },
         "8b3964c39c4eb2db458965c40689f5a0": {
             "text": "Hloubka zano\u0159en\u00ed je dostupn\u00e1 z polo\u017eky repeateru na str\u00e1nce p\u0159es $item->depth."
+        },
+        "c79558badd020f417f148d0a7751e6e4": {
+            "text": "P\u0159id\u00e1no pole \"%1$s\" do \"%2$s\""
+        },
+        "5222d983bada8088d0a86ac0ff1e5871": {
+            "text": "Odstran\u011bno pole \"%1$s\" z \"%2$s\""
         }
     }
 }

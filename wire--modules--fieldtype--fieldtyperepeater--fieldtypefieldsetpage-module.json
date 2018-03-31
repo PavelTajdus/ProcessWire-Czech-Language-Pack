@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeFieldsetPage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtypefieldsetpage-module",
+    "translations": {
+        "ad59ad3d4d7edf6963e2547a6436effd": {
+            "text": "Pole ve skupin\u011b pol\u00ed (fieldset)"
+        },
+        "cc50c812a69f0bae59a44a023c8c58b2": {
+            "text": "Definujte pole, kter\u00e1 jsou pou\u017e\u00edv\u00e1na touto skupinou pol\u00ed (fieldset). M\u016f\u017eete tak\u00e9 p\u0159et\u00e1hnout pole do po\u017eadovan\u00e9ho po\u0159ad\u00ed."
+        },
+        "001059727a69c3158a6716b9430d5d1f": {
+            "text": "="
+        },
+        "c1aa12461889e9773f2c053ae68fb817": {
+            "text": "Skupina pol\u00ed (fieldset) s izolovan\u00fdmi poli pro odd\u011blen\u00ed jmenn\u00e9ho prostoru (page), co\u017e umo\u017e\u0148uje opakovan\u00e9 pou\u017eit\u00ed pol\u00ed."
+        }
+    }
+}

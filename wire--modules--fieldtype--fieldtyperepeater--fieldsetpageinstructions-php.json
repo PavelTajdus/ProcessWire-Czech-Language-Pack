@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldsetPageInstructions.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "Toto je uk\u00e1zkov\u00fd text"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Pokyny, jak pou\u017e\u00edvat toto pole"
+        },
+        "dda3c63808783d90468ffc36857b1ad2": {
+            "text": "Tento typ pol\u00ed pou\u017e\u00edv\u00e1 samostatnou str\u00e1nku (na pozad\u00ed) pro ukl\u00e1d\u00e1n\u00ed hodnot pol\u00ed, kter\u00e1 jste vybrali v\u00fd\u0161e."
+        },
+        "43ef844d717ad05c793ebe3fc0bfa46f": {
+            "text": "V\u00fdhodou je, \u017ee m\u016f\u017eete znovu pou\u017e\u00edt pole, kter\u00e1 se ji\u017e mohou na va\u0161\u00ed str\u00e1nce nach\u00e1zet mimo tuto skupinu pol\u00ed (fieldset)."
+        },
+        "450f315bbf5a730f06d882603e2351ee": {
+            "text": "Nap\u0159\u00edklad byste mohli m\u00edt pole \"title\" na va\u0161\u00ed str\u00e1nce a dal\u0161\u00ed pole \"title\" ve skupin\u011b pol\u00ed (fieldset). To plat\u00ed i pro ostatn\u00ed pole."
+        },
+        "082323774f8bcc4a3b546017f4699653": {
+            "text": "To je mo\u017en\u00e9, proto\u017ee pole ve skupin\u011b pol\u00ed (fieldset) jsou ve sv\u00e9m vlastn\u00edm jmenn\u00e9m prostoru - (fieldset Page je prost\u011b dal\u0161\u00ed str\u00e1nkou) - odd\u011blenou od hlavn\u00ed str\u00e1nky."
+        },
+        "1c965c7b269c1b604d6490030b52cb9a": {
+            "text": "N\u00ed\u017ee uv\u00e1d\u00edme n\u011bkolik p\u0159\u00edklad\u016f, jak pou\u017e\u00edvat toto pole ve va\u0161ich \u0161ablon\u00e1ch a v rozhran\u00ed API."
+        },
+        "2b9532c496c737a7d979ede12021cbfc": {
+            "text": "Z\u00edsk\u00e1n\u00ed hodnoty:"
+        },
+        "3cdf9e98ed82c4005e72a8d904f2c396": {
+            "text": "Vyps\u00e1n\u00ed hodnoty:"
+        },
+        "e77be29cea913a45c5a64261aab889fe": {
+            "text": "Vyps\u00e1n\u00ed hodnoty v k\u00f3du:"
+        },
+        "a1846e66c3581626834fa2b2b713a751": {
+            "text": "Nastaven\u00ed hodnoty:"
+        },
+        "c17698c4f96778fb0e1c2cf7e08354fa": {
+            "text": "Nastaven\u00ed a ulo\u017een\u00ed hodnoty:"
+        },
+        "07eb153eceddb68a89d41166e566601a": {
+            "text": "v p\u0159\u00edpad\u011b pot\u0159eby se vypne v\u00fdstupn\u00ed form\u00e1tov\u00e1n\u00ed"
+        },
+        "d4dcb894c9c0f44c78175f84b15a0b57": {
+            "text": "P\u0159i\u0159azen\u00ed pole k jin\u00e9 (krat\u0161\u00ed) prom\u011bnn\u00e9 a vyps\u00e1n\u00ed hodnoty:"
+        },
+        "89c8a04262edb041b1d1cf735fd36a4b": {
+            "text": "Hled\u00e1n\u00ed str\u00e1nek, kter\u00e9 obsahuj\u00ed skupinu pol\u00ed (fieldset) s polem \"%s\" obsahuj\u00edc\u00ed text \"example\":"
+        }
+    }
+}

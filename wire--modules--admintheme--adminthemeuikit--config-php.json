@@ -1,0 +1,180 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/config.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--config-php",
+    "translations": {
+        "ed9bcb3b4e6221f67a2543f66109248a": {
+            "text": "Pokud nech\u00e1te pr\u00e1zdn\u00e9, pou\u017eije se v\u00fdchoz\u00ed soubor."
+        },
+        "a825c84dec047bf77ef218348c6496ed": {
+            "text": "Zadejte relativn\u00ed cestu k URL domovsk\u00e9 str\u00e1nky."
+        },
+        "de71102a6c8bba23cf43b10e6dc86adc": {
+            "text": "(DOPORU\u010cENO)"
+        },
+        "ff498dcc16878847ee1d01c38a0138f3": {
+            "text": "(EXPERIMENT\u00c1LN\u00cd)"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(v\u00fdchoz\u00ed)"
+        },
+        "1a79a4d60de6718e8e5b326e338ae533": {
+            "text": "p\u0159\u00edklad"
+        },
+        "2d7e18586d2265fc63934ad26902effb": {
+            "text": "Horn\u00ed li\u0161ta a navigace"
+        },
+        "5580ceafc3f05d1b31e318f00e2d187c": {
+            "text": "U\u017eivatelsk\u00fd avatar"
+        },
+        "f9a6b1bbc44e674712c33ec4363ca698": {
+            "text": "Gravatar (extern\u00ed slu\u017eba, kter\u00e1 ur\u010duje avatar podle e-mailu)"
+        },
+        "33821a7c07464e5442de3b0aa1836854": {
+            "text": "Vyberte obr\u00e1zkov\u00e9 pole, Gravatar nebo ikonu, kter\u00e1 se bude zobrazovat v hlavn\u00ed li\u0161t\u011b jako avatar u\u017eivatele."
+        },
+        "52d59ff487072b976a4e83f890f18c4e": {
+            "text": "Obr\u00e1zkov\u00e9 pole: %s"
+        },
+        "8b5c3dc5e49d1be8ee1648a5bc454559": {
+            "text": "V sou\u010dasn\u00e9 dob\u011b nejsou v \u0161ablon\u011b \"u\u017eivatele\" \u017e\u00e1dn\u00e1 pole obr\u00e1zk\u016f, tak\u017ee se zobrazuj\u00ed pouze ikony a Gravatar."
+        },
+        "08c95f3605e4e76b340174ba21b8462d": {
+            "text": "Zde m\u016f\u017eete p\u0159idat pole obr\u00e1zk\u016f do \u0161ablony u\u017eivatele."
+        },
+        "2ff62c17135d9704b59a98881cffa793": {
+            "text": "Ikona: %s"
+        },
+        "bb96132ad3ed6087cc9a11da0539a499": {
+            "text": "Form\u00e1t jm\u00e9na u\u017eivatele"
+        },
+        "ef36780437bb9746cb9e4a684be3d0ae": {
+            "text": "Tento popisek se objev\u00ed vedle obr\u00e1zku\/ikony u\u017eivatelsk\u00e9ho avataru."
+        },
+        "33f5c52210024a7906c33c262435d813": {
+            "text": "Ur\u010dete pole a form\u00e1t, kter\u00fd chcete pou\u017e\u00edt pro jm\u00e9no, nebo nechte pr\u00e1zdn\u00e9 pro \u017e\u00e1dn\u00fd popisek."
+        },
+        "9ac50f55fe0eb306162cdde72aee40db": {
+            "text": "Pou\u017eijte libovoln\u00e9 pole\/vlastnosti z u\u017eivatelsk\u00e9 \u0161ablony uzav\u0159en\u00e9 do {z\u00e1vorek}."
+        },
+        "e4e4bda20c3f3d73a0ab8a162324a5ef": {
+            "text": "Pou\u017eijte {Name} pro jm\u00e9no s velk\u00fdmi p\u00edsmeny, co\u017e je v\u00fdchoz\u00ed nastaven\u00ed, nebo pou\u017eijte {name} pro mal\u00e9 p\u00edsmeno."
+        },
+        "94badcf29c95c51eb93549c399c1c91d": {
+            "text": "P\u0159\u00edklady: \"{name}\", \"{Name}\", \"{title}\", {first_name} {last_name}, \"{company.title}\" atd."
+        },
+        "496160bbca5b6421fb40ff6676562b17": {
+            "text": "Akce pro kliknut\u00ed na logo v horn\u00ed li\u0161t\u011b"
+        },
+        "96f31592de4b37ce5ff61db935fbfa81": {
+            "text": "Zobraz\u00ed z\u00e1kladn\u00ed seznam str\u00e1nek"
+        },
+        "2fcf0b21fb2e5b0c2ed8774ca91bd3a0": {
+            "text": "Otev\u0159e bo\u010dn\u00ed navigaci"
+        },
+        "ebd9bec4d70abc789d439c1f136b0538": {
+            "text": "Rozvr\u017een\u00ed administrace"
+        },
+        "1688f46c79b3285c9de79d60d63d32d0": {
+            "text": "Typ rozhran\u00ed"
+        },
+        "21924d98c4f369c97991af1760e5fc64": {
+            "text": "Klasick\u00e9 s horn\u00ed li\u0161tou"
+        },
+        "77c0933cca4f9492cb03f4a2d091901e": {
+            "text": "Strom str\u00e1nek v postrann\u00edm panelu"
+        },
+        "3c8286b98b6dfd2248df2a3d70cb8fc4": {
+            "text": "(vlevo)"
+        },
+        "45c75f330de92569cb24cebab40a20fc": {
+            "text": "(vpravo)"
+        },
+        "cdf0447c0bfca1430af1916d3695665e": {
+            "text": "Bo\u010dn\u00ed navigace (vlevo) + strom str\u00e1nek (vpravo)"
+        },
+        "cd49cb29b2424eb2cfa6526153e12f3f": {
+            "text": "*Rozlo\u017een\u00ed postrann\u00edho panelu nen\u00ed kompatibiln\u00ed s modulem SystemNotifications a m\u016f\u017ee m\u00edt probl\u00e9my i s dal\u0161\u00edmi moduly."
+        },
+        "029ec5ac76207f4e7627a0e3ffbdb15b": {
+            "text": "Maxim\u00e1ln\u00ed \u0161\u00ed\u0159ka str\u00e1nek administrace"
+        },
+        "c0a71759159badff6c9c45f730402dd6": {
+            "text": "Ur\u010dete maxim\u00e1ln\u00ed \u0161\u00ed\u0159ku str\u00e1nek administrace (v pixelech) nebo 0 pro \u017e\u00e1dn\u00e9 maximum."
+        },
+        "c20f63b379f6b02a18439890f5ce535b": {
+            "text": "Plat\u00ed pouze pro klasick\u00e9 rozvr\u017een\u00ed."
+        },
+        "37243206806c555c2dbce190b1f49f37": {
+            "text": "Styl notifikac\u00ed"
+        },
+        "dff1a43f94a6ab1d04bef81420510e6c": {
+            "text": "Neplat\u00ed, pokud je nainstalov\u00e1n modul SystemNotifications."
+        },
+        "afae44a9309db56726837157afdd1a2a": {
+            "text": "Seskupen\u00e9 podle typu s mo\u017enost\u00ed rozbalen\u00ed\/sbalen\u00ed"
+        },
+        "9d2e228039bb6eef2e6cbaff5c904b56": {
+            "text": "V\u017edy zobrazit v\u0161e"
+        },
+        "81e3da80ad979591250cca7feb39720b": {
+            "text": "Vlastn\u00ed soubory"
+        },
+        "6059a6e9b311f4cb4afd60c154f0bef5": {
+            "text": "Hlavn\u00ed soubor CSS"
+        },
+        "fd57cabd74aeddd5a95d662e680dd5ef": {
+            "text": "Tuto zm\u011bnu nedoporu\u010dujeme, pokud nejste v\u00fdvoja\u0159 \u0161ablon administrace."
+        },
+        "990a068cf660ce4eaf87777c43d07057": {
+            "text": "Obr\u00e1zek pro logo"
+        },
+        "35c45261e46b5a1400aef3ecbf237879": {
+            "text": "Soubor by m\u011bl b\u00fdt PNG, GIF, JPG nebo SVG, na pr\u016fhledn\u00e9m pozad\u00ed a v obou rozm\u011brech alespo\u0148 100 pixel\u016f."
+        },
+        "6c6a6ca96d96fc13c06abbf98f38668f": {
+            "text": "Nastaven\u00ed viditelnosti pole formul\u00e1\u0159e"
+        },
+        "21909eb7e7cbb04d9c804458848a7af3": {
+            "text": "Tato nastaven\u00ed ovliv\u0148uj\u00ed v\u0161echna pole formul\u00e1\u0159e v administraci."
+        },
+        "f695996235a3c704a6780cf5515b6fdb": {
+            "text": "V\u0161echna tato nastaven\u00ed (a jin\u00e9) mohou b\u00fdt pro dan\u00e1 pole specifikov\u00e1na tak\u00e9 jednotliv\u011b."
+        },
+        "0b28aca953c7100643fcacab33dbf502": {
+            "text": "Pokud zde zad\u00e1te nastaven\u00ed, p\u0159ep\u00ed\u0161ou se jednotliv\u00e1 nastaven\u00ed pole."
+        },
+        "15367a85a0239326ebf3b0294edd61ce": {
+            "text": "Viz: Nastaven\u00ed > Pole > [libovoln\u00e9 pole] > Vstup (karta) > Nastaven\u00ed \u0161ablony administrace."
+        },
+        "6dcf297b0d223e7a27081a7c4bd6497f": {
+            "text": "Typy vstupn\u00edch pol\u00ed, kter\u00e9 by nem\u011bly m\u00edt ohrani\u010den\u00ed"
+        },
+        "141c494a39b11098554fc3d327578895": {
+            "text": "Toto nastaven\u00ed plat\u00ed pro v\u0161echny vybran\u00e9 typy pol\u00ed, pokud maj\u00ed nastavenou 100% \u0161\u00ed\u0159ku."
+        },
+        "99be59c66e12e86aefeced8b65c1effc": {
+            "text": "Typy vstupn\u00edch pol\u00ed, kter\u00e9 maj\u00ed pou\u017e\u00edvat styl \"karty\""
+        },
+        "949bcbdc5822582126d426c6f82f4fa4": {
+            "text": "Toto pole je p\u0159\u00edkladem stylu karty."
+        },
+        "cf83a7d29c286d14e29a97334e9279a5": {
+            "text": "Nevztahuje se na typy vybran\u00e9 tak, aby nem\u011bly \u017e\u00e1dn\u00e9 ohrani\u010den\u00ed."
+        },
+        "391889c9ed085249fe76c0beb25ad304": {
+            "text": "Typy vstupn\u00edch pol\u00ed, kter\u00e9 by m\u011bly b\u00fdt nav\u00edc posunuty o dal\u0161\u00ed horn\u00ed\/doln\u00ed okraj (margin)."
+        },
+        "0d638e3ac46bc8f0cf58d60281ff4ebc": {
+            "text": "Jako p\u0159\u00edklad pole (ve skupin\u011b pol\u00ed) pou\u017e\u00edvaj\u00ed tuto mo\u017enost."
+        },
+        "627a242af272f5913c8af08cff4cadf9": {
+            "text": "Vertik\u00e1ln\u011b odsadit V\u0160ECHNY typy vstup\u016f?"
+        },
+        "0222ce0d1bbe27a8e1cd12c3c7f4814c": {
+            "text": "Pokud je za\u0161krtnuto, do ka\u017ed\u00e9ho pole se p\u0159id\u00e1 svisl\u00e9 odsazen\u00ed."
+        },
+        "1939d9deea3a9b379eca5948b1b3cfc6": {
+            "text": "To m\u016f\u017ee v n\u011bkter\u00fdch p\u0159\u00edpadech zlep\u0161it p\u0159ehlednost, ale zabere v\u00edce vertik\u00e1ln\u00edho prostoru."
+        }
+    }
+}

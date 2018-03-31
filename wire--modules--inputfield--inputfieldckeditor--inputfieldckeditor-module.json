@@ -215,8 +215,23 @@
         "7a20fe498ae5ceab6766124b9cb7b2a9": {
             "text": "P\u0159e\u010dt\u011bte si pros\u00edm na\u0161e [pokyny](%s) k pou\u017e\u00edt\u00ed."
         },
-        "16176bde1adfb16f43ed136db778416d": {
-            "text": "P\u0159e\u010dt\u011bte si pros\u00edm na\u0161e [pokyny]() k pou\u017e\u00edt\u00ed."
+        "f05a8abeb447b6720621d879a9197d00": {
+            "text": "Dostupn\u00e9 polo\u017eky panelu n\u00e1stroj\u016f:"
+        },
+        "2eba31ae40d6ac1bd4d48c72f1977364": {
+            "text": "Obr\u00e1zkov\u00e1 pole, kter\u00e1 mohou b\u00fdt pou\u017eita pro p\u0159etahov\u00e1n\u00ed nebo vkl\u00e1d\u00e1n\u00ed obr\u00e1zk\u016f"
+        },
+        "556255b8390dd04b90c0dca2b07da0aa": {
+            "text": "Nen\u00ed-li vybr\u00e1no \u017e\u00e1dn\u00e9 pol\u00ed\u010dko, bude za b\u011bhu automaticky vybr\u00e1no pole dostupn\u00fdch obr\u00e1zk\u016f. Pokud je vybr\u00e1na mo\u017enost \"\u017d\u00e1dn\u00e9\", funkce bude vypnuta."
+        },
+        "ba5c4d2fefb66dfdc969030e8d4726a6": {
+            "text": "\u017d\u00e1dn\u00e9 (zak\u00e1zat p\u0159etahov\u00e1n\u00ed \/ vkl\u00e1d\u00e1n\u00ed obr\u00e1zk\u016f)"
+        },
+        "27580e5542fe0d14d78016023f38829f": {
+            "text": "Str\u00e1nka, kter\u00e1 se m\u00e1 pou\u017e\u00edt pro ukl\u00e1d\u00e1n\u00ed obr\u00e1zk\u016f a dat"
+        },
+        "d17026399e4b0283ab382defdc5ac109": {
+            "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed budou ulo\u017een\u00e9 obr\u00e1zky ulo\u017eeny s aktu\u00e1ln\u011b upravovanou str\u00e1nkou. Chcete-li nam\u00edsto toho pou\u017e\u00edt sd\u00edlenou str\u00e1nku, vyberte ji zde."
         }
     }
 }

@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Image\/ImageSizerEngineAnimatedGif\/ImageSizerEngineAnimatedGif.module",
+    "textdomain": "wire--modules--image--imagesizerengineanimatedgif--imagesizerengineanimatedgif-module",
+    "translations": {
+        "fa08346eefc233da84efcce389e121f6": {
+            "text": "na\u010dten\u00fd soubor '%s' nen\u00ed v seznamu platn\u00fdch obr\u00e1zk\u016f"
+        }
+    }
+}

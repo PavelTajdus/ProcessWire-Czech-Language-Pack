@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportInstall.php",
+    "textdomain": "wire--modules--languagesupport--languagesupportinstall-php",
+    "translations": {
+        "3ae44849cea119dd44333ce66ad5b388": {
+            "text": "Klikn\u011bte pro instalaci:"
+        },
+        "f62784baf73b04e9986e5e2e5141c1ac": {
+            "text": "P\u0159id\u00e1n\u00ed a konfigurace nov\u00fdch jazyk\u016f"
+        },
+        "b326de895188c390f00d3e3165a4e183": {
+            "text": "Zm\u011b\u0148te typ va\u0161eho pole \"title\" z \"Page Title\" na \"Page Title (Multi-language)\""
+        },
+        "38655673ed547e757e9275d9132e8002": {
+            "text": "Zm\u011b\u0148te typ libovoln\u00e9ho jin\u00e9ho po\u017eadovan\u00e9ho pole \"Text\" na \"Text (Multi-language)\""
+        },
+        "e28586cd56c48fc4522b6f5838c69781": {
+            "text": "Zm\u011b\u0148te typ libovoln\u00e9ho jin\u00e9ho po\u017eadovan\u00e9ho pole \"Textarea\" na \"Textarea (Multi-language)\""
+        },
+        "cce78dc6ebbec7385a01f2146d6d01c8": {
+            "text": "Dal\u0161\u00ed kroky"
+        },
+        "11073190b7d624dffd2b0ed1d24e99be": {
+            "text": "Chcete-li pokra\u010dovat v nastaven\u00ed v\u00edcejazy\u010dn\u00e9 podpory, doporu\u010dujeme dal\u0161\u00ed n\u00e1sleduj\u00edc\u00ed kroky."
+        },
+        "03936c46ccc75e527d1c061c9307cb2b": {
+            "text": "N\u00ed\u017ee uveden\u00e9 odkazy se otev\u0159ou v nov\u00e9m okn\u011b\/z\u00e1lo\u017ece. Po dokon\u010den\u00ed ka\u017ed\u00fd zav\u0159ete, abyste se sem vr\u00e1tili."
+        },
+        "02860eb2acccc8d47fc0503ceae2b550": {
+            "text": "P\u0159ed pokusem o zm\u011bnu typ\u016f textov\u00fdch pol\u00ed nainstalujte modul LanguageSupportFields."
+        }
+    }
+}

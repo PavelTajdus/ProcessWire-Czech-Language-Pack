@@ -1,0 +1,30 @@
+{
+    "file": "wire\/core\/AdminThemeFramework.php",
+    "textdomain": "wire--core--adminthemeframework-php",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "P\u0159idat nov\u00fd"
+        },
+        "90dd5a9776ef2638eebdd94ae76a1902": {
+            "text": "Zobrazti web"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Odhl\u00e1sit"
+        },
+        "fbbbb283efc814825613301c22951ba7": {
+            "text": "Vybrat v\u0161e"
+        },
+        "878620e7a3c84a803c9a70bfe346be57": {
+            "text": "Pou\u017e\u00edt tuto \u0161ablonu administrace pro p\u0159ihla\u0161ovac\u00ed obrazovku?"
+        },
+        "ffd8fa387acec9945788ad7c39400b1b": {
+            "text": "Pokud je za\u0161krtnuto, bude tato \u0161ablona administrace pou\u017eita na p\u0159ihla\u0161ovac\u00ed obrazovce u\u017eivatele."
+        },
+        "9d228734f81e102a94540a1508e69d1d": {
+            "text": "="
+        }
+    }
+}

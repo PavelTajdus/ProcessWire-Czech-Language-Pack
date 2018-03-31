@@ -1,6 +1,6 @@
 # Český jazykový balíček pro ProcessWire (English follows)
 
-Český překlad souborů pro ProcessWire verze 3.0.62.
+Kompletní český překlad souborů pro ProcessWire verze 3.0.96.
 Plně přeloženo. Na vlastní odpovědnost můžete používat pro produkční použití.
 
 ## Jak instalovat balíček s češtinou
@@ -41,16 +41,11 @@ a framework postavený na PHP5 a MySQL. Nabízí skvělé API, které je inpirov
 
 Pokud se chcete dozvědět více, navštivte domovskou stránku [ProcessWire](http://processwire.com/).
 
-
-### Poděkování
-
-Největší dík patří autorovi této češtiny za jeho skvělou práci. [Radek Tříška](mailto:radek@fastlinux.eu) dal češtinu volně k dispozici a svolil s publikováním zde na GitHubu. Ještě jednou díky!
-
 ---
 
 # Czech Language Pack for ProcessWire
 
-Czech (cs-CZ) translation files for ProcessWire 3.0.62
+Czech (cs-CZ) translation files for ProcessWire 3.0.96
 Warning - this is PRE-RELEASE version of language pack.
 
 ## How to Install a Language Pack
@@ -90,8 +85,3 @@ ProcessWire is an award-winning open source CMS (content management system)
 and framework built on PHP5 and MySQL, having a jQuery-inspired API. It supports custom fields and provides a powerful template system.
 
 If you would like to learn more, visit the [ProcessWire homepage](http://processwire.com/).
-
-
-### Credits
-
-Special Thanks for long and hard work on the Czech Language Pack goes to [Radek Tříška](mailto:radek@fastlinux.eu) -  original creator of this translation. Thank You Radek.

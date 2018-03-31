@@ -176,9 +176,6 @@
         "4ac3deb7dc60a1b4770ad126c84171f7": {
             "text": "* Ozna\u010duje \u017ee pole p\u0159et\u011b\u017euje v\u00fdchoz\u00ed hodnotu. Nastaven\u00ed, kter\u00e1 zad\u00e1te na t\u00e9to obrazovce se aktivuj\u00ed pouze p\u0159i pou\u017eit\u00ed s \u0161ablonou \u200b\u200b\"% s\"."
         },
-        "bfacb0dba61ee131e07daaacead869c5": {
-            "text": "Z\u00e1kladn\u00ed nastaven\u00ed pole"
-        },
         "3df354a032179f36ea493c3df6643ce1": {
             "text": "Pokud chcete vizu\u00e1ln\u011b seskupit toto pole s ostatn\u00edma v seznamu pol\u00ed, vlo\u017ete jednoslovn\u00fd \u0161t\u00edtek (tag). Pou\u017eijte stejn\u00fd \u0161t\u00edtek na jin\u00e1 pole, kter\u00e1 chcete seskupit. V\u00edce \u0161t\u00edtk\u016f odd\u011blujte mezerou. Pou\u017eit\u00ed \u0161t\u00edtk\u016f m\u016f\u017ee b\u00fdt u\u017eite\u010dn\u00e9, pokud v\u00e1\u0161 web obsahuje velk\u00fd po\u010det pol\u00ed."
         },
@@ -318,7 +315,7 @@
             "text": "Kontrola dat pole"
         },
         "7d912a6056deaad44add9eda5494d120": {
-            "text": "Bla bla Akce > Kontrola dat pole"
+            "text": "Za\u0161krtn\u011bte toto pol\u00ed\u010dko, chcete-li zachovat v\u0161echna vlastn\u00ed nastaven\u00ed tohoto pole (na kart\u00e1ch Detaily a Vstup). To je \u017e\u00e1douc\u00ed, pokud nov\u00fd typ pole m\u00e1 stejn\u00e9 nebo podobn\u00e9 konfigura\u010dn\u00ed vlastnosti jako p\u016fvodn\u00ed typ pole. M\u016f\u017ee v\u0161ak tak\u00e9 v\u00e9st k zbyte\u010dn\u00fdm nebo nadbyte\u010dn\u00fdm konfigura\u010dn\u00edm dat\u016fm, kter\u00e9 zaberou prostor v poli. V\u017edy je m\u016f\u017eete analyzovat pozd\u011bji z: Akce > Zkontrolovat dat pole."
         },
         "292694f229d9162dd0a6510ff0745d4f": {
             "text": "Odstranit %d osi\u0159el\u00fdch \u0159\u00e1dk\u016f tabulky?"
@@ -574,6 +571,45 @@
         },
         "59da98ece56eec26f5f9edd6f051da0b": {
             "text": "Toto tak\u00e9 odstran\u00ed %d \u0159\u00e1dk\u016f dat."
+        },
+        "760b4bbc37693597edf00f9eeda38cd0": {
+            "text": "V sou\u010dasn\u00e9 dob\u011b neexistuje \u017e\u00e1dn\u00e1 nastaven\u00ed, kter\u00e1 by \u0161ablona p\u0159episovala."
+        },
+        "89fa758424367d5caeb355f904d5bfc1": {
+            "text": "Povolen\u00e1 p\u0159eps\u00e1n\u00ed"
+        },
+        "7710897a6218283716118180cd494f1e": {
+            "text": "Za\u0161krtnut\u00e1 nastaven\u00ed se zobraz\u00ed p\u0159i konfiguraci tohoto pole, v kontextu konkr\u00e9tn\u00ed \u0161ablony, jako mo\u017enosti konfigurace."
+        },
+        "c4d3fb0af8e800de549531cccd8a19f8": {
+            "text": "Upozorn\u011bn\u00ed: nastaven\u00ed, kter\u00e1 p\u0159esahuj\u00ed nastaven\u00ed specifikovan\u00e9 autorem modulu, nemus\u00ed v\u017edy fungovat nebo mohou zp\u016fsobit probl\u00e9my."
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Popisek"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Jm\u00e9no"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Typ"
+        },
+        "2babe53026309ed1bc4d26626dbaf9b3": {
+            "text": "Detaily:"
+        },
+        "c4e024e71ba191d41926d9fcfa7cde3a": {
+            "text": "Vstup:"
+        },
+        "6ed7cdaf5655ad6feaf61425896fca0e": {
+            "text": "Chyba v nastaven\u00ed \u201c%s\u201d"
+        },
+        "86cdc0e0ad458e6450b25153b0ca0248": {
+            "text": "(specifikovali jste \u201c%s\u201d)"
+        },
+        "ce1e5086faa587952093bfb31f7af1c1": {
+            "text": "Nelze ov\u011b\u0159it"
+        },
+        "07f32475d23721446e940087c7e26b53": {
+            "text": "Toto nebude fungovat, proto\u017ee hodnoty mus\u00ed b\u00fdt ID str\u00e1nek"
         }
     }
 }

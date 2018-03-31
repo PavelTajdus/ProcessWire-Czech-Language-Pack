@@ -205,6 +205,12 @@
         },
         "671bf4e51334fa684ae31fdaa130b6db": {
             "text": "Varianta generovan\u00e1 rozhran\u00edm API"
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "Vynechat atributy \u0161\u00ed\u0159ky na \u0161t\u00edtc\u00edch (tags) obr\u00e1zk\u016f?"
+        },
+        "522779383d7b7d46168fcc8ae1c5d4a5": {
+            "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed tento modul bude obsahovat atributy \u0161\u00ed\u0159ky v img tagu. Pokud pou\u017e\u00edv\u00e1te responsivn\u00ed obr\u00e1zky, m\u016f\u017eete toto chov\u00e1n\u00ed zak\u00e1zat. Za\u0161krtn\u011bte pol\u00ed\u010dko pro zak\u00e1z\u00e1n\u00ed atribut\u016f \u0161\u00ed\u0159ky a v\u00fd\u0161ky."
         }
     }
 }

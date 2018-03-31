@@ -46,6 +46,18 @@
         },
         "c766e5be484b0e0a2104bc2fe925000c": {
             "text": "Vymazat tyto mo\u017enosti"
+        },
+        "7a55572484844c1b337505ee266d3007": {
+            "text": "P\u0159\u00edklady pou\u017eit\u00ed API"
+        },
+        "9786dd72ff72c22b5cde66e2ef3a6c6a": {
+            "text": "V\u00fdstup jednoho v\u00fdb\u011bru:"
+        },
+        "c575fc08137bccf13da4fff3117ff3e2": {
+            "text": "V\u00fdstup v\u00edce v\u00fdb\u011br\u016f:"
+        },
+        "d51f7ee41ebdd5252b9a4410e297b306": {
+            "text": "Chcete-li vypsat sp\u00ed\u0161e hodnoty ne\u017e titulky, nahra\u010fte \"titulek\" (\"title\") v p\u0159edchoz\u00edch p\u0159\u00edkladech \"hodnotou\" (\"value\")."
         }
     }
 }

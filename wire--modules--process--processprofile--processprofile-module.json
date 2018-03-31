@@ -1,1 +1,72 @@
-{"file":"wire\/modules\/Process\/ProcessProfile\/ProcessProfile.module","textdomain":"wire--modules--process--processprofile--processprofile-module","translations":{"9fbf3617c6172a75648e9ac0a864bb56":{"text":"Profil:"},"f9e0ddbbff17d789d7844835e71e789f":{"text":"Profil nen\u00ed ulo\u017een"},"f29de224c874ad891ea1c3627aa468be":{"text":"Profil ulo\u017een"},"90b1f6651953fcf8b43ddc0da6760aaf":{"text":"Profil u\u017eivatele (User Profile)"},"1a59a80bd045dd8cb5a37b841028cc00":{"text":"Umo\u017e\u0148uje u\u017eivateli zm\u011bnit sv\u00e9 heslo, e-mailovou adresu a dal\u0161\u00ed nastaven\u00ed, kter\u00e1 ur\u010d\u00edte."},"85337e04345622f27e1230c61efa9fd0":{"text":"Jak\u00e1 pole m\u016f\u017ee u\u017eivatel upravit v jejich profilu?"},"d57a97a659253e107095a0ad40576d9f":{"text":"E-mail adresu \"%s\" ji\u017e pou\u017e\u00edv\u00e1 jin\u00fd u\u017eivatel."}}}
+{
+    "file": "wire\/modules\/Process\/ProcessProfile\/ProcessProfile.module",
+    "textdomain": "wire--modules--process--processprofile--processprofile-module",
+    "translations": {
+        "9fbf3617c6172a75648e9ac0a864bb56": {
+            "text": "Profil:"
+        },
+        "f9e0ddbbff17d789d7844835e71e789f": {
+            "text": "Profil nen\u00ed ulo\u017een"
+        },
+        "f29de224c874ad891ea1c3627aa468be": {
+            "text": "Profil ulo\u017een"
+        },
+        "90b1f6651953fcf8b43ddc0da6760aaf": {
+            "text": "Profil u\u017eivatele (User Profile)"
+        },
+        "1a59a80bd045dd8cb5a37b841028cc00": {
+            "text": "Umo\u017e\u0148uje u\u017eivateli zm\u011bnit sv\u00e9 heslo, e-mailovou adresu a dal\u0161\u00ed nastaven\u00ed, kter\u00e1 ur\u010d\u00edte."
+        },
+        "85337e04345622f27e1230c61efa9fd0": {
+            "text": "Jak\u00e1 pole m\u016f\u017ee u\u017eivatel upravit v jejich profilu?"
+        },
+        "d57a97a659253e107095a0ad40576d9f": {
+            "text": "E-mail adresu \"%s\" ji\u017e pou\u017e\u00edv\u00e1 jin\u00fd u\u017eivatel."
+        },
+        "2ed85673c671a4f6a96ccccf154dab83": {
+            "text": "P\u0159ihla\u0161ovac\u00ed jm\u00e9no u\u017eivatele"
+        },
+        "c5e601d1ba182fc5a8c177a4f5eb6661": {
+            "text": "Chcete-li toto pole zm\u011bnit, mus\u00edte tak\u00e9 zadat sv\u00e9 aktu\u00e1ln\u00ed heslo do pole \"Nastavit heslo\"."
+        },
+        "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
+            "text": "U\u017eivatelsk\u00e9 jm\u00e9no m\u016f\u017ee obsahovat mal\u00e1 p\u00edsmena a-z, 0-9, poml\u010dka nebo podtr\u017e\u00edtko."
+        },
+        "31ed16771212c1b9c52ea8680a61c5bb": {
+            "text": "Po\u017eadovan\u00e9 heslo bylo zad\u00e1no, ale nen\u00ed spr\u00e1vn\u00e9"
+        },
+        "b54db85c5475befbb8e4d05e3985853b": {
+            "text": "Po\u017eadovan\u00e9 heslo nebylo zad\u00e1no"
+        },
+        "c0902bb307af1c623dc07a6070c33261": {
+            "text": "Nepovoleno"
+        },
+        "c41276451b92f986f438a836dd99ed69": {
+            "text": "O\u0161et\u0159eno na \"% s\", co\u017e se li\u0161\u00ed od toho, co jste zadali"
+        },
+        "c012e2a8b9e129403f8b93547086500a": {
+            "text": "P\u0159\u00edli\u0161 kr\u00e1tk\u00e9"
+        },
+        "b2df7887a34999a0fee743420750a9ec": {
+            "text": "P\u0159\u00edli\u0161 dlouh\u00e9"
+        },
+        "8d7dadc018de46d934c7f3a9c0ade8b7": {
+            "text": "Ji\u017e se pou\u017e\u00edv\u00e1"
+        },
+        "0be33c8c71eb4cbffd8ff2999d0660db": {
+            "text": "Nesm\u00ed za\u010d\u00ednat ani kon\u010dit jinak ne\u017e alfanumerick\u00fdmi nebo \u010d\u00edseln\u00fdmi znaky"
+        },
+        "642249113906da67a3b9d3d446555c93": {
+            "text": "Nesm\u00ed obsahovat spojovn\u00edky, podtr\u017e\u00edtka nebo te\u010dky"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Jm\u00e9no"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Popisek"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Typ"
+        }
+    }
+}

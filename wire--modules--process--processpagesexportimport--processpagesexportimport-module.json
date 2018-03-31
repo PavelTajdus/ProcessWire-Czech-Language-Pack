@@ -1,0 +1,315 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPagesExportImport\/ProcessPagesExportImport.module",
+    "textdomain": "wire--modules--process--processpagesexportimport--processpagesexportimport-module",
+    "translations": {
+        "352f3461a3066e2817043fb2e9e1f932": {
+            "text": "Export\/import je aktu\u00e1ln\u011b dostupn\u00fd pouze pro superu\u017eivatele"
+        },
+        "8894de92408710885e26ee0d7419c76c": {
+            "text": "Import z JSON \u0159et\u011b\u017ece"
+        },
+        "15c369cf22656869f693431abfbabf35": {
+            "text": "Vlo\u017ete \u0159et\u011bzec JSON, kter\u00fd byl d\u0159\u00edve vyexportov\u00e1n pomoc\u00ed tohoto n\u00e1stroje."
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "="
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "="
+        },
+        "1d2c7cbb668a639e64eb4d9d1e11dd21": {
+            "text": "Import z nahran\u00e9ho ZIP souboru"
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Pokra\u010dovat"
+        },
+        "9307d9361fab3e60165754816f70e52f": {
+            "text": "Nenalezena \u017e\u00e1dn\u00e1 data pro import"
+        },
+        "a6255d9c8319899dbe7c65dc74f9307a": {
+            "text": "Neplatn\u00e1 data importu"
+        },
+        "6a50ab53f47b9f8f811ebbaf822fbb16": {
+            "text": "%d nov\u00fdch, %d existuj\u00edc\u00edch"
+        },
+        "bb762878d3e4d3b7a33da405fb77231d": {
+            "text": "Nejsou k dispozici \u017e\u00e1dn\u00e9 podrobnosti importu"
+        },
+        "710dea6bdf095f0b2112f36943789222": {
+            "text": "Str\u00e1nky s \u0161ablonou \"%s\" nelze importovat, proto\u017ee \u0161ablona zde neexistuje."
+        },
+        "6c1d0fdc993bfa095bfa6a0cb500742e": {
+            "text": "Vyberte \u0161ablonu, kter\u00e1 nahrad\u00ed p\u016fvodn\u00ed \u0161ablonu p\u0159i vytv\u00e1\u0159en\u00ed t\u011bchto str\u00e1nek."
+        },
+        "612bd2323b570ffd7610d860b5fc5b9a": {
+            "text": "OK: Zm\u011bna \u0160ABLONY z \u201c%1$s\u201d na \u201c%2$s\u201d"
+        },
+        "a700c516b508fc37ecbdd5ef3e4149c3": {
+            "text": "Vyberte n\u00e1hradu za \u0160ABLONU s n\u00e1zvem \u201c%s\u201d"
+        },
+        "037ef64f930a701f646e32b659309203": {
+            "text": "Pole s n\u00e1zvem \"%s\" typu %s se zobraz\u00ed v importn\u00edch datech, ale neexistuje lok\u00e1ln\u011b."
+        },
+        "e7b3e14b8ea6b4e9b9ded5935a787200": {
+            "text": "Chcete-li toto pole importovat, vyberte zde n\u00e1hradn\u00ed pole."
+        },
+        "b27e66177b699de288b50b3736392350": {
+            "text": "OK: Zm\u011bna POLE z \u201c%1$s\u201d na \u201c%2$s\u201d"
+        },
+        "9f2156a6e113d013e84f6b3d0f787f70": {
+            "text": "Vyberte n\u00e1hradu za POLE s n\u00e1zvem \u201c%s\u201d"
+        },
+        "f3418f35aed2653864c898b1fbfa7f89": {
+            "text": "Mo\u017en\u00e1 pole pro nahrazen\u00ed"
+        },
+        "ea41325267ff33833cdd6f91d5a323d1": {
+            "text": "Ostatn\u00ed pole (nemusej\u00ed b\u00fdt kompatibiln\u00ed)"
+        },
+        "88a97d86b72eac1bb3a897239a5833c7": {
+            "text": "Zvolte novou nad\u0159azenou str\u00e1nku"
+        },
+        "39131ec4699f5661159842adf4828d87": {
+            "text": "Str\u00e1nky maj\u00edc\u00ed nad\u0159azenou str\u00e1nku \"%s\" nelze importovat, proto\u017ee tato str\u00e1nka zde neexistuje."
+        },
+        "9d9d340fef6ece85d9fa8cb168e4cc4b": {
+            "text": "Vyberte nad\u0159azenou str\u00e1nku, kter\u00e1 nahrad\u00ed tu p\u016fvodn\u00ed p\u0159i vytv\u00e1\u0159en\u00ed t\u011bchto str\u00e1nek."
+        },
+        "3b3a36a05707eb5bd0c5a9c6ef8b6bcc": {
+            "text": "OK: Zm\u011bna NAD\u0158AZEN\u00c9 STR\u00c1NKY z \u201c%1$s\u201d na \u201c%2$s\u201d"
+        },
+        "6d4769b2c4ab2c7c6596715d9a95b10a": {
+            "text": "Vyberte n\u00e1hradu za NAD\u0158AZENOU STR\u00c1NKU s n\u00e1zvem \u201c%s\u201d"
+        },
+        "b8fd4cfffa13fd37bbb33085b3d99559": {
+            "text": "Konflikty zdroj\u016f"
+        },
+        "5062a54bca446bff0013b7e3b83971ef": {
+            "text": "Souhrn importu"
+        },
+        "b622b3c2bd4167573c69775914e6bb1c": {
+            "text": "Re\u017eim importu"
+        },
+        "a865157a6095cc25e9db226471350ac0": {
+            "text": "Vytvo\u0159\u00ed nov\u00e9 str\u00e1nky a aktualizuje st\u00e1vaj\u00edc\u00ed"
+        },
+        "093ee62b9967049d867742cc37db9ec6": {
+            "text": "Vytvo\u0159\u00ed pouze nov\u00e9 str\u00e1nky"
+        },
+        "5d22ed76c96cfc210e6659bf465c29d9": {
+            "text": "P\u0159esko\u010d\u00ed ji\u017e existuj\u00edc\u00ed str\u00e1nky"
+        },
+        "8e0e1c009bd6cdb0c55e6d1ab601f9c5": {
+            "text": "Pouze aktualizuje st\u00e1vaj\u00edc\u00ed str\u00e1nky"
+        },
+        "c420555a575c97be4ef7ef4c6335eabd": {
+            "text": "P\u0159esko\u010d\u00ed str\u00e1nky, kter\u00e9 zde neexistuj\u00ed"
+        },
+        "fbd52bbf346d30a5a3c3735d4fd11249": {
+            "text": "Import str\u00e1nek pod nad\u0159azenou str\u00e1nku"
+        },
+        "f725a6ddc1137ce2162d1adcfb06e5e5": {
+            "text": "Kdy\u017e je zad\u00e1no, str\u00e1nky se importuj\u00ed pod zvolenou nad\u0159zenou str\u00e1nku."
+        },
+        "bc148f36b892cd236d9524d31b92ed3a": {
+            "text": "Vyberte nad\u0159azenou str\u00e1nku"
+        },
+        "dc5065164c53ccdaf2afab0a4e92821b": {
+            "text": "Importujte str\u00e1nky pod vybranou nad\u0159azenou str\u00e1nku a zachov\u00e1 strukturu str\u00e1nek"
+        },
+        "9a4182341877068a0de58ca06532a6b5": {
+            "text": "Importuje pouze jako pod\u0159\u00edzen\u00e9 str\u00e1nky"
+        },
+        "56e30d5f1290e2bc227c986608645134": {
+            "text": "Pole povolen\u00e1 pro import"
+        },
+        "75cd6d17fcfe896e1521bbec73924c68": {
+            "text": "N\u00e1sleduj\u00edc\u00ed pole byla nalezena v importn\u00edch datech."
+        },
+        "21f3733b4c29eea78a95595e8fecfdbd": {
+            "text": "Zru\u0161te za\u0161krtnut\u00ed pol\u00ed, kter\u00e9 chcete b\u011bhem importu p\u0159esko\u010dit."
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Jm\u00e9no"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Popisek"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Typ"
+        },
+        "c0a1f9eff88edb62c46edb084004e32b": {
+            "text": "N\u00e1zev str\u00e1nky"
+        },
+        "0a47bbe324aa63b3431f8c3f89791928": {
+            "text": "Stav str\u00e1nky"
+        },
+        "a6425901f3af36ae6ccc9a92b131595a": {
+            "text": "Index \u0159azen\u00ed str\u00e1nek"
+        },
+        "a84ab456be63f90daf5d14573d3a4837": {
+            "text": "Import str\u00e1nek"
+        },
+        "993d770e8a02574766cb9e77f05166d1": {
+            "text": "Test importu"
+        },
+        "5d762b248f371ac7a53ca63b5686689a": {
+            "text": "Prov\u00e9st import"
+        },
+        "ae5736613c76f3a4222d0aa2986413c6": {
+            "text": "Vytvo\u0159it novou str\u00e1nku: %s"
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "\u0160ablona: %s"
+        },
+        "4fb4efe4086f5f135cdf92d1a6b4d865": {
+            "text": "Aktualizovat existuj\u00edc\u00ed str\u00e1nku: %s"
+        },
+        "ac4191b09ac955dce523147b4ae42732": {
+            "text": "Str\u00e1nka: %s - Chyba"
+        },
+        "eed35940c778016bb521e2e86594020f": {
+            "text": "Str\u00e1nka: %s"
+        },
+        "622fd1a9153d7f49d2ab40d3a42e9f2a": {
+            "text": "Obsazen\u00e1 pole:"
+        },
+        "d80c9a644617ba76da47a8d5e776ea2a": {
+            "text": "Zm\u011bn\u011bn\u00e1 pole:"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Nebyly zji\u0161t\u011bny \u017e\u00e1dn\u00e9 zm\u011bny"
+        },
+        "a6d6ed66ec9bac03cd0439959d6efc07": {
+            "text": "Str\u00e1nka nelze importovat"
+        },
+        "556843e4a406b780b0cf83c43366a8dd": {
+            "text": "Import byl \u00fasp\u011b\u0161n\u00fd"
+        },
+        "7cd0babd7de67eb353b6b61a3f86702e": {
+            "text": "Importovat tuto str\u00e1nku?"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ano"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Ne"
+        },
+        "726d6246df516f81a1716ab64006f70a": {
+            "text": "Kter\u00e9 str\u00e1nky chcete importovat?"
+        },
+        "9a4ecf5d3003837af473e07e59527178": {
+            "text": "Str\u00e1nky kter\u00e9 vyberu"
+        },
+        "d1ae61f175e8cff2fe2b233bd744601a": {
+            "text": "Str\u00e1nky, kter\u00e9 maj\u00ed nad\u0159azenou str\u00e1nku"
+        },
+        "0c0f61a363c410be945c0c948ce24dbd": {
+            "text": "Str\u00e1nky odpov\u00eddaj\u00edc\u00ed hled\u00e1n\u00ed"
+        },
+        "4947db62e5b74b73e637f5c4533871c3": {
+            "text": "Vybrat str\u00e1nky"
+        },
+        "4fd182637e2da2b261886dfae6c01659": {
+            "text": "Vyberte jednu nebo v\u00edce str\u00e1nek, kter\u00e9 chcete zahrnout do exportu."
+        },
+        "dc52b4466bd46f4f22f8a5a3049a5357": {
+            "text": "Vyberte nad\u0159azenou str\u00e1nku"
+        },
+        "8a6a2112bdf498013db64d59f301d886": {
+            "text": "Vyberte nad\u0159azenou str\u00e1nku str\u00e1nek, kterou chcete exportovat. Pod\u0159\u00edzen\u00e9 str\u00e1nky t\u00e9to str\u00e1nky tak\u00e9 exportov\u00e1ny."
+        },
+        "e128ece85361c066ea30a503fb868121": {
+            "text": "Dal\u0161\u00ed mo\u017enosti"
+        },
+        "3c96078602fbe987f0b60fbc8b946092": {
+            "text": "Zahrnout nad\u0159azenou str\u00e1nku do exportu"
+        },
+        "556c3dd912453ae5cb3095cd5054e6f4": {
+            "text": "Rekurzivn\u011b"
+        },
+        "c98c2eece26a5aa7e2c47740d864c713": {
+            "text": "Exportuje strom str\u00e1nek sp\u00ed\u0161e ne\u017e jen pod\u0159\u00edzen\u00e9 str\u00e1nky"
+        },
+        "42fdbb35b46ad8e66130cc690f8d2e84": {
+            "text": "Zahrnout skryt\u00e9 str\u00e1nky"
+        },
+        "c7b7b2c71efc438029169573f0c7e7d5": {
+            "text": "Zahrnout skryt\u00e9 a nepublikovan\u00e9 str\u00e1nky"
+        },
+        "afbe62b4d04b9023683b0b64f63fb629": {
+            "text": "Vytvo\u0159te vyhled\u00e1vac\u00ed dotaz, kter\u00e9mu odpov\u00eddaj\u00ed str\u00e1nky pro export"
+        },
+        "5487c98ab1a908b9700fa20e3a3ffc1f": {
+            "text": "P\u0159idejte jedno nebo v\u00edce pol\u00ed pro vyhled\u00e1n\u00ed a shodu str\u00e1nek pro export."
+        },
+        "28024f25f2a4009ee133f8b562b531d5": {
+            "text": "Export pol\u00ed"
+        },
+        "3aee85d275f14778870a9a59094a3248": {
+            "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed jsou do exportu zahrnuty v\u0161echna podporovan\u00e1 pole na str\u00e1nce."
+        },
+        "6a3dac44a256e9471b5fd2ed42b12c0f": {
+            "text": "Pokud chcete, aby export zahrnoval pouze ur\u010dit\u00e9 pole, vyberte je zde."
+        },
+        "cb8c3657faa795632ec15cbd7721a912": {
+            "text": "Nen\u00ed-li proveden \u017e\u00e1dn\u00fd v\u00fdb\u011br, jsou do exportu zahrnuty v\u0161echna podporovan\u00e1 pole."
+        },
+        "e2fe1c296c63b89f877ed53a8be349a1": {
+            "text": "Jak chcete export ulo\u017eit?"
+        },
+        "e97986e2d093cf22639cdabd17762178": {
+            "text": "St\u00e1hnout soubor ZIP"
+        },
+        "216db75e2a4bd42aa6718a66268f5905": {
+            "text": "Text ke kop\u00edrov\u00e1n\u00ed\/vlo\u017een\u00ed"
+        },
+        "52bf0f8917ee90a9e2d755751c651cb3": {
+            "text": "V\u017edy zvolte soubor ZIP, pokud chcete do exportu zahrnout pole soubor\u016f nebo obr\u00e1zk\u016f."
+        },
+        "1828a21cc67aa04125984a6ca450c313": {
+            "text": "Exportovat nyn\u00ed"
+        },
+        "c5806d824bef9a5b89ffad8b8cc3c266": {
+            "text": "JSON pro kop\u00edrov\u00e1n\u00ed\/vlo\u017een\u00ed (v\u00fdchoz\u00ed)"
+        },
+        "7273b7477ad1aad558b4c4fbaba5e3ac": {
+            "text": "St\u00e1hnout soubor ZIP"
+        },
+        "f27cd90ca25ec83caa63a757fc2efcb4": {
+            "text": "Data exportu str\u00e1nek pro kop\u00edrov\u00e1n\u00ed\/vlo\u017een\u00ed"
+        },
+        "3e0018e76b5cc05092e1129c9b46dad7": {
+            "text": "Klikn\u011bte na libovoln\u00e9 m\u00edsto v textu n\u00ed\u017ee a vyberte jej pro kop\u00edrov\u00e1n\u00ed."
+        },
+        "abdb2686b241382010a3933e591a1cbb": {
+            "text": "Tento text m\u016f\u017eete vlo\u017eit do z\u00e1lo\u017eky Import jin\u00e9 instalace Processwire."
+        },
+        "9e695fb18f1a97591ea92d09db081ff9": {
+            "text": "Spus\u0165te jin\u00fd export"
+        },
+        "9a3d09c6f627ab8776c1511913bb6586": {
+            "text": "Importov\u00e1na str\u00e1nka %d"
+        },
+        "76c8ca770c404ebb67fe48d039cf9956": {
+            "text": "Importov\u00e1ny str\u00e1nky %d"
+        },
+        "99c9efe732e034ed4b07956b67ae8677": {
+            "text": "Otestovan\u00fd import str\u00e1nky %d"
+        },
+        "c856d1123aa9d66e1534cd282b3ce877": {
+            "text": "Otestovan\u00fd import str\u00e1nek %d"
+        },
+        "c9b0a12dc552dbd618bd32115aff0a23": {
+            "text": "Nalezena %d str\u00e1nka pro import"
+        },
+        "cde6a4cf0bc2c5dea574eb1384c6d083": {
+            "text": "Nalezeno %d str\u00e1nek pro import"
+        },
+        "e952a9e4d7f52080bd9d79e49d50c57e": {
+            "text": "Tento export zahrnuje %d str\u00e1nku."
+        },
+        "a5e9f843454d6e5f8aef06784d94e3a2": {
+            "text": "Tento export zahrnuje %d str\u00e1nek."
+        }
+    }
+}

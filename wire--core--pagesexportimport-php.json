@@ -1,0 +1,36 @@
+{
+    "file": "wire\/core\/PagesExportImport.php",
+    "textdomain": "wire--core--pagesexportimport-php",
+    "translations": {
+        "624939f6a7a76d86e0b0e0938aacd940": {
+            "text": "Odstran\u011bn star\u00fd adres\u00e1\u0159"
+        },
+        "97da05bb97ff56336c27fa114d6b0207": {
+            "text": "Odstran\u011bn star\u00fd soubor"
+        },
+        "9b1cc00dbcf068b1122b605e857eaa09": {
+            "text": "P\u0159id\u00e1n soubor %d"
+        },
+        "083adbc0f513ffcbf1b3d027b729d86b": {
+            "text": "P\u0159id\u00e1ny soubory %d"
+        },
+        "bdecf31cb76eacb6caf0208cfbbb592b": {
+            "text": "Aktualizov\u00e1no %s pro soubor %d"
+        },
+        "da66c53d674b9fa0de56b687a0bfa5aa": {
+            "text": "Aktualizov\u00e1no %s pro soubory %d"
+        },
+        "3a7a95fd4d51c39124770ea8b6118b15": {
+            "text": "Odstran\u011bn soubor %d"
+        },
+        "d92a31c9965349af72b77222b20eff0d": {
+            "text": "Odstran\u011bny soubory %d"
+        },
+        "f303c7e39b87bd05f15c54af9495df45": {
+            "text": "P\u0159id\u00e1n soubor %d p\u0159es %s"
+        },
+        "619e03cdcca42ac2af53e413ad13c264": {
+            "text": "P\u0159id\u00e1ny soubory %d p\u0159es %s"
+        }
+    }
+}

@@ -11,9 +11,6 @@
         "180efa8a9b1cfee25988715f7d673dbc": {
             "text": "Mo\u017enost A: pole, kter\u00e1 lze upravit na u\u017eivatelsk\u00e9 \u010d\u00e1sti webu"
         },
-        "97f5063cc7446aefa21ae4e7fb3cc146": {
-            "text": "Tyto textov\u00e1 pole budou upraviteln\u00e1 z u\u017eivatelsk\u00e9 \u010d\u00e1sti webu (front-end) p\u0159\u00edmo na str\u00e1nce. Sta\u010d\u00ed za\u0161krtnout, kter\u00e9 pole chcete m\u00edt editovateln\u00e9."
-        },
         "d0526ac74110f73ee2926fd2d650c4a9": {
             "text": "**Bu\u010fte opatrn\u00ed s t\u00edmto nastaven\u00edm.** Pokud zobrazujete hodnotu pole na v\u00edce ne\u017e jednom m\u00edst\u011b na str\u00e1nce, m\u011bli by jste pou\u017e\u00edt sp\u00ed\u0161e [Mo\u017enost B, C nebo D](https:\/\/processwire.com\/api\/modules\/front-end-editing\/)."
         },
@@ -115,6 +112,9 @@
         },
         "5c23fae6f3e37e699b6663a4fa6dbf08": {
             "text": "V\u0161imn\u011bte si, \u017ee p\u0159i pou\u017eit\u00ed atributu \"edit\" je v\u017edy pou\u017eito Modal vyskakovac\u00ed okno. V\u0161echny ostatn\u00ed mo\u017enosti budou pou\u017e\u00edvat \u0159\u00e1dkov\u00fd editor (pokud je podporov\u00e1n)."
+        },
+        "6e8a63eb8616bdb680f111e0b1a5bea3": {
+            "text": "Tato textov\u00e1 pole se stanou editovateln\u00fdmi na front-endu (u\u017eivatelsk\u00e1 \u010d\u00e1st webu), p\u0159\u00edmo na str\u00e1nce, jednodu\u0161e za\u0161krtnut\u00edm n\u00ed\u017ee uveden\u00fdch pol\u00ed\u010dek."
         }
     }
 }

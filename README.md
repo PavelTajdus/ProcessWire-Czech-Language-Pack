@@ -46,7 +46,6 @@ Pokud se chcete dozvědět více, navštivte domovskou stránku [ProcessWire](ht
 # Czech Language Pack for ProcessWire
 
 Czech (cs-CZ) translation files for ProcessWire 3.0.96
-Warning - this is PRE-RELEASE version of language pack.
 
 ## How to Install a Language Pack
 

@@ -1,7 +1,7 @@
 # Český jazykový balíček pro ProcessWire (English follows)
 
 Kompletní český překlad souborů pro ProcessWire verze 3.0.98.
-Plně přeloženo. Na vlastní odpovědnost můžete používat pro produkční použití.
+Plně přeloženo.
 
 ## Jak instalovat balíček s češtinou
 

@@ -1,5 +1,30 @@
 {
     "file": "wire\/core\/LanguageFunctions.php",
     "textdomain": "wire--core--languagefunctions-php",
-    "translations": []
+    "translations": {
+        "fb5bc6b1ef6713a60dc29d381c94f0c0": {
+            "text": "Tento text se d\u00e1 p\u0159elo\u017eit"
+        },
+        "c34814ef5a75aa478503556456ef91d5": {
+            "text": "P\u0159elo\u017eiteln\u00e9 s aktu\u00e1ln\u00edm souborem jako textov\u00e1 dom\u00e9na"
+        },
+        "27fcbef6dfbafc7467da8d1b29113ded": {
+            "text": "P\u0159elo\u017eiteln\u00e9 s jin\u00fdm souborem jako textov\u00e1 dom\u00e9na"
+        },
+        "d1346524ac7f6fe232016c077a9fc6ec": {
+            "text": "Klikn\u011bte pro v\u00edce informac\u00ed"
+        },
+        "59e4da1ec2723e6d05ec5feeaf7f7924": {
+            "text": "Klikn\u011bte pro v\u00edce informac\u00ed"
+        },
+        "5fc84d0317482d09f3ddd893414e51dd": {
+            "text": "Byla nalezena jedna polo\u017eka"
+        },
+        "b676034ffa6131761ecc1b8e151c44ef": {
+            "text": "Nalezeno v\u00edce polo\u017eek"
+        },
+        "a91d611a962e2baf78e47b720f43bfdd": {
+            "text": "Nalezeno %d polo\u017eek"
+        }
+    }
 }

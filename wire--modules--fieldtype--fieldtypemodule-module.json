@@ -2,9 +2,6 @@
     "file": "wire\/modules\/Fieldtype\/FieldtypeModule.module",
     "textdomain": "wire--modules--fieldtype--fieldtypemodule-module",
     "translations": {
-        "335fdfd0673e7e457d51384f686b00dc": {
-            "text": "N\u00e1zev modulu"
-        },
         "40e27ece1fd60ce7081fd3084e866820": {
             "text": "Typy modulu"
         },
@@ -29,8 +26,23 @@
         "bbddef2b960b6e14a0c9510c2312192e": {
             "text": "Popisky voleb"
         },
-        "0900a3f6adfa931e0130c02c436e7e7f": {
-            "text": "N\u00e1zev t\u0159\u00eddy modulu (Module Class Name)"
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "\u017d\u00e1dn\u00e9"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Jm\u00e9no"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titulek"
+        },
+        "3d0e52e8f34a293de17317f094e676b6": {
+            "text": "Titulek a shrnut\u00ed"
+        },
+        "daf361912b4d4260a6a0c3dc31a60312": {
+            "text": "Zobrazit mo\u017enost \"\u017d\u00e1dn\u00e9\"?"
+        },
+        "1177fb816ddc2935c2a8bc55d22b93b1": {
+            "text": "Typ pr\u00e1zdn\u00e9 hodnoty"
         }
     }
 }

@@ -14,9 +14,6 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filtry"
         },
-        "1ada25378d2f81d6394cb823cda822ad": {
-            "text": "Filtrovat podle pole"
-        },
         "3f8255a0588417dee11d58e2b92c59b4": {
             "text": "\u0160ablony obsahuj\u00edc\u00ed pole: %s"
         },
@@ -200,9 +197,6 @@
         "524fe63ba99d979ba854d38529c9abc1": {
             "text": "Chete-li vytvo\u0159it novou \u0161ablonu i p\u0159es to, \u017ee s n\u00ed nen\u00ed asociov\u00e1n \u017e\u00e1dn\u00fd soubor, zadejte n\u00e1zev \u0161ablony."
         },
-        "088244ca195e0e9e57bd38027406b66b": {
-            "text": "Nezahrnovat p\u0159\u00edponu souboru"
-        },
         "b919a5aafc6740109c0c58fe51916178": {
             "text": "Nepovolit str\u00e1nk\u00e1m m\u011bnit jejich \u0161ablonu?"
         },
@@ -346,9 +340,6 @@
         },
         "8d5a5a7af810d2ef80cf02082615c9dd": {
             "text": "Soubor s \u0161ablonou nen\u00ed zapisovateln\u00fd, budete ho muset p\u0159ejmenovat ru\u010dn\u011b (dal\u0161\u00ed informace budou poskytnuty po stisku tla\u010d\u00edtka \"Ulo\u017eit\".)"
-        },
-        "e1f4b06346cdbed5063a5e42a9593f59": {
-            "text": "Jak\u00e1koliv kombinace p\u00edsmen (a-z), \u010d\u00edslic (0-9), poml\u010dek a podtr\u017e\u00edtek (\u017e\u00e1dn\u00e9 mezery). Nep\u0159ipojovat souborovou p\u0159\u00edponu \".php\"."
         },
         "217ca16c1e160b229a71c244512c3d4d": {
             "text": "Soubory \u0161ablon jsou v adres\u00e1\u0159i: %s"
@@ -677,9 +668,6 @@
         "5124b02da7ffa5ef666dc8bde11cd10d": {
             "text": "jak\u00fdkoliv \/ nez\u00e1le\u017e\u00ed na tom"
         },
-        "6703f01fb2662a497ae2d29163ed68c2": {
-            "text": "Jm\u00e9no se ji\u017e pou\u017e\u00edv\u00e1"
-        },
         "0e2511c51c799246bc640afd3b4cc07b": {
             "text": "M\u016f\u017eete zadat v\u00edce n\u00e1zv\u016f \u0161ablon t\u00edm, \u017ee je odd\u011bl\u00edte mezerou."
         },
@@ -941,12 +929,6 @@
         "e2cbec4ffca6b29170e0a79d38d2b6dd": {
             "text": "P\u0159ejmenovan\u00ed \u0161ablony bylo p\u0159esko\u010deno - dokon\u010dete to a\u017e po skon\u010den\u00ed aktu\u00e1ln\u00ed akce."
         },
-        "dd086c8dc23fef8fb9543424864aa9cb": {
-            "text": "Neplatn\u00e9 jm\u00e9no \u0161ablony ur\u010den\u00e9 pro klonov\u00e1n\u00ed"
-        },
-        "ab64903a1bc47ab8cf1767e8d6581c2d": {
-            "text": "Nelze klonovat, proto\u017ee \u0161ablona s t\u00edmto n\u00e1zvem ji\u017e existuje"
-        },
         "0ce8e11f27f5cff906b08ff533da5567": {
             "text": "Vytvo\u0159en klon \u0161ablony \"%1$s\" s n\u00e1zvem \"%2$s\"."
         },
@@ -976,6 +958,27 @@
         },
         "6be7133083e1d91f772589bf24aa5e48": {
             "text": "zadejte 0 pro zak\u00e1z\u00e1n\u00ed"
+        },
+        "1f1e0f35a65380b2fb521f45ebe074d4": {
+            "text": "N\u00e1zvy \u0161ablon mohou pou\u017e\u00edvat p\u00edsmena (a-z A-Z), \u010d\u00edsla (0-9), poml\u010dky a podtr\u017e\u00edtka."
+        },
+        "121b570925fe79a1a61a5af3597db410": {
+            "text": "Mal\u00e1 p\u00edsmena jsou voliteln\u00e1, ale doporu\u010duj\u00ed se."
+        },
+        "f2b378843f03d80972622754302da574": {
+            "text": "Nezahrnujte p\u0159\u00edponu souboru."
+        },
+        "9cc59ab6a716c29aa5e36e79f150552c": {
+            "text": "N\u00e1zev \u0161ablony neodpov\u00edd\u00e1 po\u017eadovan\u00e9mu form\u00e1tu."
+        },
+        "d52ab043aebc166d5bbf3b73e0bffb0f": {
+            "text": "Filtrovat podle pole"
+        },
+        "8ce07bc265e6bec0335b8d17460ff715": {
+            "text": "%d pole"
+        },
+        "f31f5e50313e32f1b8a1d38913e26023": {
+            "text": "%d pol\u00ed"
         }
     }
 }

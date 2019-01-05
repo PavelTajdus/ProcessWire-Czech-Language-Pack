@@ -74,9 +74,6 @@
         "bdeb3e0cbe3d8f44757a86e8da219abc": {
             "text": "Toto opr\u00e1vn\u011bn\u00ed lze p\u0159i\u0159adit pouze u \u0161ablony."
         },
-        "00abcc0a482965cd87aa000c253bf713": {
-            "text": "(zd\u011bd\u011bno z role hosta)"
-        },
         "76ea2cfb7138b9f6db1ca5385ffd6bec": {
             "text": "P\u0159idat do: %s"
         },
@@ -88,6 +85,9 @@
         },
         "4106d43df925487225450293085f8bad": {
             "text": "Opr\u00e1vn\u011bn\u00ed \u201c%1$s\u201d pro \u0161ablonu \u201c%2$s\u201d nen\u00ed povoleno (vy\u017eaduje opr\u00e1vn\u011bn\u00ed \u201c%3$s\u201d)"
+        },
+        "596d1c90537af3c3c588dceedde6bf03": {
+            "text": "(po\u017eadov\u00e1no, proto\u017ee je zd\u011bd\u011bno z role hosta)"
         }
     }
 }

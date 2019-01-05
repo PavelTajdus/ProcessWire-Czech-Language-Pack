@@ -250,6 +250,117 @@
         },
         "e76ea9d62d4a434a98238f3ec7932075": {
             "text": "v\u0161e"
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Kter\u00e9 str\u00e1nky odkazuj\u00ed na tuto str\u00e1nku?"
+        },
+        "b9c25fdc76ccaff0426b33dc56852e77": {
+            "text": "Nen\u00ed uvedena"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "Bylo nalezeno %d dal\u0161\u00edch str\u00e1nek odkazuj\u00edc\u00edch na tuto str\u00e1nku v pol\u00edch str\u00e1nky nebo pomoc\u00ed odkaz\u016f."
+        },
+        "bd3cc7d2c61580ec64f4225eae3a330e": {
+            "text": "(v poli str\u00e1nky)"
+        },
+        "ccab4e644acf8e1bc8a9bef59f811803": {
+            "text": "(v odkazu)"
+        },
+        "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
+            "text": "%d dal\u0161\u00ed str\u00e1nky nejsou zobrazeny."
+        },
+        "3b3ad8a776bd0a0e7498a58c538a95b9": {
+            "text": "Nenalezeny \u017e\u00e1dn\u00e9 dal\u0161\u00ed str\u00e1nky, kter\u00e9 by odkazovaly na tuto str\u00e1nku v pol\u00edch str\u00e1nky nebo odkazech."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Jak\u00e9 dal\u0161\u00ed adresy URL p\u0159esm\u011brov\u00e1vaj\u00ed na tuto str\u00e1nku?"
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "Kdykoli se str\u00e1nka p\u0159esune nebo se zm\u011bn\u00ed n\u00e1zev, pamatujeme si p\u0159edchoz\u00ed um\u00edst\u011bn\u00ed pro p\u0159esm\u011brov\u00e1n\u00ed."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "N\u00ed\u017ee je seznam adres URL (cest), kter\u00e9 automaticky p\u0159esm\u011brov\u00e1vaj\u00ed na tuto str\u00e1nku (pomoc\u00ed 301 trval\u00e9ho p\u0159esm\u011brov\u00e1n\u00ed)."
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "M\u016f\u017eete smazat v\u0161echny cesty\/adresy URL nebo ru\u010dn\u011b p\u0159idat nov\u00e9."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "\u017d\u00e1dn\u00e9 cesty p\u0159esm\u011brov\u00e1n\u00ed"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Zat\u00edm ne"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "Odstran\u011bno p\u0159esm\u011brov\u00e1n\u00ed pro p\u0159edchoz\u00ed adresu URL: %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "P\u0159idat nov\u00e9 URL adresy pro p\u0159esm\u011brov\u00e1n\u00ed"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Zadejte dal\u0161\u00ed cesty\/URL adresy (jedna na \u0159\u00e1dek), kter\u00e9 maj\u00ed p\u0159esm\u011brov\u00e1vat na tuto str\u00e1nku."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Zadejte pouze cestu URL (nap\u0159. \"\/ Hello\/world\/\"), NEzahr\u0148ujte sch\u00e9ma, dom\u00e9nu, port, \u0159et\u011bzec dotazu nebo fragmenty."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "Cesty jsou relativn\u00ed v\u016f\u010di ko\u0159enov\u00e9 slo\u017ece webu, proto NESM\u00cd na za\u010d\u00e1tku obsahovat podadres\u00e1\u0159 %s."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "Chcete-li zadat jazyk pro p\u0159esm\u011brov\u00e1n\u00ed, zadejte cestu\/URL adresu na \u0159\u00e1dku s p\u0159edponou n\u00e1zvu jazyka:"
+        },
+        "beb808c0ab58b957ea0350e633392cee": {
+            "text": "\/vase\/%s\/url\/"
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(pro %s)"
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "P\u0159id\u00e1no p\u0159esm\u011brov\u00e1n\u00ed: %s"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "Nelze p\u0159idat p\u0159esm\u011brov\u00e1n\u00ed %s, proto\u017ee se zd\u00e1, \u017ee koliduje s jinou cestou"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Obnovit"
+        },
+        "0f9445b68a3d6fffc41f65efa9711f6e": {
+            "text": "P\u0159esuout z ko\u0161e a obnovit p\u016fvodn\u00ed um\u00edst\u011bn\u00ed"
+        },
+        "514327d866bf40803bfdf3a678af92ba": {
+            "text": "Za\u0161krtnut\u00edm pol\u00ed\u010dka potvr\u010fte, \u017ee chcete tuto str\u00e1nku obnovit."
+        },
+        "d8514ace7bcb47e0d419377402b13142": {
+            "text": "Str\u00e1nka bude obnovena na: %s."
+        },
+        "e6c6e3f3e972de9c735faefa037529ab": {
+            "text": "P\u016fvodn\u00ed n\u00e1zev bude upraven z %1$s na %2$s, aby byl unik\u00e1tn\u00ed."
+        },
+        "91ce4ed84b455bf383570b705a732cd6": {
+            "text": "Str\u00e1nka nem\u016f\u017ee b\u00fdt obnovena, dokud existuj\u00ed chyby"
+        },
+        "e4da3fa39ff5ce0fd581bc97389b5cdf": {
+            "text": "Obnoven\u00e1 str\u00e1nka: %s"
+        },
+        "e8691f66b2ae08756dac17d0e3b91eb2": {
+            "text": "Chyba p\u0159i obnoven\u00ed str\u00e1nky"
+        },
+        "ea1056a7e305406e5662eb74ed8eb9f1": {
+            "text": "Odstranit"
+        },
+        "a413997b3fa1374648ebd250435071c5": {
+            "text": "Kdy"
+        },
+        "5ee35a979708ef27ee71dcc13f862da0": {
+            "text": "Jazyk"
+        },
+        "1443a205d4656be20da9f81a5b7a5da9": {
+            "text": "Aktu\u00e1ln\u00ed"
+        },
+        "2623934b184a9c5b44a0c9992499b5f6": {
+            "text": "Rodi\u010d"
+        },
+        "c28806887f7038aa8c83cef389bfcec6": {
+            "text": "="
         }
     }
 }

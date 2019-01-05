@@ -26,9 +26,6 @@
         "2ed85673c671a4f6a96ccccf154dab83": {
             "text": "P\u0159ihla\u0161ovac\u00ed jm\u00e9no u\u017eivatele"
         },
-        "c5e601d1ba182fc5a8c177a4f5eb6661": {
-            "text": "Chcete-li toto pole zm\u011bnit, mus\u00edte tak\u00e9 zadat sv\u00e9 aktu\u00e1ln\u00ed heslo do pole \"Nastavit heslo\"."
-        },
         "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
             "text": "U\u017eivatelsk\u00e9 jm\u00e9no m\u016f\u017ee obsahovat mal\u00e1 p\u00edsmena a-z, 0-9, poml\u010dka nebo podtr\u017e\u00edtko."
         },
@@ -67,6 +64,9 @@
         },
         "a1fa27779242b4902f7ae3bdd5c6d508": {
             "text": "Typ"
+        },
+        "75ac88c5fefdf1235b5f0484d3c88a2b": {
+            "text": "Chcete-li tyto zm\u011bny ulo\u017eit, zadejte pros\u00edm sv\u00e9 aktu\u00e1ln\u00ed heslo:"
         }
     }
 }

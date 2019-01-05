@@ -14,14 +14,8 @@
         "ff498dcc16878847ee1d01c38a0138f3": {
             "text": "(EXPERIMENT\u00c1LN\u00cd)"
         },
-        "6f8d1b93e4aad53511c85e29ed36b3d0": {
-            "text": "(v\u00fdchoz\u00ed)"
-        },
         "1a79a4d60de6718e8e5b326e338ae533": {
             "text": "p\u0159\u00edklad"
-        },
-        "2d7e18586d2265fc63934ad26902effb": {
-            "text": "Horn\u00ed li\u0161ta a navigace"
         },
         "5580ceafc3f05d1b31e318f00e2d187c": {
             "text": "U\u017eivatelsk\u00fd avatar"
@@ -62,20 +56,11 @@
         "94badcf29c95c51eb93549c399c1c91d": {
             "text": "P\u0159\u00edklady: \"{name}\", \"{Name}\", \"{title}\", {first_name} {last_name}, \"{company.title}\" atd."
         },
-        "496160bbca5b6421fb40ff6676562b17": {
-            "text": "Akce pro kliknut\u00ed na logo v horn\u00ed li\u0161t\u011b"
-        },
         "96f31592de4b37ce5ff61db935fbfa81": {
             "text": "Zobraz\u00ed z\u00e1kladn\u00ed seznam str\u00e1nek"
         },
         "2fcf0b21fb2e5b0c2ed8774ca91bd3a0": {
             "text": "Otev\u0159e bo\u010dn\u00ed navigaci"
-        },
-        "ebd9bec4d70abc789d439c1f136b0538": {
-            "text": "Rozvr\u017een\u00ed administrace"
-        },
-        "1688f46c79b3285c9de79d60d63d32d0": {
-            "text": "Typ rozhran\u00ed"
         },
         "21924d98c4f369c97991af1760e5fc64": {
             "text": "Klasick\u00e9 s horn\u00ed li\u0161tou"
@@ -101,9 +86,6 @@
         "c0a71759159badff6c9c45f730402dd6": {
             "text": "Ur\u010dete maxim\u00e1ln\u00ed \u0161\u00ed\u0159ku str\u00e1nek administrace (v pixelech) nebo 0 pro \u017e\u00e1dn\u00e9 maximum."
         },
-        "c20f63b379f6b02a18439890f5ce535b": {
-            "text": "Plat\u00ed pouze pro klasick\u00e9 rozvr\u017een\u00ed."
-        },
         "37243206806c555c2dbce190b1f49f37": {
             "text": "Styl notifikac\u00ed"
         },
@@ -116,9 +98,6 @@
         "9d2e228039bb6eef2e6cbaff5c904b56": {
             "text": "V\u017edy zobrazit v\u0161e"
         },
-        "81e3da80ad979591250cca7feb39720b": {
-            "text": "Vlastn\u00ed soubory"
-        },
         "6059a6e9b311f4cb4afd60c154f0bef5": {
             "text": "Hlavn\u00ed soubor CSS"
         },
@@ -130,9 +109,6 @@
         },
         "35c45261e46b5a1400aef3ecbf237879": {
             "text": "Soubor by m\u011bl b\u00fdt PNG, GIF, JPG nebo SVG, na pr\u016fhledn\u00e9m pozad\u00ed a v obou rozm\u011brech alespo\u0148 100 pixel\u016f."
-        },
-        "6c6a6ca96d96fc13c06abbf98f38668f": {
-            "text": "Nastaven\u00ed viditelnosti pole formul\u00e1\u0159e"
         },
         "21909eb7e7cbb04d9c804458848a7af3": {
             "text": "Tato nastaven\u00ed ovliv\u0148uj\u00ed v\u0161echna pole formul\u00e1\u0159e v administraci."
@@ -161,9 +137,6 @@
         "cf83a7d29c286d14e29a97334e9279a5": {
             "text": "Nevztahuje se na typy vybran\u00e9 tak, aby nem\u011bly \u017e\u00e1dn\u00e9 ohrani\u010den\u00ed."
         },
-        "391889c9ed085249fe76c0beb25ad304": {
-            "text": "Typy vstupn\u00edch pol\u00ed, kter\u00e9 by m\u011bly b\u00fdt nav\u00edc posunuty o dal\u0161\u00ed horn\u00ed\/doln\u00ed okraj (margin)."
-        },
         "0d638e3ac46bc8f0cf58d60281ff4ebc": {
             "text": "Jako p\u0159\u00edklad pole (ve skupin\u011b pol\u00ed) pou\u017e\u00edvaj\u00ed tuto mo\u017enost."
         },
@@ -175,6 +148,150 @@
         },
         "1939d9deea3a9b379eca5948b1b3cfc6": {
             "text": "To m\u016f\u017ee v n\u011bkter\u00fdch p\u0159\u00edpadech zlep\u0161it p\u0159ehlednost, ale zabere v\u00edce vertik\u00e1ln\u00edho prostoru."
+        },
+        "38cb04b53f3f1cf755ff1bbd9cc88cd1": {
+            "text": "Hlavi\u010dka + navigace"
+        },
+        "9bc773c48947ebcedc8c2e0a4cfe8f8f": {
+            "text": "Akce po kliknut\u00ed na logo"
+        },
+        "fd248b03e2d006b305f4a7896defe9cc": {
+            "text": "Rozvr\u017een\u00ed + rozhran\u00ed"
+        },
+        "d4d0ee9985bf14169e809b164524b0b0": {
+            "text": "Typ rozvr\u017een\u00ed"
+        },
+        "ed81bfff2c494916fd8a4f7f0526e14c": {
+            "text": "\u0160\u00ed\u0159ky sloupc\u016f pro vstupn\u00ed pole"
+        },
+        "39e84864692943ca0ba0c69e5039ed9a": {
+            "text": "Vyberte mo\u017enost B, pokud m\u00e1te pot\u00ed\u017ee s dosa\u017een\u00edm zam\u00fd\u0161len\u00e9 \u0161\u00ed\u0159ky sloupc\u016f pro pole."
+        },
+        "775d588dfe892290c0bfa5e56590577f": {
+            "text": "Uikit uk-width t\u0159\u00eddy (a\u017e do 6 sloupc\u016f)"
+        },
+        "3ae2bf644696505c219965a72b7cbb70": {
+            "text": "\u0160\u00ed\u0159ky zalo\u017een\u00e9 na procentech (dal\u0161\u00ed flexibilita)"
+        },
+        "d4b002181224e7985e75a3913eb4ac2d": {
+            "text": "Plat\u00ed pouze pro tradi\u010dn\u00ed rozvr\u017een\u00ed."
+        },
+        "683b41edb2bd91ba816cdbe8b67abed4": {
+            "text": "Formul\u00e1\u0159e + vstupn\u00ed pole"
+        },
+        "16b7c3d9f12cdd91bac81d618a62f357": {
+            "text": "P\u0159\u00edklady velikosti pol\u00ed"
+        },
+        "8863450d1e8ee628cf02531395c1fb14": {
+            "text": "P\u0159\u00edklady velikosti pol\u00ed s v\u00fdb\u011brem"
+        },
+        "cb4144ba5a55530ecbf14a45c4d0349d": {
+            "text": "V\u00fdchoz\u00ed velikost pole"
+        },
+        "190d86032ba8b2f2522f36d983700c72": {
+            "text": "Toto ovliv\u0148uje vzhled mnoha textov\u00fdch, textarea pol\u00ed a pol\u00ed s v\u00fdb\u011brem."
+        },
+        "3be905d0e0e23fa3e645f3d70e7d28d3": {
+            "text": "Ne v\u0161echny vstupn\u00ed pole podporuj\u00ed mo\u017enosti \"mal\u00e9\" nebo \"velk\u00e9\"."
+        },
+        "2660064e68655415da2628c2ae2f7592": {
+            "text": "Mal\u00e9"
+        },
+        "831dfeb03973957261415d12c1509f11": {
+            "text": "St\u0159edn\u00ed (v\u00fdchoz\u00ed\/doporu\u010den\u00e9)"
+        },
+        "3a69b34ce86dacb205936a8094f6c743": {
+            "text": "Velk\u00e9"
+        },
+        "dcf96c65e2763ec9e77c895af9d25cbe": {
+            "text": "Typy vstupn\u00edch pol\u00ed, kter\u00e9 by m\u011bly b\u00fdt odsazeny s dal\u0161\u00edm horn\u00edm\/doln\u00edm okrajem."
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Automatick\u00e9"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "\u017d\u00e1dn\u00e9"
+        },
+        "b2dd4aca1dc11bb2c4efcbd9ab347789": {
+            "text": "Nastaven\u00ed \u0161ablony administrace"
+        },
+        "838ee308c6474d98feac3ebbff4c08a8": {
+            "text": "Tato nastaven\u00ed ovliv\u0148uj\u00ed, jak se toto pole zobraz\u00ed p\u0159i pou\u017eit\u00ed s Uikit \u0161ablonou administrace."
+        },
+        "2a94ec4e40704b025161d175bc18fe53": {
+            "text": "P\u0159i volb\u011b mo\u017enosti \"Automatick\u00e9\" se nastaven\u00ed nastav\u00ed za b\u011bhu."
+        },
+        "54e4e4fb8f8494b61dc7407161cff620": {
+            "text": "Nastaven\u00ed \"Okraj\" se vztahuje pouze na pole s \u0161\u00ed\u0159kou 100%."
+        },
+        "741b3715dff40fc66d023ffe7d2ec932": {
+            "text": "Volba \"Automatick\u00e9\" je doporu\u010den\u00e9 v\u00fdchoz\u00ed nastaven\u00ed pro v\u0161echna nastaven\u00ed."
+        },
+        "4c7c5ab57475a86d54c99e99e8cbb5e7": {
+            "text": "Extra mal\u00e9"
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "St\u0159edn\u00ed"
+        },
+        "5b176800a4fa5f818733bbc47bf50c58": {
+            "text": "Velikost pole"
+        },
+        "81508f718ba3c39f2614a6384da3d565": {
+            "text": "\u0160\u00ed\u0159ka pole"
+        },
+        "db3e3f51c9107e26c9bccf9a188ce2ed": {
+            "text": "V\u00fdpl\u0148"
+        },
+        "98369609669478919c74c916440e9978": {
+            "text": "Okraj"
+        },
+        "070554647306343cbea29ebfdd278ba8": {
+            "text": "Ohrani\u010den\u00ed"
+        },
+        "cb5feb1b7314637725a2e73bdc9f7295": {
+            "text": "Barva"
+        },
+        "2bd5addcf7653a473e310fc64bcbac60": {
+            "text": "Minimalizuje stylov\u00e1n\u00ed ovl\u00e1dac\u00edch prvk\u016f formul\u00e1\u0159e"
+        },
+        "0a52730597fb4ffa01fc117d9e71e3a9": {
+            "text": "P\u0159\u00edklad"
+        },
+        "c0bfe90a485c1e5db5e8fd63193fe65f": {
+            "text": "Toto pole jednodu\u0161e demonstruje nastaven\u00ed, kter\u00e1 jste vybrali v\u00fd\u0161e."
+        },
+        "127278ab533d9fcec53fa6c0947df913": {
+            "text": "Dal\u0161\u00ed pole"
+        },
+        "661262f88b0f998e147baacf8778d340": {
+            "text": "Pro n\u00e1hled \u0161\u00ed\u0159ky sloupc\u016f otev\u0159ete pole \u201c%s\u201d uveden\u00e9 v\u00fd\u0161e."
+        },
+        "7ce481195c78d64795db8cf62a6df04d": {
+            "text": "Obrys"
+        },
+        "0afa7ae71fac97af574e05f44f2296c5": {
+            "text": "Karta"
+        },
+        "8101df5a8d382ef957a02876d08a6f0f": {
+            "text": "Transparentn\u00ed"
+        },
+        "eed661e12b91dcdc202ea5682df87a83": {
+            "text": "Prim\u00e1rn\u00ed"
+        },
+        "702f41f09f0670ea93e1bb7121a835eb": {
+            "text": "Sekund\u00e1rn\u00ed"
+        },
+        "d819318a32ee146ed8fec4feb03aab02": {
+            "text": "Zv\u00fdrazn\u011bn\u00e9"
+        },
+        "42d6b04b169e71af86e5bff6ca177f11": {
+            "text": "Upozorn\u011bn\u00ed"
+        },
+        "5a9e33ceafdb38535a8dcee28ff0cd68": {
+            "text": "Nebezpe\u010d\u00ed"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Pokro\u010dil\u00e9"
         }
     }
 }

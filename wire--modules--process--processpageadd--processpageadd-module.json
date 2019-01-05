@@ -65,9 +65,6 @@
         "41553b358b6daba19bf079d5ad3eefb1": {
             "text": "Nepou\u017e\u00edvan\u00e1 do\u010dasn\u00e1 (temp) str\u00e1nka"
         },
-        "bd71df4fde063d60b0fe33d87f52f7ff": {
-            "text": "Upozorn\u011bn\u00ed: jm\u00e9no, kter\u00e9 jste vybrali \"%1$s\", ji\u017e bylo pou\u017e\u00edv\u00e1no a bylo zm\u011bn\u011bno na \"%2$s\"."
-        },
         "a713b3cf3828f00d541e6ae14b294a8f": {
             "text": "Str\u00e1nky, kter\u00e9 jste vybrali v\u00fd\u0161e, p\u0159edstavuj\u00ed z\u00e1lo\u017eky na nad\u0159azen\u00e9 str\u00e1nky, kam chcete p\u0159idat potomky. V\u0161imn\u011bte si, \u017ee pokud u\u017eivatel nem\u00e1 opr\u00e1vn\u011bn\u00ed p\u0159idat str\u00e1nku na danou rodi\u010dovskou str\u00e1nku (a\u0165 u\u017e kv\u016fli \u0159\u00edzen\u00ed p\u0159\u00edstupu nebo nastaven\u00ed rodiny \u0161ablon), z\u00e1lo\u017eka se nezobraz\u00ed."
         },
@@ -82,6 +79,9 @@
         },
         "9d9c4e8d05601024166b9a3b0cb46ad6": {
             "text": "V\u00fdb\u011br \u0161ablony je vy\u017eadov\u00e1n"
+        },
+        "6649c293aa8a0af33c071f946674fc31": {
+            "text": "Varov\u00e1n\u00ed, vybran\u00e9 jm\u00e9no \"%1$s\" bylo zm\u011bn\u011bno na \"%2$s\"."
         }
     }
 }

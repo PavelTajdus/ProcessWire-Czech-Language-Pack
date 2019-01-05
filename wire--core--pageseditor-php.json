@@ -7,6 +7,21 @@
         },
         "f7b20059533e8267e92eecda0b6eee8e": {
             "text": "Chyba p\u0159i ukl\u00e1d\u00e1n\u00ed pole \"%s\""
+        },
+        "659a129a2ef73cd3628cdb82dd2ecfb7": {
+            "text": "Str\u00e1nka pou\u017e\u00edvaj\u00edc\u00ed \u0161ablonu \u201c%s\u201d nelze p\u0159esunout."
+        },
+        "de2497c4afe885df1cae702f984bc35d": {
+            "text": "Vybran\u00fd rodi\u010d \u201c%1$s\u201d pou\u017e\u00edv\u00e1 \u0161ablonu \u201c%2$s\u201d, kter\u00e1 neumo\u017e\u0148uje podstr\u00e1nky."
+        },
+        "054467106726884f49f1059fa63c12a7": {
+            "text": "Nelze p\u0159esunout \u201c%1$s\u201d, nebo\u0165 \u0161ablona \u201c%2$s\u201d pou\u017eit\u00e1 na str\u00e1nce \u201c%3$s\u201d neumo\u017e\u0148uje podstr\u00e1nk\u00e1m pou\u017e\u00edt \u0161ablonu \u201c%4$s\u201d."
+        },
+        "39f8623f438de062026d1508751a5e3d": {
+            "text": "Nelze p\u0159esunout \u201c%1$s\u201d, proto\u017ee \u0161ablona \u201c%2$s\u201d pou\u017eit\u00e1 nov\u00fdm rodi\u010dem \u201c%3$s\u201d nen\u00ed povolena \u0161ablonou p\u0159esunut\u00e9 str\u00e1nky \u201c%4$s\u201d."
+        },
+        "f99ff7a362ba2a69eb85a3e3f2bfe1e4": {
+            "text": "Vybran\u00fd rodi\u010d \u201c%1$s\u201d ji\u017e m\u00e1 str\u00e1nku s n\u00e1zvem \u201c%2$s\u201d."
         }
     }
 }

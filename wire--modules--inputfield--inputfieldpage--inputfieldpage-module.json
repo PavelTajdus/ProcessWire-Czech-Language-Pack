@@ -59,9 +59,6 @@
         "5e1daea70649e788db6ead8cd50f791d": {
             "text": "Nepublikovan\u00e1 str\u00e1nka %1$s nen\u00ed v poli \"%2$s\" povolena"
         },
-        "1cc510dea04a978b3bb88514582eea6c": {
-            "text": "Pro povolen\u00ed nepublikovan\u00fdch str\u00e1nek, editujte pole \"%s\" a projd\u011bte nastaven\u00ed pod z\u00e1lo\u017ekou \"Pokro\u010dil\u00e9\"."
-        },
         "1920ec4f46fd3f4962d351c84f69cf7e": {
             "text": "parent=\/produkty\/, template=produkt, sort=nazev"
         },
@@ -190,6 +187,9 @@
         },
         "8379c940f14c74babf288df5cec8a408": {
             "text": "3. \"Pole pro titulek\" mus\u00ed b\u00fdt nastaveno na \"title (default)\"."
+        },
+        "1f6147d9cbae7fa8c3e213824bce6405": {
+            "text": "Chcete-li povolit nepublikovan\u00e9 str\u00e1nky, upravte pole \u201c%s\u201d a pod\u00edvejte se na nastaven\u00ed na kart\u011b Detaily."
         }
     }
 }

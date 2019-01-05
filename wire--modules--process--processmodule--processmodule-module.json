@@ -137,9 +137,6 @@
         "418cab01f270b56053a218c414840ec9": {
             "text": "St\u00e1hnout a aktualizovat"
         },
-        "8de5f3b8fe691cf6304176b9a5ed54da": {
-            "text": "M\u016f\u017eete proch\u00e1zet adres\u00e1\u0159 modul\u016f a vyhledat, kter\u00fd chcete st\u00e1hnout a nainstalovat. Zadejte nebo vlo\u017ete n\u00e1zev t\u0159\u00eddy (\"class name\") modulu, kter\u00fd chcete nainstalovat."
-        },
         "2b0c95ea68acdfcd4e4d995f89bf3b92": {
             "text": "Modul nem\u00e1 uvedenu kompatibilitu s touto verz\u00ed ProcessWire. To neznamen\u00e1 \u017ee nebude fungovat, ale mo\u017en\u00e1 bude pot\u0159eba zkontrolovat modul jeho autorem."
         },
@@ -409,6 +406,18 @@
         },
         "7f3e66ccbb2c396210f9f58ad5a75e39": {
             "text": "="
+        },
+        "43e59b407ace3714a7913e09ad22a594": {
+            "text": "Z\u00edskejte informace o modulu"
+        },
+        "3c6392d21eded83348fcd9ba6fbf3784": {
+            "text": "St\u00e1hnout te\u010f"
+        },
+        "bb767ff00426d9e68c6a09aef27403b1": {
+            "text": "M\u016f\u017eete proch\u00e1zet adres\u00e1\u0159 modul\u016f a naj\u00edt modul, kter\u00fd chcete st\u00e1hnout a nainstalovat."
+        },
+        "a2eff7125bf22d0665eb96166b471821": {
+            "text": "Zadejte nebo vlo\u017ete n\u00e1zev t\u0159\u00eddy modulu, kter\u00fd chcete nainstalovat, a pak pokra\u010dujte kliknut\u00edm na tla\u010d\u00edtko \"%s\"."
         }
     }
 }

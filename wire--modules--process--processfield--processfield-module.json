@@ -11,17 +11,11 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filtry"
         },
-        "89872ab3eb9af52f34b4dd82077758fc": {
-            "text": "Filtrovat podle \u0161ablony"
-        },
         "363746a770985e537565b276b37c438e": {
             "text": "Zobrazuji pole ze \u0161ablony: %s"
         },
         "a81c2112e97c64099ff86d5b97cb13c6": {
             "text": "Pole podle \u0161ablony"
-        },
-        "d9a45316e3230df36980cf6ab8983485": {
-            "text": "Filtrovat podle typu pole"
         },
         "c64f8a38fc13441f6cc860a4cbae887a": {
             "text": "Smazat pole"
@@ -80,9 +74,6 @@
         "f98b1dd6f292ac2dfa3f8b0f9a8df9b0": {
             "text": "Pridat nov\u00e9 pole"
         },
-        "cba80ebc9ff6059cddbf49c3f46172a6": {
-            "text": "\u017d\u00e1dn\u00fd (v\u00fdchoz\u00ed)"
-        },
         "1f2b73286f18ea71c594652199e86dff": {
             "text": "Zru\u0161it"
         },
@@ -91,9 +82,6 @@
         },
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Z\u00e1klady"
-        },
-        "0071819b4ba5f6d112dbf1eab7cbe2ae": {
-            "text": "Typ"
         },
         "9ea1f3769ad9c72e3ebf7de539b53aa1": {
             "text": "Popis"
@@ -125,12 +113,6 @@
         "83cfa166d441c1b47108e5d6b3f21cbe": {
             "text": "Popisek"
         },
-        "7facb165145d489aeaa6743a6f9f1f55": {
-            "text": "Popisek"
-        },
-        "380f82872d1eb16c53b69ce4cfb45c9f": {
-            "text": "Zobrazit vestav\u011bn\u00e1 pole?"
-        },
         "ee2d3754b6e7f57898d9d8670f78ae71": {
             "text": "Pokro\u010dil\u00e9 mo\u017enosti"
         },
@@ -143,23 +125,14 @@
         "b3dd3da27d2927b5c36e28d771388c7d": {
             "text": "Zm\u011bn\u011bn typ pole"
         },
-        "bcb2ce4355834a060bef50afb9127603": {
-            "text": "V\u011bstav\u011bn\u00e9"
-        },
         "189f63f277cd73395561651753563065": {
             "text": "\u0160t\u00edtky"
-        },
-        "7f511c25eccff9ce7127eecfb136f443": {
-            "text": "Ka\u017ed\u00fd \u0161t\u00edtek mus\u00ed b\u00fdt jedno slovo (poml\u010dky jsou povoleny)."
         },
         "410267bd4e3c99784bab90c5e64b5209": {
             "text": "Vybr\u00e1n\u00ed \u0161ablony omez\u00ed  seznam zobrazen\u00fdch pol\u00ed na pole pou\u017eit\u00e1 ve vybran\u00e9 \u0161ablon\u011b. Filtrov\u00e1n\u00ed podle \u0161ablony zobrazuje i syst\u00e9mov\u00e9 \u0161abony, kter\u00e9 jsou ozna\u010deny pomoc\u00ed (*)."
         },
         "db2b4f5915e2053955edfec38776a17f": {
             "text": "Vybr\u00e1n\u00ed typu pole omez\u00ed seznam zobrazen\u00fdch pol\u00ed na zvolen\u00fd typ pole. Filtrov\u00e1n\u00ed podle typu pole zobrazuje i vestav\u011bn\u00e1 pole."
-        },
-        "1535d0228ba3626bad19ec55142ffcc6": {
-            "text": "Zobrazuj\u00ed se v\u0161echna pole v\u010detn\u011b vestav\u011bn\u00fdch."
         },
         "4cca2a863deef0fc4de9115b9164537b": {
             "text": "Neo\u0161t\u00edtkovan\u00e1"
@@ -178,9 +151,6 @@
         },
         "3df354a032179f36ea493c3df6643ce1": {
             "text": "Pokud chcete vizu\u00e1ln\u011b seskupit toto pole s ostatn\u00edma v seznamu pol\u00ed, vlo\u017ete jednoslovn\u00fd \u0161t\u00edtek (tag). Pou\u017eijte stejn\u00fd \u0161t\u00edtek na jin\u00e1 pole, kter\u00e1 chcete seskupit. V\u00edce \u0161t\u00edtk\u016f odd\u011blujte mezerou. Pou\u017eit\u00ed \u0161t\u00edtk\u016f m\u016f\u017ee b\u00fdt u\u017eite\u010dn\u00e9, pokud v\u00e1\u0161 web obsahuje velk\u00fd po\u010det pol\u00ed."
-        },
-        "78bd709db99c927f3a59a1983f18c237": {
-            "text": "Pro automatick\u00e9 zabalen\u00ed \u0161t\u00edtku v seznamu pol\u00ed mu p\u0159ed\u0159a\u010fte poml\u010dku. Nap\u0159\u00edklad: -ahoj"
         },
         "c2311f219b7dc0a845a537a7a26fa8b3": {
             "text": "Pokud jste si jisti, \u017ee chcete zm\u011bnit typ pole, za\u0161krtn\u011bte pol\u00ed\u010dko n\u00ed\u017ee a ode\u0161lete tento formul\u00e1\u0159."
@@ -257,9 +227,6 @@
         "a698a809093ad1c25ea277ff03ae5fc7": {
             "text": "Akce"
         },
-        "0e26a613a19dbe1752912c253f5b2e37": {
-            "text": "N\u00e1zev"
-        },
         "1cdcfe223f7fb1cc15748a347bf161b2": {
             "text": "Ano"
         },
@@ -277,9 +244,6 @@
         },
         "a6f1b7f6b210b19d1d4ff7722c8fd790": {
             "text": "Pozn\u00e1mky"
-        },
-        "0e6b389782e160492d4fe3a397e392df": {
-            "text": "\u0160t\u00edtek"
         },
         "799ef6a367b3b36deb5be25ef8e7c91a": {
             "text": "P\u0159\u00edstup"
@@ -584,15 +548,6 @@
         "c4d3fb0af8e800de549531cccd8a19f8": {
             "text": "Upozorn\u011bn\u00ed: nastaven\u00ed, kter\u00e1 p\u0159esahuj\u00ed nastaven\u00ed specifikovan\u00e9 autorem modulu, nemus\u00ed v\u017edy fungovat nebo mohou zp\u016fsobit probl\u00e9my."
         },
-        "b021df6aac4654c454f46c77646e745f": {
-            "text": "Popisek"
-        },
-        "49ee3087348e8d44e1feda1917443987": {
-            "text": "Jm\u00e9no"
-        },
-        "a1fa27779242b4902f7ae3bdd5c6d508": {
-            "text": "Typ"
-        },
         "2babe53026309ed1bc4d26626dbaf9b3": {
             "text": "Detaily:"
         },
@@ -610,6 +565,57 @@
         },
         "07f32475d23721446e940087c7e26b53": {
             "text": "Toto nebude fungovat, proto\u017ee hodnoty mus\u00ed b\u00fdt ID str\u00e1nek"
+        },
+        "c101058e7ea21bbbf2a5ac893088e90b": {
+            "text": "\u0160t\u00edtek"
+        },
+        "c145e5825899a7a53cf8a14b64e53639": {
+            "text": "Spravovat \u0161t\u00edtky"
+        },
+        "f62aef3d1bcf85a63cf9af0e03a46c0f": {
+            "text": "Filtrovat podle \u0161ablony"
+        },
+        "8870ba7044d8bb0fd95686ec955f9109": {
+            "text": "Filtrovat podle typu"
+        },
+        "a922cb7ffa163fa26dfe9e44aaa24d32": {
+            "text": "Uk\u00e1zat syst\u00e9mov\u00e9 \u0161t\u00edtky?"
+        },
+        "7db27839ce9f9208f2b52bb9a48220a9": {
+            "text": "Zobrazuj\u00ed se v\u0161echna pole, v\u010detn\u011b vestav\u011bn\u00e9ho syst\u00e9mov\u00fdch a trval\u00fdch pol\u00ed."
+        },
+        "1bd8f22fdbf8e9e0ca28f3f1e276b085": {
+            "text": "\u0160t\u00edtek: %s"
+        },
+        "5da3b0e9c19f86443f6ad42f6d0d1456": {
+            "text": "Vybrat v\u0161echna pole, kter\u00e1 maj\u00ed tento \u0161t\u00edtek"
+        },
+        "2eea24744a636478929cd8cbbe444ded": {
+            "text": "Zobrazit jako sbalen\u00fd v seznamu pol\u00ed?"
+        },
+        "cd83a77df71e48e6273b925549e0af71": {
+            "text": "Chcete-li tento \u0161t\u00edtek smazat, odstra\u0148te z n\u00ed v\u0161echna pole."
+        },
+        "ed4def612e69863794dc9c98db08b464": {
+            "text": "P\u0159id\u00e1n \u0161t\u00edtek \u201c%1$s\u201d do pole: %2$s"
+        },
+        "ab7c81ccbce2415afa58b092a3c58162": {
+            "text": "Odebr\u00e1n \u0161t\u00edtek \u201c%1$s\u201d z pole: %2$s"
+        },
+        "d80b6b9388a3f3767f80be5c2ab78976": {
+            "text": "\u0160t\u00edtky umo\u017e\u0148uj\u00ed vytv\u00e1\u0159et sb\u00edrky pol\u00ed pro v\u00fdpis nebo vyhled\u00e1v\u00e1n\u00ed."
+        },
+        "718bd4be79fcb0bac1a4ff2e4528d45d": {
+            "text": "Upozorn\u011bn\u00ed: \u0161t\u00edtek \"% s\" m\u00e1 stejn\u00fd n\u00e1zev jako pole."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "P\u0159idat nov\u00fd \u0161t\u00edtek"
+        },
+        "c6e44f0384ed0d130e044f153e7b772f": {
+            "text": "Ka\u017ed\u00fd \u0161t\u00edtek mus\u00ed b\u00fdt jedno slovo (podtr\u017e\u00edtka jsou v po\u0159\u00e1dku)."
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "Syst\u00e9m"
         }
     }
 }

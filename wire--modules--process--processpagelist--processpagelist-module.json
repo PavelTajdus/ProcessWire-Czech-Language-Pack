@@ -70,6 +70,39 @@
         },
         "9f8ce5c6cbebc34795f4241c8932573a": {
             "text": "(%d str\u00e1nek)"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Umo\u017enit editor\u016fm, kte\u0159\u00ed nemaj\u00ed pr\u00e1va superu\u017eivatele, pou\u017e\u00edvat ko\u0161?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "Pokud je za\u0161krtnuto, u\u017eivatel\u00e9 budou moci vid\u011bt str\u00e1nky v ko\u0161i (pouze str\u00e1nky, ke kter\u00fdm maj\u00ed p\u0159\u00edstup)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "To tak\u00e9 povol\u00ed akce \"Odstranit\" a \"Obnovit\", pokud to povoluj\u00ed pr\u00e1va."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Zobrazen\u00ed \u010d\u00edsla - mno\u017estv\u00ed pro podstr\u00e1nky"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "V seznamu str\u00e1nek se vedle ka\u017ed\u00e9 str\u00e1nky zobraz\u00ed mno\u017estv\u00ed podstr\u00e1nek, je-li to mo\u017en\u00e9. Jak\u00fd typ mno\u017estv\u00ed by se m\u011bl ukazovat?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "P\u0159i zobrazov\u00e1n\u00ed podstr\u00e1nek obsahuje toto mno\u017estv\u00ed v\u0161echny potomky, a\u0165 u\u017e m\u00e1 u\u017eivatel pr\u00e1vo na zobrazen\u00ed, nebo ne."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "P\u0159\u00edm\u00e9 podstr\u00e1nky (v\u00fdchoz\u00ed)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Podstr\u00e1nky: podstr\u00e1nky, pod-podstr\u00e1nky, pod-pod-podstr\u00e1nky atd."
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Oboj\u00ed: podstr\u00e1nky\/pod-podstr\u00e1nky"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Oboj\u00ed: pod-podsrt\u00e1nky\/podstr\u00e1nky"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "M\u00edsto toho zobrazit ID str\u00e1nky"
         }
     }
 }

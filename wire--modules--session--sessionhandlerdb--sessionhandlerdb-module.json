@@ -1,1 +1,30 @@
-{"file":"wire\/modules\/Session\/SessionHandlerDB\/SessionHandlerDB.module","textdomain":"wire--modules--session--sessionhandlerdb--sessionhandlerdb-module","translations":{"262f42ad28e2d01d7dc5afa698716099":{"text":"Sledovat IP adresy v session datech?"},"6514b2122a2e569491dccb69eebe383c":{"text":"Za\u0161krtnut\u00ed tohoto pol\u00ed\u010dka umo\u017en\u00ed zobrazen\u00ed dat ve va\u0161em administra\u010dn\u00edm rozhran\u00ed pro sessions."},"ab5b4b2116f61fda9325e6deb591bb8f":{"text":"Sledovat hlavi\u010dku user-agent v session datech?"},"703fdc8134134754f6630df73ee50572":{"text":"Hlavi\u010dka user-agent obvykle obsahuje informace o pou\u017eit\u00e9m prohl\u00ed\u017ee\u010di."}}}
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/SessionHandlerDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--sessionhandlerdb-module",
+    "translations": {
+        "262f42ad28e2d01d7dc5afa698716099": {
+            "text": "Sledovat IP adresy v session datech?"
+        },
+        "6514b2122a2e569491dccb69eebe383c": {
+            "text": "Za\u0161krtnut\u00ed tohoto pol\u00ed\u010dka umo\u017en\u00ed zobrazen\u00ed dat ve va\u0161em administra\u010dn\u00edm rozhran\u00ed pro sessions."
+        },
+        "ab5b4b2116f61fda9325e6deb591bb8f": {
+            "text": "Sledovat hlavi\u010dku user-agent v session datech?"
+        },
+        "703fdc8134134754f6630df73ee50572": {
+            "text": "Hlavi\u010dka user-agent obvykle obsahuje informace o pou\u017eit\u00e9m prohl\u00ed\u017ee\u010di."
+        },
+        "ba361c497e1c5943748b4df7933d353f": {
+            "text": "Zak\u00e1zat paraleln\u00ed relace?"
+        },
+        "34fde9e07a3a1cae09017ec0a9ae2c31": {
+            "text": "Pokud je povoleno, \u00fasp\u011b\u0161n\u00e9 p\u0159ihl\u00e1\u0161en\u00ed odstran\u00ed v\u0161echny dal\u0161\u00ed relace pro dan\u00e9ho u\u017eivatele v jin\u00fdch za\u0159\u00edzen\u00edch \/ prohl\u00ed\u017ee\u010d\u00edch."
+        },
+        "d95cdb1f2c4fd9c3c22f548068589fa3": {
+            "text": "Za\u0161krtnut\u00edm tohoto pol\u00ed\u010dka povol\u00edte sou\u010dasn\u011b pouze jednu relaci pro p\u0159ihl\u00e1\u0161en\u00e9ho u\u017eivatele."
+        },
+        "8883240d9c18322fd43dfd39c8b32e14": {
+            "text": "P\u0159edchoz\u00ed relace p\u0159ihl\u00e1\u0161en\u00ed pro \"%s\" byla odstran\u011bna\/odhl\u00e1\u0161ena."
+        }
+    }
+}

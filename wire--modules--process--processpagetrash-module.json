@@ -5,35 +5,50 @@
         "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
             "text": "Ko\u0161 je pr\u00e1zdn\u00fd"
         },
-        "b93325ff37316801eaf36f95c25a75e3": {
-            "text": "V ko\u0161i jsou n\u00e1sleduj\u00edc\u00ed str\u00e1nky"
-        },
-        "206c3d86254559ad3cd3b88e8e002113": {
-            "text": "Vypr\u00e1zdnit ko\u0161"
-        },
-        "80a9994143f3ef28a7ba4fd1dd67436a": {
-            "text": "Pros\u00edm potvr\u010fte, \u017ee chcete vypr\u00e1zdnit ko\u0161."
-        },
         "76c155bf8de0fe17853a8d8c231f72b0": {
             "text": "Ko\u0161 str\u00e1nky (Page Trash)"
         },
         "920202a83e840023ebf5ac6e31ccfbf3": {
-            "text": "\u0158e\u0161\u00ed vyprazd\u0148ov\u00e1n\u00ed str\u00e1nky z ko\u0161e"
+            "text": "\u0158e\u0161\u00ed vyprazd\u0148ov\u00e1n\u00ed ko\u0161e str\u00e1nek"
         },
         "1012544490a2eae7e9782116062941b6": {
             "text": "Pokud je v ko\u0161i p\u0159\u00edli\u0161 mnoho polo\u017eek, m\u016f\u017ee b\u00fdt nutn\u00e9 jej vypr\u00e1zdnit n\u011bkolikr\u00e1t."
         },
-        "671ad2168f66a9b66f8d97c8a4ad2794": {
-            "text": "Ko\u0161 byl vypr\u00e1zdn\u011bn"
+        "d97ed15efb05fad91c607749ebcab79e": {
+            "text": "Za\u0161krtn\u011bte pol\u00ed\u010dko pro potvrzen\u00ed"
         },
-        "de1fd0d21eb1f64deec95ed694fffed0": {
-            "text": "Ne v\u0161echny str\u00e1nky mohly b\u00fdt smaz\u00e1ny"
+        "dc097f8cfcf3251cf70e684e28515eb5": {
+            "text": "(%d str\u00e1nek za vte\u0159inu)"
         },
-        "7c9ca1a0395393577cf4cf3f3e7f0b8d": {
-            "text": "(%d str\u00e1nka)"
+        "7f3d24328c95805774f2fd34fc2a79e2": {
+            "text": "Ne v\u0161echny str\u00e1nky mohly b\u00fdt smaz\u00e1ny (%d zb\u00fdv\u00e1)"
         },
-        "9f8ce5c6cbebc34795f4241c8932573a": {
-            "text": "(%d str\u00e1nky)"
+        "d7dd8da0daa978390eb2d2d08495b0f8": {
+            "text": "Dosa\u017eeno \u010dasov\u00e9ho limitu (%d vte\u0159in)"
+        },
+        "a7ba99f8126601330132e87659987ca3": {
+            "text": "Vysypat ko\u0161 (potvr\u010fte)"
+        },
+        "449d5f439f475ea845545769d93ec42f": {
+            "text": "Str\u00e1nky v ko\u0161i"
+        },
+        "b7750c7b7ef35775735ea2133810d06b": {
+            "text": "\u010casov\u00fd limit (v sekund\u00e1ch)"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Zru\u0161it"
+        },
+        "b246b52c4b32fcf1d8ef0c6144f3fb53": {
+            "text": "Vymaz\u00e1na %d str\u00e1nka"
+        },
+        "adc38f6c0e8a0f6296294e08a2ca3c64": {
+            "text": "Vymaz\u00e1no %d str\u00e1nek"
+        },
+        "5f489bcc97cbc73f35cbd127c5c0053a": {
+            "text": "Trvale vymazat %d str\u00e1nku z ko\u0161e?"
+        },
+        "7d45095d03e58ce1a62afd6e0d149bf0": {
+            "text": "Trvale vymazat %d str\u00e1nek z ko\u0161e?"
         }
     }
 }

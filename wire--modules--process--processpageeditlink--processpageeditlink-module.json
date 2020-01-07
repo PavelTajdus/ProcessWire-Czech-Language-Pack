@@ -14,9 +14,6 @@
         "eb629addbfc0dd4a0353d6defff81923": {
             "text": "Typ URL pro odkazy na str\u00e1nky"
         },
-        "6b02648ef824ca0a58b9a40518ff1152": {
-            "text": "Absolutn\u00ed (v\u00fdchoz\u00ed)"
-        },
         "2c8a0fad581fd58be051633bfdaa53d0": {
             "text": "Relativn\u00ed URL adresy pouze ve stejn\u00e9 v\u011btvi (same branches only)"
         },
@@ -118,6 +115,9 @@
         },
         "1da324557a591359538e1705e30b5dea": {
             "text": "P\u0159\u00edklad: Zad\u00e1n\u00edm parametru **_blank**  se extern\u00ed odkaz otev\u0159e v nov\u00e9m okn\u011b."
+        },
+        "9d622cf09c8c619959d7e4712908b73a": {
+            "text": "\u00dapln\u00e1\/absolutn\u00ed cesta od ko\u0159enov\u00e9ho adres\u00e1\u0159e (v\u00fdchoz\u00ed)"
         }
     }
 }

@@ -164,9 +164,6 @@
         "ed81bfff2c494916fd8a4f7f0526e14c": {
             "text": "\u0160\u00ed\u0159ky sloupc\u016f pro vstupn\u00ed pole"
         },
-        "39e84864692943ca0ba0c69e5039ed9a": {
-            "text": "Vyberte mo\u017enost B, pokud m\u00e1te pot\u00ed\u017ee s dosa\u017een\u00edm zam\u00fd\u0161len\u00e9 \u0161\u00ed\u0159ky sloupc\u016f pro pole."
-        },
         "775d588dfe892290c0bfa5e56590577f": {
             "text": "Uikit uk-width t\u0159\u00eddy (a\u017e do 6 sloupc\u016f)"
         },
@@ -292,6 +289,9 @@
         },
         "9b6545e4cea9b4ad4979d41bb9170e2b": {
             "text": "Pokro\u010dil\u00e9"
+        },
+        "5d6497b7aaafbba82795cd9626c2f508": {
+            "text": "Vyberte mo\u017enost B, pokud m\u00e1te pot\u00ed\u017ee s dosa\u017een\u00edm zam\u00fd\u0161len\u00e9 \u0161\u00ed\u0159ky sloupc\u016f pro pole."
         }
     }
 }

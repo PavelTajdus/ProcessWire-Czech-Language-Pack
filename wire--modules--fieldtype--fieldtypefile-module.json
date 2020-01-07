@@ -106,6 +106,12 @@
         },
         "43bce07bd160232ee31114541357640c": {
             "text": "Zadejte zna\u010dky (tags) odd\u011blen\u00e9 mezerou. Zna\u010dky mohou obsahovat p\u00edsmena, \u010d\u00edslice, podtr\u017e\u00edtka nebo poml\u010dky."
+        },
+        "d51491292f62e94821f0fb6802cc1849": {
+            "text": "Povolen\u00fd typ modulu pro vlastn\u00ed pole"
+        },
+        "100061c6a3b1c84e1a3617988f77bd88": {
+            "text": "Typy s p\u0159e\u0161krtnut\u00edm pravd\u011bpodobn\u011b nebudou 100% kompatibiln\u00ed."
         }
     }
 }

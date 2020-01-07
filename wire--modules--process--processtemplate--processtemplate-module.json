@@ -131,9 +131,6 @@
         "998806f5cd0395d2ea2c406b57463397": {
             "text": "Zobrazit str\u00e1nku 404"
         },
-        "225237dc381e612f4bbf08dd75efdb71": {
-            "text": "P\u0159esm\u011brovat na jinou URL adresu"
-        },
         "13944cf77acdf1b9e49f6383c101ae89": {
             "text": "(v\u0161ichni)"
         },
@@ -587,9 +584,6 @@
         "95faabcca5ce9361cfbbfdac564540a6": {
             "text": "Zm\u011bna skupiny pol\u00ed \u0161ablony: %s"
         },
-        "b12715241d6f9d36629e189651930f08": {
-            "text": "Toto pole je pou\u017eiteln\u00e9 pouze pokud je vybr\u00e1no p\u0159esm\u011brov\u00e1n\u00ed na jinou URL adresu v\u00fd\u0161e."
-        },
         "77b116ba76d6cad7420de0729f5437cb": {
             "text": "Budou str\u00e1nky vyhledateln\u00e9 u\u017eivateli bez pr\u00e1v?"
         },
@@ -884,9 +878,6 @@
         "438f365e84607c69184559ff2e9d974b": {
             "text": "Tato mo\u017enost zak\u00e1\u017ee $config->appendTemplateFile v souboru \/site\/config.php pouze pro tuto \u0161ablonu."
         },
-        "57f844c4a5ccb54207fa22705e7729a3": {
-            "text": "Zadejte URL adresu nebo ID str\u00e1nky, na kterou chcete u\u017eivatele p\u0159esm\u011brovat, pokud nem\u00e1 p\u0159\u00edstup"
-        },
         "ba9f2559a3fd0e360488de130ff7ab73": {
             "text": "Umo\u017enit podstr\u00e1nk\u00e1m zd\u011bdit p\u0159\u00edstup k \u00faprav\u00e1m?"
         },
@@ -979,6 +970,30 @@
         },
         "f31f5e50313e32f1b8a1d38913e26023": {
             "text": "%d pol\u00ed"
+        },
+        "8ad0889e260991fdddd4730a35287dad": {
+            "text": "Klepnut\u00edm a ta\u017een\u00edm upravte \u0161\u00ed\u0159ku pole"
+        },
+        "710392d799626a77535d30648716ddd3": {
+            "text": "P\u0159ed \u00fapravou \u0161\u00ed\u0159ky nov\u00e9ho pole ulo\u017ete \u0161ablonu"
+        },
+        "491b2e7db94dabf054ee83c101755e87": {
+            "text": "P\u0159esm\u011brovat na jinou adresu URL nebo zobrazit str\u00e1nku podle ID"
+        },
+        "9f461848426762d3cf5e46a83b9f2657": {
+            "text": "URL pro p\u0159esm\u011brov\u00e1n\u00ed p\u0159ihl\u00e1\u0161en\u00ed nebo ID str\u00e1nky k zobrazen\u00ed"
+        },
+        "ba5068f94547142a71a790f6dedc9a77": {
+            "text": "Zadejte adresu URL, kterou chcete p\u0159esm\u011brovat, NEBO ID str\u00e1nky, kter\u00e9 chcete zobrazit, kdy\u017e u\u017eivatel nem\u00e1 p\u0159\u00edstup."
+        },
+        "9f0e0bbab28d57fef318155ea51c6d68": {
+            "text": "Pokud zad\u00e1te ID str\u00e1nky, v\u011bzte, \u017ee v\u00fdsledn\u00e1 str\u00e1nka bude u\u017eivateli zobrazena, a\u0165 u\u017e m\u00e1 nebo nem\u00e1 opr\u00e1vn\u011bn\u00ed k zobrazen\u00ed."
+        },
+        "1fa93855c234c32d0a9451ce1ef4fa6c": {
+            "text": "To je u\u017eite\u010dn\u00e9 v p\u0159\u00edpadech, kdy m\u016f\u017ee b\u00fdt va\u0161e p\u0159ihla\u0161ovac\u00ed str\u00e1nka chr\u00e1n\u011bna p\u0159\u00edstupov\u00fdmi pr\u00e1vy."
+        },
+        "793e0cc1771feadd7a91c0031e7ad663": {
+            "text": "Toto nastaven\u00ed je pou\u017eiteln\u00e9, pouze pokud jste v poli v\u00fd\u0161e vybrali mo\u017enost \u201eC\u201c."
         }
     }
 }

@@ -82,6 +82,15 @@
         },
         "9c0e34e99b5acfb622d682dabefa5578": {
             "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed jsou popisy multi-jazykov\u00e9 (pokud m\u00e1te nainstalovan\u00fd Language Support). Pokud chcete vypnout multi-jazykov\u00e9 popisy, za\u0161krtn\u011bte tuto volbu."
+        },
+        "e72ce31f0ee80699eb03ad6cc894fe3a": {
+            "text": "Nepodporovan\u00e1 p\u0159\u00edpona souboru, pou\u017eijte pouze:"
+        },
+        "6ebd01ddd3a5422eb7dcdd0ce4b677c7": {
+            "text": "Soubor je p\u0159\u00edli\u0161 velk\u00fd - maxim\u00e1ln\u00ed povolen\u00e1 velikost je MAX_KB kb"
+        },
+        "c62fc670ac122455cc5853bf97130711": {
+            "text": "Pole  \u201c%1$s\u201d typu \u201c%2$s\u201d nen\u00ed podporov\u00e1no v poli \u201c%3$s\u201d"
         }
     }
 }

@@ -616,6 +616,36 @@
         },
         "6855bfdf44496210543dabeb8f88a1c0": {
             "text": "Syst\u00e9m"
+        },
+        "aa4c25b56e75fc2bb56256932d820a04": {
+            "text": "p\u0159i pou\u017eit\u00ed se \u0161ablonou \u201c%1$s\u201d v kontextu \u201c%2$s\u201d"
+        },
+        "f08b82b9bcde7ff240df5ed0057e7b08": {
+            "text": "V n\u00ed\u017ee uveden\u00e9m poli m\u016f\u017eete upravit nastaven\u00ed, kter\u00e1 jsou povolen\u00e1 pro p\u0159eps\u00e1n\u00ed."
+        },
+        "ecd6ac32b4369912ca3321c1dd169dc9": {
+            "text": "Nastaven\u00ed povolen\u00e1 pro p\u0159eps\u00e1n\u00ed pomoc\u00ed \u0161ablony"
+        },
+        "089ff074f0a08e950aae098cce20eff4": {
+            "text": "**VAROV\u00c1N\u00cd:** povolen\u00ed nastaven\u00ed nad r\u00e1mec t\u011bch, kter\u00e1 byla stanovena modulem Fieldtype\/Inputfield, nemus\u00ed v\u017edy fungovat, nebo m\u016f\u017ee zp\u016fsobit probl\u00e9my."
+        },
+        "8b55debf249cfc13cc6dc6791ee5d69f": {
+            "text": "Proto doporu\u010dujeme nejprve otestovat v\u0161echny zm\u011bny t\u011bchto nastaven\u00ed v neproduk\u010dn\u00edm (v\u00fdvojov\u00e9m) prost\u0159ed\u00ed."
+        },
+        "a28cb5dda04811b1ee1749f8b7a5b51d": {
+            "text": "Pozn\u00e1mka:"
+        },
+        "cb69676cc6783d1f5bf44dc1680f6e2a": {
+            "text": "Tu\u010dn\u00fdm jsou ozna\u010dena ta nastaven\u00ed, kter\u00e1 modul Fieldtype\/Inputfield ozna\u010dil jako v\u017edy povolen\u00e9 pro p\u0159eps\u00e1n\u00ed."
+        },
+        "efd28a1fcd7d855ff111e2f110ae0b20": {
+            "text": "Jin\u00e1 nastaven\u00ed mohou, nebo nemus\u00ed fungovat pro p\u0159eps\u00e1n\u00ed kontextu."
+        },
+        "da23f7900566628f7658f3a693d6bfda": {
+            "text": "M\u011bli byste zru\u0161it za\u0161krtnut\u00ed v\u0161ech nastaven\u00ed, kter\u00e1 podle v\u00e1s nefunguj\u00ed, nebo mohou jinak zp\u016fsobit probl\u00e9my."
+        },
+        "e036648db74b48abc2b6af1d56d4596c": {
+            "text": "Zm\u011bny"
         }
     }
 }

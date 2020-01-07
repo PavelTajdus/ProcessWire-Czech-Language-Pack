@@ -47,9 +47,6 @@
         "a60852f204ed8028c1c58808b746d115": {
             "text": "="
         },
-        "1f03189503b2b085455900a07777134c": {
-            "text": "Ji\u017e se pou\u017e\u00edv\u00e1"
-        },
         "5ffb937a7aaced6b2c652cd8b8650135": {
             "text": "Zadan\u00fd n\u00e1zev je ji\u017e pou\u017e\u00edv\u00e1n. Pokud jej nezm\u011bn\u00edte, bude po ulo\u017een\u00ed automaticky vytvo\u0159eno unik\u00e1tn\u00ed jm\u00e9no."
         },
@@ -80,8 +77,8 @@
         "9d9c4e8d05601024166b9a3b0cb46ad6": {
             "text": "V\u00fdb\u011br \u0161ablony je vy\u017eadov\u00e1n"
         },
-        "6649c293aa8a0af33c071f946674fc31": {
-            "text": "Varov\u00e1n\u00ed, vybran\u00e9 jm\u00e9no \"%1$s\" bylo zm\u011bn\u011bno na \"%2$s\"."
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Upozorn\u011bn\u00ed, n\u00e1zev, kter\u00fd jste vybrali \"%1$s\", se ji\u017e pou\u017e\u00edval a byl zm\u011bn\u011bn na \"%2$s\"."
         }
     }
 }

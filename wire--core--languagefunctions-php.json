@@ -5,9 +5,6 @@
         "fb5bc6b1ef6713a60dc29d381c94f0c0": {
             "text": "Tento text se d\u00e1 p\u0159elo\u017eit"
         },
-        "c34814ef5a75aa478503556456ef91d5": {
-            "text": "P\u0159elo\u017eiteln\u00e9 s aktu\u00e1ln\u00edm souborem jako textov\u00e1 dom\u00e9na"
-        },
         "27fcbef6dfbafc7467da8d1b29113ded": {
             "text": "P\u0159elo\u017eiteln\u00e9 s jin\u00fdm souborem jako textov\u00e1 dom\u00e9na"
         },
@@ -25,6 +22,27 @@
         },
         "a91d611a962e2baf78e47b720f43bfdd": {
             "text": "Nalezeno %d polo\u017eek"
+        },
+        "34623a700a7ffe48fe94e6c5f29195a9": {
+            "text": "P\u0159elo\u017eiteln\u00e9 aktu\u00e1ln\u00edm souborem jako textov\u00e1 dom\u00e9na (voliteln\u00e9)"
+        },
+        "83378236d008605772b0b7ad762cfad4": {
+            "text": "\u010ctete str\u00e1nku %s"
+        },
+        "f49588184356b1846ce48469ae3843ac": {
+            "text": "%d je ID aktu\u00e1ln\u00ed str\u00e1nky"
+        },
+        "e1fe2670bb21367812b567146e61221d": {
+            "text": "Dnes je %1$ a je %2$s"
+        },
+        "355e4477dc80f629e33f018fac3d9836": {
+            "text": "V\u00edtej p\u0159\u00edteli!"
+        },
+        "eadea3a747e3696d7959fb28d1d18230": {
+            "text": "Vyhledat"
+        },
+        "1cb251ec0d568de6a929b520c4aed8d1": {
+            "text": "="
         }
     }
 }

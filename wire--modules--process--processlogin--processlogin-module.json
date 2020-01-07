@@ -14,9 +14,6 @@
         "48649d8c2d04aa439d10bc45eaba8f75": {
             "text": "P\u0159ihl\u00e1\u0161en\u00ed se nezda\u0159ilo"
         },
-        "646d9e77201093e05380ead006df9975": {
-            "text": "Bezpe\u010dnostn\u00ed upozorn\u011bn\u00ed: soubor %s by m\u011bl b\u00fdt co nejd\u0159\u00edve smaz\u00e1n."
-        },
         "f6039d44b29456b20f8f373155ae4973": {
             "text": "Jm\u00e9no"
         },
@@ -35,32 +32,8 @@
         "01a569ddc6cf67ddec2a683f0a5f5956": {
             "text": "Zapomn\u011bli jste heslo?"
         },
-        "4c429484c06b2d2901b3a582f300af56": {
-            "text": "Upozorn\u011bn\u00ed, v\u00e1\u0161 \/site\/config.php specifikuje opr\u00e1vn\u011bn\u00ed k soubor\u016fm, kter\u00e1 jsou p\u0159\u00edli\u0161 voln\u00e1 pro mnoh\u00e1 prost\u0159ed\u00ed:"
-        },
-        "748befe7a5d432caba8b6cadc4076e92": {
-            "text": "\u010ct\u011bte \"Zabezpe\u010den\u00ed opr\u00e1vn\u011bn\u00ed k soubor\u016fm\" pro v\u00edce informac\u00ed"
-        },
-        "00796cc045b871fe7b2867edef6aaaf7": {
-            "text": "Pro vypnut\u00ed tohoto upozorn\u011bn\u00ed, nastavte $config->chmodWarn = false; ve va\u0161em \/site\/config.php souboru."
-        },
-        "d5877d284caca4c9b4d55adb8e6e758c": {
-            "text": "Ku p\u0159\u00edkladu pro nastaven\u00ed US English bude k\u00f3dov\u00e1n\u00ed: %s"
-        },
         "1860fb17b107cbb39cf6bbfa61130803": {
             "text": "Upravit profil"
-        },
-        "60d0f1128804dfd5fa013c3d02c67012": {
-            "text": "Va\u0161e nastaven\u00ed m\u00edstn\u00edho prost\u0159ed\u00ed je \u201c%s\u201d."
-        },
-        "9cdeee8e8a463c558dc372434cc5dbb1": {
-            "text": "Pozn\u00e1mka: Aktu\u00e1ln\u00ed nastaven\u00ed m\u00edstn\u00edho prost\u0159ed\u00ed serveru nefunguje podle o\u010dek\u00e1v\u00e1n\u00ed se znakovou sadou UTF-8 a m\u016f\u017ee zp\u016fsobit men\u0161\u00ed probl\u00e9my."
-        },
-        "f8239d6a9013fae244731a805aa50b09": {
-            "text": "P\u0159elo\u017ete nastaven\u00ed \"C\" pro ka\u017ed\u00fd jazyk do kompatibiln\u00edho m\u00edstn\u00edho prost\u0159ed\u00ed v %s"
-        },
-        "7ca79a1980d88028a56fcee7c711685e": {
-            "text": "P\u0159idejte toto do souboru %1$s (podle pot\u0159eby upravte \u201c%2$s\u201d):"
         },
         "8b10281154afa6312e3e8448c14f7134": {
             "text": "Dvoufaktorov\u00e1 autentizace"
@@ -80,8 +53,14 @@
         "aef111cc10b28b4cf297865dbc1253bb": {
             "text": "Moduly TFA v adres\u00e1\u0159i modul\u016f ProcessWire"
         },
-        "0d61f8370cad1d412f80b84d143e1257": {
-            "text": "C"
+        "9b74fc37d2e8f56c60b51adb9cfc4b4b": {
+            "text": "P\u0159esko\u010den\u00ed kontrol syst\u00e9mu po p\u0159ihl\u00e1\u0161en\u00ed, nebo\u0165 byly pou\u017eity aktualizace (%s)"
+        },
+        "d03d931ed70198dc13af35410030754c": {
+            "text": "Kontrola nastaven\u00ed Javascriptu se nezda\u0159ila: povolte Javascript pro p\u0159ihl\u00e1\u0161en\u00ed."
+        },
+        "355f835c4f5fd628f83983152533363c": {
+            "text": "Kontrola nastaven\u00ed soubor\u016f cookie se nezda\u0159ila: povolte Cookies pro p\u0159ihl\u00e1\u0161en\u00ed."
         }
     }
 }

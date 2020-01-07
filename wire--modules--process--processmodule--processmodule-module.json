@@ -418,6 +418,9 @@
         },
         "a2eff7125bf22d0665eb96166b471821": {
             "text": "Zadejte nebo vlo\u017ete n\u00e1zev t\u0159\u00eddy modulu, kter\u00fd chcete nainstalovat, a pak pokra\u010dujte kliknut\u00edm na tla\u010d\u00edtko \"%s\"."
+        },
+        "fb61fc284cf893013b55de02da9c9948": {
+            "text": "Modul: %s"
         }
     }
 }

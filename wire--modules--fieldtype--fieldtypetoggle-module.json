@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeToggle.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetoggle-module",
+    "translations": {
+        "261e3b04ea1f3b5603314ddcc479e0cc": {
+            "text": "Jak\u00e1 chcete, aby byla form\u00e1tovan\u00e1 hodnota p\u0159ep\u00ednac\u00edho pole?"
+        },
+        "6309837e6ce0a3f0fa946345c7167eb3": {
+            "text": "Jak\u00e1 m\u00e1 b\u00fdt form\u00e1tovan\u00e1 hodnota p\u0159ep\u00ednac\u00edho pole?"
+        },
+        "be626e72635b0ea8fbdafa5d3028fcb4": {
+            "text": "Vyberte form\u00e1tovanou hodnotu vr\u00e1cenou pomoc\u00ed %s."
+        },
+        "f94e479441f41c15b899438240ca67d1": {
+            "text": "Pro v\u0161echny v\u00fd\u0161e uveden\u00e9 je volba bez v\u00fdb\u011bru v\u017edy reprezentov\u00e1na pr\u00e1zdn\u00fdm \u0159et\u011bzcem."
+        },
+        "fa3b8249dcb2b9a523c69ba62614753f": {
+            "text": "Pokud je povolena t\u0159et\u00ed nebo jin\u00e1 mo\u017enost, je reprezentov\u00e1na \u010d\u00edslem 2."
+        },
+        "5e17d8d5bf6e642f015706c44be5b32c": {
+            "text": "Kdy\u017e je v\u00fdstupn\u00ed form\u00e1t str\u00e1nky vypnut\u00fd, je hodnota v\u017edy cel\u00e9 \u010d\u00edslo 0, 1, 2 (pro Ne, Ano, Jin\u00e9) nebo pr\u00e1zdn\u00fd \u0159et\u011bzec, pokud nen\u00ed vybr\u00e1n."
+        },
+        "3826ef10fef22663ed856d6a34ae4991": {
+            "text": "Cel\u00e9 \u010d\u00edslo: 0 = ne, 1 = ano (stejn\u00e9 jako bez form\u00e1tov\u00e1n\u00ed)."
+        },
+        "e4233a81c5260370b0c97ab1ee5364ba": {
+            "text": "Boolean: True nebo False pro stavy ano\/ne."
+        },
+        "53559d654a38f34b067b188cde584853": {
+            "text": "\u0158et\u011bzec: Pou\u017e\u00edvejte textov\u00e9 \u0161t\u00edtky konfigurovan\u00e9 s nastaven\u00edm \u201eVstup\u201c."
+        },
+        "047f245cdf987a38461e1a12559ff71a": {
+            "text": "Entity: Stejn\u00e9 jako v\u00fd\u0161e (\u0159et\u011bzec), ale entita k\u00f3dovan\u00e1 pro v\u00fdstup HTML."
+        },
+        "87947648d1451650784ef832cbdc0983": {
+            "text": "P\u0159ep\u00edna\u010d (Ano\/Ne)"
+        },
+        "ed4f448d518712aadb3a62be1b48236e": {
+            "text": "Konfigurovateln\u00fd p\u0159ep\u00edna\u010d ano\/ne,  alternativa pro p\u0159ep\u00edna\u010d zapnut\u00ed\/vypnut\u00ed k za\u0161krt\u00e1vac\u00edmu pol\u00ed\u010dku plus voliteln\u00e1 mo\u017enost \u201ejin\u00e9\u201c."
+        }
+    }
+}

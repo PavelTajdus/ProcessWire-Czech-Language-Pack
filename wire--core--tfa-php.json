@@ -1,0 +1,45 @@
+{
+    "file": "wire\/core\/Tfa.php",
+    "textdomain": "wire--core--tfa-php",
+    "translations": {
+        "80a295c9fe7bed66295f4d8c1b52e110": {
+            "text": "Autentiza\u010dn\u00ed k\u00f3d"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Zru\u0161it"
+        },
+        "cbb29c6546b8bc6d75f7601de9fbf02b": {
+            "text": "P\u0159i vytv\u00e1\u0159en\u00ed nebo odes\u00edl\u00e1n\u00ed ov\u011b\u0159ovac\u00edho k\u00f3du do\u0161lo k chyb\u011b"
+        },
+        "c6996a9b16d74c744965162e5cf0a35e": {
+            "text": "Pro dokon\u010den\u00ed p\u0159ihl\u00e1\u0161en\u00ed zadejte sv\u016fj ov\u011b\u0159ovac\u00ed k\u00f3d."
+        },
+        "659bdd9c46c5d70535873ddb56cafd06": {
+            "text": "Bylo dosa\u017eeno maxim\u00e1ln\u00edho po\u010dtu pokus\u016f"
+        },
+        "fcb94183c23245426ccf40bd6d531c69": {
+            "text": "\u010casov\u00fd limit byl dosa\u017een"
+        },
+        "8ced11807059756862f53c217354b63a": {
+            "text": "Platnost k\u00f3du vypr\u0161ela"
+        },
+        "e4282a24d0473bcf155064341f71e92b": {
+            "text": "Neplatn\u00fd k\u00f3d"
+        },
+        "c8cf6eea8f096ed51160b484d97c5bbd": {
+            "text": "+"
+        },
+        "3b4101362473ebcc69709f89fb96660b": {
+            "text": "Povoleno dvoufaktorov\u00e9 ov\u011b\u0159ov\u00e1n\u00ed!"
+        },
+        "6e7655b2bfff79f61f88c1d0b503ff48": {
+            "text": "Chcete-li deaktivovat nebo zm\u011bnit nastaven\u00ed, vyberte mo\u017enost \u201e\u017d\u00e1dn\u00e1\u201c v\u00fd\u0161e a ulo\u017ete."
+        },
+        "f9be528468706e84485c5baa7f553fb9": {
+            "text": "Pros\u00edm nakonfigurujte"
+        },
+        "e9b342b9b4fa34f406761f626823a71b": {
+            "text": "typ dvoufaktorov\u00e9 autentizace"
+        }
+    }
+}

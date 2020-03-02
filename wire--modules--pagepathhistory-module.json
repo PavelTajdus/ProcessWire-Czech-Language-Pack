@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/PagePathHistory.module",
+    "textdomain": "wire--modules--pagepathhistory-module",
+    "translations": {
+        "112a51baa056cba6320b36b7a71bcb1c": {
+            "text": "Minim\u00e1ln\u00ed st\u00e1\u0159\u00ed (sekundy)"
+        },
+        "6f6974b30b7af85a0b0b8e3382fc9345": {
+            "text": "Spus\u0165te historii z\u00e1znamu pro str\u00e1nku tolik sekund pot\u00e9, co byla vytvo\u0159ena. Doporu\u010duje se alespo\u0148 2 nebo v\u00edce sekund."
+        },
+        "b26126a5fdfea23d379aa813c392d533": {
+            "text": "V\u00fdchoz\u00ed: %s"
+        }
+    }
+}

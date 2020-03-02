@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/PagesNames.php",
+    "textdomain": "wire--core--pagesnames-php",
+    "translations": {
+        "b0c7034324356a3debb02f65432da4cb": {
+            "text": "Jin\u00e1 str\u00e1nka pou\u017e\u00edv\u00e1 n\u00e1zev \u201c%s\u201d a n\u00e1zev mus\u00ed b\u00fdt glob\u00e1ln\u011b unik\u00e1tn\u00ed"
+        },
+        "dc4285f03b7d0a9a40a437530f567e94": {
+            "text": "Jin\u00e1 str\u00e1nka se stejn\u00fdm rodi\u010dem ji\u017e pou\u017e\u00edv\u00e1 n\u00e1zev \u201c%s\u201d"
+        },
+        "fca123eb0b6f4465da6e62e5b07927e9": {
+            "text": "Nezle pou\u017e\u00edt n\u00e1zev \u201c%s\u201d jako glob\u00e1ln\u011b unik\u00e1tn\u00ed, nebo\u0165 tento n\u00e1zev ji\u017e pou\u017e\u00edv\u00e1 jin\u00e1 str\u00e1nka"
+        }
+    }
+}

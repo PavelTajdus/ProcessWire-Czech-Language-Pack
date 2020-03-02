@@ -1,0 +1,84 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearchLive.php",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearchlive-php",
+    "translations": {
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Nebylo zad\u00e1no \u017e\u00e1dn\u00e9 hled\u00e1n\u00ed"
+        },
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "Str\u00e1nky"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Ko\u0161"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "Moduly"
+        },
+        "d8d7ad6abfd08c27baa8bedb78c72ddb": {
+            "text": "Zobrazit v\u0161e"
+        },
+        "32df01b9cf0491a879250b58ba2744ba": {
+            "text": "V\u00fdsledky vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "945331eb8feee661c7a01a7da50e7e7e": {
+            "text": "nebo jak\u00fdkoli n\u00e1zev pole"
+        },
+        "098f6bcd4621d373cade4e832627b4f6": {
+            "text": "="
+        },
+        "9da4c632d92b0a319e8e963f8b7dd19f": {
+            "text": "Vyhled\u00e1v\u00e1n\u00ed %1$s pro: %2$s"
+        },
+        "0c79bedd451ec4becdb006eabf461f3b": {
+            "text": "Vyhled\u00e1v\u00e1 \u201c%1$s\u201d vlastnost %2$s pro: %3$s"
+        },
+        "aa22617dfe85dc625769bb90cf1edc82": {
+            "text": "P\u0159\u00edklady pou\u017e\u00edvaj\u00ed oper\u00e1tor \u201c=\u201d."
+        },
+        "9b39d6b66fd46b375480103f46850760": {
+            "text": "V n\u011bkter\u00fdch p\u0159\u00edpadech m\u016f\u017eete tak\u00e9 pou\u017e\u00edt:"
+        },
+        "3e31303f6c94d429ef522d10a2d421d8": {
+            "text": "oper\u00e1tory:"
+        },
+        "e2d5a00791bce9a01f99bc6fd613a39d": {
+            "text": "konfigurovat"
+        },
+        "64a16c6ab0b0e6113aa92f7f6d40410b": {
+            "text": "Kliknut\u00edm sem nakonfigurujete nastaven\u00ed vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "b7208f6d5abab822d6ab05b1016d409a": {
+            "text": "Stejn\u00e9 jako v\u00fd\u0161e (krat\u0161\u00ed syntaxe, pokud se neshoduj\u00ed \u017e\u00e1dn\u00e1 jm\u00e9na)"
+        },
+        "963e1f84e80d24245a65e61120d9d212": {
+            "text": "Omezit v\u00fdsledky na \u0161ablonu: %s"
+        },
+        "29a251084e8675a8d52d945e2f58d726": {
+            "text": "Omezit v\u00fdsledky na pole %s z \u0161ablony"
+        },
+        "bd42869f654344076a72479ecdb1d45f": {
+            "text": "Naj\u00edt \u0161ablony, kter\u00e9 maj\u00ed pole: %s"
+        },
+        "173512440f350caacc754ddd1a392b71": {
+            "text": "Vyhledat pole s \u201cckeditor\u201d v nastaven\u00ed"
+        },
+        "1624b2059f3271b1213456999221e2df": {
+            "text": "(naje\u010fte pro v\u00edce)"
+        },
+        "d6b75fe82918572d3828601219286147": {
+            "text": "P\u0159\u00edklady pou\u017e\u00edvaj\u00ed vlastnost \u201c%s\u201d."
+        },
+        "c3f4f45cbebefe1b25a8c7965516a79b": {
+            "text": "M\u016f\u017eete tak\u00e9 pou\u017e\u00edt kteroukoli z t\u011bchto vlastnost\u00ed:"
+        },
+        "74693d2fc58b46bd06410f278e39aa71": {
+            "text": "vlastnosti"
+        },
+        "627b11fa495dc928e31ab76310d934f9": {
+            "text": "%s pomoc"
+        },
+        "cf1e3d72714f82f85aa7f326af340459": {
+            "text": "%d polo\u017eek"
+        }
+    }
+}

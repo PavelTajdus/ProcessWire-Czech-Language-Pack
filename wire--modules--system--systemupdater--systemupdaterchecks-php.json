@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdaterChecks.php",
+    "textdomain": "wire--modules--system--systemupdater--systemupdaterchecks-php",
+    "translations": {
+        "b39229143b1147a73a48df31c1231d8c": {
+            "text": "Bylo zji\u0161t\u011bno v\u00edce probl\u00e9m\u016f:"
+        },
+        "cea2995cd3259dca15a20b501b1e458b": {
+            "text": "Vezm\u011bte pros\u00edm na v\u011bdom\u00ed, \u017ee v\u00e1\u0161 ko\u0159enov\u00fd soubor %s nen\u00ed u t\u00e9to verze ProcessWire aktu\u00e1ln\u00ed, pokud je to mo\u017en\u00e9, aktualizujte jej."
+        },
+        "18dd427864e5d5894d6427b120729661": {
+            "text": "Chcete-li toto varov\u00e1n\u00ed potla\u010dit, nahra\u010fte nebo p\u0159idejte n\u00e1sleduj\u00edc\u00ed polo\u017eky v horn\u00ed \u010d\u00e1sti existuj\u00edc\u00edho souboru .htaccess:"
+        },
+        "3ce93c026eb9e6490b97440cb30648ac": {
+            "text": "V\u00edtejte v ProcessWire!"
+        },
+        "b5e8bf8e4ff52c6a5284ed10f7951738": {
+            "text": "Pokud se tato instalace aktu\u00e1ln\u011b pou\u017e\u00edv\u00e1 pro v\u00fdvoj nebo testov\u00e1n\u00ed, doporu\u010dujeme povolit re\u017eim lad\u011bn\u00ed."
+        },
+        "ecd4a06df60ea2b6392432bbd11f1d76": {
+            "text": "Re\u017eim lad\u011bn\u00ed zaji\u0161\u0165uje viditelnost v\u0161ech chyb, kter\u00e9 mohou b\u00fdt u\u017eite\u010dn\u00e9 p\u0159i v\u00fdvoji nebo odstra\u0148ov\u00e1n\u00ed probl\u00e9m\u016f."
+        },
+        "917cf9b7a671b533087c8f7b0bf8d157": {
+            "text": "Umo\u017e\u0148uje tak\u00e9 zobrazit dal\u0161\u00ed informace pro v\u00fdvoj\u00e1\u0159e zde v administraci."
+        },
+        "cb6a03bb5f07396e7eca71a86ad46e43": {
+            "text": "Re\u017eim lad\u011bn\u00ed m\u016f\u017eete povolit \u00fapravou souboru %s a p\u0159id\u00e1n\u00edm n\u00e1sleduj\u00edc\u00edho:"
+        },
+        "f1d50e08fba3212773302367c8513449": {
+            "text": "Pozn\u00e1mka: toto ozn\u00e1men\u00ed se ji\u017e nebude znovu zobrazovat. P\u0159ed spu\u0161t\u011bn\u00edm webu nezapome\u0148te re\u017eim lad\u011bn\u00ed deaktivovat."
+        },
+        "233b54b5df8647fadbfb62e9c4def925": {
+            "text": "Bezpe\u010dnostn\u00ed upozorn\u011bn\u00ed: soubor ''%s' existuje a m\u011bl by b\u00fdt odstran\u011bn co nejd\u0159\u00edve."
+        },
+        "7ba9982e6cae459db14db8bad5ad68b9": {
+            "text": "Varov\u00e1n\u00ed, v\u00e1\u0161 soubor %s ur\u010duje opr\u00e1vn\u011bn\u00ed souboru, kter\u00e1 jsou p\u0159\u00edli\u0161 voln\u00e1 pro mnoh\u00e1 prost\u0159ed\u00ed:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Dal\u0161\u00ed podrobnosti naleznete v \u010d\u00e1sti \u201eZabezpe\u010den\u00ed opr\u00e1vn\u011bn\u00ed k soubor\u016fm\u201c"
+        },
+        "5ff81a1ae7c80f730595ed1100007665": {
+            "text": "Chcete-li toto varov\u00e1n\u00ed potla\u010dit, p\u0159idejte do sv\u00e9ho souboru %s n\u00e1sleduj\u00edc\u00ed:"
+        },
+        "359a712bdea64131ff4e83fbc7233af6": {
+            "text": "Upozorn\u011bn\u00ed: M\u00e1te pole s n\u00e1zvem \u201epublikov\u00e1no\u201c, kter\u00e9 je v rozporu s vlastnost\u00ed \u201epublikov\u00e1no\u201c str\u00e1nky."
+        },
+        "e51b9afa44f26fb147585eda2b708808": {
+            "text": "P\u0159ejmenujte pole pole na n\u011bco jin\u00e9ho a aktualizujte v\u0161echny \u0161ablony odkazuj\u00edc\u00ed na toto pole."
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "Va\u0161e aktu\u00e1ln\u00ed nastaven\u00ed n\u00e1rodn\u00edho prost\u0159ed\u00ed je \u201c%s\u201d."
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "Pozn\u00e1mka: Va\u0161e aktu\u00e1ln\u00ed nastaven\u00ed n\u00e1rodn\u00edho prost\u0159ed\u00ed serveru nefunguje podle o\u010dek\u00e1v\u00e1n\u00ed u znakov\u00e9 sady UTF-8 a m\u016f\u017ee zp\u016fsobit men\u0161\u00ed probl\u00e9my."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "P\u0159elo\u017ete nastaven\u00ed n\u00e1rodn\u00edho prost\u0159ed\u00ed \u201eC\u201c pro ka\u017ed\u00fd jazyk do kompatibiln\u00edho n\u00e1rodn\u00edho prost\u0159ed\u00ed v %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Nap\u0159\u00edklad nastaven\u00ed n\u00e1rodn\u00edho prost\u0159ed\u00ed pro americkou angli\u010dtinu m\u016f\u017ee b\u00fdt: %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "P\u0159idejte to do sv\u00e9ho souboru %1$s (podle pot\u0159eby upravte \u201c%2$s\u201d):"
+        },
+        "6ed94bc4b5b5d4c1bfd4c90792c39c68": {
+            "text": "Str\u00e1nka je v re\u017eimu lad\u011bn\u00ed, vhodn\u00e1 pro weby ve v\u00fdvoji"
+        },
+        "1ffd655d9788eba2b285e4363eab7b51": {
+            "text": "Pokud se jedn\u00e1 o \u017eiv\u00fd\/produk\u010dn\u00ed web, m\u011bli byste deaktivovat re\u017eim lad\u011bn\u00ed v %1$s s pomoc\u00ed: %2$s"
+        },
+        "8f0362971b64ae326b6a57f21f9d5ce4": {
+            "text": "Po\u017eadovan\u00e1 verze: %1$s, Nalezen\u00e1 verze: %2$s."
+        },
+        "d331f06185da085f65656f31a7a8a795": {
+            "text": "Nelze naj\u00edt po\u017eadovan\u00fd soubor: %s"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "C"
+        }
+    }
+}

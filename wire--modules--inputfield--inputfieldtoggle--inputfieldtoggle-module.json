@@ -1,0 +1,96 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldToggle\/InputfieldToggle.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtoggle--inputfieldtoggle-module",
+    "translations": {
+        "d1457b72c3fb323a2671125aef3eab5d": {
+            "text": "?"
+        },
+        "f827cf462f62848df37c5e1e94a4da74": {
+            "text": "Pravda"
+        },
+        "f8320b26d30ab433c5a54546d21f414c": {
+            "text": "Nepravda"
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "Zapnuto"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Vypnuto"
+        },
+        "00d23a76e43b46dae9ec7aa9dcbebb32": {
+            "text": "Povoleno"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Nepovoleno"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ano"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Ne"
+        },
+        "6311ae17c1ee52b36e68aaf4ad066387": {
+            "text": "Jin\u00e9"
+        },
+        "88183b946cc5f0e8c96b2e66e1c74a7e": {
+            "text": "Nezn\u00e1m\u00e9"
+        },
+        "948b771f7576e90d4ea82d5a93969880": {
+            "text": "P\u0159epnout popisky pol\u00ed a nastaven\u00ed vstupu"
+        },
+        "1ca83672206c28e209344caf672a09eb": {
+            "text": "Typ popisku"
+        },
+        "90589c47f06eb971d548591f23c285af": {
+            "text": "Vlastn\u00ed"
+        },
+        "c020238f8af7f5e4de9ff715998b455d": {
+            "text": "Typ vstupu"
+        },
+        "031b7752675742895ea88530c9f4ca5a": {
+            "text": "P\u0159ep\u00ednac\u00ed tla\u010d\u00edtka"
+        },
+        "d5a4c326398e96cdf97b6d4a3cc300c1": {
+            "text": "Radio"
+        },
+        "c1b5fa03ecdb95d4a45dd1c40b02527f": {
+            "text": "Horizont\u00e1ln\u00ed"
+        },
+        "06ce2a25e5d12c166a36f654dbea6012": {
+            "text": "Vertik\u00e1ln\u00ed"
+        },
+        "bcdf2d471f1f386766650d51026d44b5": {
+            "text": "Pou\u017e\u00edt t\u0159et\u00ed \u201ejinou\u201c mo\u017enost?"
+        },
+        "eab912c80198d0b053074213f8b04c8f": {
+            "text": "Opa\u010dn\u00e9 po\u0159ad\u00ed ano\/ne mo\u017enosti?"
+        },
+        "b277db245e021ba7bd5c260212209a2d": {
+            "text": "Podpora pro zru\u0161en\u00ed v\u00fdb\u011bru kliknut\u00edm?"
+        },
+        "d9355820e8ad0fce6eba1b92496e8894": {
+            "text": "ano\/zapnuto"
+        },
+        "d267c637e1512d1c35009144d1606695": {
+            "text": "ne\/vypnuto"
+        },
+        "63e5188e48c8bc8a4a58ab9dc8b0c5cc": {
+            "text": "Popisek pro mo\u017enost \u201c%s\u201d"
+        },
+        "795f3202b17cb6bc3d4b771d8c6c9eaf": {
+            "text": "jin\u00e9"
+        },
+        "1b7fb782957d1005d7bac0e7729deece": {
+            "text": "V\u00fdchoz\u00ed vybran\u00e1 mo\u017enost"
+        },
+        "b6c7e5d7bc51d1f824ce334cb0a67021": {
+            "text": "\u017d\u00e1dn\u00fd v\u00fdb\u011br"
+        },
+        "a8875bbe4272c0bdd786cfaaedf77921": {
+            "text": "P\u0159ep\u00edna\u010d"
+        },
+        "b944099ecd935f9422ab4393811af776": {
+            "text": "P\u0159ep\u00edna\u010d poskytuj\u00edc\u00ed podobn\u00e9 vstupn\u00ed mo\u017enosti jako za\u0161krt\u00e1vac\u00ed pol\u00ed\u010dko, ale mnohem konfigurovateln\u011bj\u0161\u00ed."
+        }
+    }
+}

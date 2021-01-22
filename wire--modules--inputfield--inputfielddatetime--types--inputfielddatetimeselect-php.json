@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeSelect.php",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimeselect-php",
+    "translations": {
+        "e45be5a84fb046a2901a141feca36774": {
+            "text": "Samostatn\u00e9 formul\u00e1\u0159ov\u00e9 pole pro m\u011bs\u00edc, den a rok (a voliteln\u011b \u010das)"
+        },
+        "7cbb885aa1164b390a0bc050a64e1812": {
+            "text": "M\u011bs\u00edc"
+        },
+        "537c66b24ef5c83b7382cdc3f34885f2": {
+            "text": "Rok"
+        },
+        "03727ac48595a24daed975559c944a44": {
+            "text": "Den"
+        },
+        "38d0bdaf4659579f129657667b2c9eca": {
+            "text": "Neplatn\u00e9 datum \u201c%1$s\u201d zm\u011bn\u011bno na \u201c%2$s\u201d"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "\u017d\u00e1dn\u00e9"
+        },
+        "8d7893980db01e78e3ca1cc8c9c5fdb2": {
+            "text": "(zkr\u00e1cen\u011b)"
+        },
+        "73a63277825cde533cd60a9f84349f20": {
+            "text": "Form\u00e1t pro v\u00fdb\u011br data, kter\u00fd se m\u00e1 pou\u017e\u00edt"
+        },
+        "f4b3993e8447bd72f668dd7b50c08475": {
+            "text": "N\u00e1zvy m\u011bs\u00edc\u016f jsou zalo\u017eeny na jazyku\/n\u00e1rodn\u00edm prost\u0159ed\u00ed"
+        },
+        "01a0290039c2bbaa8b164a2f05e537a3": {
+            "text": "Form\u00e1t pro v\u00fdb\u011br \u010dasu, kter\u00fd se m\u00e1 pou\u017e\u00edt"
+        },
+        "d50069df39408c10d40fd64c39f501b6": {
+            "text": "Prvn\u00ed voliteln\u00fd rok"
+        },
+        "99b44505fea9c1c1907b502024fa9dc8": {
+            "text": "Posledn\u00ed voliteln\u00fd rok"
+        },
+        "b5ca52e96e16f944580f12d90986d514": {
+            "text": "Omezit v\u00fdb\u011br na tyto roky?"
+        }
+    }
+}

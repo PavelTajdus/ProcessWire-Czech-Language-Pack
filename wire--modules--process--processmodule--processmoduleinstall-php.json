@@ -44,14 +44,32 @@
         "e7df9a3e1460bdfcaabe5b2e451a6594": {
             "text": "Nebyly nalezeny \u017e\u00e1dn\u00e9 nahran\u00e9 soubory"
         },
-        "c8e5b4f1bb72c62949a522f6925e80c8": {
-            "text": "Nelze dokon\u010dit stahov\u00e1n\u00ed"
-        },
         "a4e29333ef852fef776eecdb5b3ac6a1": {
             "text": "Byla zad\u00e1na neplatn\u00e1 adresa URL pro sta\u017een\u00ed"
         },
         "e830879e542fd52ca82f599ce41b6668": {
             "text": "Sta\u017een\u00fd soubor ZIP: %s (%d bytes)"
+        },
+        "38933d5ecc7b9e5ac7859a9b6a1de7eb": {
+            "text": "Mo\u017enost instalace modulu \u201c%s\u201d"
+        },
+        "5fcb2e65954f268db4a5e500f8187817": {
+            "text": "povolit v\u017edy"
+        },
+        "5e13c331fbe3baf04626f93b56d7fb30": {
+            "text": "do\u010dasn\u011b"
+        },
+        "a1af683d99a3a6a621a2c27ec9e468fb": {
+            "text": "povolit pouze v re\u017eimu lad\u011bn\u00ed"
+        },
+        "060aa54c407428fd1b33c89d00abb0db": {
+            "text": "Chcete-li povolit, upravte soubor %1$s a zadejte: %2$s \u2026 nebo\u2026 %3$s"
+        },
+        "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
+            "text": "Tato mo\u017enost instalace je nakonfigurov\u00e1na tak, aby byla k dispozici pouze v re\u017eimu lad\u011bn\u00ed."
+        },
+        "3d32978a99cfd1c17aa9effcace86b1c": {
+            "text": "Tato mo\u017enost instalace je aktu\u00e1ln\u011b zak\u00e1z\u00e1na."
         }
     }
 }

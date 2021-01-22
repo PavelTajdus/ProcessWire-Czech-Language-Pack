@@ -1,0 +1,30 @@
+{
+    "file": "wire\/core\/FieldsTableTools.php",
+    "textdomain": "wire--core--fieldstabletools-php",
+    "translations": {
+        "94777a4cdd469b1dc32114c7b148336e": {
+            "text": "Byly odstran\u011bny %d pr\u00e1zdn\u00e9 \u0159\u00e1dky pro pole %s"
+        },
+        "a4db6555067e463d9e1fb57bd771d115": {
+            "text": "Jedine\u010dn\u00fd index zat\u00edm nelze p\u0159idat, proto\u017ee ji\u017e existuj\u00ed nejedine\u010dn\u00e9 \u0159\u00e1dky:"
+        },
+        "f4775f230d3ee4ca1c2dfd515cde799a": {
+            "text": "Objeveno %d kr\u00e1t"
+        },
+        "019b1bbcaa4011c7a88e681bc504656c": {
+            "text": "(ID str\u00e1nky: %s)"
+        },
+        "a452be585de41c827d68057d84a60524": {
+            "text": "P\u0159id\u00e1n jedine\u010dn\u00fd index"
+        },
+        "95295f6c09473739797030905b9e7239": {
+            "text": "Odebr\u00e1n jedine\u010dn\u00fd index"
+        },
+        "d019979a29c88c8d69bab3a63388da97": {
+            "text": "Jedine\u010dn\u00fd"
+        },
+        "2091d533e5569b95274f7f7c93cb5a73": {
+            "text": "Je-li za\u0161krtnuto, danou hodnotu nelze v tomto poli pou\u017e\u00edt v\u00edce ne\u017e jednou, a proto se nemus\u00ed objevit na v\u00edce ne\u017e jedn\u00e9 str\u00e1nce."
+        }
+    }
+}

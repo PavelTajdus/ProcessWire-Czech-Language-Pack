@@ -1,0 +1,108 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeText.php",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimetext-php",
+    "translations": {
+        "ce7581417b903cd7bb99be8785822ce8": {
+            "text": "Zad\u00e1v\u00e1n\u00ed textu pomoc\u00ed jQuery UI datepicker"
+        },
+        "b69f42ea4444ae5aa888b53cf6045710": {
+            "text": "\/wire\/modules\/Jquery\/JqueryUI\/i18n\/jquery.ui.datepicker-cs.js"
+        },
+        "7db50c3ca59f3f55260013a5e3481f47": {
+            "text": "timepicker\/i18n\/jquery-ui-timepicker-cs.js"
+        },
+        "566235c7913fdded5a84d4578758515f": {
+            "text": "V\u00fdb\u011br data"
+        },
+        "7962180f3333f0ccaa9e208cccaac049": {
+            "text": "\u017d\u00e1dn\u00fd v\u00fdb\u011br data a \u010dasu"
+        },
+        "aa547f01eea89a5b845b6db3870ba757": {
+            "text": "V\u00fdb\u011br data\/\u010dasu p\u0159i zam\u011b\u0159en\u00ed pole"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(doporu\u010deno)"
+        },
+        "edcc19a354ad1b61e258b993a1ff09c4": {
+            "text": "V\u00fdb\u011br data\/\u010dasu po kliknut\u00ed na tla\u010d\u00edtko"
+        },
+        "c3119c40400e0c55178bba8a9b8e36d8": {
+            "text": "Vlo\u017een\u00fd v\u00fdb\u011br data je v\u017edy viditeln\u00fd (bez v\u00fdb\u011bru \u010dasu)"
+        },
+        "53e628836cd60f6dbb5fe56320f776ef": {
+            "text": "Form\u00e1t zad\u00e1v\u00e1n\u00ed data a \u010dasu"
+        },
+        "38322714c2bfe9eba81ea980714fd0a6": {
+            "text": "Form\u00e1t zad\u00e1v\u00e1n\u00ed data"
+        },
+        "7656e28d6e435ffecc453794149e6a0d": {
+            "text": "Vyberte form\u00e1t, kter\u00fd se pou\u017eije pro vstup u\u017eivatele do tohoto pole. V\u00e1\u0161 v\u00fdb\u011br vypln\u00ed pole pod t\u00edmto polem, kter\u00e9 m\u016f\u017eete v p\u0159\u00edpad\u011b pot\u0159eby d\u00e1le p\u0159izp\u016fsobit."
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(\u010dasov\u00e9 raz\u00edtko unixu)"
+        },
+        "91c0a51785efc109b0fdb5d710a2656e": {
+            "text": "Form\u00e1t zad\u00e1v\u00e1n\u00ed \u010dasu"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "\u017d\u00e1dn\u00fd"
+        },
+        "44d9d932f51a771c8c76c2dc6ff57e1f": {
+            "text": "Vyberte voliteln\u00fd form\u00e1t \u010dasu, kter\u00fd se pou\u017eije pro vstup. Pokud se pou\u017e\u00edv\u00e1, bude v kalend\u00e1\u0159i mo\u017en\u00fd tak\u00e9 v\u00fdb\u011br \u010dasu."
+        },
+        "91c4223a8591eed0ecab28c3a1a880b2": {
+            "text": "Typ vstupu pro \u010das"
+        },
+        "08d3eb379def33331427b243c363eef5": {
+            "text": "Posuvn\u00edky (v\u00fdchoz\u00ed) umo\u017e\u0148uj\u00ed u\u017eivateli nastavit ovl\u00e1dac\u00ed prvky pro v\u00fdb\u011br \u010dasu, kde volba Vybrat umo\u017e\u0148uje u\u017eivateli vybrat \u010das z rozev\u00edrac\u00ed nab\u00eddky."
+        },
+        "9ad46d2d4f10955abfc9ca97565bba87": {
+            "text": "Posuvn\u00edky"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Vybrat"
+        },
+        "4dc865ad9218b271e212f2656a4415e4": {
+            "text": "K\u00f3d form\u00e1tu data"
+        },
+        "20f706119fa58d0787ea397d413bf1e0": {
+            "text": "Toto se automaticky vytvo\u0159\u00ed z data vybran\u00e9ho v\u00fd\u0161e, pokud jej ru\u010dn\u011b nezm\u011bn\u00edte."
+        },
+        "e87ce06927649f8cdfff9e27c4ac8e3d": {
+            "text": "Dal\u0161\u00ed informace o tom, jak p\u0159izp\u016fsobit tyto form\u00e1ty, najdete v odkazu na funkci [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php)."
+        },
+        "3668c3ec43f4b401c6de009e3abb73f9": {
+            "text": "Zde m\u016f\u017eete tak\u00e9 specifikovat form\u00e1ty pro jin\u00e9 jazyky. V\u0161echny jazyky ponechan\u00e9 pr\u00e1zdn\u00e9 zd\u011bd\u00ed v\u00fdchoz\u00ed nastaven\u00ed."
+        },
+        "b3641a0b694cd7a82856611ce58d4979": {
+            "text": "K\u00f3d form\u00e1tu \u010dasu"
+        },
+        "3dd984b18a5880f9279e17ff2e53a5de": {
+            "text": "Toto se automaticky vytvo\u0159\u00ed z v\u00fd\u0161e uveden\u00e9ho \u010dasu, pokud jej ru\u010dn\u011b nezm\u011bn\u00edte."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Z\u00e1stupn\u00fd text"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Voliteln\u00fd z\u00e1stupn\u00fd text, kter\u00fd se zobraz\u00ed v poli, pokud je pr\u00e1zdn\u00e9."
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Velikost"
+        },
+        "49e0e66405106d4f9cf741207255476f": {
+            "text": "Zobrazen\u00e1 \u0161\u00ed\u0159ka tohoto pole (ve znac\u00edch)."
+        },
+        "0825dd56fbac59b910dff90abf30024d": {
+            "text": "Rozsah roku"
+        },
+        "105145f02985f6f81d519b78eaca6dfb": {
+            "text": "Pokud je mo\u017en\u00fd v\u00fdb\u011br p\u0159eddefinovan\u00e9ho roku, existuje rozsah plus nebo minus 10 let od aktu\u00e1ln\u00edho roku."
+        },
+        "57bed892b74c37659d8705088727032e": {
+            "text": "Chcete-li rozsah upravit, zadejte po\u010det let p\u0159ed a po aktu\u00e1ln\u00edm roce v tomto form\u00e1tu: `-30:+20`, kter\u00fd by zobrazoval 30 let p\u0159ed a 20 let po."
+        },
+        "ef538874da76f56a05956925c0a162bb": {
+            "text": "V\u00fdchoz\u00ed hodnota je -10:+10, kter\u00e1 zobrazuje ro\u010dn\u00ed obdob\u00ed 10 let p\u0159ed a po."
+        }
+    }
+}

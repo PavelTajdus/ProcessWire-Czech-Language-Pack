@@ -14,24 +14,6 @@
         "a711451766d79a07ee817f88cb63ca56": {
             "text": "Vyhled\u00e1vac\u00ed oper\u00e1tor, kter\u00fd se pou\u017e\u00edv\u00e1 v API p\u0159i hled\u00e1n\u00ed shod automatick\u00e9ho dopl\u0148ov\u00e1n\u00ed."
         },
-        "6774b148e1f242760726e4c88d08931a": {
-            "text": "Obsahuje v\u011btu nebo \u010d\u00e1st slova (pou\u017e\u00edv\u00e1 fulltext index) - Doporu\u010dov\u00e1no"
-        },
-        "10723caf0a8012a762b741f821060ea9": {
-            "text": "Obsahuje v\u011btu nebo \u010d\u00e1st slova (pou\u017e\u00edv\u00e1 LIKE)"
-        },
-        "5aebeca1891bcef0142167dda686b4a7": {
-            "text": "Obsahuje v\u0161echna cel\u00e1 slova v libovoln\u00e9m po\u0159ad\u00ed"
-        },
-        "0626526d691a7bf48a099a2330fde59f": {
-            "text": "Za\u010d\u00edn\u00e1 slovem\/v\u011btou"
-        },
-        "a606a68c3a2a799b75998b7be8d48aea": {
-            "text": "Kon\u010d\u00ed slovem\/v\u011btou"
-        },
-        "0a06fd6fea29497256d43910fde22cd3": {
-            "text": "Rovn\u00e1 se [exact]"
-        },
         "b956d301c10771357a356a80d9f0d3a5": {
             "text": "Pole kter\u00e1 se budou pou\u017e\u00edvat pro dotazy automatick\u00e9ho dopl\u0148ov\u00e1n\u00ed"
         },
@@ -46,9 +28,6 @@
         },
         "8d217dc9693abc1d1094fbc2c06a5605": {
             "text": "Nov\u00e1 polo\u017eka:"
-        },
-        "654866693fd91ce8e9764a218f569918": {
-            "text": "Doporu\u010den\u00e9"
         },
         "b167d45586a5cb2582394b5ec1545065": {
             "text": "Zadejte n\u00e1zvy pol\u00ed, jejich\u017e obsah bude prohled\u00e1v\u00e1n dotazy automatick\u00e9ho dokon\u010dov\u00e1n\u00ed (autocomplete)."

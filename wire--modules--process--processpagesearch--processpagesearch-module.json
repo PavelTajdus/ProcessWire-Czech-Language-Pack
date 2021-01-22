@@ -53,33 +53,6 @@
         "de95b43bceeb4b998aed4aed5cef1ae7": {
             "text": "upravit"
         },
-        "0ccb67e7eaae09d9e4078d161eeca100": {
-            "text": "Rovno"
-        },
-        "3255c386f4276b5c66f12d216ec71906": {
-            "text": "Nen\u00ed rovno"
-        },
-        "05824b7be006782aaefd1fdb97c71e06": {
-            "text": "V\u011bt\u0161\u00ed ne\u017e"
-        },
-        "798fe01fcb2754a295b6937ed885a69a": {
-            "text": "V\u011bt\u0161\u00ed nebo rovno"
-        },
-        "ad647e4ae904c7ed54ee93040d8298c7": {
-            "text": "Men\u0161\u00ed ne\u017e"
-        },
-        "28d1141142e2cbb29e657b69a044ddf4": {
-            "text": "Men\u0161\u00ed nebo rovno"
-        },
-        "45fc43a01c15bc63159695441dfacd63": {
-            "text": "Obsahuje v\u011btu nebo \u010d\u00e1st slova"
-        },
-        "e44edbd140708c448e991cde9d8dc0b2": {
-            "text": "Obsahuje slovo\/v\u011btu a pou\u017e\u00edv\u00e1 LIKE"
-        },
-        "593e63d42f95f6ad96cf700f80c2fe2c": {
-            "text": "Obsahuje v\u0161echny slova"
-        },
         "8aa55d906b86496efeb66b0eae7d75ce": {
             "text": "Str\u00e1nky"
         },
@@ -88,12 +61,6 @@
         },
         "6cfd6f09104bdac467bb40624aae4e9c": {
             "text": "P\u0159i zad\u00e1v\u00e1n\u00ed v\u00edce pol\u00ed se ka\u017ed\u00e9 odd\u011bluje mezerou."
-        },
-        "13a4a02c365a44407beebb73dddbc554": {
-            "text": "Za\u010d\u00edn\u00e1"
-        },
-        "6950a77d131f284826099392fd57701c": {
-            "text": "Kon\u010d\u00ed"
         },
         "03164877c3d4b788308e3fbfe3199751": {
             "text": "Vyhled\u00e1v\u00e1n\u00ed v administraci"
@@ -146,14 +113,11 @@
         "f9702fc01ddd6b314fe6d74ac54995b6": {
             "text": "V\u00fdchoz\u00ed oper\u00e1tor vyhled\u00e1v\u00e1n\u00ed pro vyhled\u00e1v\u00e1n\u00ed jedin\u00e9 a \u010d\u00e1ste\u010dn\u00e9 slovo"
         },
-        "5187ed7cdf401218d2ae7263781350b8": {
-            "text": "Ozna\u010duje podporu pro \u010d\u00e1ste\u010dnou shodu slov"
-        },
         "bbeff731bf48359f60959f600e6240c2": {
             "text": "V\u00fdchoz\u00ed vyhled\u00e1vac\u00ed oper\u00e1tor pro vyhled\u00e1v\u00e1n\u00ed v\u00edce slov (fr\u00e1ze)"
         },
-        "3aaf625865081e0b0f1f8d001a9a06be": {
-            "text": "(v jak\u00e9mkoliv po\u0159ad\u00ed)"
+        "608da9c856f25abd4d2a774f9c5aa9a0": {
+            "text": "(nastaven\u00ed pro typ str\u00e1nek)"
         }
     }
 }

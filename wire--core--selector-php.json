@@ -1,0 +1,162 @@
+{
+    "file": "wire\/core\/Selector.php",
+    "textdomain": "wire--core--selector-php",
+    "translations": {
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "Rovn\u00e1 se"
+        },
+        "fca4ff540452f89822f15c83de8bb8c4": {
+            "text": "Dan\u00e1 hodnota je stejn\u00e1 jako porovn\u00e1van\u00e1 hodnota."
+        },
+        "2fbafa06d82b006195754ddd3bf01edc": {
+            "text": "Nerovn\u00e1 se"
+        },
+        "1a865de2ca7e05f3fa1477b125a1eb3c": {
+            "text": "Dan\u00e1 hodnota nen\u00ed stejn\u00e1 jako porovn\u00e1van\u00e1 hodnota."
+        },
+        "05824b7be006782aaefd1fdb97c71e06": {
+            "text": "V\u011bt\u0161\u00ed ne\u017e"
+        },
+        "acc783a86f7a99b039300bdc0205245f": {
+            "text": "Porovn\u00e1van\u00e1 hodnota je v\u011bt\u0161\u00ed ne\u017e zadan\u00e1 hodnota."
+        },
+        "ad647e4ae904c7ed54ee93040d8298c7": {
+            "text": "Men\u0161\u00ed ne\u017e"
+        },
+        "2172d09507f89b8199b4b6cbd100b141": {
+            "text": "Porovn\u00e1van\u00e1 hodnota je men\u0161\u00ed ne\u017e zadan\u00e1 hodnota."
+        },
+        "338131a3a3f4a2649c1d1ed2d2107589": {
+            "text": "V\u011bt\u0161\u00ed nebo rovno"
+        },
+        "2d7fc49398b2dadc319c632313444b1c": {
+            "text": "Porovn\u00e1van\u00e1 hodnota je v\u011bt\u0161\u00ed nebo rovna dan\u00e9 hodnot\u011b."
+        },
+        "6d3fe9fca3f08ca0a55fd9c655f7b5cf": {
+            "text": "Men\u0161\u00ed nebo rovno"
+        },
+        "2b1e18ec3e770ce9cf5c0e74f893b653": {
+            "text": "Porovn\u00e1van\u00e1 hodnota je men\u0161\u00ed nebo rovna dan\u00e9 hodnot\u011b."
+        },
+        "ccb979faf1731ac84eacb61a8a30a309": {
+            "text": "Obsahuje fr\u00e1zi"
+        },
+        "d6cafb5b9a6d5fb02a5bf5a2b039b436": {
+            "text": "Dan\u00fd text se zobraz\u00ed v porovn\u00e1n\u00ed s hodnotou."
+        },
+        "694fa795bb560275200877a98153bf50": {
+            "text": "Dan\u00e1 fr\u00e1ze nebo slovo se zobraz\u00ed v porovn\u00e1n\u00ed s hodnotou."
+        },
+        "5aa919e6d2b38f2462d83fd9b2513257": {
+            "text": "Dan\u00e9 slovo nebo fr\u00e1ze se objev\u00ed na za\u010d\u00e1tku porovn\u00e1van\u00e9 hodnoty."
+        },
+        "8e272ff6747ebe4eb258cb9a94b56902": {
+            "text": "Dan\u00e9 slovo nebo fr\u00e1ze se objev\u00ed na konci porovn\u00e1van\u00e9 hodnoty."
+        },
+        "e0df0786238e11ca0d41f67eaf6d3701": {
+            "text": "Rozbalte a zahr\u0148te potenci\u00e1ln\u011b souvisej\u00edc\u00ed v\u00fdrazy a varianty slov."
+        },
+        "64c83a96645ef7012024814ec8667639": {
+            "text": "V\u0161echna zadan\u00e1 slova se zobrazuj\u00ed v porovn\u00e1van\u00e9 hodnot\u011b v libovoln\u00e9m po\u0159ad\u00ed."
+        },
+        "9e71a2e4d3bd54f1b6474e5f5d8cb130": {
+            "text": "Jak\u00e1koli zadan\u00e1 slova se zobraz\u00ed v porovn\u00e1van\u00e9 hodnot\u011b v libovoln\u00e9m po\u0159ad\u00ed."
+        },
+        "33a59aa39e09c5978b2b2d141957c557": {
+            "text": "Jak\u00e1koli zadan\u00e1 slova se shoduj\u00ed s porovn\u00e1vanou hodnotou."
+        },
+        "40fb05e192ca57e10d5c3493ac87ce9a": {
+            "text": "Porovn\u00e1 cel\u00e1 slova."
+        },
+        "bbb78155a83a765a9db9a5a62b5aef13": {
+            "text": "Shoduje se s cel\u00fdmi nebo \u010d\u00e1ste\u010dn\u00fdmi slovy."
+        },
+        "e669879b2f0030034d4e297c9be34893": {
+            "text": "\u010c\u00e1ste\u010dn\u00e9 shody kdekoli ve slovech."
+        },
+        "4d0a9e1a622db2b78f0c76fe3dc69e89": {
+            "text": "\u010c\u00e1ste\u010dn\u00e9 shody od za\u010d\u00e1tku slov."
+        },
+        "e9663b6a6cd4707c7c9878be874b384b": {
+            "text": "\u010c\u00e1ste\u010dn\u00e9 shody posledn\u00edho slova v dan\u00e9 hodnot\u011b."
+        },
+        "8fe723f4bcc806144c8521349ae0d4c4": {
+            "text": "Pou\u017e\u00edv\u00e1 \u201efulltextov\u00fd\u201c index."
+        },
+        "b95c9268b2e2bd8bf23ac47accef8675": {
+            "text": "Porovn\u00e1v\u00e1 pomoc\u00ed \u201clike\u201d."
+        },
+        "5e6b838ff481a8b752ac3b3884880c26": {
+            "text": "Shoduje se bez ohledu na hranice slov (pomoc\u00ed \u201clike\u201d)."
+        },
+        "b7afa694212b1d893f5322e280dcb0ff": {
+            "text": "Obsahuje rozklad fr\u00e1ze"
+        },
+        "aa85104e4a4fe9ab184b7535d9b5267f": {
+            "text": "Obsahuje text jako"
+        },
+        "d9e14c66bbffdeccdde58be4d05eb381": {
+            "text": "Obsahuje v\u0161echna slova"
+        },
+        "b6c1660ddf4644820efed7c7341462f2": {
+            "text": "Obsahuje v\u0161echna d\u00edl\u010d\u00ed slova"
+        },
+        "417f745a9fafc021d1ba351c61410a46": {
+            "text": "Obsahuje v\u0161echna slova jako"
+        },
+        "c7dd4f730f3141e14060ef64d9d620bf": {
+            "text": "Obsahuje v\u0161echna slova \u017eiv\u011b"
+        },
+        "53fe09cda48fac70e10b3770b0d03669": {
+            "text": "Obsahuje v\u0161echny rozklady slova"
+        },
+        "24f687d4a2739cb2fa454527c5bcaa94": {
+            "text": "Obsahuje libovoln\u00e1 slova"
+        },
+        "06a1edb024c5ba42ef55fc00a9a69172": {
+            "text": "Obsahuje v\u0161echna d\u00edl\u010d\u00ed slova"
+        },
+        "d37f826e5014cdf5c92bb5e9d4a6e3fa": {
+            "text": "Obsahuje v\u0161echna slova jako"
+        },
+        "60349069f28257eaf778759dd771316e": {
+            "text": "Obsahuje v\u0161echny rozklady slov"
+        },
+        "5bd610060ed9f4ff92d6dbabc797255a": {
+            "text": "Obsahuje shodu"
+        },
+        "470da3795c671e23b14b97ec714912bb": {
+            "text": "Obsahuje shodu rozkladu"
+        },
+        "86a004f4206d0f2133e3aa81d0247c3c": {
+            "text": "Pokro\u010dil\u00e9 textov\u00e9 vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "be60d8e8a8aafeefb880343bcaddb16e": {
+            "text": "Porovnejte hodnoty s p\u0159\u00edkazy: +slovo SE MUS\u00cd zobrazit, -slovo SE NESM\u00cd zobrazit, a m\u016f\u017ee se zobrazit slovo bez prefixu."
+        },
+        "9004a4ff1e6a2ceda507ea1986986057": {
+            "text": "P\u0159idejte hv\u011bzdi\u010dku pro \u010d\u00e1ste\u010dnou shodu: Bar nebo +Bar odpov\u00edd\u00e1  bar, barn, barge; zat\u00edmco -Bar* znemo\u017e\u0148uje jejich shodu."
+        },
+        "1fb86755a88f3b2c83a11aaaaef0d6ad": {
+            "text": "K porovn\u00e1n\u00ed fr\u00e1z\u00ed pou\u017eijte uvozovky: +(mus\u00ed odpov\u00eddat), -(nesm\u00ed odpov\u00eddat) nebo (m\u016f\u017ee odpov\u00eddat)."
+        },
+        "13a4a02c365a44407beebb73dddbc554": {
+            "text": "Za\u010d\u00edn\u00e1 s"
+        },
+        "7048f4b88df4ffb23ad8175fc2237e22": {
+            "text": "Za\u010d\u00edn\u00e1 jako"
+        },
+        "6950a77d131f284826099392fd57701c": {
+            "text": "Kon\u010d\u00ed s"
+        },
+        "0fdd2feb1a1625a723ebb9d9ec57533e": {
+            "text": "Kon\u010d\u00ed jako"
+        },
+        "4ec9dc2c71f12f57dfccfc105045a3e0": {
+            "text": "Bitov\u00e9 AND"
+        },
+        "ca03f0701dadffbc2a9b6b25da2792d3": {
+            "text": "Dan\u00e1 celo\u010d\u00edseln\u00e1 hodnota odpov\u00edd\u00e1 bitov\u00e9mu oper\u00e1toru AND s porovn\u00e1vanou celo\u010d\u00edselnou hodnotou."
+        }
+    }
+}

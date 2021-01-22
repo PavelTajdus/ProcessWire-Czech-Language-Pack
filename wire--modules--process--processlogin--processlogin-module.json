@@ -8,9 +8,6 @@
         "a0bfb8e59e6c13fc8d990781f77694fe": {
             "text": "Pokra\u010dovat"
         },
-        "847549ae30061a6767a4b17c6fb4f53c": {
-            "text": "\u00dasp\u011b\u0161n\u00e9 p\u0159ihl\u00e1\u0161en\u00ed"
-        },
         "48649d8c2d04aa439d10bc45eaba8f75": {
             "text": "P\u0159ihl\u00e1\u0161en\u00ed se nezda\u0159ilo"
         },
@@ -22,9 +19,6 @@
         },
         "99dea78007133396a7b8ed70578ac6ae": {
             "text": "P\u0159ihl\u00e1sit"
-        },
-        "d837cc5a72556c5e2abf4b9fe10ddef8": {
-            "text": "P\u0159ihl\u00e1\u0161en\u00ed"
         },
         "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
             "text": "Jste odhl\u00e1\u0161eni"
@@ -61,6 +55,102 @@
         },
         "355f835c4f5fd628f83983152533363c": {
             "text": "Kontrola nastaven\u00ed soubor\u016f cookie se nezda\u0159ila: povolte Cookies pro p\u0159ihl\u00e1\u0161en\u00ed."
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-mail"
+        },
+        "7b27f5e583e36dc50e5648f38c65ac55": {
+            "text": "P\u0159ihl\u00e1\u0161en\u00ed nen\u00ed pro tuto e-mailovou adresu podporov\u00e1no."
+        },
+        "fbda2a5cde5a86fc243eb050230f25a6": {
+            "text": "Neplatn\u00e9 p\u0159ihla\u0161ovac\u00ed jm\u00e9no"
+        },
+        "1c315fe64c02f0dc4a605373f68d911b": {
+            "text": "U\u017eivatelsk\u00e9 jm\u00e9no nebo email"
+        },
+        "a1413ed049a4bed0e649c409b4462b49": {
+            "text": "Typ p\u0159ihl\u00e1\u0161en\u00ed"
+        },
+        "987dce661afca3372aa3e05702fb1d06": {
+            "text": "U\u017eivatelsk\u00e9 jm\u00e9no"
+        },
+        "b357b524e740bc85b9790a0712d84a30": {
+            "text": "Emailov\u00e1 adresa"
+        },
+        "9e70a5d3dab1960c04b55a29f310331e": {
+            "text": "Bu\u010f"
+        },
+        "d619a734f94b65d5137233c7d9a8fe69": {
+            "text": "Chcete-li pou\u017e\u00edt p\u0159ihla\u0161ov\u00e1n\u00ed e-mailem, mus\u00edte povolit \u201eunik\u00e1tn\u00ed\u201c nastaven\u00ed pro pole e-mail."
+        },
+        "ef8f23f26034e25bcf827a963aa8c8b7": {
+            "text": "(Klikn\u011bte pro konfiguraci)"
+        },
+        "cd718f93e76d48331ff1f6c8a86226a2": {
+            "text": "Vynutit dvoufaktorov\u00e9 ov\u011b\u0159ov\u00e1n\u00ed"
+        },
+        "23baebcb2653b738b5e1eb8a93e3ee28": {
+            "text": "Kdy\u017e je zde vybr\u00e1n modul Tfa, bude automaticky aktivov\u00e1n (p\u0159i p\u0159ihl\u00e1\u0161en\u00ed) tak\u00e9 pro u\u017eivatele, kte\u0159\u00ed nepou\u017e\u00edvaj\u00ed dvoufaktorov\u00e9 ov\u011b\u0159ov\u00e1n\u00ed."
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "+"
+        },
+        "2af7712565017bd05b828e1a625c7375": {
+            "text": "Za\u0161krtnut\u00edm rol\u00ed vynut\u00edte dvoufaktorov\u00e9 ov\u011b\u0159ov\u00e1n\u00ed, nebo ponechte v\u0161echny neza\u0161krtnut\u00e9, aby byly vynuceny V\u0160ECHNY role (tam kde to je mo\u017en\u00e9)."
+        },
+        "b88a66937b3f8fa44719aa2d7b5ea94d": {
+            "text": "Povolit u\u017eivatel\u016fm mo\u017enost p\u0159esko\u010dit zad\u00e1v\u00e1n\u00ed k\u00f3du, kdy\u017e si jejich p\u0159ihl\u00e1\u0161en\u00ed prohl\u00ed\u017ee\u010d\/um\u00edst\u011bn\u00ed pamatuj\u00ed?"
+        },
+        "d6340b7e300601dbe176deca28d5e216": {
+            "text": "U\u017eivatel\u00e9 tak z\u00edskaj\u00ed mo\u017enost \u201ePamatovat si tento po\u010d\u00edta\u010d?\u201c na obrazovce pro zad\u00e1n\u00ed k\u00f3du p\u0159i p\u0159ihl\u00e1\u0161en\u00ed."
+        },
+        "275269a543b575d0897e5a56d291cbf1": {
+            "text": "Zadejte po\u010det dn\u00ed, po kter\u00e9 si prohl\u00ed\u017ee\u010d\/um\u00edst\u011bn\u00ed u\u017eivatele pamatuje, nebo 0 chcete-li jej deaktivovat."
+        },
+        "37eb4d02a9ee33ced10a5ad495bc7ad8": {
+            "text": "U\u017eivatelsk\u00fd agent (prohl\u00ed\u017ee\u010d, platforma a verze ka\u017ed\u00e9ho z nich)"
+        },
+        "6b7e493b999bf8d0c92bdc3b29024968": {
+            "text": "Neverzovan\u00fd u\u017eivatelsk\u00fd agent (prohl\u00ed\u017ee\u010d a platforma, ale \u017e\u00e1dn\u00e9 verze - s men\u0161\u00ed pravd\u011bpodobnost\u00ed \u010dast\u00fdch zm\u011bn)"
+        },
+        "cff941a9aa13dfcab50294eeaa022925": {
+            "text": "P\u0159ijmout hlavi\u010dku (typy obsahu, kter\u00e9 prohl\u00ed\u017ee\u010d u\u017eivatele p\u0159ij\u00edm\u00e1)"
+        },
+        "c672dab899263b4175d85bfc8cb7e101": {
+            "text": "Aktu\u00e1ln\u00ed sch\u00e9ma po\u017eadavku, a\u0165 u\u017e HTTP nebo HTTPS"
+        },
+        "00a49b9092610102db06e4608e243215": {
+            "text": "N\u00e1zev hostitele serveru (hodnota $config-> httpHost)"
+        },
+        "06ed01dbecaff9408ecd32c52b79017a": {
+            "text": "IP adresa u\u017eivatele (REMOTE_ADDR)"
+        },
+        "3add8b73a114f103016f69709c744c6b": {
+            "text": "P\u0159epos\u00edlan\u00e1 nebo klientsk\u00e1 IP adresa (HTTP_X_FORWARDED_FOR nebo HTTP_CLIENT_IP)"
+        },
+        "4b5d3e81071a18d907f2cb045c473d68": {
+            "text": "Kdy\u017e se n\u011bkter\u00e1 z t\u011bchto vlastnost\u00ed zm\u011bn\u00ed, nedovolit u\u017eivateli p\u0159esko\u010den\u00ed zad\u00e1v\u00e1n\u00ed k\u00f3du"
+        },
+        "ef162e74cf4f410e781d7527ff762b2d": {
+            "text": "Zm\u011bny hesla, jm\u00e9na, e-mailu nebo n\u00e1hodn\u00e9ho souboru cookie v prohl\u00ed\u017ee\u010di u\u017eivatele budou v\u017edy vy\u017eadovat zad\u00e1n\u00ed k\u00f3du p\u0159i p\u0159ihl\u00e1\u0161en\u00ed."
+        },
+        "93e378bb66b2ea325b7f8af83f060341": {
+            "text": "Krom\u011b toho budou zm\u011bny u v\u0161ech n\u00ed\u017ee za\u0161krtnut\u00fdch polo\u017eek vy\u017eadovat tak\u00e9 zad\u00e1n\u00ed k\u00f3du p\u0159i p\u0159ihl\u00e1\u0161en\u00ed."
+        },
+        "5b83708cddebc0c2b79a0aa6a9fe3b41": {
+            "text": "Tyto vlastnosti tvo\u0159\u00ed \"otisk prstu\" prohl\u00ed\u017ee\u010de u\u017eivatele nad r\u00e1mec n\u00e1hodn\u00e9ho souboru cookie, kter\u00fd jsme nastavili."
+        },
+        "f4ccf290dcc14df62d1579062d98f413": {
+            "text": "Toto nastaven\u00ed se pou\u017eije, pouze pokud je povolena mo\u017enost zapamatovat si prohl\u00ed\u017ee\u010d\/um\u00edst\u011bn\u00ed."
+        },
+        "987180bcb4c386f67e0922affbf79d0b": {
+            "text": "P\u0159ihl\u00e1\u0161en\u00ed"
+        },
+        "2eeb1b1520e3542ede796b6245e1695a": {
+            "text": "Typ"
+        },
+        "eb85010d3dccc246aa17a0a4671be4a4": {
+            "text": "Role"
         }
     }
 }

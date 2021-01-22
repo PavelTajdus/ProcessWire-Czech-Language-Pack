@@ -308,15 +308,6 @@
         "62d09c342e50351059153e99a2fdbb47": {
             "text": "Pro \u00fapravu a p\u0159eps\u00e1n\u00ed nastaven\u00ed nebo p\u0159eps\u00e1n\u00ed jin\u00e9ho nastaven\u00ed, upravte kteroukoliv \u0161ablonu a klikn\u011bte na n\u00e1zev pole v seznamu pol\u00ed."
         },
-        "2452cab12330c0a3ce62f7974eb82ba6": {
-            "text": "Odstranit p\u0159epis"
-        },
-        "7ce33a363647f83aa612fc538dcb8214": {
-            "text": "N\u00e1sleduj\u00edc\u00ed nastaven\u00ed p\u0159episuj\u00ed origin\u00e1ln\u00ed nastaven\u00ed pole, pokud je pole pou\u017eito spole\u010dn\u011b s \u0161ablonou \"%s\"."
-        },
-        "b5781496c3e514537473d4edd038152a": {
-            "text": "Pro odstran\u011bn\u00ed jak\u00e9hokoliv p\u0159episu hodnot (a obnoven\u00ed p\u016fvodn\u00edch hodnot) za\u0161krtn\u011bte pol\u00ed\u010dko vedle ka\u017ed\u00e9ho nastaven\u00ed, kter\u00e9 chcete odstranit\/obnovit."
-        },
         "4759b9b64d72e5a1a226e72b31ff919e": {
             "text": "\u00daprava na u\u017eivatelsk\u00e9 \u010d\u00e1sti webu"
         },
@@ -509,15 +500,6 @@
         "7a3d219a780c47deeba29f396adfc6d0": {
             "text": "Skr\u00fdt v editoru pokud nelze upravovat"
         },
-        "7f8ceb624f94b152f89f7bfd06a2dff2": {
-            "text": "Origin\u00e1l"
-        },
-        "f4aa6607ad257caa74e12b30eab4b8c6": {
-            "text": "P\u0159epis"
-        },
-        "0255524701bd52455b1ae33bf39818ff": {
-            "text": "Odstranit nastaven\u00ed"
-        },
         "995ed8becc596409849c6a652fbf5cd4": {
             "text": "Obsazen\u00e9 str\u00e1nky"
         },
@@ -539,14 +521,8 @@
         "760b4bbc37693597edf00f9eeda38cd0": {
             "text": "V sou\u010dasn\u00e9 dob\u011b neexistuje \u017e\u00e1dn\u00e1 nastaven\u00ed, kter\u00e1 by \u0161ablona p\u0159episovala."
         },
-        "89fa758424367d5caeb355f904d5bfc1": {
-            "text": "Povolen\u00e1 p\u0159eps\u00e1n\u00ed"
-        },
         "7710897a6218283716118180cd494f1e": {
             "text": "Za\u0161krtnut\u00e1 nastaven\u00ed se zobraz\u00ed p\u0159i konfiguraci tohoto pole, v kontextu konkr\u00e9tn\u00ed \u0161ablony, jako mo\u017enosti konfigurace."
-        },
-        "c4d3fb0af8e800de549531cccd8a19f8": {
-            "text": "Upozorn\u011bn\u00ed: nastaven\u00ed, kter\u00e1 p\u0159esahuj\u00ed nastaven\u00ed specifikovan\u00e9 autorem modulu, nemus\u00ed v\u017edy fungovat nebo mohou zp\u016fsobit probl\u00e9my."
         },
         "2babe53026309ed1bc4d26626dbaf9b3": {
             "text": "Detaily:"

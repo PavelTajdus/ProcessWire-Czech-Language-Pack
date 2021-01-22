@@ -119,9 +119,6 @@
         "0900a3f6adfa931e0130c02c436e7e7f": {
             "text": "N\u00e1zev t\u0159\u00eddy modulu (Class Name)"
         },
-        "3b0798392299a74418470d3f13b5eec2": {
-            "text": "P\u0159ehled dostupn\u00fdch modul\u016f je na adrese [modules.processwire.com](http:\/\/modules.processwire.com)"
-        },
         "5975f55a2bcd254c58d9fe16d7a21417": {
             "text": "Pokud jste ru\u010dn\u011b p\u0159idali nov\u00e9 moduly do adres\u00e1\u0159e \/site\/modules\/, pro jejich nalezen\u00ed klikn\u011bte na toto tla\u010d\u00edtko."
         },
@@ -327,7 +324,7 @@
             "text": "Ned\u00e1vno nalezen\u00e9 a nainstalovan\u00e9 moduly"
         },
         "dc975a9e6b0112228c42a6abbe82ae93": {
-            "text": "Bu\u010fte si zcela jist\u00ed, \u017ee d\u016fv\u011b\u0159ujete zdroji ZIP souboru."
+            "text": "M\u011bli byste si b\u00fdt zcela jist\u00ed, \u017ee d\u016fv\u011b\u0159ujete zdroji ZIP souboru."
         },
         "d5f38db4e3d76c9a7cda57c660ac0dad": {
             "text": "URL modulu v ZIP souboru"
@@ -421,6 +418,27 @@
         },
         "fb61fc284cf893013b55de02da9c9948": {
             "text": "Modul: %s"
+        },
+        "9508427b7e6579d141f8c3b79dae6d96": {
+            "text": "P\u0159idat modul ru\u010dn\u011b"
+        },
+        "5e836e5f23db2e182bbf94e2c151afd7": {
+            "text": "Adres\u00e1\u0159 modul\u016f je um\u00edst\u011bn v %s"
+        },
+        "dc54208b35a531502358bc307e9366ed": {
+            "text": "NazevModulu"
+        },
+        "35d7f630296905e9a75b2419e1b94182": {
+            "text": "1. Zkop\u00edrujte soubory modulu do nov\u00e9ho adres\u00e1\u0159e %s na serveru."
+        },
+        "f7cc8104813457b0243bd76df9c6a3e6": {
+            "text": "2. Klikn\u011bte na tla\u010d\u00edtko \u201c%s\u201d n\u00ed\u017ee, kde najdete nov\u00fd modul."
+        },
+        "850f7ec6c49d2fb734785a8f52ad4a0e": {
+            "text": "3. Vyhledejte a klikn\u011bte na tla\u010d\u00edtko \u201c%s\u201d vedle nov\u00e9ho modulu."
+        },
+        "aad2eb78d1969fc8b53488a5f5a054ba": {
+            "text": "Nahra\u010fte \u201c%s\u201d skute\u010dn\u00fdm n\u00e1zvem modulu, co\u017e je obvykle jeho n\u00e1zev t\u0159\u00eddy PHP."
         }
     }
 }

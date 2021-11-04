@@ -92,9 +92,6 @@
         "13944cf77acdf1b9e49f6383c101ae89": {
             "text": "(v\u0161ichni)"
         },
-        "eec429d33814974270e5ab8a04a3d23e": {
-            "text": "P\u0159\u00edstup je definov\u00e1n v \u0161ablon\u011b: %s"
-        },
         "890e4f4dd63b6c580cbf534f25914565": {
             "text": "P\u0159\u00edstup je zd\u011bd\u011bn\u00fd ze str\u00e1nky \"%1$s\" a je definovan\u00fd v \u0161ablon\u011b: %2$s"
         },
@@ -373,6 +370,18 @@
         },
         "c71458ba699635fcdbc6a15dd2b81c4c": {
             "text": "Ohl\u00e1\u0161en\u00fd stav byl odstran\u011bn, proto\u017ee b\u011bhem ukl\u00e1d\u00e1n\u00ed nebyly hl\u00e1\u0161eny \u017e\u00e1dn\u00e9 chyby"
+        },
+        "802d4ac742bc4c352f14d68f10856b2d": {
+            "text": "P\u0159\u00edstup je definov\u00e1n pomoc\u00ed \u0161ablony t\u00e9to str\u00e1nky: %s"
+        },
+        "be308063778a2b4976cb94b0e8c7ee84": {
+            "text": "Viditeln\u00e9 podle adresy URL, pokud str\u00e1nka m\u011bla soubor \u0161ablony (v sou\u010dasnosti nem\u00e1)."
+        },
+        "f5fafb7927ee3b6486882051f8f1c9b4": {
+            "text": "P\u0159id\u00e1n stav: %s"
+        },
+        "a8e9b386531e893ec224b5712121f1fe": {
+            "text": "Odebr\u00e1n stav: %s"
         }
     }
 }

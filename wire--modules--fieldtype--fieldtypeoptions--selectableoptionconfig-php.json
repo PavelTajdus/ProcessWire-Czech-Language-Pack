@@ -35,12 +35,6 @@
         "ad560982b535502d63dbf2f46ea8b3a6": {
             "text": "Toto pole tak\u00e9 slou\u017e\u00ed jako n\u00e1hled vybran\u00e9ho typu vstupu (%s) a mo\u017enost\u00ed."
         },
-        "810906cf431b89762465d39dd3402ba7": {
-            "text": "Pozn\u00e1mka: va\u0161e nastaven\u00ed nebude aktivn\u00ed, pokud hodnota nebude *v\u017edy* povinn\u00e1. Pod\u00edvejte se na nastaven\u00ed \"povinn\u00e9\" na z\u00e1lo\u017ece Vstup v nastaven\u00ed pole."
-        },
-        "a6a26b1340a7cbaf1b405484a8a74b98": {
-            "text": "Tato funkce je aktivn\u00ed pouze pokud je hodnota v\u017edy ozna\u010dena jako povinn\u00e1."
-        },
         "c3524d56fb147114b84d6e9dd56110a9": {
             "text": "Vymazat tuto mo\u017enost"
         },
@@ -58,6 +52,15 @@
         },
         "d51f7ee41ebdd5252b9a4410e297b306": {
             "text": "Chcete-li vypsat sp\u00ed\u0161e hodnoty ne\u017e titulky, nahra\u010fte \"titulek\" (\"title\") v p\u0159edchoz\u00edch p\u0159\u00edkladech \"hodnotou\" (\"value\")."
+        },
+        "d8773b3c985910685f4f4aca03604c14": {
+            "text": "V\u00edce se\u0159aditeln\u00fdch hodnot"
+        },
+        "69a114a946943d26c4ea03ba031b4124": {
+            "text": "Upozorn\u011bn\u00ed: V\u00e1\u0161 p\u0159edv\u00fdb\u011br nen\u00ed aktivn\u00ed, proto\u017ee toto pole nen\u00ed povinn\u00e9. Na z\u00e1lo\u017ece Vstup pole aktivujte mo\u017enost \u201evy\u017eadov\u00e1no\u201c."
+        },
+        "67f541f6547ed8217b9d81909acc241f": {
+            "text": "P\u0159edv\u00fdb\u011br je aktivn\u00ed, proto\u017ee toto pole je povinn\u00e9."
         }
     }
 }

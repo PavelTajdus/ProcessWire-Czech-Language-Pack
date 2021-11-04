@@ -10,6 +10,21 @@
         },
         "b26126a5fdfea23d379aa813c392d533": {
             "text": "V\u00fdchoz\u00ed: %s"
+        },
+        "2bcf586c695b0ada1781efb8ac78d294": {
+            "text": "Bylo smaz\u00e1no %d historick\u00fdch cest ke str\u00e1nk\u00e1m"
+        },
+        "c6d134febe49205b49a3d50c095359e1": {
+            "text": "Smazat celou historii cest ke str\u00e1nce?"
+        },
+        "49ec38867ac66d1ebc5e03d7d27b5939": {
+            "text": "Aktu\u00e1ln\u011b je v datab\u00e1zi %d historick\u00fdch cest str\u00e1nek."
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "+"
+        },
+        "7d77cfb1efb2f2ae3b3870708b58d7ee": {
+            "text": "Tyto informace se pou\u017e\u00edvaj\u00ed pro automatick\u00e1 p\u0159esm\u011brov\u00e1n\u00ed a dal\u0161\u00ed. Po smaz\u00e1n\u00ed jej nelze obnovit. Za\u0161krtnut\u00edm pol\u00ed\u010dka potvr\u010fte, \u017ee to opravdu chcete ud\u011blat."
         }
     }
 }

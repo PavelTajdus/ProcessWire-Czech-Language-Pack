@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "Pole \"%s\" je\u0161t\u011b nen\u00ed p\u0159ipraveno k pou\u017eit\u00ed a je t\u0159eba jej nakonfigurovat."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Nastaven\u00ed je\u0161t\u011b nebylo potvrzeno."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Zkontrolujte pros\u00edm nastaven\u00ed na t\u00e9to str\u00e1nce a ulo\u017ete je\u0161t\u011b jednou (i kdy\u017e nic nezm\u011bn\u00edte), abyste potvrdili, \u017ee je p\u0159ij\u00edm\u00e1te."
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "n\u00e1zev souboru"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Soubory"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Pole, kter\u00e9 ukl\u00e1d\u00e1 jeden nebo v\u00edce soubor\u016f"
+        }
+    }
+}

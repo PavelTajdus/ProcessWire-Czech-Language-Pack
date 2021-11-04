@@ -77,9 +77,6 @@
         "1f2b73286f18ea71c594652199e86dff": {
             "text": "Zru\u0161it"
         },
-        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
-            "text": "Vymazat"
-        },
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Z\u00e1klady"
         },
@@ -113,9 +110,6 @@
         "83cfa166d441c1b47108e5d6b3f21cbe": {
             "text": "Popisek"
         },
-        "ee2d3754b6e7f57898d9d8670f78ae71": {
-            "text": "Pokro\u010dil\u00e9 mo\u017enosti"
-        },
         "cc84c47ce264c6a27bd49ff004d4c555": {
             "text": "Potvrzen\u00ed zm\u011bny typu pole"
         },
@@ -139,9 +133,6 @@
         },
         "2a7b956033d031e555889f8ddd52754f": {
             "text": "Za\u0161krtnut\u00ed pol\u00ed\u010dka zobraz\u00ed i vestav\u011bn\u00e1 pole. Pat\u0159\u00ed mezi n\u011b syst\u00e9mov\u00e1 a trval\u00e1. Syst\u00e9mov\u00e1 pole jsou vy\u017eadov\u00e1na syst\u00e9mem a nelze je p\u0159ejmenovat nebo smazat. Trval\u00e1 pole intern\u011b vyu\u017e\u00edv\u00e1 ProcessWire a nelze je odebrat ze \u0161ablony."
-        },
-        "219befd28b6f70d6d0a52f13c6b93772": {
-            "text": "Popisek, kter\u00fd se zobraz\u00ed nad vstupn\u00edm polem. Pokud nevypln\u00edte, pou\u017eije se n\u00e1zev pole."
         },
         "d421f74dd8c605a337e57a6224f23478": {
             "text": "Dodate\u010dn\u00e9 informace popisuj\u00edc\u00ed toto pole a\/nebo instrukce jak zadat obsah."
@@ -622,6 +613,27 @@
         },
         "e036648db74b48abc2b6af1d56d4596c": {
             "text": "Zm\u011bny"
+        },
+        "133027c82744d7b44344c6d2fdd3cd2e": {
+            "text": "(nepou\u017eito)"
+        },
+        "28ac344e871bb5931c25502670d3e2fd": {
+            "text": "\u0160t\u00edtek, kter\u00fd se zobraz\u00ed nad vstupem do pole."
+        },
+        "405231013da488699f3761636027e651": {
+            "text": "Popis se zobraz\u00ed zde a vypad\u00e1 takto."
+        },
+        "0151b4b3cfa88e85b9387dc9490961cf": {
+            "text": "unik\u00e1tn\u00ed"
+        },
+        "ab17e61adc90fe446ec49fe7cd795864": {
+            "text": "p\u0159episov\u00e1n\u00ed\/kontexty"
+        },
+        "2e97680673e9f48756601bd5672b0d45": {
+            "text": "%d \u0161ablona"
+        },
+        "f78cb52b393842a378dcbee7bd241ffe": {
+            "text": "%d \u0161ablony"
         }
     }
 }

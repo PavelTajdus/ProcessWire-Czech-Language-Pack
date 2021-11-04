@@ -439,6 +439,57 @@
         },
         "aad2eb78d1969fc8b53488a5f5a054ba": {
             "text": "Nahra\u010fte \u201c%s\u201d skute\u010dn\u00fdm n\u00e1zvem modulu, co\u017e je obvykle jeho n\u00e1zev t\u0159\u00eddy PHP."
+        },
+        "f464b54239700029744e7426935c782b": {
+            "text": "Chyb\u00ed soubor\/y modulu v: %s"
+        },
+        "2aee0be2678ee90fd327cc186826438e": {
+            "text": "Chyb\u011bj\u00edc\u00ed"
+        },
+        "95044757c9e0df8925fe4a63a324d3d8": {
+            "text": "Moduly v datab\u00e1zi, kter\u00e9 se nenach\u00e1zej\u00ed v syst\u00e9mu soubor\u016f. Kliknut\u00edm na libovoln\u00fd n\u00e1zev modulu n\u00ed\u017ee zobraz\u00edte mo\u017enosti opravy."
+        },
+        "744cbb13a2d60fe8be0889a49e0bee00": {
+            "text": "T\u0159\u00edda modulu mus\u00ed implementovat rozhran\u00ed \u201cProcessWire\\Module\u201d."
+        },
+        "4cd91aa9e2204807c18ccb578305c357": {
+            "text": "soubor modulu nebyl nalezen"
+        },
+        "608c857d1ec057cf85a2776ae9d2e0f1": {
+            "text": "Modul \u201c%s\u201d existuje v datab\u00e1zi, ale ne v syst\u00e9mu soubor\u016f."
+        },
+        "3f7ac7b9e02123a6f7ad6b0a30d22b6d": {
+            "text": "Zva\u017ete um\u00edst\u011bn\u00ed soubor\u016f modulu do %s nebo odebr\u00e1n\u00ed modulu z datab\u00e1ze."
+        },
+        "5726ea1babd2fd38df90eb9181ccc652": {
+            "text": "Odebrat tento modul z datab\u00e1ze?"
+        },
+        "20cdc25923bd223a0616adb565cd34c4": {
+            "text": "Modul byl odstran\u011bn z datab\u00e1ze"
+        },
+        "7d571db09020671aab5f5a8eb76c4b06": {
+            "text": "Modul %1$s byl aktualizov\u00e1n, aby mohl pou\u017e\u00edvat soubor: %2$s"
+        },
+        "8569fe11869eab4756b242c9cdc6ad92": {
+            "text": "nainstalovat p\u0159eklady"
+        },
+        "bf07f89fd86a5f3f7e8adb1833ce11bb": {
+            "text": "Nejsou k dispozici \u017e\u00e1dn\u00e9 jazykov\u00e9 soubory modulu"
+        },
+        "4ba2c3760d90822344a0ef877706ceca": {
+            "text": "Jazykov\u00e9 p\u0159eklady modulu"
+        },
+        "b7b039d0210f657d8600e7356ac5016c": {
+            "text": "Importovat p\u0159eklady pro modul %s"
+        },
+        "aa62c21c0ac6b3651b220804c8633047": {
+            "text": "Importovat do %s"
+        },
+        "a73e218ed0a476a4a5ac1a3f5aef776f": {
+            "text": "Nelze naj\u00edt soubor CSV"
+        },
+        "1ce6b5b21ba628d92d00fd22b0c87730": {
+            "text": "Jazyky"
         }
     }
 }

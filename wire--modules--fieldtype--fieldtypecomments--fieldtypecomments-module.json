@@ -235,6 +235,12 @@
         },
         "1f2f44c370f66e4d06d25042e93e39c1": {
             "text": "Vypnuto"
+        },
+        "13bf9d7a10643fcd246e4c242499f945": {
+            "text": "Povolit text koment\u00e1\u0159e v ozn\u00e1men\u00edch?"
+        },
+        "898ded7b2375a02a2642e39971e59cd3": {
+            "text": "Po za\u0161krtnut\u00ed se v e-mailech s upozorn\u011bn\u00edm zobraz\u00ed cel\u00fd text koment\u00e1\u0159e, nikoli pouze odkaz na n\u011bj."
         }
     }
 }

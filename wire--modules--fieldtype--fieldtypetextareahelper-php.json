@@ -89,12 +89,6 @@
         "d4705c271d7e1e75a05e9b6236ad836c": {
             "text": "(sledujte %s z\u00e1znam\/log)"
         },
-        "91032d1254768e880dbbeede54e35a79": {
-            "text": "%d m\u00edstn\u00ed a[href] tagy', 'link-type"
-        },
-        "5fcef18456ba78863a5a57e162279d2d": {
-            "text": "%d m\u00edstn\u00ed img[src] tagy', 'link-type"
-        },
         "d53200ec5949152baffbeed6c4d58966": {
             "text": "Aktualizov\u00e1no %1$d z %2$d str\u00e1nek skrze HTML nastaven\u00ed."
         },
@@ -133,6 +127,12 @@
         },
         "bf488dca57621015b17e715b49053f72": {
             "text": "%d pr\u00e1zdn\u00e9 img[alt] tagy budou napln\u011bny p\u0159i spu\u0161t\u011bn\u00ed"
+        },
+        "211db397a32350b16b977f65a9acada6": {
+            "text": "%d m\u00edstn\u00edch a[href] tag\u016f"
+        },
+        "9a2c2c21237a6938a98824b3993a9623": {
+            "text": "%d m\u00edstn\u00edch img[src] tag\u016f"
         }
     }
 }

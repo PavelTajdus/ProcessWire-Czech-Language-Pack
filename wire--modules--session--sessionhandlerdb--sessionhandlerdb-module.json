@@ -25,6 +25,15 @@
         },
         "8883240d9c18322fd43dfd39c8b32e14": {
             "text": "P\u0159edchoz\u00ed relace p\u0159ihl\u00e1\u0161en\u00ed pro \"%s\" byla odstran\u011bna\/odhl\u00e1\u0161ena."
+        },
+        "38c612b0c7404dbf10629354dfc1ec43": {
+            "text": "\u010casov\u00fd limit uzam\u010den\u00ed relace (v sekund\u00e1ch)"
+        },
+        "b0736da4c0683db9382ba750a5f0073b": {
+            "text": "Pokud nelze z\u00edskat z\u00e1mek datab\u00e1ze pro relaci b\u011bhem t\u011bchto mnoha sekund, bude odesl\u00e1na chyba \u201c%s\u201d, kter\u00e1 klientovi \u0159ekne, aby to zkusil znovu za %d sekund."
+        },
+        "c1ab83af87ac0bb0dab8511d14260c73": {
+            "text": "429: P\u0159\u00edli\u0161 mnoho po\u017eadavk\u016f"
         }
     }
 }

@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--config-php",
+    "translations": {
+        "fefc3e3c3400216f77f0b3c6b12adfb7": {
+            "text": "Vstupn\u00ed funkce"
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "V\u00fdchoz\u00ed re\u017eim m\u0159\u00ed\u017eky obr\u00e1zku"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "V adminu se v tomto re\u017eimu standardn\u011b zobraz\u00ed seznam obr\u00e1zk\u016f. U\u017eivatel jej m\u016f\u017ee kdykoli zm\u011bnit kliknut\u00edm na ikony v prav\u00e9m horn\u00edm rohu pole."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Pokud jste toto pole obr\u00e1zk\u016f ned\u00e1vno pou\u017eili, budete muset p\u0159ed zobrazen\u00edm jak\u00fdchkoli zm\u011bn tohoto nastaven\u00ed vymazat soubory cookie."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Obr\u00e1zky \u010dtvercov\u00e9 m\u0159\u00ed\u017eky"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Obr\u00e1zky proporcion\u00e1ln\u00ed m\u0159\u00ed\u017eky"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Vertik\u00e1ln\u00ed seznam (podrobn\u00fd)"
+        },
+        "e0f4085735da81540154c2c351147301": {
+            "text": "V\u00fdb\u011br zaost\u0159ovac\u00edho bodu"
+        },
+        "f6a9e8b3977d98dd0e4b7b13720c858b": {
+            "text": "Umo\u017e\u0148uje p\u0159eta\u017een\u00edm zaost\u0159ovac\u00edho bodu vybrat p\u0159edm\u011bt obr\u00e1zku. To pom\u00e1h\u00e1 vytv\u00e1\u0159et neproporcion\u00e1ln\u00ed plodiny."
+        },
+        "17450a5a8844e5a36f3911d94bea2b72": {
+            "text": "Pokud jsou sn\u00edmky v re\u017eimu \u201eObr\u00e1zky se \u010dtvercovou m\u0159\u00ed\u017ekou\u201c, zobraz\u00ed se tak\u00e9 n\u00e1hled zaost\u0159ovac\u00edho bodu."
+        },
+        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
+            "text": "Bod zaost\u0159en\u00ed"
+        },
+        "2d07823e1de7d7eb6f09477f9070524f": {
+            "text": "Bod ost\u0159en\u00ed a zv\u011bt\u0161en\u00ed"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Zak\u00e1z\u00e1no"
+        },
+        "84a327773a9172357f703ebdbb28680b": {
+            "text": "Maxim\u00e1ln\u00ed rozm\u011bry obrazu"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "voliteln\u011b zadejte maxim\u00e1ln\u00ed \u0161\u00ed\u0159ku a\/nebo v\u00fd\u0161ku nahran\u00fdch obr\u00e1zk\u016f. Pokud je to zad\u00e1no, velikost obr\u00e1zk\u016f se p\u0159i nahr\u00e1v\u00e1n\u00ed zm\u011bn\u00ed, kdy\u017e p\u0159ekro\u010d\u00ed maxim\u00e1ln\u00ed \u0161\u00ed\u0159ku nebo v\u00fd\u0161ku. Zm\u011bna velikosti se prov\u00e1d\u00ed p\u0159i nahr\u00e1v\u00e1n\u00ed, a proto neovliv\u0148uje \u017e\u00e1dn\u00e9 obr\u00e1zky v syst\u00e9mu ani obr\u00e1zky p\u0159idan\u00e9 prost\u0159ednictv\u00edm rozhran\u00ed API."
+        },
+        "16e3e850ce20fe9fa8340e6d27693f61": {
+            "text": "Plat\u00ed pro obr\u00e1zky JPG, PNG a GIF."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Zadejte hodnotu v po\u010dtu pixel\u016f nebo ponechte pr\u00e1zdn\u00e9, abyste neomezili \u017e\u00e1dn\u00fd limit."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Maxim\u00e1ln\u00ed \u0161\u00ed\u0159ka nahran\u00fdch obr\u00e1zk\u016f"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Maxim\u00e1ln\u00ed v\u00fd\u0161ka nahran\u00fdch obr\u00e1zk\u016f"
+        },
+        "9fdc5bac96032d0465aa6cc6543d1871": {
+            "text": "Jak zm\u011bnit velikost na maxim\u00e1ln\u00ed rozm\u011bry"
+        },
+        "434352c2b6134b909827f386b3644f0f": {
+            "text": "Pomoc\u00ed zm\u011bny velikosti na stran\u011b klienta m\u016f\u017eete p\u0159ed odesl\u00e1n\u00edm zmen\u0161it velikost a rozm\u011bry souboru."
+        },
+        "c265ab5c0405e78595f05a15d5279278": {
+            "text": "P\u0159i pou\u017eit\u00ed zm\u011bny velikosti na stran\u011b klienta zadejte do pol\u00ed v\u00fd\u0161e maxim\u00e1ln\u00ed \u0161\u00ed\u0159ku *a* maxim\u00e1ln\u00ed v\u00fd\u0161ku nebo do pole n\u00ed\u017ee maxim\u00e1ln\u00ed po\u010det megapixel\u016f."
+        },
+        "edcf99dacdc6160d6eb8d2efb90ee189": {
+            "text": "Pokud je to mo\u017en\u00e9, pou\u017eijte zm\u011bnu velikosti na stran\u011b klienta"
+        },
+        "4421a363b922af1808ae2b258c9d11bb": {
+            "text": "Pou\u017eijte pouze zm\u011bnu velikosti na stran\u011b serveru"
+        },
+        "41d833b452340b52caa65fdcfe181945": {
+            "text": "Maxim\u00e1ln\u00ed po\u010det megapixel\u016f pro nahran\u00e9 obr\u00e1zky"
+        },
+        "86d448ef6f037ce16fc358a22921c45c": {
+            "text": "Toto lze pou\u017e\u00edt jako alternativu k maxim\u00e1ln\u00ed \u0161\u00ed\u0159ce\/v\u00fd\u0161ce. Zadejte hodnotu s pohyblivou \u0159\u00e1dovou \u010d\u00e1rkou."
+        },
+        "bd035d6e1aa04d38e61f36c27150e39d": {
+            "text": "Plat\u00ed pouze pro zm\u011bnu velikosti na stran\u011b klienta."
+        },
+        "fe64c68c1aa30e687be4aa011b33f15f": {
+            "text": "Dobr\u00e1 hodnota pro webov\u00e9 str\u00e1nky je 1,7, co\u017e je zhruba 1600 x 1000 pixel\u016f, kde 1600 a 1000 m\u016f\u017ee b\u00fdt \u0161\u00ed\u0159ka nebo v\u00fd\u0161ka."
+        },
+        "c719e0f0e40f5193e0bbe6f9afc408e5": {
+            "text": "Dal\u0161\u00ed p\u0159\u00edklady:"
+        },
+        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
+            "text": "Procento kvality zm\u011bny velikosti na stran\u011b klienta pro JPEG"
+        },
+        "ab00b0c8eb852647eee9553c75a100fe": {
+            "text": "Zadejte \u010d\u00edslo mezi 10 (nejni\u017e\u0161\u00ed kvalita\/nejmen\u0161\u00ed velikost souboru) a 100 (nejvy\u0161\u0161\u00ed kvalita\/nejv\u011bt\u0161\u00ed velikost souboru). V\u00fdchoz\u00ed hodnota je 90."
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Odm\u00edtnout obr\u00e1zky p\u0159esahuj\u00edc\u00ed maxim\u00e1ln\u00ed rozm\u011bry?"
+        },
+        "aa09d92fbba4044af814b7504798dec3": {
+            "text": "Pokud je za\u0161krtnuto, obr\u00e1zky, kter\u00e9 p\u0159ekra\u010duj\u00ed maxim\u00e1ln\u00ed \u0161\u00ed\u0159ku\/v\u00fd\u0161ku (u kter\u00fdch nelze zm\u011bnit velikost na stran\u011b klienta), budou odm\u00edtnuty, nikoli zm\u011bn\u011bna velikost."
+        },
+        "2d77facadb02370d5dd7c076b5afbee7": {
+            "text": "Minim\u00e1ln\u00ed rozm\u011bry obr\u00e1zku"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Voliteln\u011b zadejte minim\u00e1ln\u00ed \u0161\u00ed\u0159ku a\/nebo v\u00fd\u0161ku nahran\u00fdch obr\u00e1zk\u016f. Pokud je uvedeno, sn\u00edmky, kter\u00e9 nespl\u0148uj\u00ed tato minima, budou odm\u00edtnuty."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Minim\u00e1ln\u00ed \u0161\u00ed\u0159ka nahran\u00fdch obr\u00e1zk\u016f"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Minim\u00e1ln\u00ed v\u00fd\u0161ka nahran\u00fdch obr\u00e1zk\u016f"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Zam\u011bnit minim\u00e1ln\u00ed\/maxim\u00e1ln\u00ed rozm\u011bry za obr\u00e1zky na v\u00fd\u0161ku?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "Pokud je za\u0161krtnuto, rozm\u011bry minim\u00e1ln\u00ed \u0161\u00ed\u0159ka\/v\u00fd\u0161ka a maxim\u00e1ln\u00ed \u0161\u00ed\u0159ka\/v\u00fd\u0161ka budou zam\u011bn\u011bny za obr\u00e1zky na v\u00fd\u0161ku, aby se p\u0159izp\u016fsobily r\u016fzn\u00e9mu pom\u011bru stran."
+        },
+        "98ebe60c452735dc2ef2249c835eddfe": {
+            "text": "Plat\u00ed pouze pro zm\u011bny velikosti na stran\u011b serveru."
+        }
+    }
+}

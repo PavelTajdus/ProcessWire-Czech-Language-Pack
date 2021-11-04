@@ -62,23 +62,20 @@
         "141e30f2de96660020efd996cc916413": {
             "text": "Chyba z\u00e1visloti modulu: %s po\u017eaduje %s"
         },
-        "f0116bd76230140a92cbd37cc524488e": {
-            "text": "bude aplikov\u00e1no p\u0159i ka\u017ed\u00e9m dal\u0161\u00edm nahr\u00e1n\u00ed modulu"
-        },
         "3ba3666c48feabf2f2506e1f835ea92e": {
             "text": "Aktualizace modulu"
         },
-        "edf71dd6396541cf37f54bf079e21006": {
-            "text": "Zji\u0161t\u011bn %d nov\u00fd modul: %s"
+        "5a2fc11bf796d8311be4cbec0b42de6a": {
+            "text": "Nalezeno %d nov\u00fd\/ch modul\/\u016f:"
         },
-        "8d36abbc1aa8f167970999175380a355": {
-            "text": "Zji\u0161t\u011bny %d nov\u00e9 moduly: %s"
+        "c6c027ba8c6c5d40e280070bd29ded16": {
+            "text": "Nalezeno %d p\u0159esunut\u00fd\/ch modul\/\u016f:"
         },
-        "99cf7718c48f783d19e8c8b463a6e704": {
-            "text": "Zji\u0161t\u011bna %d zm\u011bna verze modulu"
+        "6ea5c2eaa01aed58a21b407c8e6dfd98": {
+            "text": "Nalezeno %d modul\/\u016f s chyb\u011bj\u00edc\u00edm souborem:"
         },
-        "7cbf3b34133e54263a1242eb74a5008e": {
-            "text": "Zji\u0161t\u011bny %d zm\u011bny verze modulu"
+        "ad9906aa0524fdfe2d135ea6be8c4a6a": {
+            "text": "Nalezeno %d zm\u011bn verze modulu (plat\u00ed p\u0159i na\u010dten\u00ed ka\u017ed\u00e9ho modulu):"
         }
     }
 }

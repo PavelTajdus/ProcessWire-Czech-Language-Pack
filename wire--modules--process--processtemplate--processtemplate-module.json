@@ -95,9 +95,6 @@
         "5dd56426fff182e0610cc0bf9d389437": {
             "text": "Nastaven\u00ed \u0161ablony specifick\u00e9 pro syst\u00e9m"
         },
-        "bef497d3a07d13fedba143fc543e606d": {
-            "text": "Importovat pole z jin\u00e9 \u0161ablony"
-        },
         "890f96a8e633d19ff700b360949982af": {
             "text": "V\u0161im\u011bte si \u017ee vymaz\u00e1n\u00ed \u0161ablony ji pouze odebere z datab\u00e1ze. Nevyma\u017ee soubor z disku."
         },
@@ -106,12 +103,6 @@
         },
         "189f63f277cd73395561651753563065": {
             "text": "\u0160t\u00edtky (Tags)"
-        },
-        "f9c716f29bd379e49e4485ea8afd1556": {
-            "text": "P\u0159ejmenovat \u0161ablonu"
-        },
-        "30281e3b2fa626d5f52c833c541c84ac": {
-            "text": "Klonovat tuto \u0161ablonu?"
         },
         "a7c1ec59b9f4fea9e41e1ca799437193": {
             "text": "Zak\u00e1zat kartu nastaven\u00ed?"
@@ -139,9 +130,6 @@
         },
         "ce79a399cbe0a2128106c428d5f5227c": {
             "text": "Ulo\u017eena \u0161ablona: %s"
-        },
-        "ac97a1ad01bd7b48508de449e229a73d": {
-            "text": "Importovat"
         },
         "03a481d8869ea4aa815e15943c4577dd": {
             "text": "Skupina pol\u00ed"
@@ -218,12 +206,6 @@
         "8d3a827d5474c79dc3434e5e29f7a80f": {
             "text": "Vyberte \u0161ablony, kter\u00e9 budou povoleny jako rodi\u010dovsk\u00e9 (nad\u0159azen\u00e9) pro str\u00e1nky pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu. Tuto volbu pou\u017e\u00edvejte pouze v p\u0159\u00edpad\u011b, \u017ee chcete omezit um\u00edst\u011bn\u00ed str\u00e1nek pou\u017e\u00edvaj\u00edc\u00edch tuto \u0161ablonu."
         },
-        "0a18045f3c2d800b18fc146d3f16b97e": {
-            "text": "Pokud chcete zduplikovat pole z jin\u00e9 \u0161ablony, vyberte \u0161ablonu n\u00ed\u017ee. Pole ji\u017e p\u0159\u00edtomn\u00e1 v t\u00e9to \u0161ablon\u011b budou vynech\u00e1na."
-        },
-        "71bb941583eef6e3e5ed3eaad39cc315": {
-            "text": "Duplikovat pole z jin\u00e9 \u0161ablony"
-        },
         "707380d7bcc2ece9eead5a5879fb1c22": {
             "text": "Chcete spravovat p\u0159\u00edstupy k prohl\u00ed\u017een\u00ed a \u00faprav\u011b str\u00e1nek pou\u017e\u00edvaj\u00edc\u00edch tuto \u0161ablonu?"
         },
@@ -292,9 +274,6 @@
         },
         "7f511c25eccff9ce7127eecfb136f443": {
             "text": "Ka\u017ed\u00fd \u0161t\u00edtek mus\u00ed b\u00fdt jedno slovo (poml\u010dky jsou povoleny)."
-        },
-        "9238cda6a9c91cd5cc846791a49ba3ab": {
-            "text": "Pro automatick\u00e9 zabalen\u00ed \u0161t\u00edtku v seznamu \u0161ablon mu p\u0159ed\u0159a\u010fte poml\u010dku. Nap\u0159\u00edklad: -ahoj"
         },
         "f1a2199b60e95006b3d66f9eb5a9e621": {
             "text": "N\u00e1zev pou\u017e\u00edvan\u00fd jako odkaz na tuto \u0161ablonu. Je to tak\u00e9 v\u00fdchoz\u00ed n\u00e1zev souboru s \u0161ablonou (plus p\u0159\u00edpona .php) v adres\u00e1\u0159i \/site\/templates\/."
@@ -665,9 +644,6 @@
         "0e2511c51c799246bc640afd3b4cc07b": {
             "text": "M\u016f\u017eete zadat v\u00edce n\u00e1zv\u016f \u0161ablon t\u00edm, \u017ee je odd\u011bl\u00edte mezerou."
         },
-        "ae89f7319ca951efb3ce055e92b8ade2": {
-            "text": "Definujte pole pou\u017e\u00edvan\u00e1 touto \u0161ablonou. M\u016f\u017eete tak\u00e9 p\u0159et\u00e1hnout pole do po\u017eadovan\u00e9ho po\u0159ad\u00ed nebo [vytvo\u0159it nov\u00e9 pole](..\/field\/add)."
-        },
         "044c72d21891e006e09a78d32a1e3226": {
             "text": "Zav\u0159\u00edt a p\u0159idat"
         },
@@ -994,6 +970,105 @@
         },
         "793e0cc1771feadd7a91c0031e7ad663": {
             "text": "Toto nastaven\u00ed je pou\u017eiteln\u00e9, pouze pokud jste v poli v\u00fd\u0161e vybrali mo\u017enost \u201eC\u201c."
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "+"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "+"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "+"
+        },
+        "9b2692fa9c25a63ff93341c03734c067": {
+            "text": "Spr\u00e1va zna\u010dek"
+        },
+        "af6397fe799c6883d32c1904e226a176": {
+            "text": "Nen\u00ed k dispozici z n\u00ed\u017ee uveden\u00e9ho d\u016fvodu"
+        },
+        "78f0addb345c31ce3601b53076e87281": {
+            "text": "Definujte vlastn\u00ed pole pro \u201c%s\u201c. Zde nen\u00ed nutn\u00e9 nic dal\u0161\u00edho konfigurovat."
+        },
+        "1ee7f0f967f1817a4d0df8dac4105ebc": {
+            "text": "Vyberte pole, kter\u00e1 pou\u017e\u00edv\u00e1 tato \u0161ablona, a p\u0159et\u00e1hn\u011bte je do po\u017eadovan\u00e9ho po\u0159ad\u00ed."
+        },
+        "2e5b330cc3f63247217f9a7aff0ba468": {
+            "text": "M\u016f\u017eete tak\u00e9 kliknout na n\u00e1zev nebo \u0161t\u00edtek pole, kter\u00e9 chcete upravit v kontextu t\u00e9to \u0161ablony, kliknut\u00edm\/p\u0159eta\u017een\u00edm ukazatele procent upravit \u0161\u00ed\u0159ku nebo [vytvo\u0159it nov\u00e9 pole](%s)."
+        },
+        "5b55d084858290c6852cb1b0bd6be400": {
+            "text": "Ulo\u017ete tuto \u0161ablonu, aby zde bylo mo\u017en\u00e9 nov\u011b p\u0159idan\u00e1 pole upravovat."
+        },
+        "6d54a6464afb9baefe6dc9b5bb9407ba": {
+            "text": "P\u0159ejmenovat \u0161ablonu"
+        },
+        "50b8391d080056ff0fef83460aec05c2": {
+            "text": "Duplikovat\/klonovat tuto \u0161ablonu"
+        },
+        "6a40b08ae62e68a7c0d75fbe482422bb": {
+            "text": "Zkop\u00edrovat pole z jin\u00e9 \u0161ablony"
+        },
+        "8daeee7ba24747388991aebbef424aca": {
+            "text": "Pokud chcete zkop\u00edrovat pole pou\u017e\u00edvan\u00e1 jinou \u0161ablonou, vyberte ji zde. Pole, kter\u00e1 ji\u017e jsou v t\u00e9to \u0161ablon\u011b p\u0159\u00edtomna, budou ponech\u00e1na."
+        },
+        "cd0cf5a5ee30d30f0261238f5875a33b": {
+            "text": "Zabr\u00e1nit p\u0159\u00edm\u00e9mu p\u0159\u00edstupu k soubor\u016fm vlastn\u011bn\u00fdm str\u00e1nkami pou\u017e\u00edvaj\u00edc\u00ed tuto \u0161ablonu?"
+        },
+        "e29fbd4b3ab93bd36ba02701195f7267": {
+            "text": "Kdy\u017e je blokov\u00e1n p\u0159\u00edm\u00fd p\u0159\u00edstup k souboru v [u]\/site\/assets\/files\/[\/u], ProcessWire m\u016f\u017ee \u0159\u00eddit doru\u010den\u00ed souboru, sp\u00ed\u0161e ne\u017e Apache."
+        },
+        "f0e7c1fdf80a62ce6751727bdba68f47": {
+            "text": "To umo\u017e\u0148uje, aby byl p\u0159\u00edstup k souboru \u0159\u00edzen stejn\u00fdm zp\u016fsobem jako na str\u00e1nce, kter\u00e1 jej vlastn\u00ed, a p\u0159itom st\u00e1le pou\u017e\u00edv\u00e1 p\u016fvodn\u00ed URL souboru."
+        },
+        "cb3c9250730efdee741ff650f807d56a": {
+            "text": "Upozor\u0148ujeme, \u017ee doru\u010den\u00ed souboru t\u00edmto zp\u016fsobem vy\u017eaduje v\u011bt\u0161\u00ed re\u017eii, tak\u017ee mo\u017enost \u201eAno v\u017edy\u201c vyberte pouze v p\u0159\u00edpad\u011b, \u017ee ji pot\u0159ebujete."
+        },
+        "09af5db524e775b4a1f701ef67479387": {
+            "text": "V\u017edy otestujte, zda \u0159\u00edzen\u00ed p\u0159\u00edstupu funguje tak, jak o\u010dek\u00e1v\u00e1te, pokusem o p\u0159\u00edstup k chr\u00e1n\u011bn\u00fdm soubor\u016fm ve va\u0161em prohl\u00ed\u017ee\u010di."
+        },
+        "825eaff6cfdbcc09fd32758d056e4742": {
+            "text": "Ud\u011blejte to, pokud o\u010dek\u00e1v\u00e1te, \u017ee budete m\u00edt p\u0159\u00edstup (p\u0159ihl\u00e1\u0161en\u00ed) a kdy ne (odhl\u00e1\u0161eni)."
+        },
+        "eae07a5d655bbc5b0b66030482669d7b": {
+            "text": "(m\u00edsto toho pou\u017e\u00edv\u00e1 konfiguraci pro cel\u00fd web)"
+        },
+        "60b7601149e4f71061b2518b1fb1369f": {
+            "text": "Ano, pokud str\u00e1nka nen\u00ed publikov\u00e1na, je v ko\u0161i nebo nen\u00ed ve\u0159ejn\u011b p\u0159\u00edstupn\u00e1"
+        },
+        "d761f031894f4f6b20d02ac34d62daa7": {
+            "text": "Ano v\u017edy, bez ohledu na stav str\u00e1nky nebo \u0159\u00edzen\u00ed p\u0159\u00edstupu"
+        },
+        "1ac66e7a4aef92762b695f5d268e693e": {
+            "text": "P\u0159ejmenov\u00e1na cesta(y) k souboru str\u00e1nky %d pro mo\u017enost zm\u011bny na zabezpe\u010den\u00e9 soubory"
+        },
+        "06ac19612d34194fee5bcab738cefe62": {
+            "text": "Va\u0161e zm\u011bna volby zabezpe\u010den\u00fdch soubor\u016f bude pou\u017eita p\u0159i p\u0159\u00edstupu k pol\u00edm soubor\u016f\/obr\u00e1zk\u016f na ka\u017ed\u00e9 z %d ovlivn\u011bn\u00fdch str\u00e1nek."
+        },
+        "b2c26a5234b7fb3fa549883f7c211bd3": {
+            "text": "Upozor\u0148ujeme, \u017ee to m\u016f\u017ee chv\u00edli trvat. Chcete-li nyn\u00ed pou\u017e\u00edt pro v\u0161echny, spus\u0165te n\u00e1sleduj\u00edc\u00ed k\u00f3d API ze souboru \u0161ablony:"
+        },
+        "8b3a3179c770d5cda3e5d38d7eb45ca2": {
+            "text": "Vyberte v\u0161echny \u0161ablony, kter\u00e9 by m\u011bly m\u00edt tuto zna\u010dku"
+        },
+        "cb1828d1114a1e3b73c8ffd78723339c": {
+            "text": "Zobrazit jako sbalen\u00e9 v seznamu \u0161ablon?"
+        },
+        "cdffd81250dc6c457665e79016900133": {
+            "text": "Chcete-li tuto zna\u010dku smazat, odstra\u0148te z n\u00ed v\u0161echny \u0161ablony."
+        },
+        "8958860efca6192ab40af3a1f2e17d48": {
+            "text": "Do \u0161ablony %2$s byla p\u0159id\u00e1na zna\u010dka \u201c%1$s\u201c"
+        },
+        "7a53b43fab8ccbe670792e7832ef2588": {
+            "text": "Ze \u0161ablony %2$s byla odstran\u011bna zna\u010dka \u201e%1$s\u201c"
+        },
+        "b8bda8719893c4a385d4025c60c78ec2": {
+            "text": "Zna\u010dky umo\u017e\u0148uj\u00ed vytv\u00e1\u0159et kolekce \u0161ablon pro v\u00fdpis."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "P\u0159idat novou zna\u010dku"
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Akce"
         }
     }
 }

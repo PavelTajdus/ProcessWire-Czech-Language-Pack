@@ -23,11 +23,11 @@
         "31ce3cdcd67850870b616f75b555bbc5": {
             "text": "V\u00fdchoz\u00ed hodnota"
         },
-        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
-            "text": "Tato hodnota je p\u0159i\u0159azena jako v\u00fdchoz\u00ed pro toto pole na nov\u011b vytvo\u0159en\u00fdch str\u00e1nk\u00e1ch. Nem\u00e1 efekt na existuj\u00edc\u00ed str\u00e1nky."
-        },
         "b4e4ee05aeb0d5812f77886c29c4bb53": {
             "text": "Pokud hodnoty nejsou rovny (volba Ne) pak hled\u00e1n\u00ed **field=0** bude odpov\u00eddat pouze pol\u00edm obsahuj\u00edc\u00edm hodnotu 0, a **field=\"\"** bude odpov\u00eddat pouze pol\u00edm bez vypln\u011bn\u00e9 hodnoty."
+        },
+        "382ee7815f7200f67e7a5735816c78d2": {
+            "text": "Tato hodnota je p\u0159i\u0159azena jako v\u00fdchoz\u00ed pro toto pole na str\u00e1nk\u00e1ch, kde nen\u00ed zad\u00e1na \u017e\u00e1dn\u00e1 hodnota."
         }
     }
 }

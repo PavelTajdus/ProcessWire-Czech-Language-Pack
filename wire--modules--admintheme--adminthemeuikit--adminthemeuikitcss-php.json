@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/AdminThemeUikitCss.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--adminthemeuikitcss-php",
+    "translations": {
+        "2c20129fc07f932b155494c2e6efcdbe": {
+            "text": "Zkompilov\u00e1no: %s"
+        },
+        "415fccb35a2b92d5fe61ed5dde2f26ad": {
+            "text": "Z\u00e1kladn\u00ed styl administrace - soubor nenalezen: %s"
+        }
+    }
+}

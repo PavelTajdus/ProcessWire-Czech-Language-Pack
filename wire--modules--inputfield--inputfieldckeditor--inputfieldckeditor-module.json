@@ -53,12 +53,6 @@
         "dfabf65177db13369e6f60e33d626a25": {
             "text": "Re\u017eim editoru"
         },
-        "0e0da14bdea5e80af97115d05779bdc4": {
-            "text": "Klasick\u00fd editor (Regular)"
-        },
-        "9f1f94725c69ad201b156e002476104c": {
-            "text": "Vlo\u017een\u00fd editor (Inline) *"
-        },
         "f4bbbce516de30f80d2025ca9cc9a595": {
             "text": "Pokud je povolen vlo\u017een\u00fd re\u017eim bude editor na\u010dten a\u017e po klepnut\u00ed my\u0161\u00ed do textu. Toto je mnohem rychlej\u0161\u00ed a efektivn\u011bj\u0161\u00ed nastaven\u00ed pokud str\u00e1nka obsahuje velk\u00e9 mno\u017estv\u00ed pol\u00ed s CKEditorem. Nev\u00fdhoda je, \u017ee nepodporuje tolik funkc\u00ed nebo \u00faprav editoru jako je klasick\u00fd re\u017eim."
         },
@@ -232,6 +226,21 @@
         },
         "d17026399e4b0283ab382defdc5ac109": {
             "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed budou ulo\u017een\u00e9 obr\u00e1zky ulo\u017eeny s aktu\u00e1ln\u011b upravovanou str\u00e1nkou. Chcete-li nam\u00edsto toho pou\u017e\u00edt sd\u00edlenou str\u00e1nku, vyberte ji zde."
+        },
+        "ddfa2d60092cf3c924e8e03b1d2749ad": {
+            "text": "="
+        },
+        "cece69f97e96edb257b883fcf95e4230": {
+            "text": "Klasick\u00fd editor"
+        },
+        "5876f9779e64d0cac98b54f9885e4f84": {
+            "text": "(flexibiln\u00ed v\u00fd\u0161ka, u\u017eivatelsky nastaviteln\u00e1)"
+        },
+        "ea87bd3358b07649df3149bfffc791c8": {
+            "text": "(prom\u011bnn\u00e1 v\u00fd\u0161ka, odpov\u00edd\u00e1 obsahu)"
+        },
+        "47d8cf2fe51854ad3028ba151ef9f3a1": {
+            "text": "(pevn\u00e1 v\u00fd\u0161ka, pou\u017e\u00edv\u00e1 nastaven\u00ed \u0159\u00e1dk\u016f)"
         }
     }
 }

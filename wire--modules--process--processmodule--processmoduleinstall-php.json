@@ -70,6 +70,15 @@
         },
         "3d32978a99cfd1c17aa9effcace86b1c": {
             "text": "Tato mo\u017enost instalace je aktu\u00e1ln\u011b zak\u00e1z\u00e1na."
+        },
+        "d83612969f53282acff312397c6d8fa8": {
+            "text": "Extrahov\u00e1no: %s"
+        },
+        "43b2e82a51daa1adee20374e35b3caa9": {
+            "text": "Byl extrahov\u00e1n %d soubor"
+        },
+        "aeb9dc1c219e430958416b2390306776": {
+            "text": "Extrahov\u00e1no %d soubor\u016f"
         }
     }
 }

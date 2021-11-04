@@ -41,12 +41,6 @@
         "92295f3f7fe39fd61f8ce27b523aa341": {
             "text": "P\u0159idal: %s"
         },
-        "1e0d36c28b3b237af18c36e171a50484": {
-            "text": "="
-        },
-        "c835168989fcff535a5d12f1fe9a9d51": {
-            "text": "Vypnout oznamovan\u00ed"
-        },
         "c7c47e22cdf07075fbc40c3197b822e0": {
             "text": "Potvr\u010fte pros\u00edm p\u0159\u00edjem ozn\u00e1men\u00ed"
         },
@@ -85,6 +79,15 @@
         },
         "2bdedaef502bd65a7190ee7077fc9d23": {
             "text": "Aktualizovat koment\u00e1\u0159 %d na %s"
+        },
+        "27d7f48b990974bef40abd6a857c4e0c": {
+            "text": "Zve\u0159ejn\u011bno v %s u\u017eivatelem %s"
+        },
+        "f6c4779fa5259e211efefe8cae45f4b2": {
+            "text": "Zobrazit nebo odpov\u011bd\u011bt"
+        },
+        "3b5617424ffc943d996c686a376e807c": {
+            "text": "Zru\u0161te odb\u011br t\u011bchto ozn\u00e1men\u00ed"
         }
     }
 }

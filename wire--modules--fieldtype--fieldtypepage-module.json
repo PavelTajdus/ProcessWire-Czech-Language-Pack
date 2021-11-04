@@ -17,9 +17,6 @@
         "7d5f7f76b51ac880e91da28dbc52df35": {
             "text": "Povolit nepublikovan\u00e9 str\u00e1nky?"
         },
-        "58b4f6dae2009a3d22a395a94de85360": {
-            "text": "Pokud je za\u0161krtnuto, budou povoleny nepublikovan\u00e9 str\u00e1nky jako hodnoty pole. Neve\u0159ejn\u00e9 str\u00e1nky se neobjev\u00ed ve front-endu, s v\u00fdjimkou t\u011bch s pr\u00e1vy pro \u00fapravu (edit access)."
-        },
         "2d6565614947b2a6daba1a06515124da": {
             "text": "Naj\u00edt a vymazat neplatn\u00e9 odkazy na str\u00e1nky"
         },
@@ -52,6 +49,9 @@
         },
         "0a7cd2620545065d49a8ca58f5fc0b28": {
             "text": "V\u00edce informac\u00ed o metod\u011b %s."
+        },
+        "147ca86a29ed518210e0864f1e0d49ad": {
+            "text": "Kdy\u017e je za\u0161krtnuto, nepublikovan\u00e9 str\u00e1nky bude mo\u017en\u00e9 vybrat pro vstup a budou povoleny v *neform\u00e1tovan\u00e9* hodnot\u011b pole. Budou st\u00e1le vylou\u010deny z *form\u00e1tovan\u00e9* hodnoty pole v obou sm\u011brech."
         }
     }
 }

@@ -154,6 +154,18 @@
         },
         "5222d983bada8088d0a86ac0ff1e5871": {
             "text": "Odstran\u011bno pole \"%1$s\" z \"%2$s\""
+        },
+        "b88543bf2626f096ed455b862390b4e3": {
+            "text": "Pou\u017e\u00edt nad\u0159\u00edzen\u00fd\/pod\u0159\u00edzen\u00fd styl zano\u0159en\u00ed polo\u017eek?"
+        },
+        "9b7bbf35ecde2744bc2b120d7a19e425": {
+            "text": "Toto nastaven\u00ed zp\u016fsob\u00ed, \u017ee editor administrace bude zano\u0159en\u00ed polo\u017eky pova\u017eovat za vztah nad\u0159azen\u00fd\/pod\u0159\u00edzen\u00fd."
+        },
+        "fc26899013e5130bf0f035bcb6645e36": {
+            "text": "To znamen\u00e1, \u017ee p\u0159esun\/t\u0159\u00edd\u011bn\u00ed polo\u017eky zahrnuje tak\u00e9 pod\u0159\u00edzen\u00e9 polo\u017eky."
+        },
+        "239509c1f5621ac1d950faf5de9d9111": {
+            "text": "Zabra\u0148uje tak\u00e9 p\u0159eta\u017een\u00ed pod\u0159\u00edzen\u00e9 polo\u017eky tak, aby m\u011bla hloubku p\u0159esahuj\u00edc\u00ed jej\u00ed nad\u0159azenou polo\u017eku o v\u00edce ne\u017e 1."
         }
     }
 }

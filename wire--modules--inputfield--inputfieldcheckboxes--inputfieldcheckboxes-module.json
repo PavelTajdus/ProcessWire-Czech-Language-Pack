@@ -1,1 +1,39 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module","textdomain":"wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module","translations":{"d3f3236393ce7a48198cde99acaed365":{"text":"Po\u010det sloupc\u016f pro za\u0161krt\u00e1vac\u00ed pole (Checkboxes)"},"c425f296c6b905c91fb3f6da1a1702b6":{"text":"Za\u0161krt\u00e1vac\u00ed pole (Checkboxes)"},"632ae34b804c1914c3a51af327a3379d":{"text":"V\u00fdcen\u00e1sobn\u00e9 za\u0161krt\u00e1vac\u00ed pole"},"50bad9e0658dd79a35545ebcd18f92ac":{"text":"Pokud chcete, aby se za\u0161krt\u00e1vac\u00ed pole zobrazovala ve sloupc\u00edch, zadejte po\u010det sloupc\u016f, kter\u00e9 chcete pou\u017e\u00edt (a\u017e 10). Chcete-li zobrazit za\u0161krt\u00e1vac\u00ed pole vedle sebe (inline) zadejte 1."}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "Za\u0161krt\u00e1vac\u00ed pole (Checkboxes)"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "V\u00fdcen\u00e1sobn\u00e9 za\u0161krt\u00e1vac\u00ed pole"
+        },
+        "7bcfe5241d76d75be6c2edd188a3c8d4": {
+            "text": "Mo\u017enost \u0161\u00ed\u0159ka sloupce"
+        },
+        "7eb9cb961fc6bd6179e41f543c3d7551": {
+            "text": "Toto nastaven\u00ed pou\u017eijte, chcete-li, aby se mo\u017enosti zobrazovaly ve sloupc\u00edch s pevnou \u0161\u00ed\u0159kou, kter\u00e9 pluj\u00ed nebo se sbaluj\u00ed podle \u0161\u00ed\u0159ky v\u00fd\u0159ezu."
+        },
+        "f1a23bf1974a4b1cbbeaddc284117fd9": {
+            "text": "Zadejte \u010d\u00edslo \u0161\u00ed\u0159ky v CSS a jednotku, jako je nap\u0159\u00edklad 100px nebo 10em. Pokud nen\u00ed uvedena \u017e\u00e1dn\u00e1 jednotka, p\u0159edpokl\u00e1d\u00e1 se px (pixely)."
+        },
+        "434bbaa0ab37f1ebd26e7509715e1aa3": {
+            "text": "Zadejte \u010d\u00edslo 1, aby se za b\u011bhu automaticky vypo\u010d\u00edtala vhodn\u00e1 \u0161\u00ed\u0159ka."
+        },
+        "e2698e70a4505aa9809823dda815aaa0": {
+            "text": "Pro nejlep\u0161\u00ed vzhled zadejte \u0161\u00ed\u0159ku, kter\u00e1 vypln\u00ed prostor bez zalomen\u00ed slov, nebo zadejte 1 a\u017e pro automatickou \u0161\u00ed\u0159ku."
+        },
+        "730f32bc95f78291755d63422278eea6": {
+            "text": "Mno\u017estv\u00ed sloupc\u016f mo\u017enosti"
+        },
+        "4628aba09e517657ce64b1604e3156c5": {
+            "text": "Pokud chcete, aby se mo\u017enosti zobrazovaly ve sloupc\u00edch, zadejte po\u010det sloupc\u016f, kter\u00e9 chcete pou\u017e\u00edt (a\u017e 10)."
+        },
+        "197eb3e7501c01299bce92e0abaace6c": {
+            "text": "Chcete-li zobrazit mo\u017enosti vlo\u017een\u00e9 vedle sebe, zadejte \u010d\u00edslo 1."
+        },
+        "9593e6f3bc34b5f5866e4f69f54ac96f": {
+            "text": "V\u0161imn\u011bte si, \u017ee nastaven\u00ed \u201eMno\u017estv\u00ed sloupc\u016f mo\u017enosti\u201c je vhodn\u011bj\u0161\u00ed pro responstivn\u00ed chov\u00e1n\u00ed."
+        }
+    }
+}

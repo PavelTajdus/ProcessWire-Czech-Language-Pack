@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTextTags\/InputfieldTextTags.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtexttags--inputfieldtexttags-module",
+    "translations": {
+        "5ada8a9286e44da2221cd82e3ec857be": {
+            "text": "Byla odstran\u011bna neplatn\u00e1 hodnota zna\u010dky: %s"
+        },
+        "fcf2ecb6c5c5991e49690fd12f0950dd": {
+            "text": "Voliteln\u00e9 mo\u017enosti\/zdroj tag\u016f"
+        },
+        "a1d8d28cd17bc9713cb6d9bf779b1422": {
+            "text": "Zde je specifikujte"
+        },
+        "2d4026ab7ebafbc34d0c0cee4bc6a8f9": {
+            "text": "Na\u010d\u00edst z adresy URL, kterou ur\u010d\u00edte (ajax)"
+        },
+        "6b1b91dab4876004505181d49ae7bc27": {
+            "text": "Pou\u017e\u00edt mo\u017enosti\/str\u00e1nky ajaxu?"
+        },
+        "e793cb635b6f498edd8f78ecaa4f1cc3": {
+            "text": "Je-li povoleno, bude se chovat jako automatick\u00e9 dokon\u010dov\u00e1n\u00ed, kdy u\u017eivatel za\u010dne ps\u00e1t a dotazuje se na adresu URL pro odpov\u00eddaj\u00edc\u00ed str\u00e1nky."
+        },
+        "26644aceea0417eed7cc9b89b5d217fe": {
+            "text": "Chcete-li prov\u00e9st dotaz, budete tak\u00e9 muset zadat \u201eAdresu URL Ajaxu\u201c (zobrazenou n\u00ed\u017ee, kdy\u017e je vybr\u00e1no \u201eAno\u201c). Pracovn\u00ed p\u0159\u00edklad k\u00f3du je zahrnut."
+        },
+        "113e5eb7479e4757efe217b2b4df3a9c": {
+            "text": "Pokud nen\u00ed povoleno, v\u0161echny voliteln\u00e9 mo\u017enosti se vypln\u00ed za b\u011bhu."
+        },
+        "860b7a69d838e2a510f79123bb657026": {
+            "text": "Pou\u017eit\u00ed mo\u017enost\u00ed\/str\u00e1nek ajax je u\u017eite\u010dn\u00e9, kdy\u017e je potenci\u00e1ln\u00ed mno\u017estv\u00ed str\u00e1nek, kter\u00e9 lze vybrat, velk\u00e9."
+        },
+        "9cba2db480057b2c65e239915198a3bc": {
+            "text": "Zva\u017ete to, kdy\u017e existuje n\u011bkolik stovek nebo tis\u00edc\u016f (nebo v\u00edce) str\u00e1nek, kter\u00e9 lze vybrat."
+        },
+        "8d303ccb1721972ffbf890a84a24c7a5": {
+            "text": "P\u0159eddefinovan\u00fd seznam mo\u017enost\u00ed\/tag\u016f"
+        },
+        "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
+            "text": "Zadejte p\u0159eddefinovan\u00e9 zna\u010dky, 1 na \u0159\u00e1dek. Chcete-li pro zna\u010dku definovat samostatnou hodnotu a \u0161t\u00edtek, zadejte na \u0159\u00e1dek hodnota=\u0161t\u00edtek."
+        },
+        "b23854b10090d03184c424927a1c221f": {
+            "text": "\u0160t\u00edtky nemus\u00ed obsahovat n\u00ed\u017ee vybran\u00fd odd\u011blova\u010d, ale \u0161t\u00edtky mohou."
+        },
+        "3f29cea14274476fd290ab2357acf53b": {
+            "text": "Chcete-li definovat samostatn\u00e9 \u0161t\u00edtky pro jazyk, zadejte znovu ka\u017ed\u00fd tag `hodnota=\u0161t\u00edtek` pro ka\u017ed\u00fd jazyk, kde `hodnota` je pro ka\u017ed\u00fd stejn\u00fd, zat\u00edmco `\u0161t\u00edtek` se li\u0161\u00ed."
+        },
+        "863a617186799199c167888e3f858ed7": {
+            "text": "P\u0159\u00edklad obslu\u017en\u00e9ho programu URL v souboru %s pro URL %s"
+        },
+        "0e3fd3cf510a091336f62cffa8fed928": {
+            "text": "Pokud chcete pou\u017e\u00edt n\u00ed\u017ee uveden\u00fd p\u0159\u00edklad, zkop\u00edrujte a vlo\u017ete tuto adresu URL do pole v\u00fd\u0161e."
+        },
+        "ae43497613e9bce166e79c93a3a3288f": {
+            "text": "="
+        },
+        "578b189f9605804a55dec2f726107836": {
+            "text": "Kdy\u017e zad\u00e1te adresu URL, bude automaticky dopl\u0148ov\u00e1na dotazem na polo\u017eky odpov\u00eddaj\u00edc\u00ed u\u017eivatelsk\u00e9mu vstupu."
+        },
+        "3094591b42aeeae0f6f5743dd58ff360": {
+            "text": "Dan\u00e1 URL mus\u00ed n\u011bkde obsahovat z\u00e1stupn\u00fd symbol {q}, kter\u00fd bude nahrazen textem, kter\u00fd u\u017eivatel zad\u00e1."
+        },
+        "6de08d5e99d2f49b707fbe84bf2babc4": {
+            "text": "M\u016f\u017eete zadat \u00faplnou http\/https URL nebo relativn\u00ed URL."
+        },
+        "b9b2836d05319756a7f9b1797166d2c5": {
+            "text": "Pokud zad\u00e1te relativn\u00ed adresu URL (bez sch\u00e9matu\/hostitele), bude k n\u00ed za b\u011bhu p\u0159id\u00e1no aktu\u00e1ln\u00ed sch\u00e9ma, hostitel a ko\u0159enov\u00e1 adresa URL."
+        },
+        "3d68dddcd3aa8f6a61b89149dc3cd5ac": {
+            "text": "Budete tak\u00e9 muset definovat obslu\u017en\u00fd program URL jako v p\u0159\u00edkladu uveden\u00e9m n\u00ed\u017ee."
+        },
+        "c55228ab9fb65392d44a1ad232555e5b": {
+            "text": "Cesta URL %s je jen p\u0159\u00edklad, klidn\u011b ji nahra\u010fte \u010d\u00edm chcete."
+        },
+        "61900119c9b2f987bb0f2784d219d460": {
+            "text": "Tento p\u0159\u00edklad najde n\u00e1zvy str\u00e1nek, kter\u00e9 se pou\u017eij\u00ed jako zna\u010dky, ale m\u016f\u017eete pou\u017e\u00edt jak\u00fdkoli zdroj dat, kter\u00fd chcete."
+        },
+        "a4ead355e5bbbd25f264cae5a69d5d72": {
+            "text": "selektor vyhled\u00e1v\u00e1n\u00ed va\u0161\u00ed str\u00e1nky zde"
+        },
+        "1505f61747adf41e94a27b064a284b40": {
+            "text": "Vezm\u011bte pros\u00edm na v\u011bdom\u00ed, \u017ee pokud zm\u011bn\u00edte nastaven\u00ed \u201eVoliteln\u00e9 str\u00e1nky\u201c nebo \u201ePole \u0161t\u00edtku\u201c, budete muset tak\u00e9 aktualizovat k\u00f3d obslu\u017en\u00e9ho programu URL."
+        },
+        "6aa01c4fdc82ff85bc6299056ef15167": {
+            "text": "Z\u00e1stupn\u00fd symbol \u201e{q}\u201c je vy\u017eadov\u00e1n n\u011bkde ve va\u0161\u00ed adrese URL Ajax."
+        },
+        "4c38a85c32ea7ee51ac917693c988269": {
+            "text": "Povolit u\u017eivateli zad\u00e1vat vlastn\u00ed zna\u010dky?"
+        },
+        "f03041db1e5b27242c249d020d997331": {
+            "text": "Zav\u0159\u00edt rozev\u00edrac\u00ed seznam po proveden\u00ed ka\u017ed\u00e9ho v\u00fdb\u011bru?"
+        },
+        "e077077fcf3ef41f3ad162f4cc681209": {
+            "text": "(pro jednoslovn\u00e9 zna\u010dky)"
+        },
+        "826be3095514fef3d79e6f899b887ecc": {
+            "text": "(pro v\u00edceslovn\u00e9 zna\u010dky)"
+        },
+        "dfb1a97826511d6e6732545b6e536bd5": {
+            "text": "Odd\u011blova\u010d zna\u010dek"
+        },
+        "d511f8439ecde36647437fbba67a4394": {
+            "text": "Mezera"
+        },
+        "58be47db9455679e6a44df2eff9c9fa6": {
+            "text": "St\u0159edn\u00edk"
+        },
+        "2ab1f3f893823298751fdf60b4e0365a": {
+            "text": "Svisl\u00e1 \u010d\u00e1ra"
+        },
+        "4192f616db902e9df5391f247482d3b8": {
+            "text": "Maxim\u00e1ln\u00ed po\u010det zna\u010dek\/mo\u017enost\u00ed"
+        },
+        "66553e3b94c6fdf004b777c7e8187afd": {
+            "text": "Pou\u017eijte 0 pro \u017e\u00e1dn\u00fd limit nebo zadejte maxim\u00e1ln\u00ed po\u010det mo\u017enost\u00ed\/tag\u016f, kter\u00e9 m\u016f\u017ee u\u017eivatel vybrat nebo zadat."
+        },
+        "fd9b78d0ec0b8004cc27a0872e531698": {
+            "text": "Pamatujte, \u017ee zad\u00e1n\u00edm 1 bude vstup vypadat sp\u00ed\u0161e jako v\u00fdb\u011br ne\u017e jako textov\u00fd vstup."
+        },
+        "910370309c0af1e93df0ae98ff8cfe5a": {
+            "text": "Z\u00e1stupn\u00fd text"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Voliteln\u00fd z\u00e1stupn\u00fd text, kter\u00fd se objev\u00ed v poli, kdy\u017e je pr\u00e1zdn\u00e9."
+        },
+        "350efb22a387fd0b416e2835e7ddd4e8": {
+            "text": "Textov\u00e9 zna\u010dky"
+        },
+        "28e1cc9b637fcfb04e136e18800240ff": {
+            "text": "Umo\u017e\u0148uje zad\u00e1n\u00ed u\u017eivatelsk\u00fdch tag\u016f nebo v\u00fdb\u011br p\u0159eddefinovan\u00fdch tag\u016f."
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDecimal.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedecimal-module",
+    "translations": {
+        "0f26309b1be1b637d35f604c298b57df": {
+            "text": "Aktualizovan\u00e9 pole \u201e%1$s\u201c sch\u00e9ma: %2$s => %3$s"
+        },
+        "506c2c0c7f5b70af3df68c45c46f45a7": {
+            "text": "Nap\u0159\u00edklad:"
+        },
+        "a495e52f576ff7677bb1ebe793e5cc9e": {
+            "text": "Celkov\u00fd po\u010det podporovan\u00fdch \u010d\u00edslic"
+        },
+        "6bc3814dd7bc238bb8c0f906e323d4d7": {
+            "text": "Zahrnuje \u010d\u00edslice p\u0159ed i za desetinnou \u010d\u00e1rkou."
+        },
+        "7a12767f99c7a4fcac27286992c2030f": {
+            "text": "999,99 je celkem 5 \u010d\u00edslic, tak\u017ee vy\u017eaduje hodnotu 5 nebo vy\u0161\u0161\u00ed."
+        },
+        "7d06ba10369f702102235f72dc0f34c8": {
+            "text": "Po\u010det \u010d\u00edslic za desetinnou \u010d\u00e1rkou"
+        },
+        "0e2cec5723266f020033868d628d6061": {
+            "text": "Tato hodnota bude men\u0161\u00ed (nebo v n\u011bkter\u00fdch p\u0159\u00edpadech rovna) celkov\u00e9mu po\u010dtu \u010d\u00edslic."
+        },
+        "6acc82c74212c97024e366c4c20d7e3c": {
+            "text": "999,99 a 100,00 maj\u00ed za desetinnou \u010d\u00e1rkou 2 \u010d\u00edslice"
+        },
+        "937504f318f04eaf0f1d701df4c4d7f3": {
+            "text": "Desetiny"
+        },
+        "c9abe09f2a14ec066fadf2954ea16aa6": {
+            "text": "Pole, kter\u00e9 ukl\u00e1d\u00e1 desetinn\u00e9 \u010d\u00edslo"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--config-php",
+    "translations": {
+        "7ed67c541834e8611ff12de806594362": {
+            "text": "Povolen\u00e9 p\u0159\u00edpony soubor\u016f pro nahr\u00e1v\u00e1n\u00ed"
+        },
+        "f95a2203d4668a44286d8955c270b809": {
+            "text": "Jedna nebo v\u00edce p\u0159\u00edpon soubor\u016f odd\u011blen\u00fdch mezerou."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "Maxim\u00e1ln\u00ed povolen\u00fd po\u010det soubor\u016f"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0 = Bez omezen\u00ed"
+        },
+        "831c1d34e1624ee969c96e66273a5b8a": {
+            "text": "Nahr\u00e1n\u00ed soubor\u016f"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "Dekomprimovat soubory ZIP?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Pokud je za\u0161krtnuto, archivy ZIP budou dekomprimov\u00e1ny a v\u0161echny platn\u00e9 soubory budou p\u0159id\u00e1ny jako nahr\u00e1n\u00ed (pokud to hostitelsk\u00e9 prost\u0159ed\u00ed podporuje). Maxim\u00e1ln\u00ed po\u010det soubor\u016f mus\u00ed b\u00fdt nastaven na 0 (\u017e\u00e1dn\u00e9 maximum), aby bylo nahr\u00e1v\u00e1n\u00ed ZIP funk\u010dn\u00ed."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "P\u0159epsat existuj\u00edc\u00ed soubory?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Pokud je za\u0161krtnuto, nahran\u00fd soubor se stejn\u00fdm n\u00e1zvem jako existuj\u00edc\u00ed soubor nahrad\u00ed st\u00e1vaj\u00edc\u00ed soubor (popis a zna\u010dky z\u016fstanou). Pokud nen\u00ed za\u0161krtnuto, nahran\u00e9 n\u00e1zvy soubor\u016f budou p\u0159ejmenov\u00e1ny tak, aby byly jedine\u010dn\u00e9."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Vezm\u011bte pros\u00edm na v\u011bdom\u00ed, \u017ee kdy\u017e je tato mo\u017enost povolena, soubory nahran\u00e9 pomoc\u00ed AJAX se ukl\u00e1daj\u00ed se str\u00e1nkou ihned p\u0159i nahr\u00e1n\u00ed, nikoli kdy\u017e kliknete na \u201eulo\u017eit\u201c. V d\u016fsledku toho mo\u017en\u00e1 budete cht\u00edt ponechat tuto mo\u017enost neza\u0161krtnutou, pokud ji konkr\u00e9tn\u011b nepot\u0159ebujete."
+        },
+        "43628388b79e6369717cab54df99fc62": {
+            "text": "Popisy soubor\u016f"
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "Po\u010det \u0159\u00e1dk\u016f pro pole popisu?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Zadejte po\u010det \u0159\u00e1dk\u016f dostupn\u00fdch pro pole popisu souboru nebo zadejte 0, pokud pole popisu nebude."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "Zak\u00e1zat v\u00edcejazy\u010dn\u00e9 popisy?"
+        },
+        "d2bb3cb572d2e8478e3f5eed6cd914aa": {
+            "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed jsou popisy v\u00edcejazy\u010dn\u00e9, pokud m\u00e1te nainstalovanou jazykovou podporu."
+        },
+        "e1b05eaa8a39a1ff5b825c94b80e77db": {
+            "text": "Pokud nepot\u0159ebujete v\u00edcejazy\u010dn\u00e9 popisy soubor\u016f, m\u016f\u017eete je zde zak\u00e1zat."
+        }
+    }
+}
